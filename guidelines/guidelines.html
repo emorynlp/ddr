@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Emory-dependencies by emorynlp</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="../stylesheets/normalize.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="../stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="../stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">Emory-dependencies</h1>
+      <h2 class="project-tagline">Dependency structures introduced by Emory NLP.</h2>
+      <a href="https://github.com/emorynlp/emory-dependencies" class="btn">View on GitHub</a>
+      <a href="https://github.com/emorynlp/emory-dependencies/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/emorynlp/emory-dependencies/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
+
+    <section class="main-content">
+
+
+
+
+
+      <h3>oprd : object predicate</h3>
+      <p>
+      The <b>object predicate</b> (<code>oprd</code>) is the non-verbial predicate of the object (or the subject for a passive construction) in a <a href="https://en.wikipedia.org/wiki/Small_clause">small clause</a>.
+      A small clause consists of a subject-predicate construction where the predicate is expressed by a non-verbial unit such as a noun phrase.
+      We follow the <a href="https://en.wikipedia.org/wiki/Small_clause#Structural_analysis">flat analysis</a> for small clauses such that the <code>oprd</code> relation stays the same for both active and passive constructions.
+      In the examples above, "the genius" has the <code>oprd</code> relation for both the active and passive constructions.
+      The relationship between the subject "John" and the predicate "the genius" is indicated by the open-clausal subject (<a href="#xsubj"><code>xsubj</code></a>).
+      </p>
+      <table><tr>
+      <td align="center">
+      <img src="img/small-clause-active.pdf"><br>
+      A small clause in an active construction.      
+      </td>
+      <td align="center">
+      <img src="img/small-clause-passive.pdf"><br>
+      A small clause in an passive construction.      
+      </td>
+      </tr></table>
+      <p>
+      The non-verbial predicate can be expressed by an adjective phrase as well (e.g., "smart"):
+      </p>
+      <table><tr><td align="center">
+      <img src="img/small-clause-adjective.pdf"><br>
+      A small clause containing an adjective predicate.      
+      </td></tr></table>
+
+
+      <h3 id="xsubj">xsubj : secondary subject</h3>
+      <p>
+      The secondary subject includes the open clausal subject as well as the semantic subject in a [small clause]().        
+      </p>
+
+
+
+      <footer class="site-footer">
+        <span class="site-footer-credits">&copy;'+new Date().getFullYear()+' by <a href="http://nlp.mathcs.emory.edu">Emory NLP</a>. All Rights Reserved.</span>
+      </footer>
+
+    </section>
+
+  
+  </body>
+</html>
