@@ -1,0 +1,8 @@
+1   "   "   ``  _   6   punct   _   O
+2   I   I   PRP _   4   nsubj   _   O
+3   am  be  VBP _   4   cop   _   O
+4   smart   smart   JJ  _   6   ccomp   _   O
+5   "   "   ''  _   6   punct   _   O
+6   says    say VBZ _   0   root    _   O
+7   John    john    NNP _   6   nsubj   _   O
+

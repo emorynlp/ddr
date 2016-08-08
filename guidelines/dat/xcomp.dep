@@ -1,0 +1,11 @@
+1   John    john    NNP _   2   nsubj   _   U-PERSON
+2   had have    VBD _   0   root    _   O
+3   to  to  TO  _   4   aux _   O
+4   buy buy VB  _   2   xcomp   _   O
+5   a   a   DT  _   6   det _   O
+6   book    book    NN  _   4   dobj    _   O
+7   to  to  TO  _   8   aux _   O
+8   teach   teach   VB  _   4   advcl   _   O
+9   the the DT  _   10  det _   O
+10  course  course  NN  _   8   dobj    _   O
+

@@ -21,49 +21,82 @@
     <section class="main-content">
 
 
+    <h2>Primary Dependencies</h2>
 
-
-
-      <h3>oprd : object predicate</h3>
+      <h3 id="ccomp">ccomp : clausal complement</h3>
       <p>
-      The <b>object predicate</b> (<code>oprd</code>) is the non-verbial predicate of the object (or the subject for a passive construction) in a <a href="https://en.wikipedia.org/wiki/Small_clause">small clause</a>.
-      A small clause consists of a subject-predicate construction where the predicate is expressed by a non-verbial unit such as a noun phrase.
-      We follow the <a href="https://en.wikipedia.org/wiki/Small_clause#Structural_analysis">flat analysis</a> for small clauses such that the <code>oprd</code> relation stays the same for both active and passive constructions.
-      In the examples above, "the genius" has the <code>oprd</code> relation for both the active and passive constructions.
-      The relationship between the subject "John" and the predicate "the genius" is indicated by the open-clausal subject (<a href="#xsubj"><code>xsubj</code></a>).
+      A <b>clausal complement</b> (<code>ccomp</code>) is the clause with 
       </p>
-      <table><tr>
-      <td align="center">
-      <img src="img/small-clause-active.pdf"><br>
+      <div class="figure">
+      <img src="img/ccomp-tpc.png"><br>
+      A topicalized clausal complement.
+      </div>
+
+
+
+      <h3 id="relcl">relcl : relative clause</h3>
+
+      <div class="figure">
+      <img src="img/relcl-subj.png"><br>
+      A relative clause having the relativizer as a subject.
+      </div>
+      <div class="figure">
+      <img src="img/relcl-dobj.png"><br>
+      A relative clause having the relativizer as an object.
+      </div>
+      <div class="figure">
+      <img src="img/relcl-dative.png"><br>
+      A relative clause having the relativizer as a dative argument.
+      </div>
+
+
+      <h3 id="sprd">sprd : predicate in a small clause</h3>
+      <p>
+      A <b>predicate in a small clause</b> (<code>sprd</code>) is the non-verbial predicate in a <a href="https://en.wikipedia.org/wiki/Small_clause">small clause</a> that completes the meaning of the theme.
+      We follow the <a href="https://en.wikipedia.org/wiki/Small_clause#Structural_analysis">flat analysis</a> for small clauses such that the <code>sprd</code> relation stays the same for both active and passive constructions.
+      In the following examples, "the genius" is labeled as <code>sprd</code> for both the active and passive constructions.
+      The relationship between "John" and "the genius" is preserved by the secondary dependency <code>xsubj</code>, indicating the <a href="#xsubj">open clausal subject</a>:
+      </p>
+      <div class="figure">
+      <img src="img/sprd-active.png"><br>
       A small clause in an active construction.      
-      </td>
-      <td align="center">
-      <img src="img/small-clause-passive.pdf"><br>
+      </div>
+      <div class="figure">
+      <img src="img/sprd-passive.png"><br>
       A small clause in an passive construction.      
-      </td>
-      </tr></table>
+      </div>
       <p>
       The non-verbial predicate can be expressed by an adjective phrase as well (e.g., "smart"):
       </p>
-      <table><tr><td align="center">
-      <img src="img/small-clause-adjective.pdf"><br>
+      <div class="figure">
+      <img src="img/sprd-jj.png"><br>
       A small clause containing an adjective predicate.      
-      </td></tr></table>
+      </div>
 
 
-      <h3 id="xsubj">xsubj : secondary subject</h3>
+
+      <h3 id="xcomp">xcomp : open clausal complement</h3>
+
+
+    <h2>Secondary Dependencies</h2>
+
+      <h3 id="xsubj">xsubj : open clausal subject</h3>
       <p>
-      The secondary subject includes the open clausal subject as well as the semantic subject in a [small clause]().        
+      An <b>open clausal subject</b> (<code>xsubj</code>) is the implicit subject in an <a href="#xcomp">open clausal complement</a>.
+      In the following example, "John" is the surface subject of "had" as well as the implicit subject of "buy" and "teach":
+      </p>
+      <div class="figure">
+      <img src="img/xsubj.png"><br>
+      An open clausal subject.
+      </div>
+      <p>
+      The <code>xsubj</code> relation is also used to indicate the subject of the <a href="#sprd">predicate in a small clause</a> (<code>sprd</code>).
       </p>
 
 
-
-      <footer class="site-footer">
-        <span class="site-footer-credits">&copy;'+new Date().getFullYear()+' by <a href="http://nlp.mathcs.emory.edu">Emory NLP</a>. All Rights Reserved.</span>
-      </footer>
-
+    <footer class="site-footer">
+      <span class="site-footer-credits">&copy;'+new Date().getFullYear()+' by <a href="http://nlp.mathcs.emory.edu">Emory NLP</a>. All Rights Reserved.</span>
+    </footer>
     </section>
-
-  
   </body>
 </html>
