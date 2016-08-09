@@ -16,8 +16,9 @@ body {
 @media(min-width:768px) {
     #page-wrapper {
         position: inherit;
-        margin: 0 0 0 260px;
+        margin: 0 0 0 270px;
         padding: 0 30px;
+        padding-top: 20px;
         border-left: 1px solid #e7e7e7;
     }
 }
@@ -127,7 +128,7 @@ body {
     .sidebar {
         z-index: 1;
         position: absolute;
-        width: 260px;
+        width: 270px;
         margin-top: 51px;
     }
 
@@ -357,7 +358,7 @@ table.dataTable thead .sorting:after {
 
 .page-header {
     padding-bottom: 10px;
-    margin-top: 20px;
+    margin-top: 0px;
     border-bottom: 1px solid #eee;
 }
 

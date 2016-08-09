@@ -5,7 +5,7 @@
 5   genius  genius  NN  _   2   sprd    _   O
 
 1   John    john    NNP _   3   nsubjpass   _   U-PERSON
-2   is  be  VBZ _   3   auxpass _   O
+2   is  be  VBZ _   3   aux _   O
 3   called  call    VBN _   0   root    _   O
 4   the   the   DT  _   5   det _   O
 5   genius  genius  NN  _   3   sprd    _   O

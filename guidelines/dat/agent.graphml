@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+<key for="node" id="d0" yfiles.type="nodegraphics"/>
+<key for="edge" id="d1" yfiles.type="edgegraphics"/>
+<key attr.name="Description" attr.type="string" for="graph" id="d2">
+<default/>
+</key>
+<graph edgedefault="directed" id="G">
+<node id="n0">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="29.000000" height="16.000000" x="45.000000" y="82.000000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">Root</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="p0">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="40.000000" height="16.000000" x="39.500000" y="98.000000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">ROOT</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="s0">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="6.000000" height="12.000000" x="74.000000" y="88.400000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">0</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="n1">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="23.000000" height="16.000000" x="109.000000" y="82.000000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">The</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="p1">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="20.000000" height="16.000000" x="110.500000" y="98.000000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">DT</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="s1">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="6.000000" height="12.000000" x="132.000000" y="88.400000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">1</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="n2">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="30.000000" height="16.000000" x="167.000000" y="82.000000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">book</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="p2">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="21.000000" height="16.000000" x="171.500000" y="98.000000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">NN</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="s2">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="6.000000" height="12.000000" x="197.000000" y="88.400000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">2</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="n3">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="42.000000" height="16.000000" x="232.000000" y="82.000000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">bought</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="p3">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="31.000000" height="16.000000" x="237.500000" y="98.000000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">VBN</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="s3">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="6.000000" height="12.000000" x="274.000000" y="88.400000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">3</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="n4">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="15.000000" height="16.000000" x="309.000000" y="82.000000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">by</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="p4">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="16.000000" height="16.000000" x="308.500000" y="98.000000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">IN</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="s4">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="6.000000" height="12.000000" x="324.000000" y="88.400000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">4</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="n5">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="28.000000" height="16.000000" x="359.000000" y="82.000000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">John</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="p5">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="30.000000" height="16.000000" x="358.000000" y="98.000000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">NNP</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="s5">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="6.000000" height="12.000000" x="387.000000" y="88.400000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">5</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="n6">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="23.000000" height="16.000000" x="422.000000" y="82.000000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">was</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="p6">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="31.000000" height="16.000000" x="418.000000" y="98.000000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">VBD</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="s6">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="6.000000" height="12.000000" x="445.000000" y="88.400000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">6</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="n7">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="19.000000" height="16.000000" x="480.000000" y="82.000000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">old</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="p7">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="12.000000" height="16.000000" x="483.500000" y="98.000000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">JJ</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<node id="s7">
+  <data key="d0">
+  <y:ShapeNode>
+    <y:Geometry width="6.000000" height="12.000000" x="499.000000" y="88.400000"/>
+    <y:Fill hasColor="false"/>
+    <y:BorderStyle hasColor="false" width="0.0"/>
+    <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Times New Roman" fontSize="11" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="c" textColor="#000000" visible="true" x="0" y="0">7</y:NodeLabel>
+    <y:Shape type="rectangle"/>
+  </y:ShapeNode>
+  </data>
+</node>
+<edge id="e1" source="n2" target="n1">
+  <data key="d1">
+  <y:PolyLineEdge>
+    <y:Path sx="-10.000000" sy="0.0" tx="0.000000" ty="0.0">
+      <y:Point x="172.000000" y="64.000000"/>
+      <y:Point x="120.500000" y="64.000000"/>
+    </y:Path>
+    <y:LineStyle color="#000000" type="line" width="1.0"/>
+    <y:Arrows source="none" target="standard"/>
+    <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="0.0" fontFamily="Arial" fontSize="10" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true">det</y:EdgeLabel>
+    <y:BendStyle smoothed="true"/>
+  </y:PolyLineEdge>
+  </data>
+</edge>
+<edge id="e2" source="n7" target="n2">
+  <data key="d1">
+  <y:PolyLineEdge>
+    <y:Path sx="0.000000" sy="0.0" tx="0.000000" ty="0.0">
+      <y:Point x="489.500000" y="28.000000"/>
+      <y:Point x="182.000000" y="28.000000"/>
+    </y:Path>
+    <y:LineStyle color="#000000" type="line" width="1.0"/>
+    <y:Arrows source="none" target="standard"/>
+    <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="0.0" fontFamily="Arial" fontSize="10" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true">nsubj</y:EdgeLabel>
+    <y:BendStyle smoothed="true"/>
+  </y:PolyLineEdge>
+  </data>
+</edge>
+<edge id="e3" source="n2" target="n3">
+  <data key="d1">
+  <y:PolyLineEdge>
+    <y:Path sx="10.000000" sy="0.0" tx="-10.500000" ty="0.0">
+      <y:Point x="192.000000" y="64.000000"/>
+      <y:Point x="242.500000" y="64.000000"/>
+    </y:Path>
+    <y:LineStyle color="#000000" type="line" width="1.0"/>
+    <y:Arrows source="none" target="standard"/>
+    <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="0.0" fontFamily="Arial" fontSize="10" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true">acl</y:EdgeLabel>
+    <y:BendStyle smoothed="true"/>
+  </y:PolyLineEdge>
+  </data>
+</edge>
+<edge id="e4" source="n5" target="n4">
+  <data key="d1">
+  <y:PolyLineEdge>
+    <y:Path sx="-7.000000" sy="0.0" tx="0.000000" ty="0.0">
+      <y:Point x="366.000000" y="64.000000"/>
+      <y:Point x="316.500000" y="64.000000"/>
+    </y:Path>
+    <y:LineStyle color="#000000" type="line" width="1.0"/>
+    <y:Arrows source="none" target="standard"/>
+    <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="0.0" fontFamily="Arial" fontSize="10" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true">case</y:EdgeLabel>
+    <y:BendStyle smoothed="true"/>
+  </y:PolyLineEdge>
+  </data>
+</edge>
+<edge id="e5" source="n3" target="n5">
+  <data key="d1">
+  <y:PolyLineEdge>
+    <y:Path sx="10.500000" sy="0.0" tx="7.000000" ty="0.0">
+      <y:Point x="263.500000" y="46.000000"/>
+      <y:Point x="380.000000" y="46.000000"/>
+    </y:Path>
+    <y:LineStyle color="#000000" type="line" width="1.0"/>
+    <y:Arrows source="none" target="standard"/>
+    <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="0.0" fontFamily="Arial" fontSize="10" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true">agent</y:EdgeLabel>
+    <y:BendStyle smoothed="true"/>
+  </y:PolyLineEdge>
+  </data>
+</edge>
+<edge id="e6" source="n7" target="n6">
+  <data key="d1">
+  <y:PolyLineEdge>
+    <y:Path sx="-6.333333" sy="0.0" tx="0.000000" ty="0.0">
+      <y:Point x="483.166667" y="64.000000"/>
+      <y:Point x="433.500000" y="64.000000"/>
+    </y:Path>
+    <y:LineStyle color="#000000" type="line" width="1.0"/>
+    <y:Arrows source="none" target="standard"/>
+    <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="0.0" fontFamily="Arial" fontSize="10" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true">cop</y:EdgeLabel>
+    <y:BendStyle smoothed="true"/>
+  </y:PolyLineEdge>
+  </data>
+</edge>
+<edge id="e7" source="n0" target="n7">
+  <data key="d1">
+  <y:PolyLineEdge>
+    <y:Path sx="0.000000" sy="0.0" tx="6.333333" ty="0.0">
+      <y:Point x="59.500000" y="10.000000"/>
+      <y:Point x="495.833333" y="10.000000"/>
+    </y:Path>
+    <y:LineStyle color="#000000" type="line" width="1.0"/>
+    <y:Arrows source="none" target="standard"/>
+    <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="0.0" fontFamily="Arial" fontSize="10" fontStyle="plain" hasLineColor="false" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true">root</y:EdgeLabel>
+    <y:BendStyle smoothed="true"/>
+  </y:PolyLineEdge>
+  </data>
+</edge>
+</graph>
+</graphml>

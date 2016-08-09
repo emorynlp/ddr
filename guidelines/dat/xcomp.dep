@@ -9,3 +9,10 @@
 9   the the DT  _   10  det _   O
 10  course  course  NN  _   8   dobj    _   O
 
+1   John    john    NNP _   3   nsubjpass   _   U-PERSON
+2   is  be  VBZ _   3   aux _   O
+3   expected    expect  VBN _   0   root    _   O
+4   to  to  TO  _   5   aux _   O
+5   be  be  VB  _   7   cop   _   O
+6   a   a   DT  _   7   det _   O
+7   genius  genius  NN  _   3   xcomp    _   O
