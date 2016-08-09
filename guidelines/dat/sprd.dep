@@ -26,3 +26,12 @@
 2   is  be  VBZ _   3   auxpass _   O
 3   considered  consider    VBN _   0   root    _   O
 4   smart  smart  JJ  _   3   sprd    _   O
+
+1   With    with    IN  _   2   case    _   O
+2   John    john    NNP _   6   advmod    _   U-PERSON
+3   in  in  IN  _   4   case    _   O
+4   charge  charge  NN  pos2=NNP    2   pobj    _   O
+5   I   I   PRP pos2=NNP    6   agent   _   O
+6   bought  buy VBD _   0   root    _   O
+7   the the DT  _   8   det _   O
+8   book    book    NN  _   6   theme    _   O
