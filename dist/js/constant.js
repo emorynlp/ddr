@@ -35,7 +35,6 @@ const DEPENDENCY_RELATIONS = '\
 <li><a href="nsubj.html"><code>nsubj</code>: nominal subject</a></li>\
 <li><a href="nummod.html"><code>nummod</code>: numeric modifier</a></li>\
 <li><a href="parataxis.html"><code>parataxis</code>: parataxis</a></li>\
-<li><a href="pcomp.html"><code>pcomp</code>: prepositional complement</a></li>\
 <li><a href="poss.html"><code>poss</code>: possessive modifier</a></li>\
 <li><a href="prt.html"><code>prt</code>: verb particle</a></li>\
 <li><a href="punct.html"><code>punct</code>: punctuation</a></li>\
