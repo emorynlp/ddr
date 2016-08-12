@@ -1,0 +1,16 @@
+1   Whether whether IN  _   3   case    _   O
+2   I   I   PRP _   3   nsubj   _   O
+3   study   study   VBP _   5   csubj   _   O
+4   hard    hard    RB  _ 3   advmod    _   O
+5   depends depend  VBZ _    0   root    _   O
+6   on  on  IN  _   8   case    _   O
+7   the the DT  _   8   det _   O
+8   subject subject NN  _   5   nmod    _   O
+
+1   To  to  TO  _   2   aux _   O
+2   study   study   VB  _   4   csubj   _   O
+3   hard    hard    RB  _ 2   advmod  _   O
+4   led lead    VBN _    0   root    _   O
+5   to  to  IN  _   7   case    _   O
+6   this    this    DT  _   7   det _   O
+7   subject subject NN  _ 4   nmod    _   O

@@ -1,0 +1,25 @@
+1   Two #crd#   CD  _   2   nummod    _   B-DATE
+2   days    day NNS srl=tmp   0   root    _   L-DATE
+3   a   a   DT  _   4   det _   O
+4   week    week    NN  _   2   npmod    _   O
+
+1   Two #crd#   CD  _   2   nummod    _   B-DATE
+2   days    day NNS _   3   npmod    _   I-DATE
+3   ago ago RB  srl=tmp   0   root    _   L-DATE
+
+1   I   I   PRP _   2   nsubj   _   O
+2   live    live    VBP _ 0   root    _   O
+3   next    next    JJ  _ 4   amod    _   O
+4   door    door    NN  srl=loc   2   npmod    _   O
+
+1   I   I   PRP _   5   topic   _   O
+2   am  be  VBP _   5   aux    _   O
+3   a   a   DT  _   4   det _   O
+4   bit bit NN  _   5   npmod    _   O
+5   surprised   surprised   JJ  _   0   root   _   O
+
+1   I   I   PRP _   3   nsubj   _   O
+2   would   would   MD  _   3   aux _   O
+3   do  do  VB  _   0   root    _   O
+4   it  it  PRP _   3   dobj    _   O
+5   myself  myself  PRP _   3   npmod    _   O

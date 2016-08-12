@@ -113,15 +113,15 @@ body {
 .sidebar .nav-second-level li,
 .sidebar .nav-third-level li {
     border-bottom: 0!important;
-    margin-bottom: -5px;
+    margin-bottom: -10px;
 }
 
 .sidebar .nav-second-level li a {
-    padding-left: 25px;
+    padding-left: 20px;
 }
 
 .sidebar .nav-third-level li a {
-    padding-left: 52px;
+    padding-left: 50px;
 }
 
 @media(min-width:768px) {
@@ -351,9 +351,16 @@ table.dataTable thead .sorting:after {
 }
 
 .figure {
+  border:1px dotted #DCDCDC;
   text-align: center;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.figure img {
+    margin-bottom: 5px;
 }
 
 .page-header {

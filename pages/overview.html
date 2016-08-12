@@ -14,24 +14,91 @@
 <h2 class="page-header">Overview</h2>
 
 <p>
-The <b>Deep Semantic Representations</b> (DSR) project provides guidelines for the dependency relations reflecting <a href="https://en.wikipedia.org/wiki/Deep_structure_and_surface_structure">deep semantics</a>.
-The goal of this project is to represent sentences conveying the same semantics into one dependency structure, regardless of their surface forms.
-It is an ongoing project led by the <a href="http://nlp.mathcs.emory.edu">Emory NLP</a> research group.
+<b>Deep Semantic Representations</b> (DSR) provide semantically-oriented dependency graphs reflecting <a href="https://en.wikipedia.org/wiki/Deep_structure_and_surface_structure">deep structure</a>.
+The goal of this project is to represent sentences conveying the same semantics into one unified dependency structure, regardless of their surface forms.
+This is an ongoing project led by the <a href="http://nlp.mathcs.emory.edu">Emory NLP</a> research group.
 </p>
 
-<h3>Primary Dependencies</h3>
+<h3>Dependency Relations</h3>
 <p>
-Primary dependencies are used to generate dependency trees preserving the following four properties: <i>single root</i>, <i>single head</i>, <i>acyclic</i>, and <i>connected</i>.
+Primary dependencies (represented in solid lines above the words) are used to generate dependency trees preserving the following four properties: <i>single root</i>, <i>single head</i>, <i>acyclic</i>, and <i>connected</i>.
+Secondary dependencies (represented in dotted lines beneath the words) are used to generate dependency graphs consisting of dependency relations that are discarded from the primary dependencies to preserve the tree properties.
 </p>
 
-<ul><script>document.write(PRIMARY_DEPENDENCIES);</script></ul>
+<h4>Subject</h4>
+<ul>
+<li><a href="expl.html"> <code>expl </code>: expletive</a></li>
+<li><a href="csubj.html"><code>csubj</code>: clausal subject</a></li>
+<li><a href="lsubj.html"><code>lsubj</code>: logical subject</a></li>
+<li><a href="nsubj.html"><code>nsubj</code>: nominal subject</a></li>
+<li><a href="topic.html"><code>topic</code>: topic</a>*</li>
+</ul>
 
-<h3>Secondary Dependencies</h3>
+<h4>Object</h4>
+<ul>
+<li><a href="dobj.html">  <code>dobj&nbsp&nbsp</code>: direct object</a>*</li>
+<li><a href="lobj.html">  <code>lobj&nbsp&nbsp</code>: logical object</a></li>
+<li><a href="dative.html"><code>dative</code>: dative</a>*</li>
+</ul>
+
+
+<h4>Complement</h4>
+
+<ul>
+<li><a href="ccomp.html"><code>ccomp</code>: clausal complement</a>*</li>
+<li><a href="lcomp.html"><code>lcomp</code>: logical complement</a>*</li>
+<li><a href="scomp.html"><code>scomp</code>: small clausal complement</a></li>
+<li><a href="xcomp.html"><code>xcomp</code>: open clausal complement*</a></li>
+</ul>
+
+<h4>Coordination</h4>
+<ul>
+<li><a href="cc.html"><code>cc&nbsp&nbsp</code>: coordinating conjunction</a></li>
+<li><a href="conj.html"><code>conj</code>: conjunct</a></li>
+</ul>
+
+<h4>Particle</h4>
+<ul>
+<li><a href="aux.html"><code>aux</code>: auxiliary</a></li>
+<li><a href="case.html"><code>case</code>: case marker</a>*</li>
+<li><a href="prt.html"><code>prt</code>: verb particle</a>*</li>
+</ul>
+
+<h4>Adverbial</h4>
+<ul>
+<li><a href="advmod.html"><code>advmod</code>: adverbial modifier</a>*</li>
+<li><a href="advcl.html"><code>advcl</code>: adverbial clause</a></li>
+<li><a href="npmod.html"><code>npmod</code>: adverbial noun phrase</a></li>
+<li><a href="neg.html"><code>neg</code>: negation</a>*</li>
+</ul>
+
+<h4>Nominal & Quantifier</h4>
+<ul>
+<li><a href="acl.html"><code>acl</code>: clausal modifier of noun</a>*</li>
+<li><a href="appos.html"><code>appos</code>: apposition</a></li>
+<li><a href="compound.html"><code>compound</code>: compound word</a>*</li>
+<li><a href="det.html"><code>det</code>: determiner</a>*</li>
+<li><a href="nmod.html"><code>nmod</code>: nominal modifier</a>*</li>
+<li><a href="nummod.html"><code>nummod</code>: numeric modifier</a>*</li>
+<li><a href="poss.html"><code>poss</code>: possessive modifier</a>*</li>
+</ul>
+
+<h4>Miscellaneous</h4>
+<ul>
+<li><a href="dep.html"><code>dep</code>: unclassified dependency</a>*</li>
+<li><a href="discourse.html"><code>discourse</code>: discourse element</a>*</li>
+<li><a href="meta.html"><code>meta</code>: meta element</a>*</li>
+<li><a href="parataxis.html"><code>parataxis</code>: parataxis</a>*</li>
+<li><a href="punct.html"><code>punct</code>: punctuation</a>*</li>
+<li><a href="root.html"><code>root</code>: root</a>*</li>
+<li><a href="vocative.html"><code>vocative</code>: vocative</a>*</li>
+</ul>
+
+<h3>Semantic Roles</h3>
 <p>
-Secondary dependencies are used to generate dependency graphs containing dependency relations that are avoided from the primary dependencies to preserve the tree properties.
 </p>
 
-<ul><script>document.write(SECONDARY_DEPENDENCIES);</script></ul>
+<ul><script>document.write(SEMANTIC_ROLES);</script></ul>
 
 <script>document.write(FOOTER)</script>
 </div>

@@ -1,8 +1,0 @@
-(TOP (S (NP-SBJ (NP (DT The)
-                    (NN book))
-                (VP (VBN bought)
-                    (NP (-NONE- *))
-                    (PP (IN by)
-                        (NP-LGS (NNP John)))))
-        (VP (VBD was)
-            (ADJP-PRD (JJ old)))))

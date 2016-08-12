@@ -1,0 +1,9 @@
+1   John    john    NNP _   4   nsubj    _   U-PERSON
+2   and and CC  _   1   cc  _   O
+3   Mary    mary    NNP _   1   conj    _   U-PERSON
+4   study   study   NN  _ 0   root    _   O
+5   hard    hard    RB  _ 4   advmod  _   O
+
+1   They    they    PRP _   2   nsubj   _   O
+2   study   study   VBP _   0   root    _   O
+3   hard    hard    RB  _ 2   advmod  _   O

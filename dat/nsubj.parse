@@ -1,0 +1,9 @@
+(TOP (S (NP-SBJ (NP (NNP John))
+                (CC and)
+                (NP (NNP Mary)))
+        (VP (VBP study)
+            (ADVP-MNR (RB hard)))))
+
+(TOP (S (NP-SBJ (PRP They))
+        (VP (VBP study)
+            (ADVP-MNR (RB hard)))))

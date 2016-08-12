@@ -1,7 +1,0 @@
-1   The the DT  _   2   det _   O
-2   book    book    NN  _   7   nsubj   _   O
-3   bought  buy VBN pos2=VBD    2   acl _   O
-4   by  by  IN  _   5   case   _   O
-5   John    john    NNP _   3   agent    _   U-PERSON
-6   was be  VBD _   7   cop    _   O
-7   old old JJ  _   0   root   _   O

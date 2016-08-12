@@ -1,0 +1,73 @@
+1   Sam sam NNP _   0   root    _   U-PERSON
+2   ,   ,   ,   _   1   punct   _   O
+3   Sarah   sarah   NNP _   1   conj    _   U-PERSON
+4   ,   ,   ,   _   3   punct   _   O
+5   as  as  RB  _   7   advmod  _   O
+6   well    well    RB  _   7   advmod  _   O
+7   as  as  IN  _   3   cc  _   O
+8   John    john    NNP _   3   conj    _   O
+
+1   Sam sam NNP _   0   root    _   U-PERSON
+2   ,   ,   ,   _   1   punct   _   O
+3   Sarah   sarah   NNP _   1   conj    _   U-PERSON
+4   ,   ,   ,   _   3   punct   _   O
+5   John    john    NNP _   3   conj    _   U-PERSON
+6   ,   ,   ,   _   5   punct   _   O
+7   etc.    etc.    FW  _   5   conj    _   O
+
+1   Sam sam NNP _   0   root    _   U-PERSON
+2   ,   ,   ,   _   1   punct   _   O
+3   Sarah   sarah   NNP _   1   conj    _   U-PERSON
+4   ,   ,   ,   _   3   punct   _   O
+5   John    john    NNP _   3   conj    _   U-PERSON
+6   ,   ,   ,   _   5   punct   _   O
+7   and and CC  _   5   cc  _   O
+8   so  so  RB  _   9   advmod  _   O
+9   on  on  RB  _ 5   conj    _   O
+
+1   Not not RB  _   3   cc _   O
+2   only    only    RB  _   1   advmod  _   O
+3   Sam sam NNP _   0   root    _   U-PERSON
+4   but but CC  _   3   cc  _   O
+5   also    also    RB  _   4   advmod  _   O
+6   Sarah   sarah   NNP _   3   conj    _   U-PERSON
+
+1   Either  either  CC  _   2   cc _   O
+2   Sam sam NNP _   0   root    _   U-PERSON
+3   or  or  CC  _   2   cc  _   O
+4   who who WP  _   6   dobj    _   O
+5   you you PRP _   6   nsubj   _   O
+6   met meet    VBD _    2   conj   _   O
+
+1   John    john    NNP _   2   nsubj   4:nsubj;6:nsubj   U-PERSON
+2   found   find    VBD _    0   root    _   O
+3   ,   ,   ,   _   2   punct   _   O
+4   bought  buy VBD _    2   conj    _   O
+5   and and CC  _   4   cc  _   O
+6   read    read    VB  _    4   conj    _   O
+7   the the DT  _   8   det _   O
+8   book    book    NN  _   6   dobj    2:dobj;4:dobj   O
+
+1   John    john    NNP _   3   nsubj   _   U-PERSON
+2   has have    VBZ _   3   aux _   O
+3   revised revise  VBN _   0   root    _   O
+4   the the DT  _   5   det _   O
+5   book    book    NN  _   3   dobj    _   O
+6   and and CC  _   3   cc  _   O
+7   made    make    VBD _    3   conj    _   O
+8   some some DT  _   9   det    _   O
+9   points  point   NNS _   7   dobj    _   O
+10  in  in  IN  _   11   case    _   O
+11  2016    0   CD  srl=tmp   7  nmod    _   U-DATE
+
+1   John    john    NNP _   2   nsubj   _   U-PERSON
+2   worked  work    VBD _   0   root    _   O
+3   in  in  IN  _   4   case    _   O
+4   America america NNP srl=loc   2   nmod    _   U-GPE
+5   and and CC  _   4   cc  _   O
+6   world   world   NN  _   8   npmod    _   O
+7   -   -   HYPH    _   8   punct   _   O
+8   wide    wide    RB  _ 4   conj  _   O
+
+
+    
