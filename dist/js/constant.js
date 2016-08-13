@@ -8,7 +8,7 @@ const HEAD = '\
 <script src="../dist/js/metisMenu.min.js"></script>\
 <script src="../dist/js/sb-admin-2.js"></script>';
 
-const DEPENDENCY_RELATIONS = '\
+const DEPENDENCIES = '\
 <li><a href="acl.html"><code>acl</code>: clausal modifier of noun</a></li>\
 <li><a href="advcl.html"><code>advcl</code>: adverbial clause</a></li>\
 <li><a href="advmod.html"><code>advmod</code>: adverbial modifier</a></li>\
@@ -20,19 +20,19 @@ const DEPENDENCY_RELATIONS = '\
 <li><a href="compound.html"><code>compound</code>: compound word</a></li>\
 <li><a href="conj.html"><code>conj</code>: conjunct</a></li>\
 <li><a href="csubj.html"><code>csubj</code>: clausal subject</a></li>\
+<li><a href="ctopic.html"><code>ctopic</code>: clausal topic</a></li>\
 <li><a href="dative.html"><code>dative</code>: dative</a></li>\
 <li><a href="dep.html"><code>dep</code>: unclassified dependency</a></li>\
 <li><a href="det.html"><code>det</code>: determiner</a></li>\
 <li><a href="discourse.html"><code>discourse</code>: discourse element</a></li>\
 <li><a href="dobj.html"><code>dobj</code>: direct object</a></li>\
 <li><a href="expl.html"><code>expl</code>: expletive</a></li>\
-<li><a href="lobj.html"><code>lobj</code>: logical object</a></li>\
-<li><a href="lsubj.html"><code>lsubj</code>: logical subject</a></li>\
 <li><a href="meta.html"><code>meta</code>: meta element</a></li>\
 <li><a href="neg.html"><code>neg</code>: negation</a></li>\
 <li><a href="nmod.html"><code>nmod</code>: nominal modifier</a></li>\
 <li><a href="npmod.html"><code>npmod</code>: adverbial noun phrase</a></li>\
 <li><a href="nsubj.html"><code>nsubj</code>: nominal subject</a></li>\
+<li><a href="ntopic.html"><code>ntopic</code>: nominal topic</a></li>\
 <li><a href="nummod.html"><code>nummod</code>: numeric modifier</a></li>\
 <li><a href="parataxis.html"><code>parataxis</code>: parataxis</a></li>\
 <li><a href="poss.html"><code>poss</code>: possessive modifier</a></li>\
@@ -40,13 +40,8 @@ const DEPENDENCY_RELATIONS = '\
 <li><a href="punct.html"><code>punct</code>: punctuation</a></li>\
 <li><a href="root.html"><code>root</code>: root</a></li>\
 <li><a href="scomp.html"><code>scomp</code>: small clausal complement</a></li>\
-<li><a href="topic.html"><code>topic</code>: topic</a></li>\
 <li><a href="vocative.html"><code>vocative</code>: vocative</a></li>\
-<li><a href="xcomp.html"><code>xcomp</code>: open clausal complement</a></li>';
-
-const SECONDARY_DEPENDENCIES = '\
-<li><a href="conj.html">Coordination</li>\
-<li><a href="scomp.html">Small clause</li>';
+<li><a href="xcomp.html"><code>xcomp</code>: open clausal complement</a></li><br>';
 
 const SEMANTIC_ROLES = '\
 <li><a href="bnf.html"><code>bnf</code>: benefactive</a></li>\
@@ -55,7 +50,7 @@ const SEMANTIC_ROLES = '\
 <li><a href="loc.html"><code>loc</code>: locative</a></li>\
 <li><a href="mnr.html"><code>mnr</code>: manner</a></li>\
 <li><a href="prp.html"><code>prp</code>: purpose</a></li>\
-<li><a href="tmp.html"><code>tmp</code>: temporal</a></li>';
+<li><a href="tmp.html"><code>tmp</code>: temporal</a></li><br>';
 
 const NAV = '\
 <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">\
@@ -66,15 +61,18 @@ const NAV = '\
             <span class="icon-bar"></span>\
             <span class="icon-bar"></span>\
         </button>\
-        <a class="navbar-brand" href="overview.html">Deep Semantic Representations (DSR)</a>\
+        <a class="navbar-brand" href="overview.html">Deep Semantic Representations</a>\
     </div>\
+    <ul class="nav navbar-top-links navbar-right">\
+        <li><a href="http://nlp.mathcs.emory.edu">Emory NLP</a></li>\
+    </ul>\
     <div class="navbar-default sidebar" role="navigation">\
         <div class="sidebar-nav navbar-collapse">\
             <ul class="nav" id="side-menu">\
                 <li><a href="overview.html">Overview</a></li>\
                 <li>\
-                    <a href="#">Dependency Relations<span class="fa arrow"></span></a>\
-                    <ul class="nav nav-second-level">'+DEPENDENCY_RELATIONS+'</ul>\
+                    <a href="#">Dependencies<span class="fa arrow"></span></a>\
+                    <ul class="nav nav-second-level">'+DEPENDENCIES+'</ul>\
                 </li>\
                 <li>\
                     <a href="#">Semantic Roles<span class="fa arrow"></span></a>\

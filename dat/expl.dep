@@ -7,21 +7,21 @@
 2   is  be  VBZ _   3   aux    _   O
 3   evident evident JJ  _   0   root   _   O
 4   that    that    IN  _   7   case    _   O
-5   John    john    NNP _   7   topic   _   U-PERSON
+5   John    john    NNP _   7   ntopic   _   U-PERSON
 6   is  be  VBZ _   7   aux   _   O
-7   smart   smart   JJ  _   3   ccomp   _   O
+7   smart   smart   JJ  _   3   ctopic   _   O
 
 1   It  it  PRP _   2   expl   _   O
 2   struck  strike  VBD _   0   root    _   O
 3   me  me  PRP _   2   dobj    _   O
 4   that    that    IN  _ 7   case    _   O
-5   John    john    NNP _   7   topic   _   U-PERSON
+5   John    john    NNP _   7   ctopic   _   U-PERSON
 6   was be  VBD _   7   aux   _   O
-7   here    here    RB  srl=loc   2   ccomp  _   O
+7   here    here    RB  srl=loc   2   csubj  _   O
 
 1   John    john    NNP _   2   nsubj   _   U-PERSON
 2   made    make    VBD _   0   root    _   O
 3   it  it  PRP _   4   expl   _   O
 4   easy    easy    JJ  _   2   ccomp   _   O
 5   to  to  TO  _   6   aux _   O
-6   understand  understand  VB  _   4   xcomp   _   O
+6   understand  understand  VB  _   4   ctopic   _   O

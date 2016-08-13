@@ -1,9 +1,26 @@
 1   John    john    NNP _   4   nsubj    _   U-PERSON
 2   and and CC  _   1   cc  _   O
 3   Mary    mary    NNP _   1   conj    _   U-PERSON
-4   study   study   NN  _ 0   root    _   O
-5   hard    hard    RB  _ 4   advmod  _   O
+4   bought   buy   VBD  _ 0   root    _   O
+5   a    a    DT  _ 6   det  _   O
+6   book    book    NN  _ 4   dobj  _   O
 
 1   They    they    PRP _   2   nsubj   _   O
-2   study   study   VBP _   0   root    _   O
-3   hard    hard    RB  _ 2   advmod  _   O
+2   bought   buy   VBD _   0   root    _   O
+3   a    a    DT  _ 4   det  _   O
+4   book    book    NN  _ 2   dobj  _   O
+
+1   The the DT  _   2   det _   O
+2   book    book    NN  _   4   dobj   _   O
+3   was be  VBD _   4   aux _   O
+4   bought  buy VBN _   0   root    _   O
+5   by  by  IN  _   6   case   _   O
+6   them  them  PRP _   4   nsubj    _   O
+
+1   A a DT  _   2   det _   O
+2   book    book    NN  _   7   topic   3:dobj   O
+3   bought  buy VBN _    2   acl _   O
+4   by  by  IN  _   5   case   _   O
+5   them  them  PRP _   3   nsubj    _   U-PERSON
+6   was be  VBD _   7   aux    _   O
+7   new new JJ  _   0   root   _   O

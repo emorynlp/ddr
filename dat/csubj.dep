@@ -1,16 +1,31 @@
 1   Whether whether IN  _   3   case    _   O
 2   I   I   PRP _   3   nsubj   _   O
-3   study   study   VBP _   5   csubj   _   O
-4   hard    hard    RB  _ 3   advmod    _   O
-5   depends depend  VBZ _    0   root    _   O
-6   on  on  IN  _   8   case    _   O
-7   the the DT  _   8   det _   O
-8   subject subject NN  _   5   nmod    _   O
+3   studied study   VBD _   4   csubj   _   O
+4   affected    affect  VBD _    0   root    _   O
+5   my  my  PRP$    _   6   poss    _   O
+6   grade   grade   NN  _   4   dobj    _   O
 
 1   To  to  TO  _   2   aux _   O
 2   study   study   VB  _   4   csubj   _   O
 3   hard    hard    RB  _ 2   advmod  _   O
-4   led lead    VBN _    0   root    _   O
-5   to  to  IN  _   7   case    _   O
-6   this    this    DT  _   7   det _   O
-7   subject subject NN  _ 4   nmod    _   O
+4   affected    affect  VBD _   0   root    _   O
+5   my  my  PRP$    _   6   poss    _   O
+6   grade   grade   NN  _   4   dobj    _   O
+
+1   My  my  PRP$    _   2   poss    _   O
+2   grade   grade   NN  _   4   dobj   _   O
+3   was be  VBD _   4   aux _   O
+4   affected    affect  VBD _   0   root    _   O
+5   by  by  IN  _   8   case   _   O
+6   how how WRB _   8   advmod  _   O
+7   I   I   PRP _    8   nsubj   _   O
+8   studied study   VBD _   4   csubj   _   O
+
+1   My  my  PRP$    _   2   poss    _   O
+2   grade   grade   NN  _   8   nsubj   3:dobj   O
+3   affected    affect  VBN _   2   acl    _   O
+4   by  by  IN  _   7   case   _   O
+5   how how WRB _   7   advmod  _   O
+6   I   I   PRP _   7   nsubj   _   O
+7   studied study   VBD _   3   csubj   _   O
+8   improved    improve VBD _    0   root    _   O
