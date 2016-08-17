@@ -1,0 +1,6 @@
+1   His his PRP$    _   2   poss    _   O
+2   book    book    NN  _   0   root    _   O
+
+1   John    john    NNP _   3   poss    _   U-PERSON
+2   's  's  POS _   1   case    _   O
+3   book    book    NN  _   0   root    _   O

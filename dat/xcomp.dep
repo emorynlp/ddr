@@ -1,18 +1,28 @@
-1   John    john    NNP _   2   nsubj   _   U-PERSON
-2   had have    VBD _   0   root    _   O
+1   I   I   PRP _   2   nsubj   _   O
+2   want    want    VBP _   0   root    _   O
 3   to  to  TO  _   4   aux _   O
-4   buy buy VB  _   2   xcomp   _   O
-5   a   a   DT  _   6   det _   O
-6   book    book    NN  _   4   dobj    _   O
-7   to  to  TO  _   8   aux _   O
-8   teach   teach   VB  _   4   advcl   _   O
-9   the the DT  _   10  det _   O
-10  course  course  NN  _   8   dobj    _   O
+4   study   study   VB  _   2   xcomp   _   O
 
-1   John    john    NNP _   3   nsubjpass   _   U-PERSON
-2   is  be  VBZ _   3   aux _   O
-3   expected    expect  VBN _   0   root    _   O
+1   I   I   PRP _   2   nsubj   5:nsubj   O
+2   know    know    VBP _   0   root    _   O
+3   what    what    WP  _   5   dobj    _   O
 4   to  to  TO  _   5   aux _   O
-5   be  be  VB  _   7   cop   _   O
-6   a   a   DT  _   7   det _   O
-7   genius  genius  NN  _   3   xcomp    _   O
+5   study   study   VB  _ 2   xcomp   _   O
+
+1   I   I   PRP _   3   nsubj   5:nsubj   O
+2   am  be  VBP _   3   aux    _   O
+3   ready   ready   JJ  _   0   root   _   O
+4   to  to  TO  _   5   aux _   O
+5   study   study   VB  _   3   xcomp   _   O
+
+1   It  it  PRP _   4   nsubj   _   O
+2   is  be  VBZ _   4   aux    _   O
+3   too too RB  _   4   advmod  _   O
+4   soon    soon    RB  _   0   root  _   O
+5   to  to  TO  _   6   aux _   O
+6   study   study   VB  pos2=NN 4   xcomp   _   O
+
+1   To  to  TO  _ 2   aux _   O
+2   study   study   VB  _ 4   xcomp   _   O
+3   was be  VBD _   4   aux _   O
+4   expected    expect  VBN _   0   root    _   O

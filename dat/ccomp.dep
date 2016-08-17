@@ -1,8 +1,52 @@
-1   "   "   ``  _   6   punct   _   O
-2   I   I   PRP _   4   nsubj   _   O
-3   am  be  VBP _   4   cop   _   O
-4   smart   smart   JJ  _   6   ccomp   _   O
-5   "   "   ''  _   6   punct   _   O
-6   says    say VBZ _   0   root    _   O
-7   John    john    NNP _   6   nsubj   _   O
+1   John    john    NNP _   2   nsubj   _   U-PERSON
+2   said    say VBD _   0   root    _   O
+3   that    that    IN  _   5   case    _   O
+4   he  he  PRP _   5   nsubj   _   O
+5   studied study   VBD _   2   ccomp   _   O
 
+1   "   "   ``  _   3   punct   _   O
+2   I   I   PRP _   3   nsubj   _   O
+3   studied study   VBD _   5   ccomp   _   O
+4   "   "   ''  pos2=`` 3   punct   _   O
+5   said    say VBD _   0   root    _   O
+6   John    john    NNP _   5   nsubj   _   O
+
+1   John    john    NNP _   2   nsubj   _   U-PERSON
+2   said    say VBD _   0   root    _   O
+3   "   "   ``  _   2   punct   _   O
+4   May may MD  _   6   aux _   O
+5   God god NNP _   6   nsubj   _   O
+6   be  be  VB  _   2   ccomp   _   O
+7   with    with    IN  _   8   prep    _   O
+8   you you PRP _   6   nmod    _   O
+9   "   "   ''  pos2=`` 2   punct   _   O
+
+1   John    john    NNP _   2   nsubj   _   U-PERSON
+2   wanted  want    VBD _   0   root    _   O
+3   me  me  PRP _   5   nsubj   _   O
+4   to  to  TO  _   5   aux _   O
+5   study   study   VB  pos2=NN 2   ccomp   _   O
+
+1   John    john    NNP _   2   nsubj   _   U-PERSON
+2   showed  show    VBD _   0   root    _   O
+3   what    what    WP  _   5   dobj    _   O
+4   he  he  PRP _   5   nsubj   _   O
+5   studied study   VBD _   2   ccomp   _   O
+
+1   I   I   PRP _   3   ntopic   _   O
+2   was be  VBD _   3   aux    _   O
+3   sure    sure    JJ  _ 0   root   _   O
+4   John    john    NNP _   5   nsubj   _   U-PERSON
+5   studied study   VBD _    3   ccomp   _   O
+
+1   What    what    WP  _    3   dobj    _   O
+2   he  he  PRP _   3   nsubj   _   O
+3   studied study   VBD _   5   ccomp   _   O
+4   was be  VBD _   5   aux _   O
+5   shown   show    VBN _   0   root    _   O
+
+1   That    that    IN  _ 3   case    _   O
+2   he  he  PRP _   3   nsubj   _   O
+3   studied study   VBD _   5   ccomp   _   O
+4   was be  VBD _   5   aux _   O
+5   shown   show    VBN _   0   root    _   O

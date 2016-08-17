@@ -24,3 +24,12 @@
 5   them  them  PRP _   3   nsubj    _   U-PERSON
 6   was be  VBD _   7   aux    _   O
 7   new new JJ  _   0   root   _   O
+
+1   I   I   PRP _   2   nsubj   4:nsubj;6:nsubj   O
+2   had have    VBD _   0   root    _   O
+3   to  to  TO  _   4   aux _   O
+4   study   study   VB  _   2   xcomp   _   O
+5   to  to  TO  _   6   aux _   O
+6   teach   teach   VB  _   4   advcl   _   O
+7   this    this    DT  _   8   det _   O
+8   course  course  NN  _   6   dobj    _   O

@@ -1,7 +1,0 @@
-1   A a DT  _   2   det _   O
-2   book    book    NN  _   7   topic   3:dobj   O
-3   bought  buy VBN _    2   acl _   O
-4   by  by  IN  _   5   case   _   O
-5   them  them  PRP _   3   nsubj    _   U-PERSON
-6   was be  VBD _   7   aux    _   O
-7   new new JJ  _   0   root   _   O

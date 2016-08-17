@@ -9,6 +9,7 @@ const HEAD = '\
 <script src="../dist/js/sb-admin-2.js"></script>';
 
 const DEPENDENCIES = '\
+<li><a href="dependencies.html">Overview</a></li>\
 <li><a href="acl.html"><code>acl</code>: clausal modifier of noun</a></li>\
 <li><a href="advcl.html"><code>advcl</code>: adverbial clause</a></li>\
 <li><a href="advmod.html"><code>advmod</code>: adverbial modifier</a></li>\
@@ -20,7 +21,6 @@ const DEPENDENCIES = '\
 <li><a href="compound.html"><code>compound</code>: compound word</a></li>\
 <li><a href="conj.html"><code>conj</code>: conjunct</a></li>\
 <li><a href="csubj.html"><code>csubj</code>: clausal subject</a></li>\
-<li><a href="ctopic.html"><code>ctopic</code>: clausal topic</a></li>\
 <li><a href="dative.html"><code>dative</code>: dative</a></li>\
 <li><a href="dep.html"><code>dep</code>: unclassified dependency</a></li>\
 <li><a href="det.html"><code>det</code>: determiner</a></li>\
@@ -31,13 +31,15 @@ const DEPENDENCIES = '\
 <li><a href="neg.html"><code>neg</code>: negation</a></li>\
 <li><a href="nmod.html"><code>nmod</code>: nominal modifier</a></li>\
 <li><a href="npmod.html"><code>npmod</code>: adverbial noun phrase</a></li>\
+<li><a href="nq.html"><code>nq</code>: modifier of noun/quantifier</a></li>\
 <li><a href="nsubj.html"><code>nsubj</code>: nominal subject</a></li>\
-<li><a href="ntopic.html"><code>ntopic</code>: nominal topic</a></li>\
 <li><a href="nummod.html"><code>nummod</code>: numeric modifier</a></li>\
 <li><a href="parataxis.html"><code>parataxis</code>: parataxis</a></li>\
 <li><a href="poss.html"><code>poss</code>: possessive modifier</a></li>\
 <li><a href="prt.html"><code>prt</code>: verb particle</a></li>\
 <li><a href="punct.html"><code>punct</code>: punctuation</a></li>\
+<li><a href="relcl.html"><code>relcl</code>: relative clause</a></li>\
+<li><a href="relv.html"><code>relv</code>: relativizer</a></li>\
 <li><a href="root.html"><code>root</code>: root</a></li>\
 <li><a href="scomp.html"><code>scomp</code>: small clausal complement</a></li>\
 <li><a href="vocative.html"><code>vocative</code>: vocative</a></li>\
@@ -69,9 +71,8 @@ const NAV = '\
     <div class="navbar-default sidebar" role="navigation">\
         <div class="sidebar-nav navbar-collapse">\
             <ul class="nav" id="side-menu">\
-                <li><a href="overview.html">Overview</a></li>\
                 <li>\
-                    <a href="#">Dependencies<span class="fa arrow"></span></a>\
+                    <a href="#.html">Dependencies<span class="fa arrow"></span></a>\
                     <ul class="nav nav-second-level">'+DEPENDENCIES+'</ul>\
                 </li>\
                 <li>\

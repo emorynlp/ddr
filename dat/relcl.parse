@@ -36,3 +36,13 @@
                           (NP (-NONE- *T*-1)))))))
       (VP (VBZ is)
           (ADVP-LOC (RB here))))
+
+(TOP (S (NP-SBJ-2 (NP (NNP John))
+                  (, ,)
+                  (RRC (PP-TMP (IN by)
+                               (ADVP (RB now)))
+                       (NP-PRD (DT a)
+                               (NN baptist)))
+                  (, ,))
+        (VP (VBZ is)
+            (ADVP-LOC (RB here)))))
