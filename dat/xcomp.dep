@@ -1,4 +1,4 @@
-1   I   I   PRP _   2   nsubj   _   O
+1   I   I   PRP _   2   nsubj   4:nsubj   O
 2   want    want    VBP _   0   root    _   O
 3   to  to  TO  _   4   aux _   O
 4   study   study   VB  _   2   xcomp   _   O
@@ -24,5 +24,12 @@
 
 1   To  to  TO  _ 2   aux _   O
 2   study   study   VB  _ 4   xcomp   _   O
-3   was be  VBD _   4   aux _   O
+3   is be  VBZ _   4   aux _   O
 4   expected    expect  VBN _   0   root    _   O
+
+1   I   I   PRP _   2   nsubj   4:nsubj;6:nsubj   O
+2   have have    VBP _   0   root    _   O
+3   to  to  TO  _   4   aux _   O
+4   study   study   VB  _   2   xcomp   _   O
+5   to  to  TO  _   6   aux _   O
+6   teach   teach   VB  _   4   advcl   _   O

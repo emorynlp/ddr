@@ -12,44 +12,48 @@
 <div id="page-wrapper">
 
 
-<h3 class="page-header"><code>conj</code> : conjunct</h3>
+<h2 class="page-header"><code>conj</code> : conjunct</h2>
+
+<h3>Primary</h3>
+
 <p>
-A <b>conjunct</b> (<code>conj</code>) in a coordination structure becomes a dependent of the previous conjunct.
-This analysis is chosen to avoid far-distance dependencies, which makes automatic parsing easier.
+A <b>conjunct</b> (<code>conj</code>) becomes a dependent of the previous conjunct.
+This analysis is chosen to avoid far-distance dependencies, which makes parsing easier.
 </p>
 
 <div class="figure">
 <img src="img/conj-0.png"><br>
-A coordination structure including "as well as".
+The coordination structure with the conjunction "and".
 </div>
 
 <div class="figure">
 <img src="img/conj-1.png"><br>
-A coordination structure ending with "etc".
+The coordination structure ending with "etc".
 </div>
 
 <div class="figure">
 <img src="img/conj-2.png"><br>
-A coordination structure ending with "so on".
+The coordination structure ending with "so on".
 </div>
+
+<p>
+The previous and the current conjuncts do not need to have the same type.
+</p>
 
 <div class="figure">
 <img src="img/conj-3.png"><br>
-A coordination structure including "not only" and "but also".
+The coordination between the noun phrase "Sam" and the relative clause "who you met".
 </div>
 
 <div class="figure">
 <img src="img/conj-4.png"><br>
-The noun phrase "Sam" is coordinated with the relative clause "who you met".
+The coordination between the adverb phrase "here" and the preposition phrase "at his place".
 </div>
 
-<div class="figure">
-<img src="img/conj-7.png"><br>
-The preposition phrase "in America" is coordinated with the adverb phrase "world-wide".
-</div>
+<h3>Secondary</h3>
 
 <p>
-When coordination is used for verbal predicates, the shared arguments are connected by the secondary dependencies.
+When a coordination is used for verbal predicates, the shared arguments are connected by the secondary dependencies.
 </p>
 
 <div class="figure">
@@ -59,7 +63,7 @@ When coordination is used for verbal predicates, the shared arguments are connec
 
 <div class="figure">
 <img src="img/conj-6.png"><br>
-"John" is the <a href="nsubj.html">nominal subject</a> (<code>nsubj</code>) and "in 2016" is the <a href="nmod.html">nominal modifier</a> (<code>nmod</code>) of "revised" and "made".
+"John" is the <a href="nsubj.html">nominal subject</a> (<code>nsubj</code>), "has" is the <a href="aux.html">auxiliary</a> (<code>aux</code>), and "last year" is the <a href="npmod.html">noun phrasal modifier</a> (<code>npmod</code>) of both "revised" and "made".
 </div>
 
 <script>document.write(FOOTER)</script>

@@ -1,0 +1,19 @@
+1   Sam sam NNP _   0   root    _   U-PERSON
+2   and   and   CC   _   1   cc   _   O
+3   Sarah   sarah   NNP _   1   conj    _   U-PERSON
+4   as  as  RB  _   3   cc  _   O
+5   well    well    RB  _   4   mwe  _   O
+6   as  as  IN  _   4   mwe  _   O
+7   John    john    NNP _   3   conj    _   O
+
+1   Not not RB  _   3   cc _   O
+2   only    only    RB  _   1   mwe  _   O
+3   Sam sam NNP _   0   root    _   U-PERSON
+4   but but CC  _   3   cc  _   O
+5   also    also    RB  _   4   mwe  _   O
+6   Sarah   sarah   NNP _   3   conj    _   U-PERSON
+
+1   Either  either  CC  _   2   cc _   O
+2   Sam sam NNP _   0   root    _   U-PERSON
+3   or  or  CC  _   2   cc  _   O
+4   Sarah sarah    NNP _    2   conj   _   O

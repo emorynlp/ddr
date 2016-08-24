@@ -1,0 +1,7 @@
+(TOP (S (NP-SBJ (PRP I))
+        (VP (VBD named)
+            (NP-1 (NNP John))
+            (S-CLR (NP-SBJ (-NONE- *PRO*-1))
+                   (PP-PRD (IN after)
+                           (NP (DT the)
+                               (NN baptist)))))))

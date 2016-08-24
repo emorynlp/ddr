@@ -19,7 +19,7 @@
                 (S-CLR (NP-SBJ (-NONE- *PRO*-1))
                        (NP-PRD (DT the)
                                (NN baptist)))))
-        (VP (VBD was)
+        (VP (VBZ is)
             (ADVP-PRD-LOC (RB here)))))
 
 (TOP (S (NP-SBJ (PRP I))

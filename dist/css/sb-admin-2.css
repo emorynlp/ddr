@@ -357,6 +357,8 @@ table.dataTable thead .sorting:after {
   margin-bottom: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 .figure img {

@@ -7,6 +7,10 @@
             (VP (VBN studied)))))
 
 (TOP (S (NP-SBJ-1 (PRP I))
+        (VP (VBD did)
+            (VP (VB study)))))
+
+(TOP (S (NP-SBJ-1 (PRP I))
         (VP (MD will)
             (VP (VB study)))))
 
@@ -19,21 +23,3 @@
         (VP (VBD got)
             (VP (VBN chosen)
                 (NP (-NONE- *-1))))))
-
-(TOP (S (NP-SBJ-1 (PRP I))
-        (VP (VBP am)
-            (NP-PRD (DT a)
-                    (NN student)))))
-
-(TOP (S (NP-SBJ-1 (PRP I))
-        (VP (VBP am)
-            (PP-PRD-LOC (IN in)
-                        (NP (NNP Atlanta))))))
-
-(TOP (S (NP-SBJ-1 (PRP I))
-        (VP (VBD became)
-            (ADJP-PRD (JJ smart)))))
-
-(TOP (S (NP-SBJ-1 (PRP I))
-        (VP (VBD did)
-            (VP (VB study)))))
