@@ -1,35 +1,41 @@
-1   John    john    NNP _   6   ntopic   _   U-PERSON
-2   who who WP  _   4   nsubj   _   O
+1   John    john    NNP _   6   nsubj   4:nsubj   U-PERSON
+2   who who WP  _   4   r-nsubj   _   O
 3   is  be  VBZ _   4   aux   _   O
 4   smart   smart   JJ  _   1   relcl   _   O
-5   is  be  VBZ _   6   aux    _   O
+5   is  be  VBZ _   6   cop    _   O
 6   here    here    RB  _   0   root  _   O
 
-1   John    john    NNP _   8   nsubj    _   U-PERSON
-2   who who WP  _   6   dobj    _   O
+1   John    john    NNP _   8   nsubj    6:dobj   U-PERSON
+2   who who WP  _   6   r-dobj    _   O
 3   I   I   PRP _   4   nsubj   _   O
 4   wanted    want    VBD _   1   relcl   _   O
 5   to  to  TO  _   6   aux _   O
 6   meet    meet    VB  _   4   xcomp   _   O
-7   is  be  VBZ _   8   aux    _   O
+7   is  be  VBZ _   8   cop    _   O
 8   here    here    RB  _   0   root  _   O
 
-1   John    john    NNP _   9   nsubj    _   U-PERSON
-2   who who WP  _   4   dative    _   O
+1   John    john    NNP _   9   nsubj    4:dative   U-PERSON
+2   who who WP  _   4   r-dative    _   O
 3   I   I   PRP _   4   nsubj   _   O
 4   bought  buy VBD _   1   relcl   _   O
 5   a   a   DT  _   6   det _   O
 6   book    book    NN  _   4   dobj    _   O
-7   for for IN  pos2=CC 2   case    _   O
-8   is  be  VBZ pos2=RB 9   aux   _   O
+7   for for IN  _ 2   case    _   O
+8   is  be  VBZ _ 9   cop   _   O
 9   here    here    RB  _   0   root  _   O
 
-1   John    john    NNP _   9   ntopic   _   U-PERSON
+1   John    john    NNP _   9   nsubj   6:nsubj   U-PERSON
 2   ,   ,   ,   _   1   punct   _   O
 3   by  by  IN  _   4   case    _   O
 4   now now RB  _   6   advmod   _   O
 5   a   a   DT  _   6   det _   O
 6   baptist baptist NN  _   1   relcl    _   O
 7   ,   ,   ,   _   1   punct   _   O
-8   is  be  VBZ _   9   aux    _   O
+8   is  be  VBZ _   9   cop    _   O
 9   here    here    RB  _   0   root  _   O
+
+1   John    john    NNP _   5   nsubj   3:dobj   U-PERSON
+2   I   I   PRP _    3   nsubj   _   O
+3   met meet    VBD _   1   relcl   _   O
+4   is  be  VBZ _   5   cop    _   O
+5   here    here    RB  _   0   root  _   O
