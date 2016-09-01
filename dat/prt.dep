@@ -1,0 +1,11 @@
+1   He  he  PRP _   2   nsubj   _   O
+2   threw   throw   VBD _   0   root    _   O
+3   away    away    RP  _   2   prt  _   O
+4   the the DT  _   5   det _   O
+5   book    book    NN  _   2   dobj    _   O
+
+1   He  he  PRP _   2   nsubj   _   O
+2   threw   throw   VBD _   0   root    _   O
+3   the the DT  _   4   det _   O
+4   book    book    NN  _   2   dobj    _   O
+5   away    away    RP  _   2   prt  _   O

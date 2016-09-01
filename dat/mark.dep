@@ -1,0 +1,15 @@
+1   I   I   PRP _   2   nsubj   _   O
+2   was be  VBD _   4   cop    _   O
+3   not not RB  _   4   neg _   O
+4   sure    sure    JJ  _   0   root   _   O
+5   whether whether IN  _   7   mark    _   O
+6   John    john    NNP _   7   nsubj   _   U-PERSON
+7   studied study   VBD _   4   ccomp   _   O
+
+1   I   I   PRP _   2   nsubj   _   O
+2   was be  VBD _   4   cop    _   O
+3   not not RB  _   4   neg _   O
+4   sure    sure    JJ  _   0   root   _   O
+5   if if IN  _   7   mark    _   O
+6   John    john    NNP _   7   nsubj   _   U-PERSON
+7   studied study   VBD _   4   ccomp   _   O

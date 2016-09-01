@@ -33,9 +33,9 @@
 1   Both    both    CC  _ 2   cc _   O
 2   here    here    RB  _   0   root    _   O
 3   and and CC  _   2   cc  _   O
-4   at  at  IN  _   6   case    _   O
+4   at  at  IN  _   2   conj    _   O
 5   his his PRP$    _   6   poss    _   O
-6   place   place   NN  _   2   conj    _   O
+6   place   place   NN  _   4   pobj    _   O
 
 1   John    john    NNP _   2   nsubj   4:nsubj;6:nsubj   U-PERSON
 2   found   find    VBD _    0   root    _   O

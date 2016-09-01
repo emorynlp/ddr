@@ -40,7 +40,7 @@
 4   was be  VBD _   5   aux _   O
 5   shown   show    VBN _   0   root    _   O
 6   to  to  IN  _   7   case   _   O
-7   me    me    IN  _   5   dative    _   O
+7   me    me    PRP  _   5   dative    _   O
 
 1   "   "   ``  _   3   punct   _   O
 2   I   I   PRP _   3   nsubj   _   O

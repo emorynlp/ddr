@@ -1,0 +1,20 @@
+(TOP (S (NP-SBJ (NNP John))
+        (VP (VBD sent)
+            (NP (PRP you))
+            (NP (DT a)
+                (NN book)))))
+
+(TOP (S (NP-SBJ (NNP John))
+        (VP (VBD sent)
+            (NP (DT a)
+                (NN book))
+            (PP-DTV (IN to)
+                    (NP (PRP you))))))
+
+(TOP (S (NP-SBJ (NNP John))
+        (VP (VBD bought)
+            (NP (DT a)
+                (NN book))
+            (PP-BNF (IN for)
+                    (NP (PRP you))))))
+

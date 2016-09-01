@@ -7,7 +7,7 @@
 
 1   I   I   PRP _   2   nsubj   _   O
 2   go  go  VBP _   0   root    _   O
-3   where   where   WRB _   5   advmod  _   O
+3   where   where   WRB _   5   adv  _   O
 4   you you PRP _   5   nsubj   _   O
 5   go  go  VBP srl=loc   2   advcl   _   O
 
