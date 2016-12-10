@@ -6,6 +6,14 @@
 
 (TOP (S (NP-SBJ (NNP John))
         (VP (VBD sent)
+            (NP (PRP you))
+            (SBAR-NOM (WHNP-1 (WP what))
+                      (S (NP-SBJ (PRP he))
+                         (VP (VBD bought)
+                             (NP (-NONE- *T*-1))))))))
+
+(TOP (S (NP-SBJ (NNP John))
+        (VP (VBD sent)
             (NP (DT a)
                 (NN book))
             (PP-DTV (IN to)

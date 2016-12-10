@@ -15,11 +15,14 @@
 <h2 class="page-header"><code>root</code> : root</h2>
 
 <p>
-The <b>root</b> (<code>root</code>) of a dependency tree is an artificial node that does not appear in the sentence.
-It is an ancestor of every other node and does not depend on any node in the tree.
-This is an artificial node that does not appear in the sentence.
-The ID of the root is always 0. 
+A <b>root</b> (<code>root</code>) of a dependency tree becomes a dependent of the artificial root node.
+This artificial root node, the 0'th node, does not appear in the sentence but is added to be an ancestor of all other nodes to fulfill the single root property.
 </p>
+
+<div class="figure">
+<img src="img/root-0.png"><br>
+"bought" is the root of this dependency tree.
+</div>
 
 <script>document.write(FOOTER)</script>
 </div>

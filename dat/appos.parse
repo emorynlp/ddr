@@ -17,3 +17,11 @@
                 (NP (PRP himself)))
         (VP (VBD baptized)
             (NP (NNP Jesus)))))
+
+
+(TOP (NP (NP (NNP John))
+         (, ,)
+         (RRC (PP-TMP (IN by)
+                      (ADVP (RB now)))
+              (NP-PRD (DT a)
+                      (NN baptist)))))

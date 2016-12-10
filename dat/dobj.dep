@@ -1,19 +1,31 @@
-1   John    john    NNP _   2   nsubj   _   O
-2   bought   buy   VBD _   0   root    _   O
-3   a    a    DT  _ 4   det  _   O
-4   book    book    NN  _ 2   dobj  _   O
+1   John    john    NNP _   2   nsubj   _   _   _
+2   bought  buy VBD _   0   root    _   _   _
+3   a   a   DT  _   4   det _   _   _
+4   book    book    NN  _   2   dobj    _   _   _
 
-1   A a DT  _   2   det _   O
-2   book    book    NN  _   4   dobj   _   O
-3   was be  VBD _   4   aux _   O
-4   bought  buy VBN _   0   root    _   O
-5   by  by  IN  _   6   case   _   O
-6   John  john  NNP _   4   nsubj    _   O
+1   A   a   DT  _   2   det _   _   _
+2   book    book    NN  _   4   dobj    _   _   _
+3   was be  VBD _   4   aux _   _   _
+4   bought  buy VBN _   0   root    _   _   _
+5   by  by  IN  _   6   case    _   _   _
+6   John    john    NNP _   4   nsubj   _   _   _
 
-1   A a DT  _   2   det _   O
-2   book    book    NN  _   7   nsubj   3:dobj   O
-3   bought  buy VBN _    2   acl _   O
-4   by  by  IN  _   5   case   _   O
-5   John  john  NNP _   3   nsubj    _   U-PERSON
-6   was be  VBD _   7   cop    _   O
-7   new new JJ  _   0   root   _   O
+1   People  people  NNS _   2   nsubj   _   _   _
+2   call    call    VBP _   0   root    _   _   _
+3   John    john    NNP _   2   dobj    _   _   _
+4   the the DT  _   5   det _   _   _
+5   baptist baptist NN  syn=PRD 2   oprd    _   _   _
+
+1   John    john    NNP _   3   dobj    _   _   _
+2   is  be  VBZ _   3   aux _   _   _
+3   called  call    VBN _   0   root    _   _   _
+4   the the DT  _   5   det _   _   _
+5   baptist baptist NN  syn=PRD 3   oprd    _   _   _
+
+1   A   a   DT  _   2   det _   _   _
+2   book    book    NN  _   7   nsubj   3:dobj  _   _
+3   bought  buy VBN _   2   acl _   _   _
+4   by  by  IN  _   5   case    _   _   _
+5   John    john    NNP _   3   nsubj   _   _   _
+6   was be  VBD _   7   cop _   _   _
+7   new new JJ  syn=PRD 0   root    _   _   _

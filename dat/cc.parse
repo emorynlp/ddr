@@ -17,3 +17,25 @@
          (NP (NNP Sam))
          (CC or)
          (NP (NNP Sarah))))
+
+(TOP (QP (CD 20)
+         (HYPH -)
+         (CD 30)))
+
+(TOP (QP (CD 20)
+         (SYM ~)
+         (CD 30)))
+
+(TOP (QP (CD 1)
+         (CD hundred)
+         (NN %)
+         (TO to)
+         (CD 2)
+         (NNS hundreds)
+         (NN %)))
+    
+(TOP (QP (CD five)
+         (CC and)
+         (CD two)
+         (HYPH -)
+         (NNS thirds)))

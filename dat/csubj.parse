@@ -4,7 +4,7 @@
                          (ADVP-MNR (RB hard)))))
         (VP (VBZ depends)
             (PP (IN on)
-                (NP (PPR me))))))
+                (NP (NNP me))))))
 
 (TOP (S (SBAR-SBJ (WHADVP-1 (WRB How))
                   (S (NP-SBJ (-NONE- *PRO*))
@@ -12,8 +12,8 @@
                          (VP (VB study)
                              (ADVP-MNR (-NONE- *T*-1))))))
         (VP (VBZ is)
-            (NP (DT the)
-                (NN key)))))
+            (NP-PRD (DT the)
+                    (NN key)))))
 
 (TOP (S (S-SBJ (NP-SBJ (-NONE- *PRO*))
                (VP (TO To)
@@ -52,3 +52,12 @@
                                (VP (VBG studying)
                                    (ADVP-MNR (RB hard)))))))
         (VP (VBD improved))))
+
+(TOP (S (NP-SBJ (NP (PRP It))
+                (SBAR (-NONE- *EXP*-1)))
+        (VP (VBZ is)
+            (ADJP-PRD (JJ evident))
+            (SBAR-1 (IN that)
+                    (S (NP-SBJ (NNP John))
+                       (VP (VBZ is)
+                           (ADJP-PRD (JJ smart))))))))
