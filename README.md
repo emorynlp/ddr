@@ -1,6 +1,6 @@
 # Deep Dependency Representation
 
-This project provides resources for Deep Dependency Representation (DDR) that integrates deep structures into dependency graphs. The main objective of this project is to develop dependency representations that are consistent across syntactic variations and give complete predicate argument structures including non-verbal predicates as well as external arguments. The project is under the [Apache 2](http://www.apache.org/licenses/LICENSE-2.0) license and currently developed by the [Emory NLP](http://nlp.mathcs.emory.edu) research group.
+This project provides resources for Deep Dependency Representation (DDR) that integrates deep structures into dependency graphs. The main objective of this project is to develop a dependency representation that is coherent across syntactic variations and gives complete predicate argument structures including non-verbal predicates as well as external arguments. The project is under the [Apache 2](http://www.apache.org/licenses/LICENSE-2.0) license and currently developed by the [Emory NLP](http://nlp.mathcs.emory.edu) research group.
 
 ## Documents
 
