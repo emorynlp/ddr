@@ -84,3 +84,38 @@ java -cp nlp4j-ddr.jar edu.emory.mathcs.nlp.bin.DDGMerge eng_web_tbk/data ddr/en
    ```
 java -cp nlp4j-ddr.jar edu.emory.mathcs.nlp.bin.DDGMerge QB-revised.tree ddr/english/google/qb/QB-revised.tree.skel tree
    ```
+
+
+## Format
+
+DDG is represented in the tab separated values format (TSV), where each column represents a different field. The semantic roles are indicated in the `feats` column with the key, `sem`.
+
+```
+1   You        you        PRP  _        3   nsbj   7:nsbj  O
+2   can        can        MD   _        3   modal  _       O
+3   ascend     ascend     VB   _        0   root   _       O
+4   Victoria   victoria   NNP  _        5   com    _       B-LOC
+5   Peak       peak       NNP  _        3   obj    _       L-LOC
+6   to         to         TO   _        7   aux    _       O
+7   get        get        VB   sem=prp  3   advcl  _       O
+8   a          a          DT   _        10  det    _       O
+9   panoramic  panoramic  JJ   _        10  attr   _       O
+10  view       view       NN   _        7   obj    _       O
+11  of         of         IN   _        16  case   _       O
+12  Victoria   victoria   NNP  _        13  com    _       B-LOC
+13  Harbor     harbor     NNP  _        16  poss   _       I-LOC
+14  's         's         POS  _        13  case   _       L-LOC
+15  beautiful  beautiful  JJ   _        16  attr   _       O
+16  scenery    scenery    NN   _        10  ppmod  _       O
+17  .          .          .    _        3   p      _       O
+```
+
+* `id`: current token ID (starting at 1).
+* `form`: word form.
+* `lemma`: lemma.
+* `pos`: part-of-speech tag.
+* `feats`: extra features; different features are delimited by `|`, keys and values are delimited by `=` (`_` indicates no feature).
+* `headId`: head token ID.
+* `deprel`: dependency label.
+* `sheads`: secondary heads (`_` indicates no secondary head).
+* `nament`: named entity tags in the `BILOU` notation if the annotation is available.
