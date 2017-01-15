@@ -1,0 +1,8 @@
+NNP	_	3	poss	_	_
+POS	_	1	case	_	_
+NN	_	5	nsbj	_	_
+RB	sem=tmp	5	adv	_	_
+VBZ	_	0	root	_	_
+RP	_	5	prt	_	_
+.	_	5	p	_	_
+

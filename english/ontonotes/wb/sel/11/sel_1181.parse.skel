@@ -1,0 +1,15 @@
+VBG	_	7	advcl	_	_
+IN	_	4	case	_	_
+DT	_	4	det	_	_
+NN	sem=clr	1	ppmod	_	_
+PRP	_	7	nsbj	1:nsbj	_
+RB	_	7	adv	_	_
+VBP	_	0	root	_	_
+CD	_	10	num	_	_
+JJ	_	10	attr	_	_
+NN	_	7	obj	_	_
+IN	_	13	case	_	_
+NN	_	13	com	_	_
+NNS	_	10	ppmod	_	_
+.	_	7	p	_	_
+

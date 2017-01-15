@@ -1,0 +1,13 @@
+RB	sem=tmp	3	adv	_	_
+,	_	3	p	_	_
+VB	_	0	root	_	_
+IN	_	6	mark	_	_
+NN	_	6	nsbj	_	_
+VBZ	_	3	comp	_	_
+DT	_	9	det	_	_
+JJ	_	9	attr	_	_
+NN	sem=ext	6	advnp	_	_
+IN	_	11	case	_	_
+NNS	sem=clr	6	ppmod	_	_
+.	_	3	p	_	_
+

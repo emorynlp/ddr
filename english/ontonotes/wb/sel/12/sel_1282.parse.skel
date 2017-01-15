@@ -1,0 +1,15 @@
+NN	_	2	nsbj	4:nsbj	_
+VBZ	_	0	root	_	_
+TO	_	4	aux	_	_
+VB	_	2	comp	_	_
+NNP	_	7	poss	_	_
+POS	_	5	case	_	_
+NN	_	4	obj	_	_
+IN	_	13	case	_	_
+DT	_	10	det	_	_
+NN	_	13	poss	_	_
+POS	_	10	case	_	_
+NNP	_	13	com	_	_
+NNP	sem=clr	4	ppmod	_	_
+.	_	2	p	_	_
+

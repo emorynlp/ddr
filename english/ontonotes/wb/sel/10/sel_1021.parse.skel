@@ -1,0 +1,10 @@
+NN	_	0	root	_	_
+TO	_	3	aux	_	_
+VB	_	1	acl	_	_
+,	_	3	p	_	_
+VB	_	3	conj	_	_
+CC	_	5	cc	_	_
+VB	_	3	conj	_	_
+NN	_	7	obj	_	_
+.	_	1	p	_	_
+

@@ -1,0 +1,55 @@
+JJ	_	3	attr	_	O
+NN	_	3	com	_	O
+NNS	_	0	root	_	O
+IN	_	6	case	_	O
+JJ	_	6	attr	_	O
+NNS	_	3	ppmod	_	O
+IN	_	8	mark	_	O
+VBN	_	3	relcl	_	O
+IN	_	13	case	_	O
+DT	_	13	det	_	B-ORG
+NNP	_	13	com	_	I-ORG
+NNP	_	13	com	_	I-ORG
+NNP	_	8	nsbj	_	L-ORG
+IN	_	19	case	_	O
+DT	_	19	det	_	O
+JJ	_	18	attr	_	O
+HYPH	_	18	p	_	O
+NN	_	19	com	_	O
+NN	sem=mnr	8	ppmod	_	O
+:	_	3	p	_	O
+
+LS	_	4	meta	_	_
+:	_	4	p	_	_
+JJ	_	4	attr	_	_
+NN	_	0	root	_	_
+.	_	4	p	_	_
+
+LS	_	3	meta	_	O
+:	_	3	p	_	O
+NN	_	0	root	4:obj	B-DATE
+VBN	_	3	acl	_	I-DATE
+NNP	_	7	attr	_	I-DATE
+,	_	7	p	_	I-DATE
+NNP	sem=tmp	4	advnp	_	I-DATE
+CD	_	7	num	_	I-DATE
+,	_	7	p	_	I-DATE
+CD	_	7	num	_	L-DATE
+CC	_	7	cc	_	O
+NNP	_	13	com	_	B-DATE
+NNP	_	7	conj	_	I-DATE
+CD	_	13	num	_	I-DATE
+,	_	13	p	_	I-DATE
+CD	_	13	num	_	L-DATE
+.	_	3	p	_	O
+
+LS	_	3	meta	_	_
+:	_	3	p	_	_
+NNS	_	0	root	5:obj	_
+,	_	3	p	_	_
+VBN	_	3	acl	_	_
+IN	_	8	case	_	_
+JJ	_	8	attr	_	_
+NN	sem=clr	5	ppmod	_	_
+.	_	3	p	_	_
+

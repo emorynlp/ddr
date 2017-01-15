@@ -1,0 +1,36 @@
+NNS	_	4	nsbj	_	O
+IN	_	3	case	_	O
+NNP	_	1	ppmod	_	U-GPE
+VBP	_	0	root	_	O
+JJ	_	6	adv	_	B-NORP
+JJ	_	7	attr	_	L-NORP
+NNP	_	10	com	_	O
+NNP	_	10	com	_	B-PERSON
+NNP	_	10	com	_	I-PERSON
+NNP	_	12	nsbj	14:nsbj	L-PERSON
+VBZ	_	12	aux	_	O
+VBG	_	4	comp	_	O
+TO	_	14	aux	_	O
+VB	_	12	comp	_	O
+JJ	_	16	attr	_	O
+NNS	_	14	obj	_	O
+IN	_	19	case	_	O
+PRP$	_	19	poss	_	O
+NN	_	16	ppmod	_	O
+.	_	4	p	_	O
+
+NNP	_	2	com	_	O
+NNP	_	3	nsbj	_	U-PERSON
+VBD	_	0	root	_	O
+DT	_	5	det	_	O
+NN	_	3	obj	_	O
+IN	_	9	case	_	O
+JJ	_	8	attr	_	O
+NN	_	9	com	_	O
+NN	_	5	ppmod	_	O
+IN	_	11	case	_	O
+NNP	sem=loc	5	ppmod	_	U-GPE
+IN	_	13	case	_	O
+NNP	sem=tmp	3	ppmod	_	U-DATE
+.	_	3	p	_	O
+

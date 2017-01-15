@@ -1,0 +1,15 @@
+PRP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+DT	_	10	det	_	_
+CD	_	5	num	_	_
+NN	_	10	attr	_	_
+CD	_	7	num	_	_
+NN	_	10	attr	_	_
+VBN	_	10	attr	_	_
+JJ	_	10	attr	_	_
+NN	_	2	obj	_	_
+IN	_	13	case	_	_
+NNP	_	13	com	_	_
+NNP	sem=clr	2	ppmod	_	_
+.	_	2	p	_	_
+

@@ -1,0 +1,15 @@
+RB	_	2	adv	_	_
+DT	_	4	num	_	_
+JJ	_	4	attr	_	_
+NNS	_	5	nsbj	_	_
+VBP	_	0	root	_	_
+NNP	_	5	obj	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+PRP	_	11	nsbj	_	_
+RB	sem=mnr	11	adv	_	_
+VBP	_	5	conj	_	_
+NNP	_	11	obj	_	_
+RB	_	11	adv	_	_
+.	_	11	p	_	_
+

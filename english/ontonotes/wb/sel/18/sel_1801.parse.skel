@@ -1,0 +1,20 @@
+PRP	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+IN	_	6	mark	_	_
+JJ	_	5	attr	_	_
+NNS	_	6	nsbj	14:nsbj	_
+VBP	_	2	comp	_	_
+NNS	_	6	obj	_	_
+IN	_	10	case	_	_
+PRP$	_	10	poss	_	_
+NN	sem=clr	6	ppmod	_	_
+IN	_	12	case	_	_
+NN	sem=tmp	6	ppmod	_	_
+CC	_	6	cc	_	_
+VBP	_	6	conj	_	_
+PDT	_	18	det	_	_
+PRP$	_	18	poss	_	_
+JJ	_	18	attr	_	_
+NNS	_	14	obj	_	_
+.	_	2	p	_	_
+

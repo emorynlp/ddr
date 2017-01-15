@@ -1,0 +1,19 @@
+PRP	_	3	nsbj	4:nsbj	_
+RB	sem=mnr	3	adv	_	_
+VBP	_	0	root	_	_
+VBG	_	3	comp	_	_
+DT	_	6	det	_	_
+NN	_	4	obj	7:obj	_
+VBN	_	6	acl	_	_
+IN	_	11	case	_	_
+PRP$	_	11	poss	_	_
+JJ	_	11	attr	_	_
+NN	_	7	nsbj	_	_
+NNP	_	14	com	_	_
+NNP	_	14	com	_	_
+NNP	_	11	appo	_	_
+DT	_	16	det	_	_
+NNS	_	17	advnp	_	_
+RB	sem=tmp	7	adv	_	_
+.	_	3	p	_	_
+

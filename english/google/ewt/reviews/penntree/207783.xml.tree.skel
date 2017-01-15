@@ -1,0 +1,26 @@
+RB	_	4	neg	_	_
+DT	_	4	det	_	_
+NN	_	4	com	_	_
+NN	_	0	root	_	_
+
+VB	_	3	cop	_	_
+RBR	_	3	adv	_	_
+JJ	_	13	advcl	_	_
+WRB	sem=tmp	6	adv	_	_
+PRP	_	6	nsbj	_	_
+VBP	sem=tmp	3	advcl	_	_
+NNS	_	6	obj	_	_
+,	_	13	p	_	_
+DT	_	13	nsbj	_	_
+VBZ	_	13	cop	_	_
+DT	_	13	det	_	_
+NN	_	13	com	_	_
+NN	_	0	root	_	_
+,	_	13	p	_	_
+RB	_	13	neg	_	_
+NNP	_	13	appo	_	_
+DT	_	19	det	_	_
+NN	_	19	com	_	_
+NN	_	16	appo	_	_
+.	_	13	p	_	_
+

@@ -1,0 +1,19 @@
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	5:nsbj	_
+VBP	_	9	advcl	_	_
+TO	_	5	aux	_	_
+VB	_	3	comp	_	_
+RP	_	5	prt	_	_
+RB	sem=tmp	5	adv	_	_
+,	_	9	p	_	_
+VB	_	17	advcl	_	_
+RB	_	11	com	_	_
+RB	sem=mnr	9	adv	_	_
+:	_	9	p	_	_
+CD	_	9	obj	_	_
+DT	_	15	det	_	_
+NN	_	17	nsbj	_	_
+VBZ	_	17	cop	_	_
+JJ	_	0	root	_	_
+.	_	17	p	_	_
+

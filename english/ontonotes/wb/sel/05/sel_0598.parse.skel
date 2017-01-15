@@ -1,0 +1,23 @@
+NNP	_	2	nsbj	15:nsbj	_
+VBD	_	0	root	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+NNS	_	12	nsbj	_	_
+IN	_	7	case	_	_
+NN	_	5	ppmod	_	_
+TO	_	12	aux	_	_
+VB	_	12	cop	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NN	_	2	comp	_	_
+,	_	2	p	_	_
+RB	sem=mnr	15	adv	_	_
+VBG	_	2	advcl	_	_
+RP	_	15	prt	_	_
+DT	_	18	det	_	_
+NN	_	21	poss	_	_
+POS	_	18	case	_	_
+VBN	_	21	attr	_	_
+NN	_	15	obj	_	_
+.	_	2	p	_	_
+

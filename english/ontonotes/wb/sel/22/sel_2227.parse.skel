@@ -1,0 +1,24 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+PRP$	_	4	poss	_	_
+NNS	_	6	nsbj	8:nsbj	_
+RB	sem=mnr	6	adv	8:adv	_
+VB	_	2	comp	_	_
+CC	_	6	cc	_	_
+VB	_	6	conj	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NNS	sem=clr	8	ppmod	_	_
+IN	_	13	case	_	_
+VBG	sem=mnr	2	ppmod	_	_
+JJ	_	15	attr	_	_
+NNS	_	13	obj	_	_
+,	_	13	p	_	_
+WRB	sem=loc	22	adv	_	_
+CC	_	17	cc	_	_
+WRB	_	17	conj	_	_
+PRP	_	22	obj	_	_
+VBP	_	22	aux	_	_
+VBN	sem=loc	13	advcl	_	_
+.	_	2	p	_	_
+

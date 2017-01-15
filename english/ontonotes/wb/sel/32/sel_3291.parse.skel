@@ -1,0 +1,18 @@
+PRP	_	3	expl	_	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+TO	_	8	aux	_	_
+VB	_	8	aux	_	_
+JJ	_	8	modal	_	_
+TO	_	8	aux	_	_
+VB	_	3	csbj	_	_
+RP	_	8	prt	_	_
+WRB	sem=tmp	16	adv	_	_
+PRP	_	16	nsbj	_	_
+VBP	_	16	aux	_	_
+VBG	_	16	raise	_	_
+TO	_	16	aux	_	_
+VB	_	16	cop	_	_
+JJ	sem=tmp	8	advcl	_	_
+.	_	3	p	_	_
+

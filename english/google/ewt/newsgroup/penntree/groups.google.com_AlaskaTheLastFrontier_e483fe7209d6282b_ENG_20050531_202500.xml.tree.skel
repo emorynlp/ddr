@@ -1,0 +1,25 @@
+VBP	_	0	root	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	1	comp	_	_
+DT	_	5	det	_	_
+NNS	_	3	obj	_	_
+CC	_	1	cc	_	_
+VB	_	10	aux	_	_
+JJ	_	10	modal	_	_
+TO	_	10	aux	_	_
+VB	_	1	conj	_	_
+RB	_	10	adv	_	_
+RB	_	10	adv	_	_
+.	_	10	p	_	_
+
+VBP	_	0	root	_	_
+TO	_	3	aux	_	_
+VB	_	1	comp	_	_
+PRP	_	3	obj	_	_
+RB	sem=tmp	3	adv	_	_
+.	_	1	p	_	_
+
+DT	_	3	det	_	_
+NNP	_	3	com	_	_
+NNP	_	0	root	_	_
+

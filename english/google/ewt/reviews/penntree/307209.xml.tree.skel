@@ -1,0 +1,20 @@
+NN	_	3	nsbj	_	_
+VBZ	_	3	aux	_	_
+VBN	_	0	root	_	_
+.	_	3	p	_	_
+
+VBZ	_	2	aux	_	_
+VBN	_	0	root	_	_
+IN	_	14	case	_	_
+CD	_	6	num	_	_
+NNP	_	6	com	_	_
+NNP	_	14	dep	_	_
+NNP	_	14	dep	_	_
+,	_	7	p	_	_
+NNP	sem=loc	7	advnp	_	_
+CD	_	14	num	_	_
+-LRB-	_	14	p	_	_
+CD	_	14	num	_	_
+-RRB-	_	14	p	_	_
+CD	sem=dir	2	ppmod	_	_
+

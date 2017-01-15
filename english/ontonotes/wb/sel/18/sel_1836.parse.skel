@@ -1,0 +1,21 @@
+NNS	_	3	nsbj	9:nsbj	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+JJ	_	5	attr	_	_
+NNS	_	3	obj	_	_
+,	_	3	p	_	_
+CC	_	3	cc	_	_
+RB	sem=tmp	9	adv	3:adv	_
+VBP	_	3	conj	_	_
+IN	_	11	case	_	_
+NN	sem=clr	9	ppmod	_	_
+IN	_	19	mark	_	_
+DT	_	15	det	_	_
+JJ	_	15	attr	_	_
+NN	_	19	nsbj	_	_
+IN	_	17	case	_	_
+PRP	_	15	ppmod	_	_
+VBZ	_	19	aux	_	_
+VBN	sem=tmp	9	advcl	_	_
+.	_	3	p	_	_
+

@@ -1,0 +1,25 @@
+PRP	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+RP	_	2	prt	_	_
+IN	_	7	case	_	_
+NNS	_	7	obj	_	_
+VBG	_	7	aux	_	_
+VBN	sem=clr	2	ppmod	_	_
+IN	_	9	case	_	_
+NNS	sem=clr	7	ppmod	_	_
+,	_	2	p	_	_
+CC	_	2	cc	_	_
+DT	_	14	obj	_	_
+VBZ	_	14	aux	_	_
+VBN	_	2	conj	_	_
+IN	_	17	case	_	_
+``	_	17	p	_	_
+NNP	sem=clr	14	ppmod	_	_
+''	_	17	p	_	_
+,	_	14	p	_	_
+IN	_	22	mark	_	_
+PRP	_	22	nsbj	_	_
+VBD	_	14	advcl	_	_
+RB	sem=mnr	22	adv	_	_
+.	_	14	p	_	_
+

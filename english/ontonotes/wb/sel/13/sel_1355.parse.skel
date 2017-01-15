@@ -1,0 +1,18 @@
+PRP	_	3	nsbj	_	_
+VBD	_	3	aux	_	_
+VBG	_	0	root	_	_
+PRP	_	3	obj	6:nsbj;11:nsbj	_
+TO	_	6	aux	_	_
+VB	_	3	comp	_	_
+PRP$	_	8	poss	_	_
+NN	_	6	obj	_	_
+CC	_	6	cc	_	_
+RB	_	11	neg	6:neg	_
+VB	_	6	conj	_	_
+NN	_	11	obj	16:nsbj	_
+PRP	_	14	nsbj	_	_
+VBP	_	12	relcl	_	_
+VBZ	_	16	cop	_	_
+JJ	_	14	comp	_	_
+.	_	3	p	_	_
+

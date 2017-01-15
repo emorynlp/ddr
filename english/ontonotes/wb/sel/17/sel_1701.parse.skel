@@ -1,0 +1,20 @@
+NN	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	2	obj	_	_
+WRB	sem=tmp	9	adv	_	_
+DT	_	7	det	_	_
+NN	_	9	obj	10:nsbj	_
+VBD	_	9	aux	_	_
+VBN	sem=tmp	2	advcl	_	_
+VBG	_	9	advcl	_	_
+IN	_	15	case	_	_
+NNP	_	13	com	_	_
+NNP	_	15	poss	_	_
+POS	_	13	case	_	_
+NN	sem=clr	10	ppmod	_	_
+IN	_	18	case	_	_
+NNP	_	18	com	_	_
+NNP	sem=loc	15	ppmod	_	_
+.	_	2	p	_	_
+

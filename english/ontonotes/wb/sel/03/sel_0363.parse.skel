@@ -1,0 +1,18 @@
+DT	_	8	nsbj	3:nsbj	_
+WP	_	3	r-nsbj	_	_
+VBP	_	1	relcl	_	_
+NN	_	5	com	_	_
+NN	_	3	obj	_	_
+MD	_	8	raise	_	_
+TO	_	8	aux	_	_
+VB	_	0	root	_	_
+IN	_	13	mark	_	_
+PRP	_	13	nsbj	_	_
+MD	_	13	modal	_	_
+RB	_	13	neg	_	_
+VB	_	8	comp	_	_
+PRP$	_	15	poss	_	_
+NN	_	16	nsbj	_	_
+VB	_	13	comp	_	_
+.	_	8	p	_	_
+

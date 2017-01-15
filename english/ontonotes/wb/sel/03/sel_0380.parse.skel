@@ -1,0 +1,11 @@
+DT	_	2	det	_	_
+NN	_	5	nsbj	_	_
+IN	_	4	case	_	_
+PRP	_	2	ppmod	_	_
+VBZ	_	0	root	_	_
+TO	_	7	aux	_	_
+VB	_	5	comp	_	_
+NN	_	9	com	_	_
+NNS	_	7	obj	_	_
+.	_	5	p	_	_
+

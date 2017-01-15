@@ -1,0 +1,12 @@
+RB	sem=loc	0	root	7:adv	_
+WRB	sem=loc	7	r-adv	_	_
+DT	_	4	det	_	_
+NN	_	7	nsbj	_	_
+MD	_	7	modal	_	_
+RB	sem=tmp	7	neg	_	_
+VB	_	1	comp	_	_
+IN	_	9	case	_	_
+PRP	sem=clr	7	ppmod	_	_
+RB	_	7	adv	_	_
+.	_	1	p	_	_
+

@@ -1,0 +1,14 @@
+-LRB-	_	6	p	_	_
+CC	_	6	cc	_	_
+MD	_	6	modal	_	_
+NN	_	6	nsbj	_	_
+RB	_	6	adv	_	_
+VB	_	0	root	_	_
+DT	_	8	det	_	_
+NN	_	6	obj	_	_
+IN	_	12	case	_	_
+IN	_	12	case	_	_
+PRP$	_	12	poss	_	_
+NN	sem=clr	6	ppmod	_	_
+.	_	6	p	_	_
+

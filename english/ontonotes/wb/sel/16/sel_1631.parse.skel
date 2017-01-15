@@ -1,0 +1,13 @@
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	5	advcl	8:advcl	_
+PRP	_	5	nsbj	8:nsbj	_
+VBP	_	0	root	_	_
+NN	_	5	obj	_	_
+CC	_	5	cc	_	_
+VBP	_	5	conj	_	_
+DT	_	11	det	_	_
+VBG	_	11	attr	_	_
+NN	_	8	obj	_	_
+.	_	5	p	_	_
+

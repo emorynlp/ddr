@@ -1,0 +1,14 @@
+NNS	_	0	root	3:obj	_
+PRP	_	3	nsbj	_	_
+VBP	_	1	relcl	_	_
+WRB	sem=tmp	6	adv	_	_
+PRP	_	6	nsbj	_	_
+VBP	sem=tmp	3	advcl	_	_
+NNS	_	6	obj	_	_
+IN	_	9	case	_	_
+NNS	sem=clr	6	ppmod	_	_
+IN	_	12	case	_	_
+NN	_	12	com	_	_
+NNS	sem=clr	6	ppmod	_	_
+.	_	1	p	_	_
+

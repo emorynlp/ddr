@@ -1,0 +1,13 @@
+PRP	_	5	nsbj	_	_
+MD	_	5	modal	_	_
+RB	_	5	adv	_	_
+RB	_	5	adv	_	_
+VB	_	0	root	_	_
+RP	_	5	prt	_	_
+DT	_	9	det	_	_
+NNP	_	9	com	_	_
+NNP	_	5	obj	_	_
+,	_	5	p	_	_
+RB	sem=tmp	5	adv	_	_
+.	_	5	p	_	_
+

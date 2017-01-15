@@ -1,0 +1,10 @@
+VB	_	0	root	_	_
+DT	_	3	det	_	_
+NNP	_	4	nsbj	_	_
+VBZ	_	1	comp	_	_
+IN	_	7	case	_	_
+IN	_	7	case	_	_
+NNP	sem=clr	4	ppmod	_	_
+NN	sem=tmp	4	advnp	_	_
+.	_	1	p	_	_
+

@@ -1,0 +1,35 @@
+JJ	_	5	adv	_	O
+IN	_	5	case	_	O
+DT	_	5	det	_	O
+NN	_	5	com	_	O
+NN	sem=prp	21	ppmod	_	O
+,	_	21	p	_	O
+DT	_	8	det	_	O
+NN	_	21	nsbj	_	O
+IN	_	11	case	_	O
+DT	_	11	det	_	O
+NN	_	8	ppmod	_	O
+IN	_	15	case	_	O
+NN	_	15	poss	_	U-DATE
+POS	_	13	case	_	O
+NN	sem=loc	8	ppmod	_	O
+IN	_	19	case	_	O
+NNP	_	19	com	_	B-PERSON
+NNP	_	19	com	_	I-PERSON
+NNP	_	8	ppmod	_	L-PERSON
+RB	_	21	adv	_	O
+VBD	_	0	root	_	O
+DT	_	23	det	_	O
+NNP	_	21	obj	_	U-ORG
+.	_	21	p	_	O
+
+PRP	_	8	nsbj	_	O
+MD	_	8	modal	_	O
+VB	_	8	cop	_	O
+DT	_	8	det	_	B-ORG
+NNP	_	6	com	_	I-ORG
+NNPS	_	8	com	_	I-ORG
+NNP	_	8	com	_	I-ORG
+NNP	_	0	root	_	L-ORG
+.	_	8	p	_	O
+

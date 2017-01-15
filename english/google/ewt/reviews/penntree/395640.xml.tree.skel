@@ -1,0 +1,17 @@
+VB	_	3	aux	_	_
+RB	_	3	neg	_	_
+VB	_	0	root	_	_
+.	_	3	p	_	_
+
+PRP	_	3	expl	_	_
+VBZ	_	3	cop	_	_
+JJ	_	0	root	_	_
+TO	_	5	aux	_	_
+VB	_	3	csbj	_	_
+WRB	_	10	adv	_	_
+DT	_	8	det	_	_
+NN	_	10	nsbj	_	_
+VBZ	_	10	aux	_	_
+VBN	_	5	comp	_	_
+.	_	3	p	_	_
+

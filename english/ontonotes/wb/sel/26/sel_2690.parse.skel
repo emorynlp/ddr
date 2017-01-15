@@ -1,0 +1,10 @@
+NNP	_	2	nsbj	4:nsbj;6:nsbj;8:nsbj	_
+VBD	_	0	root	_	_
+,	_	2	p	_	_
+VBD	_	2	conj	_	_
+,	_	4	p	_	_
+VBD	_	2	conj	_	_
+CC	_	6	cc	_	_
+VBD	_	2	conj	_	_
+.	_	2	p	_	_
+

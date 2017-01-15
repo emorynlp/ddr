@@ -1,0 +1,19 @@
+NNP	_	2	com	_	_
+NNP	sem=loc	4	advnp	_	_
+PRP	_	4	nsbj	_	_
+VBP	_	0	root	_	_
+NNP	_	4	obj	_	_
+,	_	5	p	_	_
+NNS	_	5	conj	_	_
+IN	_	10	case	_	_
+NN	_	10	com	_	_
+NNS	_	7	ppmod	_	_
+,	_	7	p	_	_
+CC	_	7	cc	_	_
+JJ	_	14	attr	_	_
+NNS	_	5	conj	_	_
+IN	_	17	case	_	_
+JJ	_	17	attr	_	_
+NNS	_	14	ppmod	_	_
+.	_	4	p	_	_
+

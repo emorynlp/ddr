@@ -1,0 +1,11 @@
+NFP	_	8	disc	_	_
+NNP	_	8	voc	_	_
+VB	_	8	advcl	_	_
+DT	_	5	det	_	_
+NNS	_	3	obj	_	_
+,	_	8	p	_	_
+RB	_	8	adv	_	_
+VB	_	0	root	_	_
+NN	_	8	obj	_	_
+.	_	8	p	_	_
+

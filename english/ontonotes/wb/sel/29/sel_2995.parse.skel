@@ -1,0 +1,18 @@
+WRB	sem=tmp	4	adv	_	_
+DT	_	3	det	_	_
+NN	_	4	nsbj	_	_
+VBZ	sem=tmp	10	advcl	_	_
+,	_	10	p	_	_
+NNS	_	10	nsbj	_	_
+IN	_	9	case	_	_
+VBG	_	9	attr	_	_
+NNS	_	6	ppmod	_	_
+VB	_	0	root	_	_
+DT	_	12	det	_	_
+NN	_	10	obj	_	_
+TO	_	14	aux	_	_
+VB	sem=prp	10	advcl	_	_
+NN	_	16	com	_	_
+NN	_	14	obj	_	_
+.	_	10	p	_	_
+

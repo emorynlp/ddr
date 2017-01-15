@@ -1,0 +1,26 @@
+IN	_	6	mark	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+JJ	_	5	attr	_	_
+NNP	_	6	obj	8:nsbj	_
+VBN	_	20	advcl	_	_
+TO	_	8	aux	_	_
+VB	sem=clr	6	comp	_	_
+RP	_	8	prt	_	_
+JJ	_	12	adv	_	_
+HYPH	_	12	p	_	_
+JJ	_	14	attr	_	_
+NN	_	14	com	_	_
+NN	_	8	obj	_	_
+,	_	20	p	_	_
+DT	_	17	det	_	_
+NNP	_	20	nsbj	_	_
+MD	_	20	modal	_	_
+VB	_	20	aux	_	_
+VBG	_	0	root	_	_
+IN	_	24	case	_	_
+DT	_	24	det	_	_
+JJ	_	24	attr	_	_
+NN	sem=dir	20	ppmod	_	_
+.	_	20	p	_	_
+

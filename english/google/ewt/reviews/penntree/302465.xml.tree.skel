@@ -1,0 +1,51 @@
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+
+RB	_	2	adv	_	_
+JJ	_	3	attr	_	_
+NN	_	0	root	_	_
+CC	_	3	cc	_	_
+JJ	_	6	attr	_	_
+NN	_	3	conj	_	_
+.	_	6	p	_	_
+
+DT	_	2	det	_	_
+NN	_	4	nsbj	_	_
+VBD	_	4	cop	_	_
+JJ	_	0	root	_	_
+CC	_	4	cc	_	_
+RB	_	14	adv	_	_
+VBD	_	6	cop	_	_
+DT	_	10	det	_	_
+NN	_	10	com	_	_
+NNS	_	6	nsbj	_	_
+-LRB-	_	14	p	_	_
+NNS	_	14	nsbj	_	_
+VBD	_	14	cop	_	_
+JJ	_	4	conj	_	_
+.	_	14	p	_	_
+NFP	_	14	p	_	_
+.	_	14	p	_	_
+
+PRP	_	7	nsbj	_	_
+VBZ	_	7	cop	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+,	_	7	p	_	_
+JJ	_	7	attr	_	_
+NN	_	0	root	13:adv	_
+TO	_	9	aux	_	_
+VB	_	7	relcl	_	_
+NN	_	11	obj	_	_
+VBN	_	9	comp	_	_
+CC	_	9	cc	_	_
+VB	_	9	conj	_	_
+.	_	7	p	_	_
+
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+IN	_	4	case	_	_
+VBG	sem=clr	2	ppmod	_	_
+RB	sem=tmp	4	adv	_	_
+.	_	2	p	_	_
+

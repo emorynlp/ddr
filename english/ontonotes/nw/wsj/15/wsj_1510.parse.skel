@@ -1,0 +1,35 @@
+NNP	_	3	com	_	B-PERSON
+NNP	_	3	com	_	I-PERSON
+NNP	_	5	obj	7:nsbj	L-PERSON
+VBD	_	5	aux	_	O
+VBN	_	0	root	_	O
+NN	_	7	com	_	O
+NN	sem=clr	5	comp	_	O
+CC	_	7	cc	_	O
+JJ	_	10	attr	_	O
+NN	_	7	conj	_	O
+IN	_	17	case	_	O
+DT	_	17	det	_	O
+NN	_	14	com	_	O
+NNS	_	17	attr	_	O
+CC	_	14	cc	_	O
+NNS	_	14	conj	_	O
+NN	_	7	ppmod	_	O
+.	_	5	p	_	O
+
+PRP	_	5	nsbj	_	O
+VBD	_	5	aux	_	O
+VBN	_	5	cop	_	O
+JJ	_	5	attr	_	O
+NN	_	0	root	_	O
+IN	_	8	case	_	O
+DT	_	8	det	_	O
+NN	sem=loc	5	ppmod	_	O
+IN	_	10	case	_	O
+NN	_	8	ppmod	_	O
+IN	_	14	case	_	O
+NNP	_	13	com	_	B-ORG
+NNP	_	14	com	_	I-ORG
+NNP	sem=loc	5	ppmod	_	L-ORG
+.	_	5	p	_	O
+

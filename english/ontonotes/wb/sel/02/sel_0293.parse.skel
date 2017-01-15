@@ -1,0 +1,17 @@
+NN	_	7	nsbj	_	_
+IN	_	4	case	_	_
+DT	_	4	det	_	_
+NN	_	1	ppmod	_	_
+IN	_	6	case	_	_
+DT	_	4	ppmod	_	_
+VBZ	_	0	root	_	_
+WP	_	11	obj	14:nsbj	_
+PRP	_	11	nsbj	_	_
+RB	sem=tmp	11	adv	_	_
+VBP	_	7	comp	_	_
+''	_	14	p	_	_
+JJ	_	14	attr	_	_
+NN	sem=clr	11	comp	_	_
+''	_	14	p	_	_
+.	_	7	p	_	_
+

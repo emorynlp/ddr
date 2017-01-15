@@ -1,0 +1,21 @@
+NNP	_	2	com	_	_
+NNP	_	4	com	_	_
+NNP	_	4	com	_	_
+NNP	_	6	nsbj	_	_
+VBZ	_	6	aux	_	_
+VBN	_	0	root	_	_
+DT	_	8	det	_	_
+NN	_	6	obj	11:nsbj	_
+VBG	_	8	acl	_	_
+TO	_	11	aux	_	_
+VB	_	9	comp	_	_
+NNS	_	13	nsbj	_	_
+VBG	_	11	comp	_	_
+NNS	_	13	obj	_	_
+IN	_	17	case	_	_
+DT	_	17	det	_	_
+NN	sem=loc	13	ppmod	_	_
+IN	_	19	case	_	_
+NNP	sem=mnr	13	ppmod	_	_
+.	_	6	p	_	_
+

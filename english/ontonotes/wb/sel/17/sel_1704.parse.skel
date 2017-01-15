@@ -1,0 +1,16 @@
+RB	_	8	adv	_	_
+,	_	8	p	_	_
+IN	_	5	case	_	_
+PRP$	_	5	poss	_	_
+NN	sem=dir	8	ppmod	_	_
+PRP	_	8	nsbj	_	_
+RB	_	8	adv	_	_
+VBP	_	0	root	_	_
+NNS	_	8	obj	12:nsbj;14:nsbj	_
+WDT	_	12	r-nsbj	_	_
+VBP	_	12	cop	_	_
+JJ	_	9	relcl	_	_
+CC	_	12	cc	_	_
+JJ	_	12	conj	_	_
+.	_	8	p	_	_
+

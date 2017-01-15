@@ -1,0 +1,15 @@
+RB	_	2	com	_	_
+RB	_	10	adv	_	_
+IN	_	8	mark	_	_
+DT	_	5	det	_	_
+NN	_	7	poss	_	_
+POS	_	5	case	_	_
+NN	_	8	nsbj	_	_
+VBZ	_	2	comp	_	_
+,	_	10	p	_	_
+VB	_	0	root	_	_
+NN	_	12	com	_	_
+NN	_	10	obj	_	_
+CD	_	12	num	_	_
+.	_	10	p	_	_
+

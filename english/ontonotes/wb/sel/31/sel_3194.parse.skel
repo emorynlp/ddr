@@ -1,0 +1,15 @@
+VB	_	13	advcl	_	_
+TO	_	3	aux	_	_
+VB	_	1	comp	_	_
+IN	_	6	mark	_	_
+PRP	_	6	nsbj	_	_
+VBP	sem=tmp	3	advcl	_	_
+DT	_	8	det	_	_
+NN	_	6	obj	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NNS	_	8	ppmod	_	_
+:	_	13	p	_	_
+VB	_	0	root	_	_
+.	_	13	p	_	_
+

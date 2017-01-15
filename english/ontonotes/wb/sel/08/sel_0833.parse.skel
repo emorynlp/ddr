@@ -1,0 +1,16 @@
+DT	_	2	det	_	_
+NN	sem=tmp	10	advnp	_	_
+NNS	_	10	nsbj	_	_
+IN	_	5	case	_	_
+NNS	_	3	ppmod	_	_
+IN	_	9	case	_	_
+RB	_	9	adv	_	_
+JJ	_	9	attr	_	_
+NNS	sem=loc	5	ppmod	_	_
+VBP	_	0	root	_	_
+NN	_	10	obj	_	_
+IN	_	14	case	_	_
+NN	_	14	com	_	_
+NNS	sem=clr	10	ppmod	_	_
+.	_	10	p	_	_
+

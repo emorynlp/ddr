@@ -1,0 +1,12 @@
+JJ	_	2	attr	_	_
+NNS	_	3	nsbj	_	_
+VBP	_	0	root	_	_
+RB	sem=clr	3	adv	_	_
+RB	sem=mnr	3	adv	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	sem=tmp	3	ppmod	_	_
+IN	_	10	case	_	_
+NN	_	8	ppmod	_	_
+.	_	3	p	_	_
+

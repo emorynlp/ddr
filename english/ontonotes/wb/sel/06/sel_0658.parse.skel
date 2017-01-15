@@ -1,0 +1,25 @@
+PRP	_	4	expl	_	_
+VBZ	_	4	cop	_	_
+RB	sem=tmp	4	adv	_	_
+JJ	_	0	root	_	_
+TO	_	6	aux	_	_
+VB	_	4	csbj	_	_
+DT	_	8	det	_	_
+NN	_	6	obj	_	_
+IN	_	16	mark	_	_
+PRP	_	16	nsbj	_	_
+VBZ	_	16	cop	_	_
+DT	_	16	det	_	_
+``	_	16	p	_	_
+JJ	_	16	attr	_	_
+''	_	16	p	_	_
+NN	sem=prp	4	advcl	_	_
+CC	_	16	cc	_	_
+PRP	_	23	nsbj	_	_
+VBZ	_	23	lv	_	_
+RB	_	21	adv	_	_
+JJ	_	23	attr	_	_
+JJ	_	23	attr	_	_
+NNS	_	16	conj	_	_
+.	_	4	p	_	_
+

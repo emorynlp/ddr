@@ -1,0 +1,24 @@
+JJ	_	4	attr	_	_
+CC	_	1	cc	_	_
+JJ	_	1	conj	_	_
+NNS	_	6	obj	_	_
+VBP	_	6	aux	_	_
+VBN	_	0	root	_	_
+IN	_	9	case	_	_
+RB	sem=mnr	9	adv	_	_
+VBG	sem=clr	6	ppmod	_	_
+NNS	_	9	obj	_	_
+,	_	9	p	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	sem=loc	9	ppmod	19:adv	_
+WRB	sem=loc	19	r-adv	_	_
+PRP	_	19	nsbj	_	_
+MD	_	19	modal	_	_
+RB	_	19	adv	_	_
+VB	_	14	relcl	_	_
+JJ	_	19	obj	_	_
+IN	_	22	case	_	_
+NNS	sem=clr	19	ppmod	_	_
+.	_	6	p	_	_
+

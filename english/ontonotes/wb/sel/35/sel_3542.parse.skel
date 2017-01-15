@@ -1,0 +1,10 @@
+DT	_	2	det	_	_
+NN	sem=tmp	5	advnp	_	_
+NN	_	4	com	_	_
+NNS	_	5	nsbj	_	_
+VBD	_	0	root	_	_
+,	_	5	p	_	_
+RB	_	8	com	_	_
+RB	_	5	adv	_	_
+.	_	5	p	_	_
+

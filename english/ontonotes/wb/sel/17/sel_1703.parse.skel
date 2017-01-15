@@ -1,0 +1,26 @@
+PRP	_	3	obj	_	_
+VBP	_	3	aux	_	_
+VBN	_	0	root	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+NN	sem=tmp	3	advnp	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NN	_	6	ppmod	_	_
+IN	_	12	case	_	_
+JJ	_	12	attr	_	_
+NNS	_	3	nsbj	16:nsbj	_
+IN	_	14	case	_	_
+PRP	_	12	ppmod	_	_
+WP	_	16	r-nsbj	_	_
+VBP	_	12	relcl	_	_
+JJ	_	18	attr	_	_
+NNS	_	16	obj	_	_
+IN	_	21	case	_	_
+DT	_	21	det	_	_
+NN	sem=dir	16	ppmod	_	_
+IN	_	24	case	_	_
+DT	_	24	det	_	_
+NN	_	21	ppmod	_	_
+.	_	3	p	_	_
+

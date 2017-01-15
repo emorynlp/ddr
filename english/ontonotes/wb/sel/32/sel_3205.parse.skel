@@ -1,0 +1,19 @@
+CC	_	17	cc	_	_
+UH	_	17	disc	_	_
+VB	_	17	advcl	_	_
+TO	_	5	aux	_	_
+VB	_	3	comp	_	_
+NNS	_	8	poss	_	_
+POS	_	6	case	_	_
+NNS	_	5	obj	_	_
+IN	_	11	mark	_	_
+PRP	_	11	nsbj	13:nsbj	_
+VBP	sem=tmp	3	advcl	_	_
+TO	_	13	aux	_	_
+VB	_	11	comp	_	_
+PRP	_	13	obj	_	_
+RP	_	13	prt	_	_
+,	_	17	p	_	_
+JJ	_	0	root	_	_
+.	_	17	p	_	_
+

@@ -1,0 +1,24 @@
+PRP	_	3	expl	_	_
+VBZ	_	3	cop	_	_
+NN	_	0	root	_	_
+IN	_	6	case	_	_
+JJ	_	6	attr	_	_
+NN	_	3	ppmod	_	_
+TO	_	8	aux	_	_
+VB	_	3	csbj	_	_
+IN	_	10	case	_	_
+NN	sem=clr	8	ppmod	_	_
+WRB	sem=tmp	13	adv	_	_
+PRP	_	13	nsbj	_	_
+VBZ	sem=tmp	8	advcl	_	_
+DT	_	16	det	_	_
+JJ	_	16	attr	_	_
+NN	_	13	obj	_	_
+IN	_	18	case	_	_
+NN	_	16	ppmod	_	_
+,	_	18	p	_	_
+NN	_	18	conj	_	_
+CC	_	20	cc	_	_
+NN	_	18	conj	_	_
+.	_	3	p	_	_
+

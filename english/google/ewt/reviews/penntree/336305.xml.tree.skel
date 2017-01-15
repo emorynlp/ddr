@@ -1,0 +1,17 @@
+JJ	_	0	root	_	_
+TO	_	3	aux	_	_
+VB	_	1	comp	_	_
+PDT	_	7	det	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+NN	_	3	obj	_	_
+CC	_	7	cc	_	_
+JJ	_	10	attr	_	_
+NNS	_	7	conj	_	_
+CC	_	1	cc	_	_
+DT	_	13	det	_	_
+NN	_	16	nsbj	_	_
+MD	_	16	modal	_	_
+VB	_	16	cop	_	_
+JJ	_	1	conj	_	_
+

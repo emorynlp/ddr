@@ -1,0 +1,28 @@
+DT	_	4	det	_	O
+NNP	_	3	com	_	B-ORG
+NNP	_	4	com	_	L-ORG
+NN	_	12	nsbj	_	O
+VBG	_	4	acl	_	O
+NNP	_	10	poss	_	U-GPE
+POS	_	6	case	_	O
+JJ	_	10	attr	_	O
+NN	_	10	com	_	O
+NN	_	5	obj	_	O
+VBD	_	12	cop	_	O
+NNP	_	0	root	_	U-PERSON
+IN	_	16	case	_	O
+NNP	_	16	com	_	B-ORG
+NNP	_	16	com	_	I-ORG
+NNPS	_	12	ppmod	_	L-ORG
+.	_	12	p	_	O
+
+DT	_	2	det	_	O
+NN	_	4	obj	_	O
+VBD	_	4	aux	_	O
+VBN	_	0	root	_	O
+IN	_	8	case	_	O
+NNP	_	8	poss	_	U-DATE
+POS	_	6	case	_	O
+NN	sem=loc	4	ppmod	_	O
+.	_	4	p	_	O
+

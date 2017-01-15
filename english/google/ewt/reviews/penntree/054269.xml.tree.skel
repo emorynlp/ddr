@@ -1,0 +1,35 @@
+JJ	_	3	attr	_	_
+NN	_	3	com	_	_
+NN	_	0	root	_	_
+
+NNP	_	4	poss	_	_
+POS	_	1	case	_	_
+NNP	_	4	com	_	_
+NNS	_	5	nsbj	17:nsbj	_
+VBP	_	0	root	_	_
+RB	_	7	com	_	_
+RBS	_	8	com	_	_
+RB	_	10	adv	_	_
+RB	_	10	adv	_	_
+JJ	_	11	attr	_	_
+NN	_	5	obj	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+JJ	_	15	attr	_	_
+NNS	_	11	ppmod	_	_
+,	_	5	p	_	_
+VBG	_	5	advcl	_	_
+DT	_	20	det	_	_
+NN	_	20	com	_	_
+NN	_	17	obj	_	_
+IN	_	23	case	_	_
+IN	_	23	case	_	_
+CD	_	20	ppmod	_	_
+NN	_	23	meta	_	_
+CC	_	20	cc	_	_
+DT	_	29	det	_	_
+JJ	_	29	attr	_	_
+NN	_	29	com	_	_
+NN	_	20	conj	_	_
+.	_	5	p	_	_
+

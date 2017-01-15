@@ -1,0 +1,20 @@
+PRP$	_	3	poss	_	_
+JJ	_	3	attr	_	_
+NN	_	14	nsbj	_	_
+IN	_	10	mark	_	_
+DT	_	7	det	_	_
+NNP	_	7	com	_	_
+NN	_	10	nsbj	_	_
+MD	_	10	modal	_	_
+RB	sem=mnr	10	adv	_	_
+VB	_	3	acl	_	_
+PRP$	_	12	poss	_	_
+NNS	_	10	obj	_	_
+VBZ	_	14	cop	_	_
+JJ	_	0	root	_	_
+IN	_	18	case	_	_
+PRP$	_	18	poss	_	_
+JJ	_	18	attr	_	_
+NN	_	14	ppmod	_	_
+.	_	14	p	_	_
+

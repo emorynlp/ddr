@@ -1,0 +1,12 @@
+RB	sem=tmp	2	neg	_	_
+VB	_	0	root	_	_
+TO	_	4	aux	_	_
+VB	_	2	comp	_	_
+DT	_	7	det	_	_
+NN	_	7	com	_	_
+NN	_	9	poss	_	_
+POS	_	7	case	_	_
+NNS	_	4	obj	_	_
+PRP	_	4	advnp	_	_
+.	_	2	p	_	_
+

@@ -1,0 +1,24 @@
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	6	advcl	12:advcl	_
+RB	sem=mnr	3	adv	_	_
+PRP	_	6	nsbj	12:nsbj	_
+VBD	_	0	root	_	_
+VBG	_	6	comp	_	_
+NN	_	7	obj	_	_
+IN	_	10	case	_	_
+NN	sem=clr	7	ppmod	_	_
+CC	_	6	cc	_	_
+NN	_	6	conj	_	_
+TO	_	14	aux	_	_
+VB	sem=prp	12	advcl	_	_
+NN	_	14	obj	_	_
+IN	_	18	case	_	_
+JJ	_	18	attr	_	_
+NN	sem=clr	14	ppmod	_	_
+IN	_	22	mark	_	_
+PRP	_	22	nsbj	_	_
+VBD	_	22	raise	_	_
+JJ	_	12	advcl	_	_
+.	_	6	p	_	_
+

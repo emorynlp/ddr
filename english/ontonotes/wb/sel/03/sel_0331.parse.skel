@@ -1,0 +1,17 @@
+PRP	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBP	_	0	root	_	_
+NNP	_	5	com	_	_
+NN	_	3	obj	_	_
+,	_	5	p	_	_
+JJ	_	9	attr	_	_
+NNP	_	9	com	_	_
+NNP	_	5	conj	_	_
+,	_	9	p	_	_
+NNP	_	12	com	_	_
+NN	_	5	conj	_	_
+CC	_	12	cc	_	_
+NN	_	15	com	_	_
+NNS	_	5	conj	_	_
+.	_	3	p	_	_
+

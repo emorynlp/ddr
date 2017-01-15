@@ -1,0 +1,15 @@
+PRP	_	3	nsbj	_	_
+RB	sem=tmp	3	adv	_	_
+VBD	_	0	root	_	_
+NNP	_	6	poss	_	_
+POS	_	4	case	_	_
+NN	_	3	obj	9:nsbj	_
+,	_	6	p	_	_
+WDT	_	9	r-nsbj	_	_
+VBD	_	6	relcl	_	_
+NN	sem=clr	9	obj	12:ppmod	_
+PRP	_	12	nsbj	_	_
+VBD	_	10	relcl	_	_
+IN	_	12	case	_	_
+.	_	3	p	_	_
+

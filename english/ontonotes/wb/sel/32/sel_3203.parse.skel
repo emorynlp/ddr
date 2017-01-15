@@ -1,0 +1,23 @@
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+:	_	2	p	_	_
+IN	_	8	mark	_	_
+DT	_	6	det	_	_
+NN	_	8	nsbj	_	_
+MD	_	8	modal	_	_
+VB	_	20	advcl	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	sem=clr	8	ppmod	_	_
+HYPH	_	11	p	_	_
+RP	_	11	prt	_	_
+IN	_	16	case	_	_
+JJ	_	16	attr	_	_
+NNS	_	11	ppmod	_	_
+,	_	20	p	_	_
+PRP	_	20	nsbj	_	_
+RB	sem=tmp	20	adv	_	_
+VBZ	_	2	acl	_	_
+NN	_	20	obj	_	_
+.	_	2	p	_	_
+

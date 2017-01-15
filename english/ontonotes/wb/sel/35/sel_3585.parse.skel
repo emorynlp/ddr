@@ -1,0 +1,13 @@
+PRP	_	3	nsbj	5:nsbj;7:nsbj	_
+RB	sem=tmp	3	neg	_	_
+VBP	_	0	root	_	_
+TO	_	5	aux	_	_
+VB	_	3	comp	_	_
+CC	_	5	cc	_	_
+VB	_	5	conj	_	_
+NNS	_	7	obj	5:obj	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	sem=loc	7	ppmod	5:ppmod	_
+.	_	3	p	_	_
+

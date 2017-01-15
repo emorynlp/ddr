@@ -1,0 +1,19 @@
+RB	sem=tmp	5	adv	_	_
+EX	_	5	expl	_	_
+VBD	_	5	cop	_	_
+DT	_	5	det	_	_
+NN	_	0	root	7:adv;12:adv	_
+NNP	_	7	nsbj	12:nsbj	_
+VBD	_	5	relcl	_	_
+RP	_	7	prt	_	_
+PRP$	_	10	poss	_	_
+NN	_	7	obj	_	_
+CC	_	7	cc	_	_
+VBD	_	7	conj	_	_
+PRP	_	12	obj	_	_
+RP	_	12	prt	_	_
+IN	_	17	case	_	_
+DT	_	17	det	_	_
+NN	sem=loc	12	ppmod	_	_
+.	_	5	p	_	_
+

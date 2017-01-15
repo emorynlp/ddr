@@ -1,0 +1,27 @@
+IN	_	3	case	_	_
+DT	_	3	det	_	_
+NN	sem=tmp	11	ppmod	19:ppmod	_
+IN	_	6	case	_	_
+PRP$	_	6	poss	_	_
+NNS	_	3	ppmod	_	_
+DT	_	9	det	_	_
+NNP	_	9	com	_	_
+NN	_	11	nsbj	19:nsbj	_
+MD	_	11	modal	_	_
+VB	_	0	root	_	_
+DT	_	13	det	_	_
+NNS	_	11	obj	_	_
+IN	_	17	case	_	_
+JJ	_	17	attr	_	_
+JJ	_	17	attr	_	_
+NN	sem=clr	11	ppmod	_	_
+CC	_	11	cc	_	_
+VB	_	11	conj	_	_
+PRP	_	19	obj	_	_
+RB	sem=mnr	19	adv	_	_
+IN	_	24	case	_	_
+JJ	_	24	attr	_	_
+NN	sem=mnr	19	ppmod	_	_
+.	_	11	p	_	_
+''	_	11	p	_	_
+

@@ -1,0 +1,45 @@
+VBZ	_	0	root	_	_
+DT	_	3	det	_	_
+NN	_	4	nsbj	_	_
+JJ	_	1	comp	_	_
+
+PRP	_	3	nsbj	20:nsbj	_
+VBP	_	3	aux	_	_
+VBN	_	0	root	_	_
+NNP	_	5	com	_	_
+NNP	_	3	obj	_	_
+CC	_	5	cc	_	_
+PRP$	_	8	poss	_	_
+NN	_	5	conj	_	_
+RB	sem=tmp	3	adv	_	_
+RB	sem=tmp	3	adv	_	_
+IN	_	13	case	_	_
+PRP$	_	13	poss	_	_
+NN	_	3	ppmod	_	_
+CC	_	3	cc	_	_
+DT	_	16	det	_	_
+NNS	sem=tmp	20	advnp	_	_
+VBP	_	20	aux	_	_
+VBN	_	20	cop	_	_
+RB	_	20	adv	_	_
+JJ	_	3	conj	_	_
+.	_	3	p	_	_
+
+PRP	_	4	nsbj	6:nsbj;10:nsbj	_
+MD	_	4	modal	_	_
+RB	_	4	neg	_	_
+VB	_	0	root	_	_
+TO	_	6	aux	_	_
+VB	_	4	comp	_	_
+PRP	_	6	obj	_	_
+RB	_	6	adv	_	_
+CC	_	6	cc	_	_
+VB	_	6	conj	_	_
+PRP	_	10	obj	_	_
+IN	_	14	case	_	_
+PRP$	_	14	poss	_	_
+NN	sem=clr	10	ppmod	_	_
+CC	_	14	cc	_	_
+NNS	_	14	conj	_	_
+.	_	4	p	_	_
+

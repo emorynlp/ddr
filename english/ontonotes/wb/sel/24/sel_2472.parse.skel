@@ -1,0 +1,20 @@
+VB	_	0	root	_	_
+,	_	1	p	_	_
+PRP$	_	4	poss	_	_
+NNS	_	1	voc	_	_
+,	_	1	p	_	_
+IN	_	8	case	_	_
+PRP$	_	8	poss	_	_
+NN	sem=clr	1	ppmod	_	_
+,	_	1	p	_	_
+VB	_	1	dep	_	_
+PRP$	_	12	poss	_	_
+NN	_	10	obj	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+NNS	sem=clr	10	ppmod	_	_
+IN	_	18	case	_	_
+PRP$	_	18	poss	_	_
+NN	_	15	ppmod	_	_
+.	_	1	p	_	_
+

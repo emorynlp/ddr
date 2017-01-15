@@ -1,0 +1,27 @@
+PRP	_	4	nsbj	_	_
+RB	_	4	adv	_	_
+VBD	_	4	aux	_	_
+VB	_	12	comp	_	_
+IN	_	7	case	_	_
+NNP	_	7	com	_	_
+NNPS	_	4	ppmod	_	_
+VBP	_	12	cop	_	_
+RB	_	12	neg	_	_
+DT	_	12	nsbj	_	_
+DT	_	12	det	_	_
+NN	_	0	root	15:adv	_
+WRB	sem=loc	15	r-adv	_	_
+PRP	_	15	nsbj	_	_
+VBD	_	12	relcl	_	_
+PRP	_	18	nsbj	19:nsbj	_
+MD	_	18	modal	_	_
+VB	_	15	comp	_	_
+JJ	_	18	comp	_	_
+IN	_	22	case	_	_
+DT	_	22	det	_	_
+NN	sem=clr	18	ppmod	_	_
+IN	_	25	mark	_	_
+PRP	_	25	nsbj	_	_
+VBD	_	18	advcl	_	_
+.	_	12	p	_	_
+

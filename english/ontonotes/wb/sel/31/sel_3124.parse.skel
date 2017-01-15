@@ -1,0 +1,25 @@
+CC	_	14	cc	_	_
+IN	_	5	mark	_	_
+PRP	_	5	nsbj	7:nsbj	_
+VBP	_	5	aux	_	_
+VBG	_	14	advcl	_	_
+TO	_	7	aux	_	_
+VB	_	5	comp	_	_
+DT	_	9	det	_	_
+NNS	_	7	obj	_	_
+IN	_	11	case	_	_
+NNP	sem=loc	9	ppmod	_	_
+PRP	_	14	nsbj	_	_
+VBP	_	14	aux	_	_
+VBG	_	0	root	_	_
+NNS	_	14	obj	22:nsbj	_
+CC	_	15	cc	_	_
+NNS	_	15	conj	_	_
+WDT	_	22	r-nsbj	_	_
+VBP	_	22	cop	_	_
+RB	_	21	com	_	_
+RBR	sem=tmp	22	neg	_	_
+JJ	_	15	relcl	_	_
+RB	sem=loc	22	adv	_	_
+.	_	14	p	_	_
+

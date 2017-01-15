@@ -1,0 +1,18 @@
+IN	_	2	case	_	_
+DT	_	4	ppmod	_	_
+,	_	4	p	_	_
+VB	_	0	root	_	_
+DT	_	6	det	_	_
+NNS	_	4	obj	_	_
+RB	sem=loc	6	adv	_	_
+CC	_	4	cc	_	_
+VB	_	4	conj	_	_
+PRP$	_	12	poss	_	_
+JJ	_	12	attr	_	_
+NNS	_	9	obj	_	_
+WRB	sem=tmp	16	adv	_	_
+PRP	_	16	nsbj	_	_
+VBP	_	16	raise	_	_
+TO	sem=tmp	9	advcl	_	_
+.	_	4	p	_	_
+

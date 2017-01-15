@@ -1,0 +1,17 @@
+WDT	_	3	det	_	_
+JJ	_	3	attr	_	_
+NN	_	8	nsbj	_	_
+IN	_	5	case	_	_
+PRP	_	3	ppmod	_	_
+VBZ	_	8	aux	_	_
+NNS	_	8	dep	_	_
+VBG	_	0	root	_	_
+PDT	_	12	det	_	_
+PRP$	_	12	poss	_	_
+JJS	_	12	attr	_	_
+NNS	_	8	obj	_	_
+NFP	_	8	disc	_	_
+.	_	8	p	_	_
+
+NFP	_	0	root	_	_
+

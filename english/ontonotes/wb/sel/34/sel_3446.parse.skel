@@ -1,0 +1,18 @@
+VB	_	0	root	_	_
+DT	_	3	det	_	_
+JJ	_	4	num	_	_
+NNS	_	6	advnp	_	_
+IN	_	6	case	_	_
+PRP	sem=clr	1	ppmod	_	_
+,	_	1	p	_	_
+VBG	_	1	advcl	_	_
+NN	_	8	obj	11:obj	_
+PRP	_	11	nsbj	_	_
+VBZ	_	9	relcl	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	sem=clr	8	ppmod	_	_
+IN	_	16	case	_	_
+NN	_	14	ppmod	_	_
+.	_	1	p	_	_
+

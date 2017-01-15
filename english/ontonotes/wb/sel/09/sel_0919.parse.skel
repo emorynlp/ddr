@@ -1,0 +1,18 @@
+NNP	_	3	nsbj	_	_
+VBZ	_	3	cop	_	_
+JJ	_	16	comp	_	_
+IN	_	6	mark	_	_
+PRP	_	6	nsbj	_	_
+VBP	_	3	advcl	_	_
+NN	_	8	com	_	_
+NNS	_	10	nsbj	_	_
+RB	_	10	adv	_	_
+JJ	_	6	comp	_	_
+:	_	16	p	_	_
+NNP	_	16	nsbj	_	_
+VBZ	_	16	cop	_	_
+RB	_	15	com	_	_
+RBR	_	16	adv	_	_
+JJ	_	0	root	_	_
+.	_	16	p	_	_
+

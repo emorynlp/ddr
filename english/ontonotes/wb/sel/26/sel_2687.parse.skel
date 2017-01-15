@@ -1,0 +1,15 @@
+NN	_	6	nsbj	_	_
+IN	_	4	case	_	_
+DT	_	4	det	_	_
+NNS	_	1	ppmod	_	_
+VBP	_	6	cop	_	_
+RB	sem=loc	0	root	_	_
+CC	_	6	cc	_	_
+VBP	_	12	aux	_	_
+DT	_	11	det	_	_
+NN	_	11	com	_	_
+NNS	_	12	obj	_	_
+VBN	_	6	conj	_	_
+RP	_	12	prt	_	_
+.	_	12	p	_	_
+

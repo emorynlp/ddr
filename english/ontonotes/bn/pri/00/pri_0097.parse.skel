@@ -1,0 +1,27 @@
+NNP	_	2	com	_	O
+NNP	_	6	nsbj	_	U-PERSON
+VBZ	_	6	aux	_	O
+JJ	_	6	modal	_	O
+TO	_	6	aux	_	O
+VB	_	0	root	_	O
+JJ	_	10	attr	_	U-NORP
+CC	_	7	cc	_	O
+JJ	_	7	conj	_	U-NORP
+NNS	_	6	obj	_	O
+IN	_	12	case	_	O
+NNP	sem=loc	6	ppmod	_	U-GPE
+NN	sem=tmp	6	advnp	_	U-DATE
+.	_	6	p	_	O
+
+PRP	_	3	nsbj	_	O
+MD	_	3	modal	_	O
+VB	_	0	root	_	O
+NNS	_	3	obj	_	O
+IN	_	6	case	_	O
+NN	_	4	ppmod	_	O
+IN	_	10	case	_	O
+DT	_	10	det	_	B-LOC
+NNP	_	10	com	_	I-LOC
+NNP	sem=loc	6	ppmod	_	L-LOC
+.	_	3	p	_	O
+

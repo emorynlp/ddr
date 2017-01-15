@@ -1,0 +1,22 @@
+PRP	_	2	nsbj	8:nsbj;15:nsbj	_
+VBD	_	0	root	_	_
+PRP	_	2	obj	_	_
+RP	_	2	prt	_	_
+,	_	2	p	_	_
+VBD	_	8	cop	_	_
+RB	sem=tmp	8	adv	_	_
+JJ	_	2	conj	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	_	8	ppmod	_	_
+,	_	8	p	_	_
+CC	_	8	cc	_	_
+RB	sem=tmp	15	adv	2:adv;8:adv	_
+VBD	_	2	conj	_	_
+PRP	_	17	nsbj	_	_
+VB	_	15	comp	_	_
+IN	_	20	case	_	_
+DT	_	20	det	_	_
+NN	sem=loc	17	ppmod	_	_
+.	_	2	p	_	_
+

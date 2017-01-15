@@ -1,0 +1,21 @@
+NNP	_	4	nsbj	10:nsbj	_
+MD	_	4	modal	_	_
+RB	_	4	adv	_	_
+VB	_	0	root	_	_
+RP	_	4	prt	_	_
+DT	_	8	det	_	_
+JJ	_	8	attr	_	_
+NNS	_	4	obj	_	_
+TO	_	10	aux	_	_
+VB	sem=prp	4	advcl	_	_
+PRP	_	10	obj	_	_
+IN	_	16	case	_	_
+DT	_	16	det	_	_
+VBN	_	16	attr	_	_
+RP	_	14	prt	_	_
+NNS	sem=clr	10	ppmod	17:obj	_
+VBN	_	16	acl	_	_
+IN	_	19	case	_	_
+PRP	sem=clr	17	ppmod	_	_
+.	_	4	p	_	_
+

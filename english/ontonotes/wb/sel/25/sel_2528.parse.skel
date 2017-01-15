@@ -1,0 +1,15 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+RB	_	4	adv	_	_
+CD	_	5	num	_	_
+NNS	_	6	obj	_	_
+VBN	_	2	comp	_	_
+CC	_	2	cc	_	_
+PRP	_	10	nsbj	_	_
+VBP	_	10	cop	_	_
+JJ	_	2	conj	_	_
+PRP	_	13	nsbj	_	_
+VBP	_	13	cop	_	_
+JJ	_	10	comp	_	_
+.	_	10	p	_	_
+

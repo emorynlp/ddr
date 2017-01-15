@@ -1,0 +1,26 @@
+VBN	_	2	adv	_	_
+DT	_	7	ppmod	_	_
+,	_	7	p	_	_
+VBZ	_	7	cop	_	_
+RB	_	7	neg	_	_
+PRP	_	7	nsbj	_	_
+NN	_	0	root	9:adv	_
+NN	_	9	nsbj	_	_
+VBD	_	7	relcl	_	_
+IN	_	22	mark	_	_
+DT	_	15	det	_	_
+RB	_	14	adv	_	_
+HYPH	_	14	p	_	_
+VBN	_	15	attr	_	_
+NNS	_	22	nsbj	_	_
+CC	_	15	cc	_	_
+NNS	_	15	conj	_	_
+IN	_	19	case	_	_
+NNP	sem=loc	15	ppmod	_	_
+MD	_	22	modal	_	_
+RB	sem=tmp	22	adv	_	_
+VB	_	9	comp	_	_
+PRP	_	22	obj	24:nsbj	_
+NNS	sem=clr	22	comp	_	_
+.	_	7	p	_	_
+

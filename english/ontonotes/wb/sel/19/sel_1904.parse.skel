@@ -1,0 +1,24 @@
+PRP	_	3	nsbj	_	_
+VBD	_	3	aux	_	_
+VB	_	0	root	_	_
+DT	_	5	det	_	_
+JJ	_	6	num	_	_
+NNS	_	8	nsbj	_	_
+VB	_	8	raise	_	_
+VBG	_	3	comp	_	_
+CC	_	8	cc	_	_
+VB	_	11	cop	_	_
+JJ	_	8	conj	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	_	6	ppmod	_	_
+IN	_	19	case	_	_
+DT	_	19	det	_	_
+CD	_	18	num	_	_
+NN	_	19	com	_	_
+NN	_	14	ppmod	_	_
+IN	_	22	case	_	_
+JJ	_	22	attr	_	_
+NNS	sem=tmp	11	ppmod	8:ppmod	_
+.	_	3	p	_	_
+

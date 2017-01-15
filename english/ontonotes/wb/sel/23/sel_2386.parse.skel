@@ -1,0 +1,12 @@
+VB	_	8	advcl	_	_
+JJ	_	3	attr	_	_
+NNS	_	1	obj	_	_
+IN	_	6	case	_	_
+JJ	_	6	attr	_	_
+NNS	sem=clr	1	ppmod	_	_
+:	_	8	p	_	_
+VB	_	0	root	_	_
+RB	sem=clr	8	adv	_	_
+RB	sem=mnr	8	adv	_	_
+.	_	8	p	_	_
+

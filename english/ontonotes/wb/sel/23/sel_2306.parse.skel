@@ -1,0 +1,16 @@
+PRP	_	2	nsbj	7:nsbj	_
+VBD	_	0	root	_	_
+PRP$	_	4	poss	_	_
+NN	_	2	obj	_	_
+RB	_	2	adv	_	_
+CC	_	2	cc	_	_
+VBD	_	2	conj	_	_
+DT	_	9	det	_	_
+NN	_	7	obj	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+JJS	_	14	attr	_	_
+NN	_	14	com	_	_
+NN	sem=clr	7	ppmod	_	_
+.	_	2	p	_	_
+

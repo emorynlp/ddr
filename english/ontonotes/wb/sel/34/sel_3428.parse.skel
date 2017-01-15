@@ -1,0 +1,17 @@
+PRP	_	3	nsbj	12:nsbj	_
+RB	_	3	adv	_	_
+VB	_	0	root	_	_
+DT	_	10	det	_	_
+JJ	_	10	attr	_	_
+-LRB-	_	10	p	_	_
+JJ	_	10	attr	_	_
+-RRB-	_	10	p	_	_
+NN	_	10	com	_	_
+NN	_	3	obj	_	_
+TO	_	12	aux	_	_
+VB	sem=clr	3	comp	_	_
+RP	_	12	prt	_	_
+NN	_	15	com	_	_
+NN	_	12	obj	_	_
+.	_	3	p	_	_
+

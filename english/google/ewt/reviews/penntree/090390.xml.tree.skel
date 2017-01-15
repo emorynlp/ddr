@@ -1,0 +1,38 @@
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+
+DT	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+RB	_	2	neg	_	_
+WRB	sem=loc	12	adv	_	_
+DT	_	10	det	_	_
+NNP	_	7	com	_	_
+NNP	_	8	com	_	_
+NNP	_	10	com	_	_
+NNP	_	10	com	_	_
+NNP	_	12	obj	_	_
+VBZ	_	12	aux	_	_
+VBN	_	2	comp	_	_
+.	_	2	p	_	_
+
+PRP	_	6	nsbj	_	_
+VBZ	_	6	cop	_	_
+,	_	6	p	_	_
+RB	_	6	adv	_	_
+,	_	6	p	_	_
+IN	sem=loc	0	root	_	_
+DT	_	10	det	_	_
+NNP	_	9	com	_	_
+NNP	_	10	com	_	_
+NNPS	_	6	obj	_	_
+,	_	10	p	_	_
+DT	_	13	det	_	_
+NNS	_	16	advnp	_	_
+IN	_	16	case	_	_
+DT	_	16	det	_	_
+NN	sem=loc	10	ppmod	_	_
+IN	_	19	case	_	_
+DT	_	19	det	_	_
+NN	_	16	ppmod	_	_
+.	_	6	p	_	_
+

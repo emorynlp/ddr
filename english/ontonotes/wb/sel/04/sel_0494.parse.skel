@@ -1,0 +1,16 @@
+PRP	_	3	nsbj	_	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+NNP	_	6	poss	_	_
+POS	_	4	case	_	_
+NNS	_	3	obj	_	_
+RB	sem=mnr	3	adv	_	_
+CC	_	3	cc	_	_
+RB	sem=tmp	12	adv	_	_
+PRP	_	12	nsbj	_	_
+VBP	_	12	cop	_	_
+RP	_	3	conj	_	_
+IN	_	12	case	_	_
+NN	_	12	obj	_	_
+.	_	12	p	_	_
+

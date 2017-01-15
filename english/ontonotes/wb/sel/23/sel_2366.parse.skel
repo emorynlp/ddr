@@ -1,0 +1,13 @@
+RB	_	5	adv	_	_
+DT	_	3	det	_	_
+NNS	_	5	nsbj	_	_
+VBP	_	5	aux	_	_
+VB	_	0	root	_	_
+RB	sem=clr	5	adv	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NN	_	5	ppmod	_	_
+IN	_	11	case	_	_
+NN	_	9	ppmod	_	_
+.	_	5	p	_	_
+

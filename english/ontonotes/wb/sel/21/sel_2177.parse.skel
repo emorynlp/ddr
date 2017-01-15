@@ -1,0 +1,15 @@
+PRP	_	4	nsbj	_	_
+VBP	_	4	cop	_	_
+RB	_	4	adv	_	_
+JJ	_	11	comp	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NN	_	4	ppmod	_	_
+:	_	11	p	_	_
+PRP	_	11	nsbj	_	_
+RB	_	11	adv	_	_
+VBP	_	0	root	_	_
+NNS	_	11	obj	_	_
+RB	sem=tmp	11	adv	_	_
+.	_	11	p	_	_
+

@@ -1,0 +1,23 @@
+VBG	_	9	advcl	_	_
+NNP	_	1	obj	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NNP	_	6	com	_	_
+NNP	sem=clr	1	ppmod	_	_
+,	_	9	p	_	_
+NNS	_	9	nsbj	1:nsbj	_
+VBP	_	0	root	_	_
+DT	_	12	det	_	_
+NNP	_	12	com	_	_
+NNPS	_	13	nsbj	_	_
+VBP	_	9	comp	_	_
+NNP	_	15	com	_	_
+NNP	_	13	obj	18:nsbj	_
+,	_	15	p	_	_
+WP	_	18	r-nsbj	_	_
+VBD	_	15	relcl	_	_
+IN	_	21	case	_	_
+NNP	_	21	com	_	_
+NNS	_	18	ppmod	_	_
+.	_	9	p	_	_
+

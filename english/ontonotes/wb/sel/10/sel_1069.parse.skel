@@ -1,0 +1,12 @@
+WRB	sem=loc	2	adv	_	_
+VBZ	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	2	nsbj	9:adv	_
+WRB	sem=loc	9	r-adv	_	_
+DT	_	7	det	_	_
+NNS	_	9	nsbj	_	_
+RB	_	9	adv	_	_
+VBP	_	4	relcl	_	_
+PRP	_	9	obj	_	_
+.	_	2	p	_	_
+

@@ -1,0 +1,11 @@
+MD	_	3	modal	_	_
+NNP	_	3	nsbj	_	_
+VB	_	0	root	_	_
+JJ	_	5	attr	_	_
+NNS	_	3	obj	_	_
+IN	_	8	case	_	_
+``	_	8	p	_	_
+NN	_	5	ppmod	_	_
+''	_	8	p	_	_
+.	_	3	p	_	_
+

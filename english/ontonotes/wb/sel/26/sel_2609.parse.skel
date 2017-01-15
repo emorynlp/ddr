@@ -1,0 +1,27 @@
+CC	_	7	cc	_	_
+IN	_	4	mark	_	_
+PRP	_	4	nsbj	_	_
+VBP	sem=tmp	7	advcl	11:advcl;17:advcl	_
+PRP	_	4	obj	_	_
+,	_	7	p	_	_
+VB	_	0	root	_	_
+DT	_	9	det	_	_
+NNS	_	7	obj	_	_
+CC	_	7	cc	_	_
+VB	_	7	conj	_	_
+DT	_	13	det	_	_
+NN	_	11	obj	_	_
+RB	_	15	com	_	_
+RB	sem=clr	11	adv	_	_
+CC	_	11	cc	_	_
+VB	_	7	conj	_	_
+IN	_	22	mark	_	_
+EX	_	22	expl	_	_
+VBZ	_	22	cop	_	_
+DT	_	22	det	_	_
+NN	_	17	comp	_	_
+IN	_	25	case	_	_
+DT	_	25	det	_	_
+NN	_	22	ppmod	_	_
+.	_	7	p	_	_
+

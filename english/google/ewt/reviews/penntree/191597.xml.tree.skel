@@ -1,0 +1,34 @@
+JJ	_	0	root	_	_
+.	_	1	p	_	_
+
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+JJ	_	2	dep	_	_
+
+DT	_	2	det	_	_
+NN	_	5	nsbj	_	_
+RB	sem=loc	2	adv	_	_
+VBZ	_	5	cop	_	_
+JJ	_	0	root	_	_
+.	_	5	p	_	_
+
+NN	_	2	com	_	_
+NNS	_	5	nsbj	_	_
+VBP	_	5	cop	_	_
+PRP$	_	5	poss	_	_
+NN	_	10	comp	_	_
+JJ	_	10	dep	_	_
+CC	_	6	cc	_	_
+JJ	_	6	conj	_	_
+RB	_	10	adv	_	_
+VBP	_	0	root	_	_
+NNP	_	12	com	_	_
+NNP	_	10	obj	_	_
+.	_	10	p	_	_
+
+VBZ	_	2	cop	_	_
+JJ	_	4	advcl	_	_
+RB	_	4	adv	_	_
+VB	_	0	root	_	_
+RB	sem=tmp	4	adv	_	_
+

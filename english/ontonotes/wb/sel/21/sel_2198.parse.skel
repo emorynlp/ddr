@@ -1,0 +1,13 @@
+PRP	_	5	nsbj	_	_
+VBD	_	5	aux	_	_
+RB	_	5	neg	_	_
+RB	sem=tmp	5	adv	_	_
+VB	_	0	root	_	_
+``	_	10	p	_	_
+JJ	_	10	attr	_	_
+JJ	_	10	attr	_	_
+''	_	10	p	_	_
+NN	_	5	obj	_	_
+NFP	_	5	p	_	_
+.	_	5	p	_	_
+

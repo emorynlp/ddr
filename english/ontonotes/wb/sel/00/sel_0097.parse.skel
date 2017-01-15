@@ -1,0 +1,19 @@
+CC	_	17	cc	_	_
+WRB	sem=tmp	4	adv	_	_
+PRP	_	4	nsbj	_	_
+VBP	sem=tmp	17	advcl	_	_
+IN	_	10	mark	_	_
+NN	_	10	nsbj	_	_
+MD	_	10	modal	_	_
+RB	sem=tmp	10	adv	_	_
+VB	_	10	cop	_	_
+CD	_	4	comp	_	_
+,	_	17	p	_	_
+IN	_	14	case	_	_
+WDT	_	14	det	_	_
+NN	sem=clr	17	ppmod	_	_
+VBZ	_	17	aux	_	_
+DT	_	17	nsbj	_	_
+VB	_	0	root	_	_
+.	_	17	p	_	_
+

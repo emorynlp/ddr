@@ -1,0 +1,23 @@
+VBG	_	2	aux	_	_
+VBN	_	9	advcl	16:advcl	_
+DT	_	2	obj	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NN	_	9	ppmod	_	_
+PRP	_	9	nsbj	16:nsbj	_
+MD	_	9	modal	_	_
+VB	_	0	root	_	_
+RP	_	9	prt	_	_
+DT	_	12	det	_	_
+NNS	_	9	obj	_	_
+IN	_	14	case	_	_
+PRP	sem=clr	9	ppmod	_	_
+CC	_	9	cc	_	_
+VB	_	9	conj	_	_
+JJ	_	18	attr	_	_
+NN	_	16	obj	_	_
+CC	_	18	cc	_	_
+NN	_	21	com	_	_
+NN	_	18	conj	_	_
+.	_	9	p	_	_
+

@@ -1,0 +1,23 @@
+LS	_	5	meta	_	_
+NN	_	5	dep	_	_
+:	_	5	p	_	_
+NNS	_	5	nsbj	7:nsbj	_
+VBP	_	0	root	_	_
+TO	_	7	aux	_	_
+VB	_	5	comp	_	_
+DT	_	9	det	_	_
+NN	_	7	obj	_	_
+VBN	_	16	adv	_	_
+IN	_	16	case	_	_
+DT	_	16	det	_	_
+``	_	16	p	_	_
+IN	_	16	case	_	_
+''	_	16	p	_	_
+NN	sem=prp	7	ppmod	_	_
+IN	_	21	case	_	_
+``	_	21	p	_	_
+NN	_	21	attr	_	_
+''	_	21	p	_	_
+NN	_	16	ppmod	_	_
+.	_	5	p	_	_
+

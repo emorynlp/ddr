@@ -1,0 +1,20 @@
+PRP	_	7	nsbj	_	_
+RB	_	7	adv	_	_
+VBD	_	7	lv	_	_
+DT	_	7	det	_	_
+NNP	_	7	attr	_	_
+CD	_	7	num	_	_
+NN	_	0	root	10:nsbj;12:nsbj;14:nsbj	_
+WDT	_	10	r-nsbj	_	_
+RB	_	10	adv	_	_
+VBZ	_	7	relcl	_	_
+TO	_	12	aux	_	_
+VB	_	10	comp	_	_
+CC	_	12	cc	_	_
+VB	_	12	conj	_	_
+IN	_	18	case	_	_
+DT	_	18	det	_	_
+NN	_	18	com	_	_
+NN	sem=clr	14	ppmod	_	_
+.	_	7	p	_	_
+

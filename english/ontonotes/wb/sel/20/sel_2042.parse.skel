@@ -1,0 +1,16 @@
+NNS	_	7	dep	_	_
+IN	_	4	case	_	_
+DT	_	4	det	_	_
+NN	_	1	ppmod	_	_
+NN	_	1	voc	_	_
+PRP	_	7	nsbj	_	_
+VBP	_	0	root	_	_
+JJ	_	9	attr	_	_
+NNS	_	13	nsbj	_	_
+IN	_	11	case	_	_
+PRP	_	9	ppmod	_	_
+RB	sem=tmp	13	neg	_	_
+VBP	_	7	comp	_	_
+NNS	_	13	obj	_	_
+.	_	7	p	_	_
+

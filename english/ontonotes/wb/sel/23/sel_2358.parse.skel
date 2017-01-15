@@ -1,0 +1,27 @@
+NN	_	2	obj	_	_
+VBN	_	0	root	_	_
+RB	sem=dir	2	adv	_	_
+,	_	2	p	_	_
+DT	_	8	det	_	_
+CD	_	8	num	_	_
+JJ	_	8	attr	_	_
+NNS	_	9	nsbj	10:nsbj	_
+VBN	_	2	conj	_	_
+JJ	sem=clr	9	comp	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+NN	_	10	ppmod	_	_
+,	_	9	p	_	_
+CC	_	9	cc	_	_
+DT	_	19	det	_	_
+JJ	_	19	attr	_	_
+NN	_	19	com	_	_
+NN	_	22	dep	_	_
+CC	_	19	cc	_	_
+NN	_	19	conj	_	_
+VBG	_	2	conj	_	_
+IN	_	25	case	_	_
+DT	_	25	det	_	_
+JJ	sem=clr	22	ppmod	_	_
+.	_	22	p	_	_
+

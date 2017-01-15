@@ -1,0 +1,25 @@
+PRP	_	3	nsbj	_	_
+VBP	_	3	aux	_	_
+VBN	_	0	root	_	_
+DT	_	10	det	_	_
+RB	_	6	adv	_	_
+JJ	_	10	attr	_	_
+NNP	_	10	attr	_	_
+CC	_	7	cc	_	_
+NNP	_	7	conj	_	_
+NNP	_	11	nsbj	_	_
+VB	_	3	comp	_	_
+IN	_	13	case	_	_
+CD	_	15	num	_	_
+SYM	_	13	p	_	_
+JJ	sem=clr	11	comp	_	_
+IN	_	18	case	_	_
+DT	_	18	det	_	_
+NN	sem=loc	11	ppmod	_	_
+IN	_	23	mark	_	_
+DT	_	21	det	_	_
+NN	_	23	nsbj	_	_
+VBD	_	23	cop	_	_
+JJ	sem=tmp	11	advcl	_	_
+.	_	3	p	_	_
+

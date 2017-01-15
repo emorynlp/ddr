@@ -1,0 +1,16 @@
+RB	sem=mnr	6	adv	_	_
+,	_	6	p	_	_
+JJ	_	5	attr	_	_
+JJ	_	5	attr	_	_
+NNS	_	6	nsbj	_	_
+VBP	_	0	root	_	_
+NN	_	6	obj	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+JJ	_	14	attr	_	_
+``	_	14	p	_	_
+NN	_	14	attr	_	_
+''	_	14	p	_	_
+NN	sem=clr	6	ppmod	_	_
+.	_	6	p	_	_
+

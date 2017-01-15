@@ -1,0 +1,16 @@
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBD	_	9	advcl	_	_
+RB	_	3	neg	_	_
+,	_	9	p	_	_
+WRB	sem=prp	13	adv	_	_
+MD	_	9	modal	_	_
+NNS	_	9	nsbj	_	_
+VB	_	0	root	_	_
+NNS	_	9	obj	_	_
+CC	_	9	cc	_	_
+NNS	_	13	nsbj	_	_
+VB	_	9	conj	_	_
+PRP	_	13	obj	_	_
+.	_	9	p	_	_
+

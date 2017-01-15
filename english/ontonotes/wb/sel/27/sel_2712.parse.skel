@@ -1,0 +1,22 @@
+CC	_	8	cc	_	_
+WDT	_	3	det	_	_
+NN	_	8	obj	_	_
+VBP	_	8	aux	_	_
+NN	_	6	com	_	_
+NNS	_	8	nsbj	_	_
+RB	_	8	adv	_	_
+VBG	_	0	root	_	_
+IN	_	13	case	_	_
+PDT	_	13	det	_	_
+DT	_	13	det	_	_
+JJ	_	13	attr	_	_
+NNS	sem=clr	8	ppmod	16:obj	_
+PRP$	_	15	poss	_	_
+NNS	_	16	nsbj	18:nsbj	_
+VBP	_	13	relcl	_	_
+RP	_	16	prt	_	_
+VBG	_	16	advcl	_	_
+DT	_	20	det	_	_
+NNS	_	18	obj	_	_
+.	_	8	p	_	_
+

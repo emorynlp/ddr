@@ -1,0 +1,13 @@
+NNP	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+RB	sem=mnr	2	adv	_	_
+IN	_	8	case	_	_
+PDT	_	8	det	_	_
+DT	_	8	det	_	_
+NN	_	8	com	_	_
+NNS	sem=clr	2	ppmod	10:obj	_
+PRP	_	10	nsbj	_	_
+VBP	_	8	relcl	_	_
+PRP	_	10	dat	_	_
+.	_	2	p	_	_
+

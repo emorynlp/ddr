@@ -1,0 +1,17 @@
+IN	_	4	mark	_	_
+PRP	_	4	nsbj	_	_
+DT	_	2	appo	_	_
+VBP	_	9	advcl	15:advcl	_
+NNS	_	4	obj	_	_
+,	_	9	p	_	_
+PRP$	_	8	poss	_	_
+NNS	_	9	nsbj	15:nsbj	_
+VBP	_	0	root	_	_
+IN	_	11	case	_	_
+PRP	_	9	ppmod	_	_
+,	_	9	p	_	_
+CC	_	9	cc	_	_
+VBP	_	15	aux	_	_
+VBG	_	9	conj	_	_
+.	_	9	p	_	_
+

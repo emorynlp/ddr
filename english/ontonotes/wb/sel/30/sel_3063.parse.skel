@@ -1,0 +1,21 @@
+PRP	_	5	nsbj	_	_
+VBP	_	5	raise	_	_
+RB	sem=tmp	5	adv	_	_
+TO	_	5	aux	_	_
+VB	_	0	root	_	_
+NNP	_	8	poss	_	_
+POS	_	6	case	_	_
+NN	_	5	obj	12:nsbj	_
+CC	_	8	cc	_	_
+NNS	_	8	conj	_	_
+WDT	_	12	r-nsbj	_	_
+VBP	_	8	relcl	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+NN	sem=clr	12	ppmod	19:obj	_
+PRP	_	19	nsbj	_	_
+VBP	_	19	raise	_	_
+TO	_	19	aux	_	_
+VB	_	15	relcl	_	_
+.	_	5	p	_	_
+

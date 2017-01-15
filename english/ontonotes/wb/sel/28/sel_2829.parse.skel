@@ -1,0 +1,17 @@
+WP	_	0	root	_	_
+IN	_	4	mark	_	_
+PRP	_	4	nsbj	8:nsbj;13:nsbj	_
+VBD	_	1	advcl	_	_
+JJ	_	6	attr	_	_
+NNS	_	4	obj	_	_
+,	_	4	p	_	_
+VBD	_	4	conj	_	_
+PRP	_	8	obj	_	_
+RP	_	8	prt	_	_
+,	_	8	p	_	_
+CC	_	8	cc	_	_
+VBD	_	4	conj	_	_
+RB	_	13	adv	_	_
+NN	_	13	obj	_	_
+.	_	1	p	_	_
+

@@ -1,0 +1,18 @@
+RB	sem=tmp	2	adv	_	_
+VB	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	2	obj	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NN	sem=clr	2	ppmod	_	_
+,	_	2	p	_	_
+VBG	_	2	advcl	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NN	_	13	advnp	_	_
+RB	_	15	adv	_	_
+,	_	15	p	_	_
+RB	sem=dir	9	neg	_	_
+IN	_	15	case	_	_
+.	_	2	p	_	_
+

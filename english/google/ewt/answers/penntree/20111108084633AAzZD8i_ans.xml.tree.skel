@@ -1,0 +1,46 @@
+WRB	_	2	adv	_	_
+JJ	_	3	attr	_	_
+NNS	_	7	obj	_	_
+MD	_	7	modal	_	_
+NN	_	6	com	_	_
+NN	_	7	nsbj	9:nsbj	_
+VB	_	0	root	_	_
+TO	_	9	aux	_	_
+VB	sem=clr	7	comp	_	_
+IN	_	11	case	_	_
+NNP	sem=dir	9	ppmod	_	_
+IN	_	13	case	_	_
+NNP	sem=dir	9	ppmod	_	_
+.	_	7	p	_	_
+
+VB	_	0	root	_	_
+PRP	_	1	dat	_	_
+CD	_	4	num	_	_
+NNS	_	1	obj	_	_
+VBG	_	4	acl	_	_
+NNPS	_	5	obj	_	_
+CC	_	6	cc	_	_
+NNS	_	6	conj	_	_
+.	_	1	p	_	_
+
+CD	_	3	num	_	_
+IN	_	3	case	_	_
+CD	_	4	num	_	_
+NNS	_	12	dep	_	_
+IN	_	8	mark	_	_
+PRP	_	8	nsbj	_	_
+VBP	_	8	cop	_	_
+JJ	_	4	advcl	_	_
+IN	_	10	case	_	_
+JJ	_	12	ppmod	_	_
+PRP	_	12	nsbj	_	_
+VBZ	_	0	root	_	_
+RB	_	14	adv	_	_
+CD	_	15	num	_	_
+NNS	_	12	obj	_	_
+.	_	12	p	_	_
+
+UH	_	3	disc	_	_
+CD	_	3	num	_	_
+NN	_	0	root	_	_
+

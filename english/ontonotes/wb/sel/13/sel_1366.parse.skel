@@ -1,0 +1,22 @@
+MD	_	4	modal	_	_
+PRP	_	4	expl	_	_
+VB	_	4	cop	_	_
+JJ	_	0	root	_	_
+IN	_	10	mark	_	_
+DT	_	8	det	_	_
+JJ	_	8	attr	_	_
+NNS	_	10	nsbj	14:nsbj	_
+TO	_	10	aux	_	_
+VB	_	4	csbj	_	_
+PRP	_	10	obj	_	_
+RB	_	10	adv	_	_
+CC	_	10	cc	_	_
+VB	_	10	conj	_	_
+PRP	_	14	dat	_	_
+DT	_	17	det	_	_
+NN	_	14	obj	_	_
+IN	_	20	case	_	_
+PRP$	_	20	poss	_	_
+NNS	_	17	ppmod	_	_
+.	_	4	p	_	_
+

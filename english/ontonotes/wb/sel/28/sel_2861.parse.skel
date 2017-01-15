@@ -1,0 +1,17 @@
+IN	_	6	mark	_	_
+DT	_	3	det	_	_
+NN	_	6	obj	_	_
+VBZ	_	6	aux	_	_
+RB	sem=mnr	6	adv	_	_
+VBN	_	8	advcl	_	_
+PRP	_	8	nsbj	_	_
+VBZ	_	0	root	_	_
+CC	_	11	cc	_	_
+DT	_	11	det	_	_
+NN	_	15	nsbj	_	_
+CC	_	11	cc	_	_
+DT	_	14	det	_	_
+NN	_	11	conj	_	_
+JJ	_	8	comp	_	_
+.	_	8	p	_	_
+

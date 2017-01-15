@@ -1,0 +1,17 @@
+NN	_	0	root	_	_
+:	_	1	p	_	_
+NN	_	1	appo	6:adv	_
+WRB	sem=loc	6	r-adv	_	_
+PRP	_	6	nsbj	_	_
+VBP	_	3	relcl	_	_
+IN	_	10	case	_	_
+VBN	_	10	attr	_	_
+RP	_	8	prt	_	_
+NNS	sem=clr	6	ppmod	_	_
+IN	_	15	case	_	_
+NNS	_	15	poss	_	_
+POS	_	12	case	_	_
+NN	_	15	com	_	_
+NNS	_	10	ppmod	_	_
+.	_	1	p	_	_
+

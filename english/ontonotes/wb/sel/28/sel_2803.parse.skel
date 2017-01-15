@@ -1,0 +1,27 @@
+CD	_	4	num	_	_
+NNP	sem=loc	4	advnp	_	_
+NNP	sem=loc	4	advnp	_	_
+CD	_	12	num	_	_
+VBG	_	12	advcl	_	_
+IN	_	8	case	_	_
+NN	_	8	com	_	_
+NNS	sem=clr	5	ppmod	_	_
+,	_	12	p	_	_
+JJ	_	11	attr	_	_
+NNS	_	12	nsbj	_	_
+VBP	_	0	root	_	_
+DT	_	14	det	_	_
+NN	_	12	obj	15:obj	_
+VBN	_	14	acl	_	_
+IN	_	18	case	_	_
+NN	_	18	com	_	_
+NNS	sem=clr	15	ppmod	_	_
+IN	_	22	case	_	_
+DT	_	22	det	_	_
+JJ	_	22	attr	_	_
+NN	sem=clr	12	ppmod	_	_
+IN	_	25	case	_	_
+DT	_	25	det	_	_
+NN	_	22	ppmod	_	_
+.	_	12	p	_	_
+

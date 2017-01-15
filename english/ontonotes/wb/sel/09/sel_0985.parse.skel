@@ -1,0 +1,17 @@
+EX	_	7	expl	_	_
+VBZ	_	7	cop	_	_
+RB	_	4	adv	_	_
+CD	_	7	num	_	_
+NN	_	4	meta	_	_
+JJ	_	7	attr	_	_
+NNS	_	0	root	8:nsbj	_
+VBP	_	7	relcl	_	_
+DT	_	10	det	_	_
+NN	_	8	dat	_	_
+IN	_	12	case	_	_
+PRP	_	10	ppmod	_	_
+DT	_	15	det	_	_
+JJ	_	15	attr	_	_
+NN	_	8	obj	_	_
+.	_	7	p	_	_
+

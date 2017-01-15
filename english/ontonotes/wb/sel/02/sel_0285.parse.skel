@@ -1,0 +1,11 @@
+IN	_	2	case	_	_
+NN	_	6	ppmod	_	_
+DT	_	4	det	_	_
+NNS	_	6	nsbj	_	_
+VBP	_	6	aux	_	_
+VB	_	0	root	_	_
+NNP	_	8	com	_	_
+NNS	_	6	obj	9:nsbj	_
+NNPS	sem=clr	6	comp	_	_
+.	_	6	p	_	_
+

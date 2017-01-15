@@ -1,0 +1,19 @@
+NNP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+CD	_	4	num	_	_
+NNS	_	2	obj	_	_
+IN	_	9	mark	_	_
+DT	_	8	det	_	_
+JJ	_	8	attr	_	_
+NNS	_	9	nsbj	16:nsbj	_
+VBD	sem=tmp	2	advcl	_	_
+RP	_	9	prt	_	_
+DT	_	14	det	_	_
+VBN	_	14	attr	_	_
+NNP	_	14	com	_	_
+NN	_	9	obj	_	_
+TO	_	16	aux	_	_
+VB	sem=prp	9	advcl	_	_
+NN	_	16	obj	_	_
+.	_	2	p	_	_
+

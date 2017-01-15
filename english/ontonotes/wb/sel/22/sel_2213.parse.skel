@@ -1,0 +1,16 @@
+RB	_	2	adv	_	_
+CD	_	0	root	_	_
+IN	_	5	mark	_	_
+PRP	_	5	nsbj	10:nsbj	_
+VBP	_	2	advcl	_	_
+PRP	_	8	nsbj	_	_
+NN	_	8	advnp	_	_
+JJ	_	5	comp	_	_
+CC	_	5	cc	_	_
+VBP	_	5	conj	_	_
+``	_	10	p	_	_
+NNP	_	10	obj	_	_
+''	_	10	p	_	_
+RB	_	2	adv	_	_
+,	_	2	p	_	_
+

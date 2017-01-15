@@ -1,0 +1,12 @@
+PRP	_	2	nsbj	7:nsbj	_
+VBP	_	0	root	_	_
+PRP	_	2	dat	_	_
+JJ	_	5	attr	_	_
+NNS	_	2	obj	_	_
+CC	_	2	cc	_	_
+VBP	_	2	conj	_	_
+PRP	_	7	dat	_	_
+JJ	_	10	attr	_	_
+NN	_	7	obj	_	_
+.	_	2	p	_	_
+

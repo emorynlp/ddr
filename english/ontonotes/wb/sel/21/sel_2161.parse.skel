@@ -1,0 +1,25 @@
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NN	_	5	com	_	_
+HYPH	_	5	p	_	_
+NN	_	6	com	_	_
+NN	_	0	root	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+NN	_	11	com	_	_
+HYPH	_	11	p	_	_
+NN	_	12	com	_	_
+NN	_	6	ppmod	_	_
+,	_	6	p	_	_
+IN	_	17	mark	_	_
+PRP	_	17	nsbj	_	_
+MD	_	17	modal	_	_
+VB	sem=prp	6	advcl	_	_
+NN	_	19	com	_	_
+NNS	_	17	obj	_	_
+IN	sem=tmp	17	ppmod	_	_
+IN	_	23	case	_	_
+DT	_	23	det	_	_
+NN	sem=loc	20	ppmod	_	_
+.	_	6	p	_	_
+

@@ -1,0 +1,20 @@
+PRP	_	2	nsbj	_	_
+VBP	_	13	comp	_	_
+IN	_	4	case	_	_
+NNP	_	9	ppmod	_	_
+NN	_	6	com	_	_
+NNS	_	9	obj	_	_
+VBP	_	9	aux	_	_
+RB	sem=tmp	9	adv	_	_
+VBN	_	2	comp	_	_
+NFP	_	13	p	_	_
+VBZ	_	13	aux	_	_
+DT	_	13	nsbj	_	_
+VB	_	0	root	_	_
+IN	_	16	case	_	_
+NN	_	16	com	_	_
+NNS	sem=clr	13	ppmod	_	_
+RB	_	18	com	_	_
+RB	_	16	adv	_	_
+.	_	13	p	_	_
+

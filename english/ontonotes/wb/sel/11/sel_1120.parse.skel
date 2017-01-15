@@ -1,0 +1,16 @@
+DT	_	9	nsbj	_	_
+``	_	7	p	_	_
+NNP	_	5	attr	_	_
+IN	_	5	case	_	_
+NNP	_	7	attr	_	_
+''	_	7	p	_	_
+NNS	_	1	appo	_	_
+MD	_	9	modal	_	_
+VB	_	0	root	_	_
+JJS	_	12	attr	_	_
+JJ	_	12	attr	_	_
+NNS	_	14	nsbj	_	_
+DT	_	14	det	_	_
+NN	_	9	comp	_	_
+.	_	9	p	_	_
+

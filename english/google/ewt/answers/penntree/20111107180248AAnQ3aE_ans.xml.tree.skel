@@ -1,0 +1,83 @@
+UH	_	6	disc	_	_
+UH	_	6	disc	_	_
+WRB	sem=mnr	6	adv	_	_
+MD	_	6	modal	_	_
+PRP	_	6	nsbj	_	_
+VB	_	0	root	_	_
+NNP	_	8	com	_	_
+NNP	_	6	obj	_	_
+RB	_	6	adv	_	_
+IN	_	11	case	_	_
+NNP	sem=loc	6	ppmod	_	_
+UH	_	6	disc	_	_
+.	_	6	p	_	_
+
+PRP	_	2	nsbj	_	_
+MD	_	0	root	_	_
+RB	_	2	neg	_	_
+.	_	2	p	_	_
+
+PRP	_	4	nsbj	_	_
+VBP	_	4	aux	_	_
+RB	_	4	neg	_	_
+VB	_	0	root	_	_
+PRP	_	4	obj	_	_
+IN	_	8	case	_	_
+NNP	_	8	com	_	_
+NNP	_	4	ppmod	_	_
+
+PRP	_	2	nsbj	_	_
+MD	_	0	root	_	_
+RB	_	2	neg	_	_
+CC	_	2	cc	_	_
+RB	sem=loc	2	conj	_	_
+VBZ	_	5	cop	_	_
+DT	_	8	det	_	_
+NN	_	5	nsbj	_	_
+:	_	5	p	_	_
+DT	_	11	det	_	_
+NN	_	15	nsbj	_	_
+VBZ	_	15	aux	_	_
+JJ	_	15	modal	_	_
+TO	_	15	aux	_	_
+VB	_	2	conj	_	_
+DT	_	17	det	_	_
+NN	_	15	obj	_	_
+IN	_	20	case	_	_
+PRP$	_	20	poss	_	_
+NN	_	17	ppmod	_	_
+CC	_	20	cc	_	_
+NNP	_	20	conj	30:nsbj	_
+-LRB-	_	30	p	_	_
+WP	_	30	r-nsbj	_	_
+VBZ	_	30	aux	_	_
+VBN	_	30	cop	_	_
+PRP$	_	30	poss	_	_
+JJ	_	30	attr	_	_
+JJS	_	30	attr	_	_
+NN	_	22	relcl	_	_
+-RRB-	_	30	p	_	_
+.	_	15	p	_	_
+
+NNP	_	4	nsbj	_	_
+VBZ	_	4	cop	_	_
+RB	sem=tmp	4	adv	_	_
+IN	_	0	root	_	_
+NNP	_	4	obj	_	_
+.	_	4	p	_	_
+
+NNP	_	3	nsbj	_	_
+VBZ	_	3	cop	_	_
+JJ	_	0	root	_	_
+.	_	3	p	_	_
+
+VBP	_	0	root	_	_
+PRP	_	5	nsbj	_	_
+VBP	_	5	aux	_	_
+RB	_	5	neg	_	_
+VB	_	1	comp	_	_
+PRP	_	5	obj	_	_
+RB	_	8	com	_	_
+RB	_	5	adv	_	_
+.	_	1	p	_	_
+

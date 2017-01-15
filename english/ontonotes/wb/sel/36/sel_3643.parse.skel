@@ -1,0 +1,15 @@
+NNP	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBD	_	0	root	_	_
+RP	_	3	prt	_	_
+DT	_	3	obj	_	_
+IN	_	7	case	_	_
+VBG	sem=mnr	3	ppmod	_	_
+RP	_	7	prt	_	_
+IN	_	10	case	_	_
+PRP	sem=loc	7	ppmod	_	_
+:	_	3	p	_	_
+RB	_	13	neg	_	_
+JJ	_	3	comp	_	_
+.	_	3	p	_	_
+

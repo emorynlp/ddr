@@ -1,0 +1,24 @@
+CC	_	8	cc	_	_
+RB	_	8	adv	_	_
+,	_	8	p	_	_
+NNS	_	8	nsbj	5:obj;6:nsbj;19:nsbj	_
+VBN	_	4	acl	_	_
+JJR	sem=clr	5	comp	_	_
+,	_	8	p	_	_
+VBD	_	0	root	_	_
+RP	_	8	prt	_	_
+JJR	_	11	attr	_	_
+NN	_	8	obj	_	_
+,	_	8	p	_	_
+CC	_	8	cc	_	_
+IN	_	16	case	_	_
+DT	_	16	det	_	_
+RB	_	19	ppmod	_	_
+VBD	_	19	aux	_	_
+RB	_	19	neg	_	_
+VB	_	8	conj	_	_
+RP	_	19	prt	_	_
+IN	_	22	case	_	_
+NN	_	19	ppmod	_	_
+.	_	8	p	_	_
+

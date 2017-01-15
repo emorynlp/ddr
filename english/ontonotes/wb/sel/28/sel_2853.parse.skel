@@ -1,0 +1,27 @@
+PDT	_	3	det	_	_
+PRP$	_	3	poss	_	_
+NNS	_	5	obj	_	_
+VBP	_	5	aux	_	_
+VBN	_	0	root	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	sem=clr	5	ppmod	12:ppmod	_
+IN	_	10	case	_	_
+WDT	sem=mnr	12	r-ppmod	_	_
+PRP	_	12	nsbj	_	_
+VBD	_	8	relcl	_	_
+NNS	_	12	obj	_	_
+IN	_	15	case	_	_
+NN	_	13	ppmod	_	_
+CC	_	15	cc	_	_
+NN	_	15	conj	_	_
+CC	_	8	cc	_	_
+IN	_	22	case	_	_
+DT	_	22	det	_	_
+JJ	_	22	attr	_	_
+NN	_	8	conj	_	_
+IN	_	25	case	_	_
+PRP$	_	25	poss	_	_
+NNS	_	22	ppmod	_	_
+.	_	5	p	_	_
+

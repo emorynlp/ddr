@@ -1,0 +1,14 @@
+PRP	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBP	_	0	root	_	_
+IN	_	8	mark	_	_
+DT	_	6	det	_	_
+NN	_	8	nsbj	_	_
+MD	_	8	modal	_	_
+VB	_	3	comp	_	_
+JJ	_	10	attr	_	_
+NNS	_	11	nsbj	_	_
+VBG	_	8	comp	_	_
+NNP	_	11	obj	_	_
+.	_	3	p	_	_
+

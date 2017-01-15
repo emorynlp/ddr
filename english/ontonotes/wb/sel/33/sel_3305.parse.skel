@@ -1,0 +1,21 @@
+PRP$	_	2	poss	_	_
+NN	_	3	nsbj	13:nsbj	_
+VBD	_	0	root	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NN	sem=clr	3	ppmod	_	_
+IN	_	8	case	_	_
+NN	_	6	ppmod	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	_	8	ppmod	_	_
+CC	_	3	cc	_	_
+VBD	_	3	conj	_	_
+IN	_	16	case	_	_
+JJ	_	16	attr	_	_
+NNS	sem=mnr	13	ppmod	_	_
+IN	_	19	case	_	_
+DT	_	19	det	_	_
+NN	sem=dir	13	ppmod	_	_
+.	_	3	p	_	_
+

@@ -1,0 +1,20 @@
+UH	_	6	disc	_	_
+,	_	1	p	_	_
+NNP	_	1	voc	_	_
+PRP	_	6	nsbj	_	_
+RB	_	6	adv	_	_
+VBP	_	0	root	_	_
+CD	_	9	obj	_	_
+NN	_	7	meta	_	_
+VBN	_	6	comp	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+NN	sem=clr	9	ppmod	_	_
+IN	_	15	case	_	_
+CD	_	15	num	_	_
+NN	_	12	ppmod	_	_
+VBG	_	15	acl	_	_
+CD	_	18	num	_	_
+NNS	_	16	obj	_	_
+.	_	6	p	_	_
+

@@ -1,0 +1,23 @@
+WRB	sem=tmp	10	adv	3:adv;5:adv;7:adv	_
+PRP	_	3	nsbj	5:nsbj;7:nsbj;10:nsbj	_
+VBP	sem=tmp	19	advcl	_	_
+,	_	3	p	_	_
+VBP	_	3	conj	_	_
+,	_	5	p	_	_
+VBP	_	3	conj	_	_
+,	_	7	p	_	_
+CC	_	7	cc	_	_
+VBP	_	3	conj	_	_
+DT	_	13	det	_	_
+NNP	_	13	com	_	_
+NN	_	10	obj	_	_
+,	_	19	p	_	_
+DT	_	16	det	_	_
+NN	_	19	nsbj	_	_
+IN	_	18	case	_	_
+NN	_	16	ppmod	_	_
+VBZ	_	0	root	_	_
+RB	_	21	com	_	_
+RB	sem=ext	19	adv	_	_
+.	_	19	p	_	_
+

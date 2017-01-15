@@ -1,0 +1,27 @@
+IN	_	3	case	_	_
+CD	_	3	num	_	_
+NN	_	7	ppmod	_	_
+,	_	7	p	_	_
+PRP	_	7	nsbj	_	_
+RB	_	7	adv	_	_
+VBP	_	0	root	_	_
+DT	_	9	det	_	_
+NNS	_	7	obj	_	_
+WRB	sem=loc	25	adv	_	_
+DT	_	12	det	_	_
+NN	_	25	nsbj	_	_
+-LRB-	_	12	p	_	_
+PRP$	_	16	poss	_	_
+JJ	_	16	attr	_	_
+NN	_	12	appo	_	_
+,	_	12	p	_	_
+VB	_	12	prn	_	_
+PRP$	_	21	poss	_	_
+JJ	_	21	attr	_	_
+NNS	_	18	obj	_	_
+-RRB-	_	12	p	_	_
+VBZ	_	25	aux	_	_
+RB	_	25	neg	_	_
+VB	sem=loc	7	advcl	_	_
+.	_	7	p	_	_
+

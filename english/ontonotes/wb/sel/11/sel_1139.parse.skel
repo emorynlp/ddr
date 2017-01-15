@@ -1,0 +1,15 @@
+VBN	_	5	advcl	_	_
+CC	_	1	cc	_	_
+VBN	_	1	conj	_	_
+PRP	_	5	nsbj	1:obj	_
+VBP	_	0	root	_	_
+RB	_	7	adv	_	_
+JJ	_	8	attr	_	_
+NN	_	5	obj	_	_
+CC	_	5	cc	_	_
+PRP	_	13	nsbj	_	_
+VBP	_	13	cop	_	_
+JJ	_	13	attr	_	_
+NNS	_	5	conj	_	_
+.	_	13	p	_	_
+

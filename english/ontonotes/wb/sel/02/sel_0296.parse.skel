@@ -1,0 +1,14 @@
+PRP	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBP	_	0	root	_	_
+JJ	_	5	attr	_	_
+NNS	_	7	nsbj	_	_
+TO	_	7	aux	_	_
+VB	_	3	comp	_	_
+RP	_	7	prt	_	_
+IN	_	10	case	_	_
+RB	sem=dir	7	ppmod	_	_
+CC	_	10	cc	_	_
+RB	_	10	conj	_	_
+.	_	3	p	_	_
+

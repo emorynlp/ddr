@@ -1,0 +1,13 @@
+NNS	_	0	root	3:nsbj	_
+WP	_	3	r-nsbj	_	_
+VBP	_	1	relcl	_	_
+NNS	_	3	obj	_	_
+IN	_	7	case	_	_
+NNP	_	7	com	_	_
+NNP	_	4	ppmod	_	_
+IN	_	11	case	_	_
+NNP	_	10	com	_	_
+NNP	_	11	com	_	_
+NNP	_	7	ppmod	_	_
+.	_	1	p	_	_
+

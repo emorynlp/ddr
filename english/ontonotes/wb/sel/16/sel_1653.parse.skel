@@ -1,0 +1,21 @@
+TO	_	2	aux	_	_
+VB	sem=prp	12	advcl	_	_
+NNS	_	2	obj	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NNP	_	7	com	_	_
+NNP	_	9	com	_	_
+NNP	_	9	com	_	_
+NNP	sem=clr	2	ppmod	_	_
+''	_	12	p	_	_
+RB	_	12	adv	_	_
+VB	_	0	root	_	_
+DT	_	14	det	_	_
+NN	_	12	obj	_	_
+IN	_	16	case	_	_
+VBG	sem=mnr	12	ppmod	_	_
+PRP$	_	19	poss	_	_
+NN	_	19	com	_	_
+NN	_	16	obj	_	_
+.	_	12	p	_	_
+

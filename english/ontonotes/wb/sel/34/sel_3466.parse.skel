@@ -1,0 +1,14 @@
+PRP	_	3	nsbj	5:nsbj;10:nsbj	_
+VBP	_	3	aux	_	_
+VB	_	0	root	_	_
+TO	_	5	aux	_	_
+VB	_	3	comp	_	_
+DT	_	7	det	_	_
+JJ	_	5	obj	_	_
+CC	_	5	cc	_	_
+RB	sem=tmp	10	adv	5:adv	_
+VB	_	5	conj	_	_
+DT	_	12	det	_	_
+NN	_	10	obj	_	_
+.	_	3	p	_	_
+

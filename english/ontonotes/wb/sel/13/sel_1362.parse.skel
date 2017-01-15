@@ -1,0 +1,23 @@
+IN	_	3	mark	_	_
+DT	_	3	obj	_	_
+VBN	_	8	advcl	_	_
+,	_	8	p	_	_
+PRP	_	8	nsbj	10:nsbj	_
+MD	_	8	modal	_	_
+RB	_	8	adv	_	_
+VB	_	0	root	_	_
+TO	_	10	aux	_	_
+VB	_	8	comp	_	_
+DT	_	12	det	_	_
+JJR	_	10	obj	_	_
+IN	_	14	case	_	_
+DT	sem=tmp	10	ppmod	_	_
+,	_	8	p	_	_
+IN	_	21	mark	_	_
+PRP	_	21	nsbj	_	_
+VBZ	_	21	aux	_	_
+RB	_	21	adv	_	_
+VBG	_	21	cop	_	_
+JJ	sem=prp	8	advcl	_	_
+.	_	8	p	_	_
+

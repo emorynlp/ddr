@@ -1,0 +1,16 @@
+JJ	_	3	attr	_	_
+NN	_	3	com	_	_
+NN	_	9	nsbj	_	_
+IN	_	6	case	_	_
+NN	_	6	nsbj	_	_
+VBG	_	3	ppmod	_	_
+JJ	_	8	attr	_	_
+NNS	_	6	obj	_	_
+VBZ	_	0	root	_	_
+DT	_	11	det	_	_
+NNS	_	9	obj	_	_
+CC	_	11	cc	_	_
+NNS	_	11	conj	_	_
+RB	_	9	adv	_	_
+.	_	9	p	_	_
+

@@ -1,0 +1,26 @@
+RB	_	8	adv	_	_
+TO	_	3	aux	_	_
+VB	sem=prp	8	advcl	_	_
+DT	_	5	det	_	_
+NN	_	3	obj	_	_
+,	_	8	p	_	_
+PRP	_	8	expl	_	_
+VBZ	_	0	root	_	_
+TO	_	11	aux	_	_
+VB	_	11	cop	_	_
+IN	sem=loc	8	csbj	_	_
+DT	_	13	det	_	_
+NN	_	11	obj	_	_
+,	_	8	p	_	_
+CC	_	8	cc	_	_
+NN	_	17	nsbj	19:nsbj	_
+VB	_	8	conj	_	_
+TO	_	19	aux	_	_
+VB	_	17	comp	_	_
+DT	_	21	det	_	_
+NN	_	19	obj	_	_
+IN	_	24	case	_	_
+DT	_	24	det	_	_
+JJ	sem=clr	19	ppmod	_	_
+.	_	17	p	_	_
+

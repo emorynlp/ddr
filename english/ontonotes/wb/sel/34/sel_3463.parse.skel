@@ -1,0 +1,16 @@
+NNS	_	3	obj	5:obj;12:obj	_
+VBD	_	3	aux	_	_
+VBN	_	0	root	_	_
+CC	_	3	cc	_	_
+VBN	_	3	conj	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	sem=loc	5	ppmod	_	_
+,	_	3	p	_	_
+CC	_	3	cc	_	_
+RB	_	12	neg	3:neg;5:neg	_
+VBN	_	3	conj	_	_
+RP	_	12	prt	_	_
+RB	sem=tmp	12	adv	_	_
+.	_	3	p	_	_
+

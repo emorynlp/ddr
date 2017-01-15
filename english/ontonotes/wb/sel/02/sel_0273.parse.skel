@@ -1,0 +1,12 @@
+RB	sem=loc	6	adv	_	_
+VBZ	_	1	cop	_	_
+DT	_	4	det	_	_
+NN	_	1	nsbj	_	_
+NFP	_	6	p	_	_
+VB	_	0	root	_	_
+DT	_	10	det	_	_
+JJ	_	10	attr	_	_
+NNP	_	10	com	_	_
+NN	_	6	obj	_	_
+.	_	6	p	_	_
+

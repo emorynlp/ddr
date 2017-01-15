@@ -1,0 +1,26 @@
+DT	_	3	det	_	_
+JJS	_	3	attr	_	_
+NN	_	8	nsbj	5:obj	_
+PRP	_	5	nsbj	_	_
+VBP	_	3	relcl	_	_
+VBZ	_	8	cop	_	_
+DT	_	8	det	_	_
+NN	_	18	comp	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	sem=loc	8	ppmod	_	_
+,	_	18	p	_	_
+RB	sem=tmp	18	adv	_	_
+PRP	_	18	nsbj	_	_
+VBZ	_	18	cop	_	_
+RB	_	17	com	_	_
+RBR	_	18	adv	_	_
+JJ	_	0	root	_	_
+,	_	18	p	_	_
+RB	_	24	adv	_	_
+WRB	sem=tmp	24	adv	_	_
+PRP	_	24	nsbj	_	_
+VBZ	_	24	cop	_	_
+JJ	sem=tmp	18	advcl	_	_
+.	_	18	p	_	_
+

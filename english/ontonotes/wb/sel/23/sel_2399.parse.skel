@@ -1,0 +1,13 @@
+VB	_	0	root	_	_
+IN	_	3	case	_	_
+NN	sem=clr	1	ppmod	_	_
+IN	_	5	case	_	_
+NN	sem=loc	3	ppmod	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+RB	sem=clr	7	adv	_	_
+RB	sem=mnr	7	adv	_	_
+IN	_	11	mark	_	_
+VBN	sem=tmp	7	advcl	_	_
+.	_	1	p	_	_
+

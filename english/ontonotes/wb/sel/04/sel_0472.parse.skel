@@ -1,0 +1,23 @@
+NNP	_	2	com	_	_
+NNP	_	5	poss	_	_
+POS	_	2	case	_	_
+``	_	5	p	_	_
+NNP	_	18	nsbj	_	_
+IN	_	7	case	_	_
+NNP	_	5	ppmod	_	_
+''	_	5	p	_	_
+CC	_	5	cc	_	_
+NNP	_	12	com	_	_
+HYPH	_	12	p	_	_
+NNP	_	15	poss	_	_
+POS	_	12	case	_	_
+``	_	15	p	_	_
+NNP	_	5	conj	_	_
+CD	_	15	num	_	_
+''	_	15	p	_	_
+VBP	_	0	root	_	_
+DT	_	18	obj	_	_
+IN	_	21	case	_	_
+NN	sem=mnr	18	ppmod	_	_
+.	_	18	p	_	_
+

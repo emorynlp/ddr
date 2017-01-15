@@ -1,0 +1,18 @@
+DT	_	7	nsbj	4:obj	_
+PRP	_	4	nsbj	_	_
+MD	_	4	modal	_	_
+VB	_	1	relcl	_	_
+IN	_	6	case	_	_
+NNP	sem=loc	4	ppmod	_	_
+VBZ	_	0	root	_	_
+VB	_	7	comp	_	_
+NNS	_	8	obj	_	_
+IN	_	11	case	_	_
+NNS	sem=dir	8	ppmod	14:obj	_
+PRP	_	14	nsbj	_	_
+RB	sem=mnr	14	adv	_	_
+VBP	_	11	relcl	_	_
+IN	_	16	case	_	_
+NN	sem=clr	14	ppmod	_	_
+.	_	7	p	_	_
+

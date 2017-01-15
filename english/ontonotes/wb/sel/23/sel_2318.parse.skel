@@ -1,0 +1,17 @@
+PRP	_	7	nsbj	_	_
+VBD	_	7	cop	_	_
+NN	_	5	attr	_	_
+IN	_	3	com	_	_
+CD	_	6	num	_	_
+NNS	_	7	advnp	_	_
+IN	_	0	root	_	_
+CD	_	7	obj	_	_
+IN	_	11	case	_	_
+NNP	_	11	com	_	_
+NNP	sem=loc	7	ppmod	13:nsbj	_
+WDT	_	13	r-nsbj	_	_
+VBD	_	11	relcl	_	_
+NNP	_	15	com	_	_
+NNP	_	13	obj	_	_
+.	_	7	p	_	_
+

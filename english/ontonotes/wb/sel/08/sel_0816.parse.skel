@@ -1,0 +1,26 @@
+DT	_	5	det	_	_
+RB	_	4	adv	_	_
+HYPH	_	4	p	_	_
+VBN	_	5	attr	_	_
+NNS	_	6	nsbj	_	_
+VBP	_	25	comp	_	_
+RP	_	6	prt	_	_
+RB	sem=dir	6	adv	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+VBG	_	12	attr	_	_
+NNS	sem=clr	6	ppmod	_	_
+IN	_	14	case	_	_
+NNP	_	12	ppmod	19:nsbj;21:nsbj	_
+CC	_	14	cc	_	_
+NNP	_	14	conj	_	_
+,	_	14	p	_	_
+WP	_	19	r-nsbj	_	_
+VBP	_	14	relcl	_	_
+TO	_	21	aux	_	_
+VB	sem=prp	19	advcl	_	_
+PRP	_	21	obj	_	_
+RB	sem=mnr	21	adv	_	_
+,	_	25	p	_	_
+VBN	_	0	root	_	_
+

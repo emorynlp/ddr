@@ -1,0 +1,21 @@
+PRP	_	5	nsbj	_	_
+VBZ	_	5	cop	_	_
+RB	_	5	neg	_	_
+DT	_	5	det	_	_
+NN	_	0	root	7:nsbj	_
+WDT	_	7	r-nsbj	_	_
+VBZ	_	5	comp	_	_
+WRB	sem=tmp	10	adv	_	_
+PRP	_	10	nsbj	_	_
+VBP	sem=tmp	5	advcl	_	_
+RP	_	10	prt	_	_
+JJR	_	13	attr	_	_
+NN	_	10	obj	_	_
+IN	_	16	case	_	_
+DT	_	16	det	_	_
+NN	_	13	ppmod	_	_
+IN	_	19	case	_	_
+JJS	_	19	attr	_	_
+NNS	_	16	ppmod	_	_
+.	_	5	p	_	_
+

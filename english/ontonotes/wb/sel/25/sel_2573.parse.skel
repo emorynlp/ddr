@@ -1,0 +1,11 @@
+VB	_	0	root	_	_
+NNP	_	1	obj	_	_
+:	_	1	p	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+RP	_	5	prt	_	_
+NN	_	9	attr	_	_
+JJ	_	9	attr	_	_
+NN	_	5	obj	_	_
+.	_	1	p	_	_
+

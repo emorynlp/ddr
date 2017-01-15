@@ -1,0 +1,13 @@
+UH	_	4	disc	_	_
+,	_	4	p	_	_
+VBG	_	4	adv	_	_
+DT	sem=loc	0	root	7:ppmod	_
+WDT	_	7	r-ppmod	_	_
+PRP	_	7	nsbj	_	_
+VBP	_	4	relcl	_	_
+PRP$	_	10	poss	_	_
+NN	_	10	com	_	_
+NNS	_	7	obj	_	_
+IN	_	5	case	_	_
+.	_	4	p	_	_
+

@@ -1,0 +1,12 @@
+WRB	sem=mnr	3	adv	_	_
+NNS	_	3	nsbj	_	_
+VBP	_	10	csbj	_	_
+PRP$	_	5	poss	_	_
+NN	_	3	obj	_	_
+MD	_	10	modal	_	_
+VB	_	10	cop	_	_
+JJ	_	10	adv	_	_
+TO	_	10	adv	_	_
+JJ	_	0	root	_	_
+.	_	10	p	_	_
+

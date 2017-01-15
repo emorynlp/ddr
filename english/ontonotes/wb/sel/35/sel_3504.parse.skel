@@ -1,0 +1,19 @@
+RB	_	6	adv	_	_
+IN	_	6	mark	_	_
+PRP	_	8	nsbj	_	_
+VBZ	_	6	aux	_	_
+RB	sem=tmp	6	adv	_	_
+VBN	sem=prp	0	root	_	_
+TO	_	8	aux	_	_
+VB	_	6	comp	_	_
+NN	_	8	obj	_	_
+,	_	6	p	_	_
+CC	_	6	cc	_	_
+DT	_	15	det	_	_
+JJ	_	15	attr	_	_
+NN	_	15	com	_	_
+NN	_	16	nsbj	_	_
+VBD	_	6	conj	_	_
+RP	_	16	prt	_	_
+.	_	6	p	_	_
+

@@ -1,0 +1,11 @@
+PRP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+CD	_	4	num	_	_
+NNS	_	2	obj	_	_
+VB	_	2	advcl	_	_
+CC	_	5	cc	_	_
+VB	_	5	conj	_	_
+CD	_	9	num	_	_
+NNS	_	7	obj	5:obj	_
+.	_	2	p	_	_
+

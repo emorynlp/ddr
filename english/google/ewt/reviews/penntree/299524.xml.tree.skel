@@ -1,0 +1,22 @@
+NN	_	3	nsbj	_	_
+VBZ	_	3	aux	_	_
+VBN	_	0	root	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NNS	sem=tmp	3	ppmod	_	_
+,	_	3	p	_	_
+CC	_	3	cc	_	_
+RB	sem=tmp	16	adv	_	_
+DT	_	16	det	_	_
+JJS	_	16	attr	_	_
+VB	_	16	attr	_	_
+HYPH	_	12	p	_	_
+IN	_	12	case	_	_
+NN	_	16	com	_	_
+NN	_	3	conj	_	_
+IN	_	20	case	_	_
+DT	_	20	det	_	_
+NNP	_	20	com	_	_
+NNP	sem=loc	16	ppmod	_	_
+.	_	16	p	_	_
+

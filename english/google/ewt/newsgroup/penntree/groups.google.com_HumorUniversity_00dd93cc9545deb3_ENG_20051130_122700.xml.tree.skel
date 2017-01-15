@@ -1,0 +1,73 @@
+NFP	_	0	root	_	_
+
+VB	_	31	advcl	_	_
+VB	_	1	dep	_	_
+JJ	_	4	attr	_	_
+NN	_	2	voc	_	_
+FW	_	8	dep	_	_
+FW	_	8	dep	_	_
+FW	_	8	dep	_	_
+FW	_	31	dep	_	_
+,	_	31	p	_	_
+RB	sem=loc	19	adv	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+NN	sem=loc	19	ppmod	_	_
+RB	_	15	com	_	_
+RB	sem=loc	19	adv	_	_
+,	_	19	p	_	_
+NN	_	19	nsbj	_	_
+VBZ	_	19	aux	_	_
+VBN	_	31	comp	_	_
+IN	_	22	case	_	_
+DT	_	22	det	_	_
+NN	sem=loc	19	ppmod	_	_
+,	_	31	p	_	_
+FW	_	28	dep	_	_
+FW	_	28	dep	_	_
+FW	_	28	dep	_	_
+FW	_	28	dep	_	_
+FW	_	31	dep	_	_
+,	_	31	p	_	_
+RB	sem=tmp	31	adv	35:adv	_
+VB	_	0	root	_	_
+PRP	_	31	obj	_	_
+RP	_	31	prt	_	_
+CC	_	31	cc	_	_
+VB	_	31	conj	_	_
+``	_	37	p	_	_
+UH	_	35	disc	_	_
+''	_	37	p	_	_
+
+NFP	_	0	root	_	_
+
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+NFP	_	2	p	_	_
+NFP	_	2	p	_	_
+
+VB	_	0	root	_	_
+DT	_	4	det	_	_
+JJ	_	4	attr	_	_
+NN	_	1	obj	_	_
+NFP	_	1	p	_	_
+NFP	_	1	p	_	_
+
+NFP	_	0	root	_	_
+
+NFP	_	0	root	_	_
+
+NN	_	0	root	_	_
+CC	_	1	cc	_	_
+NN	_	1	conj	_	_
+
+NNP	_	0	root	_	_
+
+ADD	_	0	root	_	_
+
+NN	_	0	root	_	_
+
+CD	_	2	com	_	_
+CD	_	3	num	_	_
+NN	_	0	root	_	_
+

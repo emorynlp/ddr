@@ -1,0 +1,12 @@
+NNP	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	2	obj	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NN	_	4	ppmod	9:nsbj	_
+WP	_	9	r-nsbj	_	_
+VBD	_	7	relcl	_	_
+RP	_	9	prt	_	_
+.	_	2	p	_	_
+

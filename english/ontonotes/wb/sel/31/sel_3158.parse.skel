@@ -1,0 +1,23 @@
+RB	_	9	adv	_	_
+PRP	_	9	nsbj	_	_
+MD	_	9	modal	_	_
+VB	_	9	cop	_	_
+NN	_	8	advnp	_	_
+CC	_	5	cc	_	_
+NN	_	5	conj	_	_
+VBN	_	9	attr	_	_
+NNS	_	0	root	11:nsbj	_
+WDT	_	11	r-nsbj	_	_
+VBP	_	9	relcl	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	sem=clr	11	ppmod	_	_
+RB	_	11	adv	_	_
+IN	_	17	case	_	_
+VBG	_	15	ppmod	_	_
+DT	_	19	det	_	_
+NN	_	17	obj	_	_
+IN	_	21	case	_	_
+NN	sem=loc	17	ppmod	_	_
+.	_	9	p	_	_
+

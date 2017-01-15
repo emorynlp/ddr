@@ -1,0 +1,17 @@
+DT	_	3	det	_	_
+JJ	_	3	attr	_	_
+NN	_	6	nsbj	_	_
+VBZ	_	6	cop	_	_
+RB	_	6	adv	_	_
+JJR	_	0	root	_	_
+IN	_	10	mark	_	_
+PRP$	_	9	poss	_	_
+NNS	_	10	nsbj	12:nsbj	_
+VBP	sem=prp	6	advcl	_	_
+CC	_	10	cc	_	_
+VBP	_	10	conj	_	_
+RB	sem=clr	12	adv	_	_
+JJ	_	15	attr	_	_
+NNS	_	12	obj	_	_
+.	_	6	p	_	_
+

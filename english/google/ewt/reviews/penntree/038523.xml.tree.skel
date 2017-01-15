@@ -1,0 +1,16 @@
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+.	_	2	p	_	_
+
+JJ	_	0	root	_	_
+IN	_	4	case	_	_
+DT	_	4	det	_	_
+NNS	_	1	ppmod	_	_
+IN	_	6	case	_	_
+NN	_	4	ppmod	_	_
+.	_	1	p	_	_
+
+NN	_	0	root	_	_
+RB	_	1	adv	_	_
+.	_	1	p	_	_
+

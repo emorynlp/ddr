@@ -1,0 +1,22 @@
+RB	_	2	neg	_	_
+JJ	_	0	root	_	_
+PRP	_	4	nsbj	_	_
+VBD	_	2	comp	_	_
+CD	_	4	obj	_	_
+RP	_	4	prt	_	_
+RB	sem=mnr	4	adv	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NN	sem=mnr	4	ppmod	_	_
+IN	_	15	mark	_	_
+EX	_	15	expl	_	_
+VBP	_	15	cop	_	_
+DT	_	15	det	_	_
+NN	sem=prp	2	advcl	_	_
+IN	_	18	case	_	_
+NNP	_	18	com	_	_
+NNS	_	15	ppmod	_	_
+VBG	_	15	acl	_	_
+RB	sem=loc	19	adv	_	_
+.	_	2	p	_	_
+

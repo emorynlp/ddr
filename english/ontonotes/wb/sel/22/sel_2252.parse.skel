@@ -1,0 +1,15 @@
+VBN	_	3	adv	_	_
+DT	_	3	det	_	_
+NN	_	10	ppmod	_	_
+IN	_	6	case	_	_
+PRP$	_	6	poss	_	_
+NN	_	3	ppmod	_	_
+,	_	10	p	_	_
+PRP	_	10	nsbj	12:nsbj	_
+MD	_	10	modal	_	_
+VB	_	0	root	_	_
+TO	_	12	aux	_	_
+VB	_	10	comp	_	_
+NNP	_	12	obj	_	_
+.	_	10	p	_	_
+

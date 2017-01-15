@@ -1,0 +1,25 @@
+RB	sem=loc	0	root	_	_
+VBZ	_	1	cop	_	_
+DT	_	4	det	_	_
+NN	_	1	nsbj	_	_
+WDT	_	9	obj	_	_
+VBZ	_	9	raise	_	_
+TO	_	9	aux	_	_
+VB	_	9	aux	_	_
+VBN	_	4	relcl	_	_
+DT	_	11	det	_	_
+NN	sem=tmp	9	advnp	_	_
+IN	_	13	case	_	_
+NNS	_	11	ppmod	_	_
+DT	_	15	det	_	_
+NN	_	11	advnp	_	_
+IN	_	21	mark	_	_
+DT	_	19	det	_	_
+JJ	_	19	attr	_	_
+NNS	_	21	nsbj	_	_
+VBP	_	21	cop	_	_
+JJ	_	9	comp	_	_
+RB	_	23	com	_	_
+RB	sem=tmp	21	adv	_	_
+.	_	1	p	_	_
+

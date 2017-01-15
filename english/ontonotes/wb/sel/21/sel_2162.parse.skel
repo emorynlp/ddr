@@ -1,0 +1,20 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+DT	_	5	nsbj	8:nsbj	_
+VBZ	_	5	aux	_	_
+VBN	_	2	comp	_	_
+CC	_	5	cc	_	_
+RB	_	8	neg	5:neg	_
+VBN	_	5	conj	_	_
+PRP	_	10	nsbj	_	_
+JJR	_	8	comp	_	_
+,	_	2	p	_	_
+DT	_	14	det	_	_
+JJR	_	14	attr	_	_
+NNS	_	16	dep	_	_
+RB	_	16	adv	_	_
+VB	_	2	dep	_	_
+RB	_	16	adv	_	_
+NFP	_	2	p	_	_
+.	_	2	p	_	_
+

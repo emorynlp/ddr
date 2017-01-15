@@ -1,0 +1,22 @@
+-LRB-	_	13	p	_	_
+CD	_	13	num	_	_
+-RRB-	_	13	p	_	_
+NNP	_	5	com	_	_
+NNP	_	13	dep	_	_
+,	_	13	p	_	_
+JJ	_	13	comp	_	_
+IN	_	10	case	_	_
+JJ	_	10	attr	_	_
+NN	_	7	ppmod	_	_
+,	_	13	p	_	_
+NNP	_	13	nsbj	7:nsbj	_
+VBZ	_	0	root	_	_
+RBR	sem=clr	13	adv	_	_
+IN	_	16	case	_	_
+NN	_	14	ppmod	_	_
+,	_	13	p	_	_
+CD	_	19	num	_	_
+NNP	sem=tmp	13	advnp	_	_
+CD	sem=tmp	19	advnp	_	_
+.	_	13	p	_	_
+

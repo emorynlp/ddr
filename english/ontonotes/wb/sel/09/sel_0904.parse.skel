@@ -1,0 +1,18 @@
+CC	_	5	cc	_	_
+UH	_	5	disc	_	_
+PRP	_	5	nsbj	_	_
+VBP	_	5	aux	_	_
+VB	_	0	root	_	_
+PRP$	_	7	poss	_	_
+NNS	_	8	nsbj	10:nsbj	_
+JJ	_	5	comp	_	_
+CC	_	8	cc	_	_
+JJ	_	8	conj	_	_
+WRB	sem=tmp	14	adv	_	_
+PRP	_	14	nsbj	_	_
+VBP	_	14	aux	_	_
+VBN	sem=tmp	5	advcl	_	_
+RB	_	16	adv	_	_
+JJ	_	14	obj	_	_
+.	_	5	p	_	_
+

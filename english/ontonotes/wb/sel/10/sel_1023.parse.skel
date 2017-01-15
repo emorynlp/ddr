@@ -1,0 +1,12 @@
+RB	_	2	neg	_	_
+JJ	_	0	root	_	_
+NNP	_	4	com	_	_
+NNP	_	6	nsbj	_	_
+MD	_	6	modal	_	_
+VB	_	2	comp	_	_
+DT	_	6	obj	_	_
+RB	sem=mnr	6	adv	_	_
+RB	_	6	adv	_	_
+NFP	_	2	p	_	_
+.	_	2	p	_	_
+

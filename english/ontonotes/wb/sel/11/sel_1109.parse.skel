@@ -1,0 +1,17 @@
+DT	_	4	det	_	_
+NN	_	4	com	_	_
+HYPH	_	4	p	_	_
+NN	_	5	nsbj	_	_
+VBD	_	0	root	_	_
+IN	_	13	mark	_	_
+DT	_	8	det	_	_
+NNS	_	13	nsbj	_	_
+IN	_	10	case	_	_
+NN	_	8	ppmod	_	_
+CC	_	10	cc	_	_
+NN	_	10	conj	_	_
+VBP	_	5	comp	_	_
+NN	_	15	nsbj	_	_
+JJ	_	13	comp	_	_
+.	_	5	p	_	_
+

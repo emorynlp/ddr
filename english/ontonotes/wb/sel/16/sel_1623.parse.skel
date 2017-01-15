@@ -1,0 +1,22 @@
+NNS	_	4	nsbj	_	_
+MD	_	4	modal	_	_
+RB	_	4	neg	_	_
+VB	_	0	root	_	_
+WRB	_	6	com	_	_
+RB	_	7	adv	_	_
+JJ	_	4	comp	_	_
+PRP	_	7	nsbj	_	_
+VBP	_	7	cop	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+NN	_	7	ppmod	_	_
+IN	_	14	case	_	_
+VBG	_	12	ppmod	_	_
+DT	_	16	det	_	_
+NN	_	14	obj	_	_
+IN	_	20	case	_	_
+CD	_	20	num	_	_
+JJ	_	20	attr	_	_
+NNS	sem=tmp	7	ppmod	_	_
+.	_	4	p	_	_
+

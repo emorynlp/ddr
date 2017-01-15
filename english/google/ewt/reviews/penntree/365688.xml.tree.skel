@@ -1,0 +1,15 @@
+DT	_	2	det	_	_
+NN	_	0	root	_	_
+IN	_	4	case	_	_
+NN	sem=loc	2	ppmod	_	_
+CC	_	2	cc	_	_
+RB	_	7	adv	_	_
+JJ	_	8	attr	_	_
+NN	_	2	conj	_	_
+.	_	8	p	_	_
+
+DT	_	2	det	_	_
+NN	_	0	root	4:adv	_
+TO	_	4	aux	_	_
+VB	_	2	relcl	_	_
+

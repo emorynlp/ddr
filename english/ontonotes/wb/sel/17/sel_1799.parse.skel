@@ -1,0 +1,22 @@
+CC	_	10	cc	_	_
+RB	_	10	adv	_	_
+,	_	10	p	_	_
+DT	_	6	det	_	_
+JJS	_	6	attr	_	_
+NN	_	10	nsbj	8:obj	_
+TO	_	8	aux	_	_
+VB	_	6	relcl	_	_
+,	_	10	p	_	_
+VBZ	_	0	root	_	_
+VB	_	12	cop	_	_
+JJ	_	10	comp	_	_
+IN	_	16	case	_	_
+PRP$	_	16	poss	_	_
+NN	_	16	com	_	_
+NNS	_	12	ppmod	_	_
+CC	_	12	cc	_	_
+VB	_	12	conj	_	_
+JJ	_	20	attr	_	_
+NN	_	18	obj	_	_
+.	_	10	p	_	_
+

@@ -1,0 +1,16 @@
+CC	_	2	cc	_	_
+VB	_	0	root	_	_
+PRP	_	2	obj	_	_
+WDT	_	8	det	_	_
+JJ	_	8	attr	_	_
+NN	_	8	com	_	_
+HYPH	_	8	p	_	_
+NNS	_	11	nsbj	_	_
+VBP	_	11	aux	_	_
+RB	_	11	neg	_	_
+VB	_	2	comp	_	_
+JJ	_	13	attr	_	_
+NN	_	14	com	_	_
+NNS	_	11	obj	_	_
+.	_	2	p	_	_
+

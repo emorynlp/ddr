@@ -1,0 +1,26 @@
+DT	_	5	det	_	_
+NNP	_	4	com	_	_
+NNP	_	4	com	_	_
+NNP	_	5	com	_	_
+NN	_	17	nsbj	_	_
+IN	_	7	case	_	_
+NNP	_	5	ppmod	_	_
+VBZ	_	17	cop	_	_
+DT	_	17	det	_	_
+JJ	_	17	attr	_	_
+HYPH	_	10	p	_	_
+IN	_	16	case	_	_
+HYPH	_	16	p	_	_
+DT	_	16	det	_	_
+HYPH	_	16	p	_	_
+NN	_	10	ppmod	_	_
+NN	_	0	root	19:nsbj	_
+TO	_	19	aux	_	_
+VB	_	17	relcl	_	_
+VB	_	19	comp	_	_
+NN	_	20	obj	_	_
+IN	_	24	case	_	_
+NN	_	24	com	_	_
+NN	sem=clr	20	ppmod	_	_
+.	_	17	p	_	_
+

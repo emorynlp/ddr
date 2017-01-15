@@ -1,0 +1,16 @@
+JJ	_	2	attr	_	_
+NNS	_	6	nsbj	_	_
+VBP	_	6	cop	_	_
+RB	_	6	neg	_	_
+RB	_	6	adv	_	_
+JJ	_	0	root	_	_
+RB	_	6	adv	_	_
+,	_	6	p	_	_
+RB	_	12	adv	_	_
+WRB	sem=tmp	12	adv	_	_
+PRP	_	12	nsbj	_	_
+VBP	sem=tmp	6	advcl	_	_
+PRP$	_	14	poss	_	_
+NNS	_	12	obj	_	_
+.	_	6	p	_	_
+

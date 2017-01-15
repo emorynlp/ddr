@@ -1,0 +1,12 @@
+DT	_	2	det	_	_
+NNS	_	7	obj	_	_
+VBP	_	4	cop	_	_
+JJ	_	0	root	_	_
+,	_	4	p	_	_
+CC	_	4	cc	_	_
+VBN	_	4	conj	_	_
+IN	_	10	case	_	_
+JJ	_	10	attr	_	_
+NNS	sem=clr	7	ppmod	_	_
+.	_	4	p	_	_
+

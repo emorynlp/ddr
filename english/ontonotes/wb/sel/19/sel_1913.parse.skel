@@ -1,0 +1,15 @@
+NNS	_	10	nsbj	_	_
+VBP	_	4	raise	_	_
+TO	_	4	aux	_	_
+VB	_	0	root	_	_
+DT	_	4	obj	_	_
+CC	_	4	cc	_	_
+VB	_	10	raise	_	_
+VBG	_	10	cop	_	_
+RB	_	10	adv	_	_
+JJ	_	4	conj	_	_
+IN	_	13	case	_	_
+NNS	_	13	com	_	_
+NN	_	10	ppmod	_	_
+.	_	4	p	_	_
+

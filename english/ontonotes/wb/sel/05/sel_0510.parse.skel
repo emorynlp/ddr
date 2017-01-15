@@ -1,0 +1,10 @@
+VBG	_	0	root	_	_
+``	_	1	p	_	_
+DT	_	4	det	_	_
+NN	_	1	obj	_	_
+''	_	1	p	_	_
+TO	_	7	aux	_	_
+VB	sem=clr	1	comp	_	_
+NN	_	7	obj	_	_
+.	_	1	p	_	_
+

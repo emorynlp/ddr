@@ -1,0 +1,17 @@
+DT	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBZ	_	0	root	_	_
+IN	_	13	mark	_	_
+DT	_	6	det	_	_
+NNS	_	13	nsbj	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+JJ	_	10	attr	_	_
+NN	sem=loc	6	ppmod	_	_
+VBP	_	13	raise	_	_
+TO	_	13	aux	_	_
+VB	_	3	comp	_	_
+NN	_	15	com	_	_
+NNS	_	13	obj	_	_
+.	_	3	p	_	_
+

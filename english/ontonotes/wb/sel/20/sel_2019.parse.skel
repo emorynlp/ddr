@@ -1,0 +1,20 @@
+CC	_	2	cc	_	_
+VB	_	0	root	_	_
+PRP	_	4	nsbj	_	_
+VBD	_	2	comp	_	_
+DT	_	6	det	_	_
+NN	_	4	obj	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NNP	_	10	com	_	_
+NN	_	6	ppmod	_	_
+IN	_	12	case	_	_
+NN	sem=prp	4	ppmod	_	_
+TO	_	14	aux	_	_
+VB	_	12	acl	_	_
+DT	_	16	det	_	_
+NN	_	18	poss	_	_
+POS	_	16	case	_	_
+NN	_	14	obj	_	_
+.	_	2	p	_	_
+

@@ -1,0 +1,21 @@
+IN	_	2	mark	_	_
+RB	_	4	advcl	16:advcl	_
+,	_	4	p	_	_
+VB	_	0	root	_	_
+VBG	_	4	comp	_	_
+RP	_	5	prt	_	_
+NNP	_	5	obj	14:nsbj	_
+WDT	_	14	r-nsbj	_	_
+VBZ	_	14	cop	_	_
+DT	_	14	det	_	_
+JJ	_	14	attr	_	_
+NN	_	14	com	_	_
+HYPH	_	14	p	_	_
+NN	_	7	relcl	_	_
+CC	_	4	cc	_	_
+VB	_	4	conj	_	_
+IN	_	19	mark	_	_
+DT	_	19	nsbj	_	_
+VBZ	_	16	comp	_	_
+.	_	4	p	_	_
+

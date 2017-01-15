@@ -1,0 +1,34 @@
+NNP	_	3	nsbj	_	_
+VBZ	_	3	cop	_	_
+JJ	_	0	root	_	_
+.	_	3	p	_	_
+
+NNP	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+JJ	_	7	attr	_	_
+,	_	7	p	_	_
+RB	_	6	adv	_	_
+JJ	_	7	attr	_	_
+NN	_	2	obj	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+JJ	_	15	attr	_	_
+NN	_	15	attr	_	_
+,	_	11	p	_	_
+JJ	_	14	attr	_	_
+NN	_	11	appo	_	_
+NN	_	2	ppmod	_	_
+.	_	2	p	_	_
+
+DT	_	2	det	_	_
+NNS	_	5	nsbj	_	_
+VBP	_	5	cop	_	_
+RB	_	5	adv	_	_
+JJ	_	0	root	_	_
+.	_	5	p	_	_
+
+CC	_	3	cc	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	0	root	_	_
+.	_	3	p	_	_
+

@@ -1,0 +1,15 @@
+VBD	_	0	root	_	_
+:	_	1	p	_	_
+IN	_	4	case	_	_
+JJS	_	7	adv	_	_
+DT	_	6	det	_	_
+NNP	_	7	nsbj	9:nsbj	_
+VBD	_	1	comp	_	_
+TO	_	9	aux	_	_
+VB	_	7	comp	_	_
+PRP$	_	12	poss	_	_
+JJ	_	12	attr	_	_
+NN	_	9	obj	_	_
+RB	sem=mnr	9	adv	_	_
+.	_	1	p	_	_
+

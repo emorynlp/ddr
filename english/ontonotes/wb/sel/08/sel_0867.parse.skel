@@ -1,0 +1,22 @@
+IN	_	4	mark	_	_
+PRP	_	4	nsbj	6:nsbj;8:nsbj;16:nsbj	_
+MD	_	4	modal	_	_
+VB	_	18	advcl	_	_
+TO	_	6	aux	_	_
+VB	_	4	comp	_	_
+,	_	6	p	_	_
+VB	_	6	conj	_	_
+NN	_	10	com	_	_
+NNS	_	8	obj	_	_
+CC	_	8	cc	_	_
+RB	_	16	adv	_	_
+VB	_	16	cop	_	_
+DT	_	16	det	_	_
+NN	_	16	com	_	_
+NN	_	6	conj	_	_
+,	_	18	p	_	_
+VB	_	0	root	_	_
+IN	_	20	case	_	_
+NN	sem=clr	18	ppmod	_	_
+.	_	18	p	_	_
+

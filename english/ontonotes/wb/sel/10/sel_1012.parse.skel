@@ -1,0 +1,10 @@
+NNS	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBP	_	0	root	_	_
+NNS	_	3	obj	_	_
+IN	_	6	case	_	_
+NN	sem=mnr	3	ppmod	_	_
+IN	_	8	case	_	_
+NN	_	6	ppmod	_	_
+.	_	3	p	_	_
+

@@ -1,0 +1,24 @@
+WRB	_	2	adv	_	_
+NN	_	0	root	_	_
+IN	_	4	case	_	_
+NNP	_	2	ppmod	_	_
+.	_	2	p	_	_
+
+NNP	_	5	nsbj	_	_
+VBZ	_	5	cop	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+NN	_	0	root	_	_
+.	_	5	p	_	_
+
+UH	_	6	disc	_	_
+,	_	6	p	_	_
+NNP	_	6	nsbj	_	_
+VBZ	_	6	cop	_	_
+RB	_	6	neg	_	_
+IN	_	0	root	_	_
+NN	_	6	obj	_	_
+.	_	6	p	_	_
+
+UH	_	0	root	_	_
+

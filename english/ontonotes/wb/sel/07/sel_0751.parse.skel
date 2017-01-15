@@ -1,0 +1,9 @@
+DT	_	5	nsbj	_	_
+VBZ	_	5	cop	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+NN	_	0	root	7:obj	_
+PRP	_	7	nsbj	_	_
+VBP	_	5	relcl	_	_
+.	_	5	p	_	_
+

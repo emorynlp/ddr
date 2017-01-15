@@ -1,0 +1,27 @@
+DT	_	3	det	_	_
+JJ	_	3	attr	_	_
+NN	_	0	root	_	_
+:	_	3	p	_	_
+DT	_	7	nsbj	15:nsbj;22:nsbj	_
+MD	_	7	modal	_	_
+VB	_	3	conj	_	_
+DT	_	12	nsbj	_	_
+IN	_	11	case	_	_
+NN	_	11	com	_	_
+NNS	sem=loc	8	ppmod	_	_
+VB	_	7	comp	_	_
+NN	_	12	obj	_	_
+,	_	7	p	_	_
+VB	_	7	conj	_	_
+PRP	_	15	dat	_	_
+NN	_	15	obj	19:obj	_
+TO	_	19	aux	_	_
+VB	_	17	relcl	_	_
+,	_	15	p	_	_
+CC	_	15	cc	_	_
+VB	_	7	conj	_	_
+PRP	_	24	nsbj	_	_
+VB	_	22	comp	_	_
+NN	_	24	obj	_	_
+.	_	7	p	_	_
+

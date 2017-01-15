@@ -1,0 +1,19 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+JJ	_	5	attr	_	_
+JJ	_	5	attr	_	_
+NNS	_	2	obj	7:nsbj	_
+WP	_	7	r-nsbj	_	_
+VBP	_	5	relcl	_	_
+PRP$	_	12	poss	_	_
+CD	_	10	num	_	_
+NN	_	11	com	_	_
+NN	_	12	com	_	_
+NNS	_	7	obj	_	_
+CC	_	12	cc	_	_
+NNS	_	12	conj	_	_
+IN	_	17	case	_	_
+DT	_	17	det	_	_
+NN	sem=loc	7	ppmod	_	_
+.	_	2	p	_	_
+

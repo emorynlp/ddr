@@ -1,0 +1,21 @@
+-LRB-	_	2	p	_	_
+LS	_	5	num	_	_
+-RRB-	_	2	p	_	_
+NNP	_	5	nsbj	_	_
+VBD	_	0	root	_	_
+PRP$	_	7	poss	_	_
+NN	_	5	obj	_	_
+IN	_	9	case	_	_
+NN	sem=clr	5	ppmod	_	_
+IN	_	9	case	_	_
+DT	_	12	det	_	_
+NN	_	9	obj	_	_
+IN	_	19	case	_	_
+NNP	_	15	com	_	_
+NNP	_	16	com	_	_
+NNP	_	17	com	_	_
+NNP	_	19	com	_	_
+NNP	_	19	com	_	_
+NNP	_	12	ppmod	_	_
+.	_	5	p	_	_
+

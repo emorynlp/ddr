@@ -1,0 +1,11 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+NNP	_	4	com	_	_
+NNP	_	9	nsbj	_	_
+TO	_	9	aux	_	_
+VB	_	9	cop	_	_
+IN	_	8	case	_	_
+JJS	_	9	adv	_	_
+JJ	_	2	comp	_	_
+.	_	2	p	_	_
+

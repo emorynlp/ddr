@@ -1,0 +1,16 @@
+RB	_	2	adv	_	_
+VB	_	0	root	_	_
+TO	_	4	aux	_	_
+VB	_	2	comp	_	_
+NN	_	4	obj	_	_
+CC	_	5	cc	_	_
+NN	_	5	conj	_	_
+RB	sem=mnr	4	adv	_	_
+CC	_	4	cc	_	_
+VB	_	4	conj	_	_
+PRP	_	10	obj	_	_
+PDT	_	14	det	_	_
+DT	_	14	det	_	_
+NN	sem=tmp	10	advnp	_	_
+.	_	2	p	_	_
+

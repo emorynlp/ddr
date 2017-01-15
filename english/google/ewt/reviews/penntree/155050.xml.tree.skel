@@ -1,0 +1,23 @@
+JJ	_	6	attr	_	_
+,	_	6	p	_	_
+JJ	_	6	attr	_	_
+,	_	6	p	_	_
+JJ	_	6	attr	_	_
+NNS	_	0	root	_	_
+.	_	6	p	_	_
+
+NN	_	6	nsbj	_	_
+MD	_	6	modal	_	_
+VB	_	6	cop	_	_
+DT	_	5	det	_	_
+NN	_	6	advnp	_	_
+JJR	_	0	root	_	_
+CC	_	6	cc	_	_
+PRP	_	14	nsbj	_	_
+VBZ	_	14	cop	_	_
+DT	_	14	det	_	_
+RB	_	12	com	_	_
+RB	_	13	adv	_	_
+JJ	_	14	attr	_	_
+NN	_	6	conj	_	_
+

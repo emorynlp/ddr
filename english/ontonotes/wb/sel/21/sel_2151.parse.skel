@@ -1,0 +1,17 @@
+VBP	_	3	aux	_	_
+PRP	_	3	nsbj	_	_
+VB	_	0	root	_	_
+WP	_	5	nsbj	_	_
+VBZ	_	3	comp	_	_
+WRB	sem=tmp	9	adv	_	_
+JJ	_	8	attr	_	_
+NNS	_	9	nsbj	12:nsbj	_
+VBP	sem=tmp	5	advcl	_	_
+TO	_	12	aux	_	_
+VB	_	12	cop	_	_
+NNS	_	9	comp	_	_
+IN	_	15	case	_	_
+JJ	_	15	attr	_	_
+NNS	_	12	ppmod	_	_
+.	_	3	p	_	_
+

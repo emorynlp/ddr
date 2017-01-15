@@ -1,0 +1,14 @@
+VBD	_	8	advcl	_	_
+DT	_	5	det	_	_
+NN	_	4	com	_	_
+NN	_	5	com	_	_
+NN	_	1	obj	_	_
+NN	sem=tmp	1	advnp	_	_
+,	_	8	p	_	_
+VBD	_	0	root	_	_
+JJ	_	8	comp	_	_
+,	_	8	p	_	_
+DT	_	12	det	_	_
+NNS	_	8	dep	_	_
+.	_	8	p	_	_
+

@@ -1,0 +1,16 @@
+TO	_	2	aux	_	_
+VB	_	0	root	_	_
+WP	_	4	nsbj	_	_
+VBZ	_	2	comp	_	_
+IN	_	7	mark	_	_
+PRP	_	7	nsbj	_	_
+VBP	_	4	advcl	_	_
+DT	_	9	det	_	_
+NN	_	7	obj	_	_
+VBG	_	9	acl	_	_
+NNS	_	10	obj	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	sem=loc	10	ppmod	_	_
+.	_	2	p	_	_
+

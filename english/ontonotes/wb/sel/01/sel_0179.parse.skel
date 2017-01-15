@@ -1,0 +1,13 @@
+RB	_	2	com	_	_
+RB	sem=loc	7	adv	9:adv	_
+IN	_	4	case	_	_
+NNP	_	2	ppmod	_	_
+,	_	7	p	_	_
+NNS	_	7	nsbj	9:nsbj	_
+VBP	_	0	root	_	_
+CC	_	7	cc	_	_
+VBP	_	7	conj	_	_
+JJ	_	11	attr	_	_
+NN	_	9	obj	7:obj	_
+.	_	7	p	_	_
+

@@ -1,0 +1,16 @@
+DT	_	2	det	_	_
+NNS	_	7	nsbj	_	_
+IN	_	4	case	_	_
+PRP	_	2	ppmod	_	_
+MD	_	7	modal	_	_
+RB	_	7	adv	_	_
+VB	_	0	root	_	_
+DT	_	9	det	_	_
+NN	_	7	obj	_	_
+IN	_	14	mark	_	_
+PRP	_	14	nsbj	_	_
+VBZ	_	14	lv	_	_
+DT	_	14	det	_	_
+NN	_	7	advcl	_	_
+.	_	7	p	_	_
+

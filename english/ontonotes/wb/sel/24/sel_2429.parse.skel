@@ -1,0 +1,19 @@
+DT	_	7	nsbj	3:obj	_
+PRP	_	3	nsbj	_	_
+VBP	_	1	relcl	_	_
+VBZ	_	7	cop	_	_
+DT	_	7	det	_	_
+NN	_	7	com	_	_
+NN	_	0	root	9:nsbj	_
+TO	_	9	aux	_	_
+VB	_	7	relcl	_	_
+DT	_	14	det	_	_
+JJ	_	13	adv	_	_
+SYM	_	13	p	_	_
+JJ	_	14	attr	_	_
+NN	_	9	obj	_	_
+IN	_	17	case	_	_
+DT	_	17	det	_	_
+NN	sem=loc	14	ppmod	_	_
+.	_	7	p	_	_
+

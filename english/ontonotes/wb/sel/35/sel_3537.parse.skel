@@ -1,0 +1,10 @@
+PRP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	2	obj	_	_
+CC	_	2	cc	_	_
+DT	_	7	det	_	_
+NNS	_	8	nsbj	_	_
+VBD	_	2	conj	_	_
+.	_	8	p	_	_
+

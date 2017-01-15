@@ -1,0 +1,84 @@
+PRP$	_	7	poss	_	O
+NNP	_	7	attr	_	B-DATE
+CD	_	2	num	_	L-DATE
+NN	_	7	attr	_	O
+HYPH	_	4	p	_	O
+CD	_	4	num	_	U-CARDINAL
+NN	_	22	nsbj	_	O
+IN	_	9	case	_	O
+NNS	_	7	ppmod	_	O
+VBG	_	9	acl	_	O
+RB	_	13	adv	_	O
+HYPH	_	13	p	_	O
+VBN	_	15	attr	_	O
+``	_	15	p	_	O
+NNS	_	10	obj	_	O
+''	_	15	p	_	O
+IN	_	19	case	_	O
+NN	_	19	com	_	O
+NNS	sem=loc	10	ppmod	_	O
+VBD	_	22	cop	_	O
+DT	_	22	det	_	O
+NN	_	0	root	_	O
+IN	_	25	case	_	O
+PRP$	_	25	poss	_	O
+NNS	_	22	ppmod	_	O
+.	_	22	p	_	O
+
+PRP	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBZ	_	0	root	_	_
+NNS	_	3	obj	6:nsbj	_
+TO	_	6	aux	_	_
+VB	_	3	comp	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+RB	_	10	adv	_	_
+JJ	_	13	attr	_	_
+CC	_	10	cc	_	_
+JJ	_	10	conj	_	_
+NN	sem=clr	6	ppmod	20:obj	_
+WDT	_	20	r-obj	_	_
+RB	_	18	adv	_	_
+DT	_	18	det	_	_
+RB	_	18	adv	_	_
+JJ	_	20	nsbj	_	_
+VBP	_	20	aux	_	_
+VBG	_	13	relcl	_	_
+RB	sem=tmp	20	adv	_	_
+.	_	3	p	_	_
+
+CC	_	3	cc	_	_
+PRP	_	3	nsbj	_	_
+VBZ	_	0	root	_	_
+JJ	_	5	attr	_	_
+NNS	_	3	obj	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+JJ	_	11	attr	_	_
+,	_	11	p	_	_
+JJ	_	11	attr	_	_
+NN	sem=mnr	3	ppmod	_	_
+,	_	3	p	_	_
+IN	_	15	case	_	_
+JJ	_	15	attr	_	_
+NN	_	3	ppmod	_	_
+IN	_	18	case	_	_
+JJ	_	18	attr	_	_
+NN	_	15	ppmod	_	_
+CC	_	18	cc	_	_
+JJ	_	21	attr	_	_
+NN	_	18	conj	_	_
+.	_	3	p	_	_
+
+NNP	_	2	com	_	B-PERSON
+NNP	_	0	root	_	L-PERSON
+
+NNP	_	2	com	_	_
+NNP	_	0	root	_	_
+
+NNP	_	2	com	_	_
+NNPS	_	0	root	_	_
+
+NNP	_	0	root	_	U-ORG
+

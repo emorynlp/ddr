@@ -1,0 +1,18 @@
+PRP	_	3	nsbj	_	_
+VBP	_	3	aux	_	_
+VBN	_	0	root	_	_
+JJ	_	6	attr	_	_
+NN	_	6	com	_	_
+NNS	_	7	obj	_	_
+VBN	_	3	comp	_	_
+WRB	sem=loc	15	adv	11:adv	_
+NNS	_	11	nsbj	15:nsbj	_
+VBP	_	11	aux	_	_
+VBN	sem=loc	3	advcl	_	_
+NNS	_	11	obj	_	_
+RB	sem=loc	11	adv	_	_
+CC	_	11	cc	_	_
+VBN	_	11	conj	_	_
+RP	_	15	prt	_	_
+.	_	3	p	_	_
+

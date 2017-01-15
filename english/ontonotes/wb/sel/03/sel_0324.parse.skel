@@ -1,0 +1,16 @@
+DT	_	4	det	_	_
+JJ	_	4	attr	_	_
+JJ	_	4	attr	_	_
+NN	_	6	nsbj	_	_
+MD	_	6	modal	_	_
+VB	_	0	root	_	_
+PRP	_	6	obj	_	_
+RP	_	6	prt	_	_
+IN	_	14	mark	_	_
+DT	_	11	det	_	_
+NNS	_	14	nsbj	_	_
+VBP	_	14	raise	_	_
+TO	_	14	aux	_	_
+VB	sem=tmp	6	advcl	_	_
+.	_	6	p	_	_
+

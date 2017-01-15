@@ -1,0 +1,11 @@
+DT	_	0	root	_	_
+IN	_	5	case	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+NNS	_	1	ppmod	_	_
+CC	_	1	cc	_	_
+RB	_	8	adv	_	_
+JJ	_	10	attr	_	_
+NN	_	10	com	_	_
+NNS	_	1	conj	_	_
+

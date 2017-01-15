@@ -1,0 +1,15 @@
+IN	_	8	adv	_	_
+DT	_	1	det	_	_
+,	_	8	p	_	_
+DT	_	5	det	_	_
+NN	_	8	nsbj	12:nsbj	_
+MD	_	8	modal	_	_
+RB	_	8	adv	_	_
+VB	_	0	root	_	_
+DT	_	10	det	_	_
+NN	_	8	obj	_	_
+CC	_	8	cc	_	_
+VB	_	8	conj	_	_
+NN	_	12	obj	_	_
+.	_	8	p	_	_
+

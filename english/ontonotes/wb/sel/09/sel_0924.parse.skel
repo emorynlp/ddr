@@ -1,0 +1,20 @@
+NNP	_	5	nsbj	_	_
+VBZ	_	5	cop	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+NN	_	0	root	7:nsbj	_
+TO	_	7	aux	_	_
+VB	_	5	relcl	_	_
+DT	_	9	det	_	_
+NNS	_	7	obj	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+DT	_	14	det	_	_
+JJ	_	14	attr	_	_
+NNS	_	15	nsbj	_	_
+VBP	_	5	conj	_	_
+DT	_	17	det	_	_
+NN	_	15	obj	_	_
+RB	_	15	adv	_	_
+.	_	15	p	_	_
+

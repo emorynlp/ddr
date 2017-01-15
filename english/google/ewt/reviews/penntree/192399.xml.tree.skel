@@ -1,0 +1,22 @@
+NNP	_	0	root	_	_
+IN	_	3	case	_	_
+NNP	_	1	ppmod	_	_
+
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+.	_	2	p	_	_
+
+VBD	_	0	root	_	_
+IN	_	4	case	_	_
+PRP$	_	4	poss	_	_
+NN	sem=clr	1	ppmod	_	_
+CC	_	1	cc	_	_
+VBD	_	7	lv	_	_
+NN	sem=clr	1	conj	_	_
+IN	_	9	case	_	_
+PRP	sem=clr	7	ppmod	_	_
+.	_	1	p	_	_
+
+NN	_	0	root	_	_
+.	_	1	p	_	_
+

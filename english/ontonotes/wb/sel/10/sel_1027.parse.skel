@@ -1,0 +1,21 @@
+NNP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+EX	_	6	expl	_	_
+VBZ	_	6	cop	_	_
+DT	_	6	det	_	_
+NN	_	2	comp	_	_
+IN	_	8	case	_	_
+NN	_	6	ppmod	_	_
+IN	_	16	case	_	_
+WRB	sem=mnr	16	adv	_	_
+NN	_	12	com	_	_
+NN	_	13	com	_	_
+NN	_	14	com	_	_
+NNS	_	16	nsbj	_	_
+MD	_	16	modal	_	_
+VB	_	8	ppmod	_	_
+NNS	_	19	poss	_	_
+POS	_	17	case	_	_
+NN	_	16	obj	_	_
+.	_	2	p	_	_
+

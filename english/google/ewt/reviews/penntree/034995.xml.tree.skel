@@ -1,0 +1,33 @@
+NN	_	4	nsbj	_	_
+VBZ	_	4	cop	_	_
+RB	sem=tmp	4	adv	_	_
+JJ	_	6	comp	_	_
+RB	_	6	adv	_	_
+VB	_	0	root	_	_
+DT	_	8	det	_	_
+NNS	_	6	obj	_	_
+DT	_	10	det	_	_
+NN	sem=tmp	6	advnp	_	_
+.	_	6	p	_	_
+
+RB	_	7	adv	_	_
+RBR	_	3	com	_	_
+RB	sem=tmp	7	adv	_	_
+IN	_	5	mark	_	_
+RB	_	3	comp	_	_
+PRP	_	7	nsbj	_	_
+VBP	_	0	root	_	_
+RP	_	7	prt	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NN	sem=clr	7	ppmod	_	_
+IN	_	16	case	_	_
+JJ	_	16	attr	_	_
+JJ	_	16	attr	_	_
+NN	_	12	ppmod	_	_
+IN	_	19	case	_	_
+DT	_	19	det	_	_
+NNS	_	16	ppmod	_	_
+.	_	7	p	_	_
+

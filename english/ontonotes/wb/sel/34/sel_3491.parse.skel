@@ -1,0 +1,25 @@
+NNS	_	3	nsbj	_	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+NN	_	3	obj	_	_
+TO	_	8	aux	_	_
+VB	_	6	acl	_	_
+DT	_	10	det	_	_
+NN	sem=clr	8	obj	13:ppmod	_
+PRP	_	13	nsbj	_	_
+VBP	_	13	aux	_	_
+VBG	_	10	relcl	_	_
+IN	_	13	case	_	_
+CC	_	8	cc	_	_
+TO	_	17	aux	_	_
+VB	_	8	conj	_	_
+RB	_	19	adv	_	_
+JJ	_	20	attr	_	_
+NN	_	17	obj	_	_
+TO	_	22	aux	_	_
+VB	_	20	acl	_	_
+NN	_	22	obj	_	_
+.	_	3	p	_	_
+

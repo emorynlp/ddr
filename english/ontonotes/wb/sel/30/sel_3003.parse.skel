@@ -1,0 +1,26 @@
+PRP	_	4	nsbj	_	_
+VBZ	_	4	cop	_	_
+RB	_	4	adv	_	_
+IN	_	0	root	_	_
+WRB	sem=mnr	20	adv	_	_
+DT	_	7	det	_	_
+NN	_	20	nsbj	_	_
+NN	_	7	appo	_	_
+,	_	20	p	_	_
+``	_	20	p	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+JJS	_	14	attr	_	_
+NN	_	20	ppmod	_	_
+,	_	20	p	_	_
+''	_	20	p	_	_
+VBZ	_	20	cop	_	_
+DT	_	20	det	_	_
+JJ	_	20	attr	_	_
+NN	_	4	comp	_	_
+IN	_	23	mark	_	_
+NNS	_	23	nsbj	_	_
+VBP	sem=prp	20	advcl	_	_
+NN	_	23	obj	_	_
+.	_	4	p	_	_
+

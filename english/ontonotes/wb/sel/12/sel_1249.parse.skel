@@ -1,0 +1,12 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+DT	_	5	det	_	_
+NNP	_	5	com	_	_
+NN	_	2	obj	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+CD	_	9	num	_	_
+NN	_	10	com	_	_
+NN	_	5	ppmod	_	_
+.	_	2	p	_	_
+

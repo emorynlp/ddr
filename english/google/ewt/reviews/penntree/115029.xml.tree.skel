@@ -1,0 +1,23 @@
+RB	_	2	neg	_	_
+JJ	_	10	dep	_	_
+,	_	10	p	_	_
+RB	_	5	neg	_	_
+JJ	_	10	dep	_	_
+,	_	10	p	_	_
+RB	_	10	adv	_	_
+JJ	_	10	attr	_	_
+NN	_	10	com	_	_
+NN	_	0	root	_	_
+.	_	10	p	_	_
+
+RB	_	3	adv	_	_
+RB	_	3	neg	_	_
+VBG	_	0	root	_	_
+TO	_	5	aux	_	_
+VB	_	3	comp	_	_
+DT	_	7	det	_	_
+NN	_	5	obj	_	_
+IN	_	9	case	_	_
+RB	sem=clr	5	ppmod	_	_
+.	_	3	p	_	_
+

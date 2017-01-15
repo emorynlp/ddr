@@ -1,0 +1,16 @@
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	13	advcl	_	_
+RB	_	3	adv	_	_
+NN	_	6	com	_	_
+NNS	_	3	obj	_	_
+,	_	13	p	_	_
+RB	_	13	adv	_	_
+DT	_	11	det	_	_
+NN	_	11	com	_	_
+NN	_	13	nsbj	_	_
+VBZ	_	13	cop	_	_
+IN	_	0	root	_	_
+NN	_	13	obj	_	_
+.	_	13	p	_	_
+

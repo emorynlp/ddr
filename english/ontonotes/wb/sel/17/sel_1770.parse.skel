@@ -1,0 +1,23 @@
+DT	_	3	nsbj	_	_
+VBZ	_	3	cop	_	_
+PRP	_	16	comp	_	_
+,	_	16	p	_	_
+IN	_	7	mark	_	_
+NN	_	7	nsbj	9:nsbj	_
+VBZ	_	16	advcl	_	_
+TO	_	9	aux	_	_
+VB	_	7	comp	_	_
+PRP	_	9	obj	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+NN	sem=prp	9	ppmod	_	_
+CC	_	13	cc	_	_
+WDT	_	13	conj	_	_
+VB	_	0	root	_	_
+PRP	_	16	dat	_	_
+DT	_	19	det	_	_
+NN	_	16	obj	_	_
+CC	_	19	cc	_	_
+NN	_	19	conj	_	_
+.	_	16	p	_	_
+

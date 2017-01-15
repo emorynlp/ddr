@@ -1,0 +1,14 @@
+RB	sem=mnr	2	adv	_	_
+VB	_	0	root	_	_
+DT	_	2	obj	_	_
+RP	_	2	prt	_	_
+,	_	2	p	_	_
+CC	_	2	cc	_	_
+PRP	_	9	nsbj	_	_
+MD	_	9	modal	_	_
+VB	_	2	conj	_	_
+PRP	_	9	obj	_	_
+RP	_	9	prt	_	_
+RB	sem=mnr	9	adv	_	_
+.	_	9	p	_	_
+

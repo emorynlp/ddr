@@ -1,0 +1,21 @@
+VBN	_	13	advcl	_	_
+IN	_	4	case	_	_
+DT	_	4	det	_	_
+NN	_	1	nsbj	_	_
+,	_	13	p	_	_
+DT	_	7	det	_	_
+NN	_	13	nsbj	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NNP	sem=loc	7	ppmod	_	_
+VBD	_	13	raise	_	_
+TO	_	13	aux	_	_
+VB	_	0	root	_	_
+RBR	sem=mnr	13	adv	_	_
+CC	_	13	cc	_	_
+NNP	_	17	nsbj	_	_
+VBD	_	13	conj	_	_
+RB	_	19	com	_	_
+RBR	sem=mnr	17	adv	_	_
+.	_	17	p	_	_
+

@@ -1,0 +1,19 @@
+NNP	_	6	nsbj	10:nsbj	_
+CC	_	1	cc	_	_
+NNP	_	1	conj	_	_
+MD	_	6	modal	_	_
+RB	_	6	adv	_	_
+VB	_	0	root	_	_
+PRP	_	6	obj	_	_
+RP	_	6	prt	_	_
+:	_	6	p	_	_
+VBG	_	6	advcl	_	_
+DT	_	13	det	_	_
+JJ	_	13	attr	_	_
+NN	sem=clr	10	obj	16:ppmod	_
+PRP	_	16	nsbj	_	_
+RB	_	16	adv	_	_
+VBP	_	13	relcl	_	_
+IN	_	16	case	_	_
+.	_	6	p	_	_
+

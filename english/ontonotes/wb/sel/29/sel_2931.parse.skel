@@ -1,0 +1,21 @@
+IN	_	3	case	_	_
+DT	_	3	det	_	_
+NN	sem=prp	11	ppmod	17:ppmod	_
+,	_	3	p	_	_
+PRP$	_	6	poss	_	_
+NN	_	3	appo	_	_
+IN	_	8	case	_	_
+NN	_	6	ppmod	_	_
+,	_	11	p	_	_
+PRP	_	11	nsbj	17:nsbj	_
+VBD	_	0	root	_	_
+RP	_	11	prt	_	_
+PRP$	_	14	poss	_	_
+NN	_	11	obj	_	_
+CC	_	11	cc	_	_
+RB	_	17	adv	_	_
+VBP	_	11	conj	_	_
+DT	_	19	det	_	_
+NNS	_	17	obj	_	_
+.	_	11	p	_	_
+

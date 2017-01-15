@@ -1,0 +1,12 @@
+NNP	_	0	root	_	_
+:	_	1	p	_	_
+DT	_	4	det	_	_
+NN	_	1	appo	_	_
+TO	_	6	aux	_	_
+VB	_	4	acl	_	_
+NN	_	6	obj	_	_
+IN	_	10	case	_	_
+JJ	_	10	attr	_	_
+NNS	sem=clr	6	ppmod	_	_
+.	_	1	p	_	_
+

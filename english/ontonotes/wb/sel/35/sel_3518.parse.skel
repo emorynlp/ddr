@@ -1,0 +1,14 @@
+JJ	_	3	attr	_	_
+DT	_	3	det	_	_
+NN	sem=tmp	7	advnp	_	_
+DT	_	6	det	_	_
+NN	_	6	com	_	_
+NN	_	7	nsbj	10:nsbj	_
+VBD	_	0	root	_	_
+RB	_	7	adv	_	_
+,	_	7	p	_	_
+VBG	_	7	advcl	_	_
+NNP	_	10	obj	_	_
+RP	_	10	prt	_	_
+.	_	7	p	_	_
+

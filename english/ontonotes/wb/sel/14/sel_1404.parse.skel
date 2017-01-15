@@ -1,0 +1,12 @@
+DT	_	3	nsbj	_	_
+VBZ	_	3	cop	_	_
+IN	sem=prp	0	root	_	_
+IN	_	3	case	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+NN	_	3	obj	10:obj	_
+PRP$	_	9	poss	_	_
+NNS	_	10	nsbj	_	_
+VBP	_	7	relcl	_	_
+.	_	3	p	_	_
+

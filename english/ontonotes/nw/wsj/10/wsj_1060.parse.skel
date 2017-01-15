@@ -1,0 +1,37 @@
+NNP	_	3	com	_	B-ORG
+NNP	_	3	com	_	I-ORG
+NNP	_	4	nsbj	_	L-ORG
+VBD	_	0	root	_	O
+DT	_	6	det	_	O
+NN	_	4	obj	_	O
+IN	_	12	case	_	O
+NNP	_	12	attr	_	B-ORG
+NNP	_	12	attr	_	I-ORG
+NNP	_	12	attr	_	I-ORG
+.	_	12	p	_	I-ORG
+NNP	_	6	ppmod	_	L-ORG
+,	_	12	p	_	O
+DT	_	19	det	_	O
+JJ	_	16	adv	_	B-NORP
+JJ	_	19	attr	_	L-NORP
+JJ	_	18	attr	_	O
+NNS	_	19	com	_	O
+NN	_	12	appo	_	O
+.	_	4	p	_	O
+
+NNS	_	4	obj	_	_
+VBD	_	4	aux	_	_
+RB	_	4	neg	_	_
+VBN	_	0	root	_	_
+.	_	4	p	_	_
+
+NNP	_	8	nsbj	_	U-ORG
+VBZ	_	8	cop	_	O
+DT	_	8	det	_	O
+NN	_	8	attr	_	O
+CC	_	4	cc	_	O
+JJ	_	7	attr	_	O
+NNS	_	4	conj	_	O
+NN	_	0	root	_	O
+.	_	8	p	_	O
+

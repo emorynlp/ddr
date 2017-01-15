@@ -1,0 +1,18 @@
+PRP	_	2	nsbj	4:nsbj	_
+VBD	_	0	root	_	_
+CC	_	2	cc	_	_
+VBD	_	2	conj	_	_
+PRP	_	4	obj	2:obj	_
+,	_	2	p	_	_
+VBD	_	2	dep	_	_
+PRP	_	9	nsbj	_	_
+VB	_	7	comp	_	_
+NN	_	12	attr	_	_
+RP	_	10	prt	_	_
+NN	_	9	obj	_	_
+,	_	12	p	_	_
+NN	_	16	attr	_	_
+RP	_	14	prt	_	_
+NN	_	12	appo	_	_
+.	_	2	p	_	_
+

@@ -1,0 +1,20 @@
+EX	_	5	expl	_	_
+VBP	_	5	cop	_	_
+RB	_	4	adv	_	_
+JJ	_	5	attr	_	_
+NNS	_	0	root	7:adv	_
+TO	_	7	aux	_	_
+VB	_	5	relcl	_	_
+DT	_	10	det	_	_
+JJ	_	10	attr	_	_
+NN	_	7	obj	_	_
+TO	_	12	aux	_	_
+VB	_	5	acl	_	_
+IN	_	14	case	_	_
+NNS	sem=clr	12	ppmod	16:nsbj	_
+WDT	_	16	r-nsbj	_	_
+VBP	_	14	relcl	_	_
+JJ	_	18	attr	_	_
+NN	_	16	obj	_	_
+.	_	5	p	_	_
+

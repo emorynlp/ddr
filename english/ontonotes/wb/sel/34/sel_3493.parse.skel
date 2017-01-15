@@ -1,0 +1,25 @@
+VBD	_	0	root	_	_
+:	_	1	p	_	_
+WP	_	5	dep	_	_
+IN	_	5	case	_	_
+VBG	_	1	dep	_	_
+TO	_	8	aux	_	_
+RB	sem=mnr	8	adv	_	_
+VB	_	5	comp	_	_
+RP	_	8	prt	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NN	_	8	obj	_	_
+IN	_	14	case	_	_
+CD	_	12	ppmod	_	_
+IN	_	19	case	_	_
+DT	_	19	det	_	_
+NNP	_	19	com	_	_
+NN	_	19	com	_	_
+NNS	_	14	ppmod	_	_
+IN	_	23	case	_	_
+DT	_	23	det	_	_
+NNP	_	23	com	_	_
+NN	sem=mnr	8	ppmod	_	_
+.	_	1	p	_	_
+

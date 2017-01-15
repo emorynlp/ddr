@@ -1,0 +1,22 @@
+DT	_	3	det	_	_
+JJ	_	3	attr	_	_
+NN	_	7	nsbj	_	_
+VBZ	_	7	cop	_	_
+DT	_	7	det	_	_
+JJR	_	7	attr	_	_
+NN	_	0	root	12:nsbj	_
+,	_	7	p	_	_
+WDT	_	12	r-nsbj	_	_
+VBZ	_	12	aux	_	_
+RB	_	12	adv	_	_
+VBN	_	7	relcl	_	_
+PRP$	_	14	poss	_	_
+NN	_	12	obj	15:nsbj	_
+JJ	sem=clr	12	comp	_	_
+IN	_	18	case	_	_
+JJS	_	18	attr	_	_
+NN	_	15	ppmod	_	_
+CC	_	18	cc	_	_
+NN	_	18	conj	_	_
+.	_	7	p	_	_
+

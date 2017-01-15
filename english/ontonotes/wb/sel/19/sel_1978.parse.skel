@@ -1,0 +1,13 @@
+DT	_	5	nsbj	8:nsbj	_
+VBZ	_	5	cop	_	_
+DT	_	5	det	_	_
+NNP	_	5	com	_	_
+NN	_	0	root	_	_
+CC	_	5	cc	_	_
+MD	_	8	modal	_	_
+VB	_	5	conj	_	_
+JJ	_	11	attr	_	_
+NN	_	11	com	_	_
+NNS	_	8	obj	_	_
+.	_	5	p	_	_
+

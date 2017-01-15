@@ -1,0 +1,20 @@
+-LRB-	_	5	p	_	_
+PRP	_	5	obj	_	_
+VBZ	_	5	aux	_	_
+DT	_	5	det	_	_
+VBN	_	0	root	_	_
+RP	_	5	prt	_	_
+IN	_	12	case	_	_
+NNP	_	12	poss	_	_
+POS	_	8	case	_	_
+NN	_	11	com	_	_
+NNS	_	12	com	_	_
+NN	sem=loc	5	ppmod	_	_
+CC	_	12	cc	_	_
+NNP	_	17	com	_	_
+NNP	_	17	com	_	_
+HYPH	_	17	p	_	_
+NNP	_	12	conj	_	_
+.	_	5	p	_	_
+-RRB-	_	5	p	_	_
+

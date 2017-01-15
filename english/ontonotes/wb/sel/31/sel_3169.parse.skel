@@ -1,0 +1,22 @@
+PRP	_	2	nsbj	_	_
+VBZ	_	18	comp	_	_
+DT	_	4	det	_	_
+NN	_	6	nsbj	_	_
+RB	_	6	adv	_	_
+JJ	_	2	comp	_	_
+:	_	18	p	_	_
+PDT	_	10	det	_	_
+DT	_	10	det	_	_
+NNS	sem=clr	18	obj	14:ppmod	_
+WRB	sem=loc	15	adv	_	_
+NN	_	14	nsbj	_	_
+MD	_	14	modal	_	_
+VB	_	10	relcl	_	_
+IN	_	14	r-ppmod	_	_
+VBP	_	18	aux	_	_
+RB	sem=tmp	18	adv	_	_
+VBN	_	0	root	_	_
+IN	_	20	case	_	_
+NN	sem=clr	18	ppmod	_	_
+.	_	18	p	_	_
+

@@ -1,0 +1,17 @@
+NNP	_	2	com	_	_
+NNP	_	5	voc	_	_
+PRP	_	5	nsbj	10:nsbj	_
+VBP	_	5	cop	_	_
+IN	sem=loc	0	root	_	_
+NNP	_	5	obj	_	_
+CC	_	5	cc	_	_
+MD	_	10	modal	_	_
+RB	_	10	neg	_	_
+VB	_	5	conj	_	_
+PRP	_	12	nsbj	_	_
+VB	_	10	comp	_	_
+NNS	_	12	obj	_	_
+IN	_	15	case	_	_
+NNP	sem=loc	13	ppmod	_	_
+.	_	5	p	_	_
+

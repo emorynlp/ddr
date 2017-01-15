@@ -1,0 +1,25 @@
+VBP	_	4	aux	_	_
+DT	_	3	det	_	_
+NNS	_	4	nsbj	_	_
+VBG	_	0	root	_	_
+IN	_	8	case	_	_
+PRP$	_	8	poss	_	_
+VBN	_	8	attr	_	_
+NNS	sem=clr	4	ppmod	_	_
+IN	_	13	case	_	_
+PRP$	_	13	poss	_	_
+VBN	_	13	attr	_	_
+NN	_	13	com	_	_
+NNS	_	8	ppmod	_	_
+CC	_	4	cc	_	_
+VBP	_	17	aux	_	_
+PRP	_	17	nsbj	_	_
+VBG	_	4	conj	_	_
+PRP	_	20	obj	_	_
+VBG	_	20	aux	_	_
+VBN	_	17	comp	_	_
+RBR	sem=loc	20	adv	_	_
+IN	_	23	case	_	_
+NN	_	21	ppmod	_	_
+.	_	17	p	_	_
+

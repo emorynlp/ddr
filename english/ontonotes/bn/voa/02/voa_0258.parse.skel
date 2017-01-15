@@ -1,0 +1,34 @@
+JJ	_	3	adv	_	U-NORP
+HYPH	_	3	p	_	O
+JJ	_	5	attr	_	O
+NN	_	5	com	_	O
+NNS	_	7	nsbj	_	O
+VBP	_	7	aux	_	O
+VBN	_	0	root	_	O
+IN	_	9	case	_	O
+NNP	sem=loc	7	ppmod	_	U-GPE
+IN	_	12	case	_	O
+DT	_	12	det	_	O
+NN	sem=mnr	7	ppmod	_	O
+VBG	_	12	acl	_	O
+DT	_	16	det	_	O
+CD	_	16	num	_	U-CARDINAL
+NNS	_	17	nsbj	_	O
+JJR	_	13	comp	_	O
+IN	_	17	ppmod	_	O
+RB	sem=tmp	18	adv	_	O
+IN	_	23	case	_	O
+DT	_	23	det	_	O
+JJ	_	23	attr	_	O
+NN	_	17	ppmod	_	O
+.	_	7	p	_	O
+
+NNS	_	3	nsbj	_	O
+MD	_	3	modal	_	O
+VB	_	0	root	_	O
+IN	_	7	case	_	O
+DT	_	7	det	_	O
+JJ	_	7	attr	_	U-NORP
+NNS	sem=tmp	3	ppmod	_	O
+.	_	3	p	_	O
+

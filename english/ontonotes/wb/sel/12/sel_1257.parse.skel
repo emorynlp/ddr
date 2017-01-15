@@ -1,0 +1,23 @@
+PRP	_	3	nsbj	_	_
+VBZ	_	3	cop	_	_
+JJ	_	0	root	_	_
+IN	_	5	case	_	_
+NN	_	3	ppmod	_	_
+RB	_	9	adv	_	_
+IN	_	9	mark	_	_
+PRP	_	9	nsbj	_	_
+VBP	_	3	advcl	_	_
+PRP$	_	11	poss	_	_
+JJ	_	9	obj	_	_
+IN	_	16	mark	_	_
+PRP	_	16	nsbj	_	_
+VBD	_	16	raise	_	_
+TO	_	16	aux	_	_
+VB	_	3	advcl	_	_
+DT	_	19	det	_	_
+JJ	_	19	attr	_	_
+NN	_	16	obj	21:obj	_
+PRP	_	21	nsbj	_	_
+VBP	_	19	relcl	_	_
+.	_	3	p	_	_
+

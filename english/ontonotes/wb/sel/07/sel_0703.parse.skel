@@ -1,0 +1,13 @@
+WDT	_	2	det	_	_
+NN	sem=clr	8	ppmod	11:obj	_
+IN	_	5	case	_	_
+NN	_	5	com	_	_
+NN	_	2	ppmod	_	_
+VBZ	_	8	aux	_	_
+NN	_	8	nsbj	_	_
+VB	_	0	root	_	_
+IN	_	2	case	_	_
+CC	_	8	cc	_	_
+VB	_	8	conj	_	_
+.	_	8	p	_	_
+

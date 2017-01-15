@@ -1,0 +1,35 @@
+DT	_	5	det	_	O
+RB	_	3	adv	_	O
+VBN	_	5	attr	_	O
+NN	_	5	com	_	O
+NN	_	6	nsbj	_	O
+VBD	_	0	root	_	O
+NNP	_	8	com	_	B-PERSON
+NNP	_	6	obj	10:nsbj;12:nsbj	L-PERSON
+NN	_	10	com	_	O
+NN	sem=clr	6	comp	_	O
+CC	_	10	cc	_	O
+NN	_	10	conj	_	O
+.	_	6	p	_	O
+
+DT	_	8	det	_	O
+CD	_	4	num	_	B-DATE
+HYPH	_	4	p	_	I-DATE
+NN	_	6	advnp	_	I-DATE
+HYPH	_	6	p	_	I-DATE
+JJ	_	8	attr	_	L-DATE
+NNP	_	8	com	_	O
+NNP	_	9	nsbj	_	U-PERSON
+VBZ	_	0	root	_	O
+NNP	_	11	com	_	B-ORG
+NNP	_	9	obj	_	L-ORG
+IN	_	14	case	_	O
+NNP	_	14	com	_	B-ORG
+NNP	_	9	ppmod	19:adv	L-ORG
+,	_	14	p	_	O
+WRB	sem=loc	19	r-adv	_	O
+PRP	_	19	nsbj	_	O
+VBD	_	19	cop	_	O
+NN	sem=loc	14	advcl	_	O
+.	_	9	p	_	O
+

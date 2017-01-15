@@ -1,0 +1,20 @@
+VBP	_	3	aux	_	_
+PRP	_	3	nsbj	_	_
+VB	_	0	root	_	_
+DT	_	5	det	_	_
+NN	_	3	obj	_	_
+IN	_	9	case	_	_
+WP	_	9	nsbj	11:nsbj	_
+VBZ	_	9	aux	_	_
+VBG	_	5	ppmod	_	_
+TO	_	11	aux	_	_
+VB	_	9	comp	_	_
+WRB	sem=tmp	15	adv	_	_
+PRP$	_	14	poss	_	_
+NN	_	15	nsbj	_	_
+VBZ	sem=tmp	9	advcl	_	_
+IN	_	18	case	_	_
+CD	_	18	num	_	_
+NNS	sem=clr	15	ppmod	_	_
+.	_	3	p	_	_
+

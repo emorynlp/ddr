@@ -1,0 +1,25 @@
+RB	_	9	adv	_	_
+,	_	9	p	_	_
+NNS	_	9	nsbj	_	_
+IN	_	6	case	_	_
+NNP	_	6	com	_	_
+NNP	_	3	ppmod	_	_
+DT	_	8	det	_	_
+NN	sem=tmp	9	advnp	_	_
+VBD	_	0	root	_	_
+DT	_	12	det	_	_
+NN	_	12	com	_	_
+NN	_	9	obj	14:nsbj	_
+TO	_	14	aux	_	_
+VB	_	9	comp	_	_
+RP	_	14	prt	_	_
+DT	_	14	obj	_	_
+IN	_	23	case	_	_
+DT	_	19	det	_	_
+NN	_	23	poss	_	_
+POS	_	19	case	_	_
+JJ	_	23	attr	_	_
+NN	_	23	com	_	_
+NNS	_	16	ppmod	_	_
+.	_	9	p	_	_
+

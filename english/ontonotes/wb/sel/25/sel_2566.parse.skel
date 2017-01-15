@@ -1,0 +1,22 @@
+RB	_	2	adv	_	_
+VB	_	0	root	_	_
+RP	_	2	prt	_	_
+``	_	2	p	_	_
+NNP	_	6	com	_	_
+NNP	_	2	obj	_	_
+''	_	2	p	_	_
+IN	_	10	case	_	_
+NNP	_	10	com	_	_
+NNPS	sem=clr	2	ppmod	_	_
+,	_	2	p	_	_
+CC	_	2	cc	_	_
+VB	_	2	conj	_	_
+IN	_	20	mark	_	_
+PRP$	_	16	poss	_	_
+NN	_	20	nsbj	_	_
+TO	_	20	aux	_	_
+RB	_	20	adv	_	_
+VB	_	20	cop	_	_
+JJ	_	13	comp	_	_
+.	_	2	p	_	_
+

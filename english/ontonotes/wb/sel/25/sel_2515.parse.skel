@@ -1,0 +1,27 @@
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+:	_	2	p	_	_
+DT	_	8	det	_	_
+NNP	_	6	com	_	_
+NNPS	_	7	com	_	_
+NNP	_	8	com	_	_
+NN	_	9	nsbj	_	_
+VBZ	_	2	acl	_	_
+TO	_	11	aux	_	_
+VB	_	9	comp	_	_
+CC	_	11	cc	_	_
+VB	_	11	conj	_	_
+JJ	_	21	attr	_	_
+CC	_	14	cc	_	_
+JJ	_	14	conj	_	_
+NNP	_	21	com	_	_
+NNP	_	21	com	_	_
+NNPS	_	21	com	_	_
+NNP	_	21	com	_	_
+NNPS	_	13	obj	11:obj	_
+IN	_	25	case	_	_
+JJ	_	25	attr	_	_
+NNP	_	25	com	_	_
+NNPS	sem=clr	13	ppmod	_	_
+.	_	2	p	_	_
+

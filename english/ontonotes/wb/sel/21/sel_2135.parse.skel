@@ -1,0 +1,19 @@
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	7	advcl	_	_
+VBN	_	5	attr	_	_
+NNS	_	3	obj	_	_
+RB	_	7	adv	_	_
+VB	_	0	root	_	_
+CD	_	9	com	_	_
+CD	_	7	obj	_	_
+IN	_	13	mark	_	_
+PRP	_	13	obj	_	_
+VBZ	_	13	aux	_	_
+VBN	_	9	advcl	_	_
+RB	sem=loc	13	adv	_	_
+CC	_	9	cc	_	_
+NNP	_	17	com	_	_
+NNPS	_	9	conj	_	_
+.	_	7	p	_	_
+

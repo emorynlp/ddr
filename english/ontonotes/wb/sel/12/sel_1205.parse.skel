@@ -1,0 +1,20 @@
+DT	_	4	det	_	_
+JJ	_	4	attr	_	_
+NN	_	4	com	_	_
+NN	_	14	nsbj	6:obj	_
+PRP	_	6	nsbj	_	_
+VBP	_	4	relcl	_	_
+VBZ	_	14	cop	_	_
+DT	_	14	det	_	_
+NNP	_	10	com	_	_
+NNP	_	12	poss	_	_
+POS	_	10	case	_	_
+NNPS	_	14	com	_	_
+NN	_	14	com	_	_
+NN	_	0	root	18:nsbj	_
+,	_	14	p	_	_
+WDT	_	18	r-nsbj	_	_
+VBZ	_	18	cop	_	_
+NN	_	14	relcl	_	_
+.	_	14	p	_	_
+

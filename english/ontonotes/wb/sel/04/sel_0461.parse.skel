@@ -1,0 +1,20 @@
+CC	_	11	cc	_	_
+,	_	11	p	_	_
+WRB	_	4	adv	_	_
+JJ	_	11	dep	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NNP	_	8	com	_	_
+NNP	_	4	ppmod	_	_
+VBP	_	11	aux	_	_
+PRP	_	11	nsbj	_	_
+VB	_	0	root	_	_
+DT	_	14	det	_	_
+NN	_	14	com	_	_
+NN	_	16	nsbj	_	_
+MD	_	16	modal	_	_
+VB	_	11	comp	_	_
+,	_	16	p	_	_
+NN	_	16	voc	_	_
+.	_	11	p	_	_
+

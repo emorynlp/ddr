@@ -1,0 +1,24 @@
+RB	_	2	com	_	_
+RB	_	14	adv	_	_
+IN	_	5	mark	_	_
+PRP	_	5	nsbj	_	_
+VBZ	_	2	comp	_	_
+,	_	14	p	_	_
+DT	_	8	det	_	_
+NN	_	14	nsbj	_	_
+IN	_	13	case	_	_
+NNP	_	11	com	_	_
+NNP	_	13	poss	_	_
+POS	_	11	case	_	_
+NN	_	8	ppmod	_	_
+VBZ	_	0	root	_	_
+DT	_	16	det	_	_
+NN	_	14	obj	_	_
+NNP	_	16	appo	_	_
+IN	_	21	case	_	_
+DT	_	21	det	_	_
+``	_	21	p	_	_
+NN	sem=mnr	14	ppmod	_	_
+.	_	14	p	_	_
+''	_	14	p	_	_
+

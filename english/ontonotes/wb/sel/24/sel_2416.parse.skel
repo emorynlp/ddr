@@ -1,0 +1,17 @@
+PRP	_	5	nsbj	_	_
+MD	_	5	modal	_	_
+RB	sem=tmp	5	adv	_	_
+RB	sem=mnr	5	adv	_	_
+VB	_	0	root	_	_
+DT	_	8	det	_	_
+NN	_	8	com	_	_
+NN	_	5	obj	_	_
+-LRB-	_	8	p	_	_
+NN	_	8	appo	_	_
+-RRB-	_	8	p	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	sem=loc	5	ppmod	_	_
+PRP	_	14	appo	_	_
+.	_	5	p	_	_
+

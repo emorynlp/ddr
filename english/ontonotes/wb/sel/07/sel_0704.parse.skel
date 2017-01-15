@@ -1,0 +1,22 @@
+CC	_	5	cc	_	_
+WRB	sem=prp	7	adv	5:adv	_
+MD	_	5	modal	_	_
+PRP	_	5	nsbj	_	_
+VB	_	0	root	_	_
+CC	_	5	cc	_	_
+VB	_	5	conj	_	_
+IN	_	11	mark	_	_
+VBN	_	10	attr	_	_
+NNS	_	11	nsbj	_	_
+VBP	_	7	comp	5:comp	_
+NN	_	11	obj	20:obj	_
+WDT	_	20	r-obj	_	_
+NN	_	18	nsbj	_	_
+IN	_	17	case	_	_
+DT	_	17	det	_	_
+NNS	_	14	ppmod	_	_
+VBP	_	12	relcl	_	_
+PRP	_	20	nsbj	_	_
+VBP	_	18	comp	_	_
+.	_	5	p	_	_
+

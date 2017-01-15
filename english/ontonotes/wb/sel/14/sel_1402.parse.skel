@@ -1,0 +1,13 @@
+CC	_	8	cc	_	_
+NNP	_	5	poss	_	_
+POS	_	2	case	_	_
+NN	_	5	com	_	_
+NNS	_	8	nsbj	_	_
+MD	_	8	modal	_	_
+RB	_	8	neg	_	_
+VB	_	0	root	_	_
+NNP	_	8	obj	_	_
+RB	_	11	com	_	_
+RB	sem=tmp	8	adv	_	_
+.	_	8	p	_	_
+

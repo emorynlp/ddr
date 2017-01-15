@@ -1,0 +1,8 @@
+NNP	_	2	nsbj	5:nsbj	_
+VBD	_	0	root	_	_
+CD	_	2	obj	_	_
+TO	_	5	aux	_	_
+VB	sem=clr	2	comp	_	_
+NNP	_	5	obj	_	_
+.	_	2	p	_	_
+

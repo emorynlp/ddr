@@ -1,0 +1,22 @@
+DT	_	3	det	_	_
+JJ	_	3	attr	_	_
+NN	_	5	nsbj	_	_
+MD	_	5	modal	_	_
+VB	_	0	root	_	_
+DT	_	7	det	_	_
+NNS	_	5	obj	_	_
+IN	_	14	mark	_	_
+NNS	_	14	nsbj	_	_
+CC	_	9	cc	_	_
+NNS	_	9	conj	_	_
+CC	_	11	cc	_	_
+NNS	_	9	conj	_	_
+VBP	_	20	advcl	_	_
+IN	_	18	case	_	_
+DT	_	18	det	_	_
+NN	_	18	com	_	_
+NN	sem=loc	14	ppmod	_	_
+,	_	20	p	_	_
+JJ	_	5	dep	_	_
+.	_	5	p	_	_
+

@@ -1,0 +1,19 @@
+RB	_	5	adv	_	_
+,	_	5	p	_	_
+PRP	_	5	nsbj	_	_
+MD	_	5	modal	_	_
+VB	_	0	root	_	_
+DT	_	7	det	_	_
+NNS	_	5	obj	9:obj	_
+PRP	_	9	nsbj	_	_
+VBP	_	7	relcl	_	_
+IN	_	12	case	_	_
+PRP$	_	12	poss	_	_
+NN	sem=loc	5	ppmod	13:obj	_
+VBN	_	12	acl	_	_
+IN	_	17	case	_	_
+DT	_	17	det	_	_
+JJ	_	17	attr	_	_
+NN	_	13	ppmod	_	_
+.	_	5	p	_	_
+

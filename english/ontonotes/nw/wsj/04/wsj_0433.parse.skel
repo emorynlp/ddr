@@ -1,0 +1,49 @@
+PRP$	_	5	poss	_	O
+NNP	_	5	attr	_	B-DATE
+CD	_	2	num	_	L-DATE
+JJ	_	5	attr	_	O
+NN	_	6	nsbj	_	O
+VBD	_	0	root	_	O
+IN	_	12	mark	_	O
+JJ	_	9	attr	_	U-NORP
+NNS	_	12	nsbj	_	O
+VBP	_	12	raise	_	O
+TO	_	12	aux	_	O
+VB	_	6	advcl	_	O
+NNS	_	12	obj	_	O
+IN	_	15	case	_	O
+NN	sem=loc	12	ppmod	_	O
+CC	_	12	cc	_	O
+IN	_	21	mark	_	O
+DT	_	19	det	_	O
+NNS	_	21	obj	_	O
+VBP	_	21	aux	_	O
+VBN	_	12	conj	_	O
+IN	_	25	case	_	O
+NNS	_	25	poss	_	O
+POS	_	23	case	_	O
+NNS	_	21	ppmod	_	O
+.	_	6	p	_	O
+
+VBP	_	3	aux	_	O
+PRP	_	3	nsbj	_	O
+VB	_	0	root	_	O
+DT	_	5	det	_	O
+NNS	_	6	nsbj	_	U-NORP
+VBP	_	3	comp	_	O
+NN	_	6	obj	10:obj	O
+WDT	_	10	r-obj	_	O
+PRP	_	10	nsbj	_	O
+VBP	_	7	relcl	_	O
+RB	_	10	neg	_	O
+.	_	3	p	_	O
+
+NNP	_	3	com	_	B-PERSON
+NNP	_	3	com	_	I-PERSON
+NNP	_	0	root	_	L-PERSON
+
+NNP	_	0	root	_	U-GPE
+,	_	1	p	_	O
+NNP	_	1	appo	_	U-GPE
+.	_	1	p	_	O
+

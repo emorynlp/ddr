@@ -1,0 +1,12 @@
+CC	_	5	cc	_	_
+PRP	_	5	nsbj	_	_
+VBP	_	5	aux	_	_
+RB	_	5	neg	_	_
+VB	_	0	root	_	_
+WRB	sem=tmp	9	adv	_	_
+DT	_	8	det	_	_
+NN	_	9	nsbj	_	_
+VBZ	sem=tmp	5	advcl	_	_
+RP	_	9	prt	_	_
+.	_	5	p	_	_
+

@@ -1,0 +1,27 @@
+PRP	_	4	expl	_	_
+VBZ	_	4	cop	_	_
+RB	_	4	adv	_	_
+JJ	_	0	root	_	_
+IN	_	25	mark	_	_
+,	_	25	p	_	_
+RB	_	25	adv	_	_
+CC	_	7	cc	_	_
+IN	_	11	case	_	_
+JJ	_	11	attr	_	_
+NN	_	7	conj	_	_
+,	_	25	p	_	_
+DT	_	15	det	_	_
+JJ	_	15	attr	_	_
+NN	_	25	nsbj	17:nsbj	_
+TO	_	17	aux	_	_
+VB	_	15	relcl	_	_
+DT	_	20	det	_	_
+JJ	_	20	attr	_	_
+NNP	_	17	obj	_	_
+CC	_	20	cc	_	_
+NNPS	_	20	conj	_	_
+VBD	_	25	cop	_	_
+NNP	_	25	com	_	_
+NNP	_	4	csbj	_	_
+.	_	4	p	_	_
+

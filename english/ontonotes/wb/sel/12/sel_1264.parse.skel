@@ -1,0 +1,23 @@
+CC	_	14	cc	_	_
+IN	_	6	mark	_	_
+PRP	_	6	nsbj	8:nsbj	_
+VBP	_	6	aux	_	_
+RB	_	6	neg	_	_
+VB	_	14	advcl	_	_
+TO	_	8	aux	_	_
+VB	_	6	comp	_	_
+RP	_	8	prt	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NN	_	8	obj	_	_
+:	_	14	p	_	_
+VB	_	0	root	_	_
+DT	_	14	obj	_	_
+IN	_	18	case	_	_
+DT	_	18	det	_	_
+NNS	_	15	ppmod	_	_
+IN	_	20	case	_	_
+NNS	_	18	ppmod	_	_
+JJ	_	20	attr	_	_
+.	_	14	p	_	_
+

@@ -1,0 +1,79 @@
+RB	_	3	adv	_	_
+RB	_	3	adv	_	_
+JJ	_	0	root	_	_
+.	_	3	p	_	_
+
+JJ	_	0	root	_	_
+.	_	1	p	_	_
+
+NNP	_	6	dep	_	_
+CD	_	1	num	_	_
+,	_	1	p	_	_
+CD	sem=tmp	1	advnp	_	_
+JJ	_	6	attr	_	_
+NN	_	0	root	_	_
+VBG	_	6	acl	_	_
+IN	_	11	case	_	_
+NNP	_	11	com	_	_
+NNP	_	11	com	_	_
+NNP	sem=loc	7	ppmod	_	_
+CC	_	6	cc	_	_
+PRP	_	17	nsbj	_	_
+VBD	_	17	cop	_	_
+DT	_	17	det	_	_
+JJ	_	17	attr	_	_
+NN	_	6	conj	_	_
+.	_	17	p	_	_
+
+IN	_	5	case	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+NN	_	5	com	_	_
+NN	_	10	ppmod	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NN	_	10	com	_	_
+NN	_	10	com	_	_
+NN	_	22	ppmod	_	_
+CC	_	10	cc	_	_
+DT	_	13	det	_	_
+NN	_	10	conj	_	_
+CC	_	10	cc	_	_
+VBG	_	10	advcl	_	_
+IN	_	17	case	_	_
+NN	sem=clr	15	ppmod	_	_
+,	_	22	p	_	_
+DT	_	22	nsbj	_	_
+VBD	_	22	aux	_	_
+NN	_	22	advnp	_	_
+VBG	_	0	root	_	_
+.	_	22	p	_	_
+
+RB	_	2	adv	_	_
+JJ	_	0	root	_	_
+PRP	_	5	nsbj	_	_
+VBD	_	5	cop	_	_
+IN	_	2	comp	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NN	_	10	com	_	_
+NN	_	10	com	_	_
+NN	_	5	ppmod	_	_
+.	_	2	p	_	_
+
+RB	_	6	adv	_	_
+JJ	_	3	attr	_	_
+NN	sem=tmp	6	advnp	_	_
+PRP	_	6	nsbj	_	_
+MD	_	6	modal	_	_
+VB	_	0	root	_	_
+PRP	_	6	obj	_	_
+.	_	6	p	_	_
+
+NN	_	3	nsbj	_	_
+VBD	_	3	cop	_	_
+JJ	_	0	root	_	_
+.	_	3	p	_	_
+
+NNP	_	0	root	_	_
+

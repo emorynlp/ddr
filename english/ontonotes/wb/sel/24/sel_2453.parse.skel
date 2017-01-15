@@ -1,0 +1,12 @@
+JJ	_	0	root	_	_
+RB	_	4	adv	_	_
+IN	_	4	case	_	_
+DT	_	1	ppmod	7:nsbj	_
+WP$	_	6	poss	_	_
+NNS	_	7	r-nsbj	_	_
+VB	_	4	relcl	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+JJ	sem=clr	7	ppmod	_	_
+.	_	1	p	_	_
+

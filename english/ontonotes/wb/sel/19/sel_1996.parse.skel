@@ -1,0 +1,24 @@
+PRP	_	3	nsbj	8:nsbj;14:nsbj;16:nsbj	_
+RB	sem=tmp	3	adv	14:adv	_
+VBP	_	0	root	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+NNS	_	3	obj	_	_
+TO	_	8	aux	_	_
+VB	sem=clr	3	comp	_	_
+DT	_	10	det	_	_
+NN	_	8	obj	_	_
+,	_	3	p	_	_
+CC	_	3	cc	_	_
+RB	sem=tmp	14	adv	3:adv	_
+VBP	_	3	conj	_	_
+TO	_	16	aux	_	_
+VB	_	14	comp	_	_
+RP	_	16	prt	_	_
+IN	_	20	case	_	_
+DT	_	20	det	_	_
+NNS	sem=clr	16	ppmod	_	_
+IN	_	22	case	_	_
+NNP	_	20	ppmod	_	_
+.	_	3	p	_	_
+

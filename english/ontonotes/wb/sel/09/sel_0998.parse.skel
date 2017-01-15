@@ -1,0 +1,19 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+PRP	_	4	nsbj	8:nsbj	_
+VBP	_	2	comp	_	_
+DT	_	6	det	_	_
+NN	_	4	obj	_	_
+CC	_	4	cc	_	_
+VBP	_	4	conj	_	_
+PRP$	_	10	poss	_	_
+NN	_	8	dat	_	_
+DT	_	13	det	_	_
+JJ	_	13	attr	_	_
+NN	_	8	obj	_	_
+DT	_	15	det	_	_
+RB	sem=tmp	8	adv	_	_
+CC	_	15	cc	_	_
+RB	_	15	conj	_	_
+.	_	2	p	_	_
+

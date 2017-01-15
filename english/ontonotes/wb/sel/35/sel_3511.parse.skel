@@ -1,0 +1,14 @@
+VBD	_	0	root	_	_
+:	_	1	p	_	_
+PRP	_	4	nsbj	_	_
+VBD	_	1	comp	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NN	sem=clr	4	ppmod	_	_
+IN	_	9	case	_	_
+NNS	_	7	ppmod	_	_
+IN	_	12	case	_	_
+PRP$	_	12	poss	_	_
+NN	_	4	ppmod	_	_
+.	_	1	p	_	_
+

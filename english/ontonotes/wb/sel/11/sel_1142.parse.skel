@@ -1,0 +1,25 @@
+``	_	22	p	_	_
+DT	_	3	det	_	_
+NNS	_	11	nsbj	5:obj	_
+NNS	_	5	nsbj	_	_
+VBP	_	3	relcl	_	_
+IN	_	9	case	_	_
+JJ	_	9	attr	_	_
+NN	_	9	com	_	_
+NN	_	3	ppmod	_	_
+MD	_	11	modal	_	_
+VB	_	22	comp	_	_
+DT	_	14	det	_	_
+JJ	_	14	attr	_	_
+NN	_	11	obj	_	_
+IN	_	19	case	_	_
+JJ	_	19	attr	_	_
+CC	_	16	cc	_	_
+JJ	_	16	conj	_	_
+NNS	_	14	ppmod	_	_
+,	_	22	p	_	_
+''	_	22	p	_	_
+VBZ	_	0	root	_	_
+NNP	_	22	nsbj	_	_
+.	_	22	p	_	_
+

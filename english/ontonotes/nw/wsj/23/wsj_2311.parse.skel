@@ -1,0 +1,29 @@
+NNP	_	3	attr	_	U-PRODUCT
+JJ	_	3	attr	_	U-LOC
+NNS	_	6	nsbj	11:nsbj	O
+VBP	_	6	cop	_	O
+$	_	6	meta	_	O
+CD	_	0	root	_	U-MONEY
+IN	_	8	case	_	O
+NNP	_	6	ppmod	_	U-GPE
+CC	_	6	cc	_	O
+$	_	11	meta	_	O
+CD	_	6	conj	_	U-MONEY
+IN	_	13	case	_	O
+NNP	_	11	ppmod	_	U-GPE
+.	_	6	p	_	O
+
+IN	_	5	case	_	O
+DT	_	5	det	_	O
+NNP	_	4	com	_	B-ORG
+NNP	_	5	com	_	L-ORG
+NN	sem=loc	12	ppmod	_	O
+NNP	sem=tmp	12	advnp	_	B-DATE
+CD	_	6	num	_	L-DATE
+,	_	12	p	_	O
+DT	_	10	det	_	O
+NNS	_	12	obj	_	O
+VBD	_	12	aux	_	O
+VBN	_	0	root	_	O
+.	_	12	p	_	O
+

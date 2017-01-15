@@ -1,0 +1,16 @@
+VB	_	0	root	_	_
+IN	_	3	case	_	_
+NN	sem=clr	1	ppmod	_	_
+TO	_	5	aux	_	_
+VB	sem=prp	1	advcl	_	_
+NN	_	9	attr	_	_
+CC	_	6	cc	_	_
+NN	_	6	conj	_	_
+NNS	_	5	obj	11:nsbj	_
+WDT	_	11	r-nsbj	_	_
+VBP	_	9	relcl	_	_
+NN	_	14	com	_	_
+HYPH	_	14	p	_	_
+NN	_	11	obj	_	_
+.	_	1	p	_	_
+

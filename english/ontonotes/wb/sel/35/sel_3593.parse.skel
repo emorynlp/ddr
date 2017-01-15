@@ -1,0 +1,19 @@
+CC	_	17	cc	_	_
+IN	_	3	case	_	_
+NN	sem=tmp	17	ppmod	_	_
+RP	_	3	prt	_	_
+,	_	17	p	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NN	_	10	com	_	_
+NN	_	10	com	_	_
+NN	_	17	ppmod	_	_
+,	_	17	p	_	_
+DT	_	14	det	_	_
+NN	_	14	com	_	_
+NN	_	17	nsbj	_	_
+MD	_	17	modal	_	_
+RB	sem=mnr	17	adv	_	_
+VB	_	0	root	_	_
+.	_	17	p	_	_
+

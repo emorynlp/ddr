@@ -1,0 +1,21 @@
+IN	_	2	case	_	_
+NN	sem=loc	5	ppmod	9:ppmod	_
+CD	_	2	num	_	_
+PRP	_	5	nsbj	9:nsbj;18:nsbj	_
+VBD	_	0	root	_	_
+DT	_	7	det	_	_
+NN	_	5	obj	_	_
+CC	_	5	cc	_	_
+VBD	_	5	conj	_	_
+PRP$	_	16	poss	_	_
+NN	_	16	attr	_	_
+CC	_	11	cc	_	_
+NN	_	11	conj	_	_
+IN	_	15	case	_	_
+NN	_	13	ppmod	_	_
+NNS	_	9	obj	_	_
+TO	_	18	aux	_	_
+VB	sem=clr	9	comp	_	_
+PRP	_	18	obj	_	_
+.	_	5	p	_	_
+

@@ -1,0 +1,38 @@
+NNP	_	2	nsbj	_	U-GPE
+VBZ	_	0	root	_	O
+PRP	_	5	nsbj	_	O
+MD	_	5	modal	_	O
+VB	_	2	comp	_	O
+JJ	_	7	attr	_	O
+NNS	_	5	obj	_	O
+IN	_	11	case	_	O
+DT	_	11	det	_	B-GPE
+NNP	_	11	com	_	I-GPE
+NNP	_	7	ppmod	_	L-GPE
+,	_	11	p	_	O
+NNP	_	11	conj	_	U-GPE
+,	_	13	p	_	O
+NNP	_	11	conj	_	U-GPE
+CC	_	15	cc	_	O
+NNP	_	11	conj	_	U-GPE
+.	_	2	p	_	O
+
+NNP	_	3	com	_	O
+NNP	_	3	com	_	B-PERSON
+NNP	_	5	nsbj	7:nsbj	L-PERSON
+VBZ	_	5	aux	_	O
+VBN	_	0	root	_	O
+TO	_	7	aux	_	O
+VB	_	5	comp	_	O
+NNP	_	10	poss	_	U-GPE
+POS	_	8	case	_	O
+NN	_	7	obj	_	O
+.	_	5	p	_	O
+
+NNP	_	2	com	_	B-PERSON
+NNP	_	5	dep	_	L-PERSON
+,	_	5	p	_	O
+NNP	_	5	com	_	B-ORG
+NNP	_	0	root	_	L-ORG
+.	_	5	p	_	O
+

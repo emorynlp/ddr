@@ -1,0 +1,65 @@
+PRP$	_	2	poss	_	_
+NN	_	3	dep	_	_
+CD	_	0	root	_	_
+
+PRP	_	5	nsbj	11:nsbj	_
+RB	_	5	adv	_	_
+VBD	_	5	lv	_	_
+PRP$	_	5	poss	_	_
+NN	_	0	root	_	_
+IN	_	7	case	_	_
+CD	sem=tmp	5	ppmod	_	_
+CC	_	5	cc	_	_
+VBD	_	11	cop	_	_
+RB	_	11	adv	_	_
+JJ	_	5	conj	_	_
+.	_	5	p	_	_
+
+NNP	_	4	nsbj	_	_
+CC	_	1	cc	_	_
+NN	_	1	conj	_	_
+VBD	_	0	root	_	_
+DT	_	4	obj	8:obj	_
+WDT	_	8	r-obj	_	_
+PRP	_	8	nsbj	_	_
+VBP	_	5	relcl	_	_
+CC	_	5	cc	_	_
+CD	_	12	num	_	_
+NNS	_	10	attr	_	_
+JJR	_	5	conj	_	_
+.	_	4	p	_	_
+
+DT	_	2	det	_	_
+NN	_	5	nsbj	_	_
+VBD	_	5	cop	_	_
+GW	_	5	com	_	_
+JJ	_	0	root	_	_
+.	_	5	p	_	_
+
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	17	advcl	_	_
+DT	_	5	det	_	_
+NN	_	3	obj	8:nsbj;10:nsbj	_
+WDT	_	8	r-nsbj	_	_
+VBZ	_	8	cop	_	_
+JJ	_	5	relcl	_	_
+CC	_	8	cc	_	_
+JJ	_	8	conj	_	_
+TO	_	12	aux	_	_
+VB	_	10	comp	_	_
+IN	sem=clr	12	case	_	_
+PRP	_	17	nsbj	_	_
+VBP	_	17	cop	_	_
+DT	_	17	det	_	_
+NNS	_	0	root	_	_
+.	_	17	p	_	_
+
+NN	_	0	root	_	_
+RB	_	1	adv	_	_
+NNP	_	1	voc	_	_
+POS	_	3	case	_	_
+.	_	1	p	_	_
+
+NNP	_	0	root	_	_
+

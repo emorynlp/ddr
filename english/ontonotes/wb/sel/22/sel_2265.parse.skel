@@ -1,0 +1,9 @@
+NNP	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+RP	_	2	prt	_	_
+NN	_	2	obj	_	_
+IN	_	7	case	_	_
+NNP	_	7	com	_	_
+NN	_	4	ppmod	_	_
+.	_	2	p	_	_
+

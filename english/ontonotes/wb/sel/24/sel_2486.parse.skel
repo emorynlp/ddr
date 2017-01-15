@@ -1,0 +1,12 @@
+PRP	_	3	nsbj	_	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+IN	_	7	case	_	_
+JJR	_	6	attr	_	_
+NN	_	7	com	_	_
+NN	sem=clr	3	ppmod	_	_
+,	_	3	p	_	_
+NN	sem=tmp	3	advnp	_	_
+RB	sem=tmp	9	adv	_	_
+.	_	3	p	_	_
+

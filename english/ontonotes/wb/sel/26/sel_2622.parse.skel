@@ -1,0 +1,15 @@
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBP	sem=tmp	11	advcl	_	_
+DT	_	6	det	_	_
+NN	_	6	com	_	_
+NN	_	3	obj	_	_
+DT	_	8	det	_	_
+JJ	_	9	num	_	_
+NNS	sem=tmp	3	advnp	_	_
+PRP	_	11	nsbj	_	_
+VBZ	_	0	root	_	_
+RB	sem=mnr	11	adv	_	_
+RB	sem=tmp	11	adv	_	_
+.	_	11	p	_	_
+

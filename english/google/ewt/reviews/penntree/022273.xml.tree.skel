@@ -1,0 +1,28 @@
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+,	_	2	p	_	_
+JJ	_	5	attr	_	_
+NN	_	2	conj	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+JJ	_	9	attr	_	_
+NNS	_	2	conj	_	_
+.	_	9	p	_	_
+
+CC	_	6	cc	_	_
+DT	_	3	det	_	_
+NNS	_	6	nsbj	_	_
+VBP	_	6	aux	_	_
+RB	_	6	neg	_	_
+VB	_	0	root	_	_
+NN	sem=clr	6	obj	_	_
+IN	_	9	case	_	_
+PRP	sem=clr	6	ppmod	_	_
+IN	_	15	mark	_	_
+PRP	_	15	nsbj	_	_
+VBZ	_	13	cop	_	_
+JJ	_	15	dep	_	_
+CC	_	15	cc	_	_
+RB	_	6	advcl	_	_
+.	_	6	p	_	_
+

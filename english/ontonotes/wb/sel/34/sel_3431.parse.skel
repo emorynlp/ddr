@@ -1,0 +1,17 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+NNP	_	5	nsbj	8:nsbj	_
+TO	_	5	aux	_	_
+VB	_	2	comp	_	_
+NNS	_	5	obj	_	_
+CC	_	5	cc	_	_
+VB	_	5	conj	_	_
+NNS	_	8	obj	12:nsbj	_
+WP	_	12	r-nsbj	_	_
+MD	_	12	modal	_	_
+VB	_	9	relcl	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+NN	sem=clr	12	ppmod	_	_
+.	_	2	p	_	_
+

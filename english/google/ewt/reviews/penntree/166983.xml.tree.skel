@@ -1,0 +1,8 @@
+DT	_	2	det	_	_
+NNS	_	3	nsbj	_	_
+VBP	_	0	root	_	_
+TO	_	5	aux	_	_
+VB	_	3	comp	_	_
+IN	sem=prp	5	case	_	_
+.	_	3	p	_	_
+

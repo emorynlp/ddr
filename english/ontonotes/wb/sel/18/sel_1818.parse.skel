@@ -1,0 +1,8 @@
+PRP	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+NNS	_	2	obj	5:nsbj	_
+WDT	_	5	r-nsbj	_	_
+VBP	_	3	relcl	_	_
+NN	_	5	obj	_	_
+.	_	2	p	_	_
+

@@ -1,0 +1,18 @@
+RB	_	3	adv	_	_
+,	_	3	p	_	_
+VB	_	0	root	_	_
+NN	_	3	obj	8:nsbj	_
+WDT	_	8	r-nsbj	_	_
+VBZ	_	8	aux	_	_
+RB	_	8	neg	_	_
+VB	_	4	relcl	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	sem=clr	8	ppmod	_	_
+TO	_	13	aux	_	_
+VB	_	11	acl	_	_
+NN	_	16	com	_	_
+HYPH	_	16	p	_	_
+NN	_	13	obj	_	_
+.	_	3	p	_	_
+

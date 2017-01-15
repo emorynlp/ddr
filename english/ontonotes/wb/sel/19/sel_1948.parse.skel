@@ -1,0 +1,19 @@
+PRP	_	10	nsbj	_	_
+MD	_	6	modal	_	_
+RB	_	6	adv	_	_
+VB	_	6	raise	_	_
+TO	_	6	aux	_	_
+VB	_	0	root	_	_
+RP	_	6	prt	_	_
+CC	_	6	cc	_	_
+VB	_	10	raise	_	_
+VBG	_	6	conj	_	_
+NNP	_	12	com	_	_
+NNP	_	10	obj	_	_
+IN	_	14	case	_	_
+NNPS	_	12	ppmod	_	_
+IN	_	17	case	_	_
+IN	_	17	case	_	_
+DT	sem=prp	6	ppmod	_	_
+.	_	6	p	_	_
+

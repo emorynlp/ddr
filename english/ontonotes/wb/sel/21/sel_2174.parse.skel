@@ -1,0 +1,15 @@
+VB	_	0	root	_	_
+JJ	_	3	attr	_	_
+NNS	_	1	obj	_	_
+IN	_	6	case	_	_
+NN	_	6	com	_	_
+NNS	_	3	ppmod	_	_
+,	_	1	p	_	_
+VB	_	1	conj	_	_
+NN	_	10	com	_	_
+NNS	_	8	obj	_	_
+CC	_	8	cc	_	_
+VB	_	1	conj	_	_
+RB	sem=mnr	12	adv	_	_
+.	_	1	p	_	_
+

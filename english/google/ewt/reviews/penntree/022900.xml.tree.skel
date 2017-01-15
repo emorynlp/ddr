@@ -1,0 +1,25 @@
+RB	_	2	adv	_	_
+JJ	_	3	attr	_	_
+NN	_	0	root	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NNS	_	3	ppmod	_	_
+IN	_	8	case	_	_
+JJ	_	6	ppmod	_	_
+RB	sem=loc	6	adv	_	_
+.	_	3	p	_	_
+
+JJ	_	0	root	_	_
+.	_	1	p	_	_
+
+RB	_	2	adv	_	_
+JJ	_	3	attr	_	_
+NN	_	0	root	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NNS	_	3	ppmod	_	_
+IN	_	8	case	_	_
+JJ	_	6	ppmod	_	_
+RB	sem=loc	6	adv	_	_
+.	_	3	p	_	_
+

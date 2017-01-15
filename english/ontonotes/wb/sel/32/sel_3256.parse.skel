@@ -1,0 +1,19 @@
+PRP	_	3	nsbj	_	_
+RB	sem=tmp	3	adv	_	_
+VBP	_	0	root	_	_
+:	_	3	p	_	_
+VBZ	_	11	aux	_	_
+RB	_	11	neg	_	_
+DT	_	8	det	_	_
+NN	_	11	nsbj	_	_
+VBG	_	11	raise	_	_
+TO	_	11	aux	_	_
+VB	_	3	comp	_	_
+IN	_	16	mark	_	_
+NN	_	16	nsbj	_	_
+VBZ	_	16	aux	_	_
+RB	_	16	neg	_	_
+VB	_	11	advcl	_	_
+PRP	_	16	dat	_	_
+DT	_	16	obj	_	_
+

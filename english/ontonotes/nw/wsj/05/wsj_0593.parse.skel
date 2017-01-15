@@ -1,0 +1,37 @@
+NNP	_	3	com	_	B-PERSON
+NNP	_	3	com	_	I-PERSON
+NNP	_	17	obj	_	L-PERSON
+,	_	3	p	_	O
+NN	_	3	appo	_	O
+CC	_	5	cc	_	O
+JJ	_	9	attr	_	O
+JJ	_	9	attr	_	O
+NN	_	5	conj	_	O
+IN	_	14	case	_	O
+NNP	_	14	com	_	B-ORG
+HYPH	_	14	p	_	I-ORG
+NNP	_	14	com	_	I-ORG
+NNP	_	9	ppmod	5:ppmod	L-ORG
+,	_	3	p	_	O
+VBD	_	17	aux	_	O
+VBN	_	0	root	_	O
+IN	_	20	case	_	O
+DT	_	20	det	_	O
+NN	sem=clr	17	ppmod	_	O
+IN	_	22	case	_	O
+NNS	_	20	ppmod	_	O
+IN	_	26	case	_	O
+DT	_	26	det	_	O
+NNS	_	26	com	_	O
+NN	_	22	ppmod	_	O
+.	_	17	p	_	O
+
+PRP	_	2	nsbj	_	O
+VBZ	_	0	root	_	O
+DT	_	7	det	_	O
+VBG	_	7	attr	_	O
+NNP	_	7	com	_	B-PERSON
+NNP	_	7	com	_	I-PERSON
+NNP	_	2	obj	_	L-PERSON
+.	_	2	p	_	O
+

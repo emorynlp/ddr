@@ -1,0 +1,16 @@
+IN	_	8	mark	_	_
+DT	_	3	det	_	_
+NN	_	8	nsbj	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+NN	_	3	ppmod	_	_
+VBZ	_	11	advcl	14:advcl	_
+PRP	_	8	obj	_	_
+,	_	11	p	_	_
+VB	_	0	root	_	_
+RP	_	11	prt	_	_
+CC	_	11	cc	_	_
+VB	_	11	conj	_	_
+.	_	11	p	_	_
+

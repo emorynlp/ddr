@@ -1,0 +1,89 @@
+WP	sem=clr	4	comp	_	_
+MD	_	4	modal	_	_
+PRP	_	4	nsbj	_	_
+VB	_	0	root	_	_
+DT	_	6	det	_	_
+NN	_	4	obj	1:nsbj;8:nsbj	_
+WDT	_	8	r-nsbj	_	_
+VBP	_	6	relcl	_	_
+RP	_	8	prt	_	_
+PRP$	_	12	poss	_	_
+NN	_	12	com	_	_
+NN	_	8	obj	_	_
+.	_	4	p	_	_
+
+CC	_	5	cc	_	_
+WRB	sem=loc	5	adv	_	_
+MD	_	5	modal	_	_
+PRP	_	5	nsbj	_	_
+VB	_	0	root	_	_
+PRP	_	5	obj	_	_
+.	_	5	p	_	_
+
+NN	_	3	com	_	_
+NN	_	3	com	_	_
+NNS	_	0	root	_	_
+.	_	3	p	_	_
+
+CC	_	3	cc	_	_
+NN	_	3	com	_	_
+NNS	_	0	root	_	_
+
+VB	_	0	root	_	_
+PRP	_	1	obj	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+JJ	_	8	attr	_	_
+NN	_	7	com	_	_
+NNS	_	8	com	_	_
+NN	sem=loc	1	ppmod	_	_
+.	_	1	p	_	_
+
+NN	_	0	root	_	_
+
+NNS	_	0	root	_	_
+RB	_	1	adv	_	_
+.	_	1	p	_	_
+
+JJ	_	0	root	_	_
+VBG	_	1	advcl	_	_
+DT	_	6	nsbj	_	_
+VBZ	_	6	cop	_	_
+DT	_	6	det	_	_
+NN	_	2	comp	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NN	_	6	ppmod	_	_
+:	_	1	p	_	_
+
+ADD	_	0	root	_	_
+
+NN	_	2	com	_	_
+NN	_	0	root	_	_
+.	_	2	p	_	_
+
+VB	_	0	root	_	_
+DT	_	3	det	_	_
+NN	_	1	obj	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+NN	_	7	com	_	_
+NNS	_	8	com	_	_
+NNS	_	5	obj	_	_
+CC	_	5	cc	_	_
+VB	_	5	conj	_	_
+PRP	_	10	obj	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+NN	_	15	com	_	_
+NN	sem=loc	10	ppmod	_	_
+-LRB-	_	5	p	_	_
+CC	_	5	cc	_	_
+VB	_	1	conj	_	_
+IN	_	22	case	_	_
+NN	_	21	com	_	_
+NN	_	22	com	_	_
+NNS	sem=clr	18	ppmod	_	_
+-RRB-	_	18	p	_	_
+.	_	1	p	_	_
+

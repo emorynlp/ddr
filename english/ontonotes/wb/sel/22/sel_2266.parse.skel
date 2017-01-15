@@ -1,0 +1,23 @@
+UH	_	7	disc	_	_
+.	_	7	p	_	_
+RB	_	7	adv	_	_
+DT	_	5	det	_	_
+NNP	_	7	nsbj	_	_
+VBD	_	7	cop	_	_
+NN	_	0	root	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+JJ	_	11	attr	_	_
+NN	_	7	ppmod	13:nsbj	_
+WDT	_	13	r-nsbj	_	_
+VBD	_	11	relcl	_	_
+RP	_	13	prt	_	_
+DT	_	16	det	_	_
+NN	_	13	obj	_	_
+IN	_	19	case	_	_
+DT	_	19	det	_	_
+NN	_	16	ppmod	_	_
+TO	_	21	aux	_	_
+VB	_	16	acl	_	_
+.	_	7	p	_	_
+

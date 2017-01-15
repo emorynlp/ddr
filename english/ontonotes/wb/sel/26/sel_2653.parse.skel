@@ -1,0 +1,18 @@
+PRP	_	3	nsbj	_	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+RP	_	3	prt	_	_
+DT	_	7	det	_	_
+NN	_	7	com	_	_
+NN	_	3	obj	_	_
+,	_	3	p	_	_
+RB	_	3	neg	_	_
+VB	_	3	dep	_	_
+RP	_	10	prt	_	_
+TO	_	13	aux	_	_
+VB	sem=prp	10	advcl	_	_
+JJ	_	16	attr	_	_
+JJ	_	16	attr	_	_
+NN	_	13	obj	_	_
+.	_	3	p	_	_
+

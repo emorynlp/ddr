@@ -1,0 +1,37 @@
+DT	_	4	det	_	B-ORG
+NNP	_	4	com	_	I-ORG
+NNP	_	4	com	_	I-ORG
+NNP	_	7	nsbj	_	L-ORG
+VBZ	_	7	aux	_	O
+RB	_	7	neg	_	O
+VB	_	0	root	_	O
+DT	_	9	det	_	O
+NN	_	7	obj	_	O
+IN	_	11	case	_	O
+NNS	_	7	dat	_	O
+.	_	7	p	_	O
+
+IN	_	4	case	_	O
+NNP	_	4	poss	_	U-DATE
+POS	_	2	case	_	O
+NN	sem=loc	9	ppmod	_	O
+,	_	9	p	_	O
+PRP	_	9	nsbj	_	O
+VBD	_	9	aux	_	O
+RB	sem=mnr	9	adv	_	O
+VBN	_	0	root	_	O
+IN	_	14	mark	_	O
+DT	_	12	det	_	O
+NN	_	14	nsbj	_	O
+VBD	_	14	aux	_	O
+VBN	_	9	comp	_	O
+DT	_	16	det	_	O
+NN	_	14	obj	_	O
+IN	_	22	case	_	O
+JJ	_	20	attr	_	O
+NNP	_	20	com	_	U-ORG
+NNP	_	22	com	_	O
+NNP	_	22	com	_	B-PERSON
+NNP	_	14	dat	_	L-PERSON
+.	_	9	p	_	O
+

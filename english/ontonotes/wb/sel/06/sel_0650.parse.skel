@@ -1,0 +1,14 @@
+PRP	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+DT	_	4	det	_	_
+NNS	_	6	nsbj	_	_
+MD	_	6	modal	_	_
+VB	_	2	comp	_	_
+NNS	_	8	nsbj	_	_
+VB	_	6	comp	_	_
+JJ	_	10	attr	_	_
+NNS	_	8	obj	_	_
+IN	_	12	case	_	_
+NN	_	10	ppmod	_	_
+.	_	2	p	_	_
+

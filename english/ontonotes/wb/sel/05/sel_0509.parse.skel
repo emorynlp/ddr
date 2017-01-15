@@ -1,0 +1,12 @@
+CC	_	8	cc	_	_
+``	_	8	p	_	_
+IN	_	5	case	_	_
+WDT	_	5	det	_	_
+NN	sem=prp	8	ppmod	_	_
+VBD	_	8	aux	_	_
+NNP	_	8	nsbj	_	_
+VB	_	0	root	_	_
+PRP	_	8	obj	_	_
+.	_	8	p	_	_
+''	_	8	p	_	_
+

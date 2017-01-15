@@ -1,0 +1,17 @@
+VB	_	0	root	_	_
+JJ	_	4	attr	_	_
+JJ	_	4	attr	_	_
+NN	_	1	obj	_	_
+IN	_	7	case	_	_
+JJ	_	7	attr	_	_
+NN	sem=clr	1	ppmod	_	_
+TO	_	9	aux	_	_
+VB	_	4	acl	_	_
+RB	_	11	com	_	_
+RB	sem=loc	9	adv	_	_
+NN	_	11	advnp	_	_
+IN	_	15	case	_	_
+NN	_	15	com	_	_
+NN	_	12	ppmod	_	_
+.	_	1	p	_	_
+

@@ -1,0 +1,24 @@
+IN	_	5	mark	_	_
+PRP	_	5	nsbj	_	_
+VBZ	_	5	cop	_	_
+DT	_	5	det	_	_
+NN	_	19	advcl	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	sem=loc	5	ppmod	_	_
+-LRB-	_	8	p	_	_
+DT	_	12	det	_	_
+JJR	_	12	attr	_	_
+NN	_	8	appo	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+NN	_	12	ppmod	_	_
+-RRB-	_	8	p	_	_
+,	_	19	p	_	_
+RB	_	19	adv	_	_
+VB	_	0	root	_	_
+DT	_	22	det	_	_
+NN	_	22	com	_	_
+NN	_	19	obj	_	_
+.	_	19	p	_	_
+

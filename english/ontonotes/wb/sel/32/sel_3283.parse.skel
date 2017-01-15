@@ -1,0 +1,23 @@
+VBG	_	4	cop	_	_
+DT	_	4	det	_	_
+JJ	_	4	attr	_	_
+NNP	_	7	advcl	_	_
+,	_	7	p	_	_
+PRP	_	7	nsbj	4:nsbj;9:nsbj	_
+VBP	_	0	root	_	_
+TO	_	9	aux	_	_
+VB	_	7	comp	_	_
+RP	_	9	prt	_	_
+DT	_	13	det	_	_
+VBG	_	13	attr	_	_
+NN	_	9	obj	_	_
+CC	_	13	cc	_	_
+NN	_	13	conj	_	_
+IN	_	18	case	_	_
+DT	_	18	det	_	_
+NN	sem=clr	9	ppmod	_	_
+IN	_	21	case	_	_
+DT	_	21	det	_	_
+NN	_	18	ppmod	_	_
+.	_	7	p	_	_
+

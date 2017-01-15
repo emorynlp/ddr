@@ -1,0 +1,27 @@
+PRP$	_	4	poss	_	_
+NN	_	3	com	_	_
+NN	_	4	com	_	_
+NN	_	7	obj	9:nsbj	_
+VBD	_	7	aux	_	_
+RB	sem=tmp	7	adv	_	_
+VBN	_	0	root	_	_
+TO	_	9	aux	_	_
+VB	sem=prp	7	advcl	_	_
+JJ	_	11	attr	_	_
+NNS	_	9	obj	_	_
+IN	_	13	case	_	_
+NNS	_	11	ppmod	_	_
+,	_	11	p	_	_
+IN	_	16	case	_	_
+NN	_	17	ppmod	_	_
+NNS	_	11	appo	_	_
+,	_	17	p	_	_
+JJ	_	20	attr	_	_
+NNS	_	17	conj	_	_
+,	_	20	p	_	_
+CC	_	20	cc	_	_
+JJ	_	24	attr	_	_
+NN	_	25	com	_	_
+NNS	_	17	conj	_	_
+.	_	7	p	_	_
+

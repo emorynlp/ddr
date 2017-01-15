@@ -1,0 +1,25 @@
+RB	_	7	adv	_	_
+,	_	7	p	_	_
+PRP	_	7	nsbj	_	_
+VBD	_	7	aux	_	_
+RB	_	7	neg	_	_
+RB	_	7	adv	_	_
+VB	_	0	root	_	_
+IN	_	11	case	_	_
+WRB	sem=mnr	11	adv	_	_
+TO	_	11	aux	_	_
+VB	sem=clr	7	ppmod	_	_
+DT	_	14	det	_	_
+NN	_	14	com	_	_
+NN	_	18	nsbj	16:obj	_
+PRP	_	16	nsbj	_	_
+VBP	_	14	relcl	_	_
+TO	_	18	aux	_	_
+VB	_	11	comp	_	_
+DT	_	21	det	_	_
+NN	_	21	com	_	_
+NN	_	18	obj	23:obj	_
+PRP	_	23	nsbj	_	_
+VBP	_	21	relcl	_	_
+.	_	7	p	_	_
+

@@ -1,0 +1,21 @@
+NNS	_	4	nsbj	_	_
+MD	_	4	modal	_	_
+RB	_	4	adv	_	_
+VB	_	0	root	_	_
+PRP$	_	7	poss	_	_
+NN	_	7	com	_	_
+NNS	_	8	obj	_	_
+VBN	_	4	comp	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NNS	_	8	nsbj	_	_
+IN	_	16	case	_	_
+NN	_	16	attr	_	_
+CC	_	13	cc	_	_
+NN	_	13	conj	_	_
+NNS	sem=loc	8	ppmod	_	_
+VBG	_	16	acl	_	_
+DT	_	19	det	_	_
+NN	_	17	obj	_	_
+.	_	4	p	_	_
+

@@ -1,0 +1,15 @@
+DT	_	9	nsbj	13:nsbj	_
+IN	_	4	case	_	_
+PRP$	_	4	poss	_	_
+NNS	_	1	ppmod	_	_
+VBP	_	9	cop	_	_
+CD	_	9	num	_	_
+NN	_	6	meta	_	_
+NN	_	9	advnp	_	_
+JJ	_	0	root	_	_
+,	_	9	p	_	_
+CC	_	9	cc	_	_
+NN	_	13	advnp	_	_
+VBN	_	9	conj	_	_
+.	_	9	p	_	_
+

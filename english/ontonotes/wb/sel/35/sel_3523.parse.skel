@@ -1,0 +1,27 @@
+IN	_	3	case	_	_
+NNP	_	3	com	_	_
+NNP	sem=tmp	10	ppmod	_	_
+,	_	10	p	_	_
+CD	_	9	num	_	_
+NNP	_	9	com	_	_
+NN	_	9	com	_	_
+NN	_	9	com	_	_
+NNS	_	10	nsbj	_	_
+VBD	_	0	root	_	_
+IN	_	14	case	_	_
+JJ	_	14	attr	_	_
+NN	_	14	com	_	_
+NN	sem=clr	10	ppmod	_	_
+,	_	10	p	_	_
+CC	_	10	cc	_	_
+NNP	_	18	com	_	_
+NNP	_	19	nsbj	_	_
+VBD	_	10	conj	_	_
+DT	_	21	det	_	_
+NN	_	25	nsbj	_	_
+IN	_	24	case	_	_
+DT	_	24	det	_	_
+NN	_	21	ppmod	_	_
+JJ	_	19	comp	_	_
+.	_	19	p	_	_
+

@@ -1,0 +1,19 @@
+NNP	_	2	com	_	_
+NNP	_	3	nsbj	_	_
+VBD	_	0	root	_	_
+:	_	3	p	_	_
+RB	_	8	adv	_	_
+PRP	_	8	nsbj	9:nsbj	_
+MD	_	8	modal	_	_
+VB	_	3	comp	_	_
+VBG	_	8	comp	_	_
+PRP$	_	11	poss	_	_
+NNS	_	9	obj	_	_
+IN	_	14	case	_	_
+RB	_	14	adv	_	_
+CD	sem=clr	9	ppmod	_	_
+DT	_	17	det	_	_
+CD	_	17	com	_	_
+NNS	_	14	advnp	_	_
+.	_	3	p	_	_
+

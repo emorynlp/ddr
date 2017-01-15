@@ -1,0 +1,10 @@
+RB	_	2	adv	_	_
+JJ	_	3	attr	_	_
+NN	_	0	root	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NN	_	3	ppmod	_	_
+IN	_	9	case	_	_
+JJ	_	9	attr	_	_
+NN	_	6	ppmod	_	_
+

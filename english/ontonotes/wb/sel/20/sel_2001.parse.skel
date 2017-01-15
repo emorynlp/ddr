@@ -1,0 +1,21 @@
+DT	_	3	det	_	_
+NNP	_	3	com	_	_
+NN	_	5	nsbj	_	_
+VBZ	_	5	aux	_	_
+VBG	_	0	root	_	_
+DT	_	7	det	_	_
+NN	_	5	obj	_	_
+IN	_	10	case	_	_
+JJ	_	10	attr	_	_
+NNS	_	7	ppmod	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+NNP	_	16	nsbj	_	_
+VBZ	_	16	raise	_	_
+TO	_	16	aux	_	_
+VB	_	5	conj	_	_
+DT	_	19	det	_	_
+NNP	_	19	com	_	_
+NN	_	16	obj	_	_
+.	_	16	p	_	_
+

@@ -1,0 +1,16 @@
+DT	_	6	nsbj	_	_
+VBZ	_	6	cop	_	_
+PRP$	_	6	poss	_	_
+JJ	_	6	attr	_	_
+NNP	_	6	com	_	_
+NN	_	0	root	_	_
+,	_	6	p	_	_
+IN	_	11	mark	_	_
+PRP	_	11	nsbj	_	_
+VBP	_	11	aux	_	_
+VB	_	6	advcl	_	_
+DT	_	14	det	_	_
+NNP	_	14	com	_	_
+NN	_	11	obj	_	_
+.	_	6	p	_	_
+

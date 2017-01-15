@@ -1,0 +1,24 @@
+NNS	_	4	nsbj	_	_
+MD	_	4	modal	_	_
+RB	_	4	neg	_	_
+VB	_	0	root	_	_
+WRB	_	6	com	_	_
+RB	_	7	adv	_	_
+JJ	_	4	comp	_	_
+PRP	_	7	nsbj	_	_
+VBP	_	7	cop	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+NNS	_	7	ppmod	14:obj	_
+PRP	_	14	nsbj	16:nsbj	_
+VBD	_	12	relcl	_	_
+IN	_	16	case	_	_
+VBG	sem=clr	14	ppmod	_	_
+DT	_	18	det	_	_
+NN	_	16	obj	_	_
+IN	_	22	case	_	_
+CD	_	22	num	_	_
+JJ	_	22	attr	_	_
+NNS	sem=tmp	16	ppmod	_	_
+.	_	4	p	_	_
+

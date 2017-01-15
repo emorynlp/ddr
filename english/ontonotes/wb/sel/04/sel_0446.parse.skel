@@ -1,0 +1,17 @@
+NNP	_	5	attr	_	_
+NN	_	5	attr	_	_
+CC	_	2	cc	_	_
+NN	_	2	conj	_	_
+NNS	_	6	nsbj	_	_
+VBP	_	0	root	_	_
+PRP	_	6	dat	_	_
+JJR	_	6	obj	_	_
+DT	_	10	det	_	_
+NN	_	8	appo	_	_
+IN	_	13	case	_	_
+CD	_	13	num	_	_
+NN	_	10	ppmod	_	_
+DT	_	15	det	_	_
+NN	_	13	advnp	_	_
+.	_	6	p	_	_
+

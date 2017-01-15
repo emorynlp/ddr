@@ -1,0 +1,25 @@
+PRP	_	2	nsbj	16:nsbj	_
+VBD	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	2	obj	_	_
+:	_	4	p	_	_
+JJ	_	4	attr	_	_
+:	_	4	p	_	_
+IN	_	10	case	_	_
+JJ	_	10	attr	_	_
+NNS	_	4	ppmod	_	_
+,	_	2	p	_	_
+CC	_	2	cc	_	_
+IN	_	14	case	_	_
+VBG	_	16	ppmod	_	_
+RB	_	14	adv	_	_
+VBD	_	2	conj	_	_
+DT	_	19	det	_	_
+NN	_	19	com	_	_
+NN	_	23	nsbj	_	_
+DT	_	21	det	_	_
+NN	_	22	advnp	_	_
+RBR	_	23	adv	_	_
+JJ	_	16	comp	_	_
+.	_	2	p	_	_
+

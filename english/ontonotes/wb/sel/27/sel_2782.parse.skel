@@ -1,0 +1,17 @@
+DT	_	2	det	_	_
+NNS	_	6	nsbj	8:nsbj	_
+VBP	_	6	cop	_	_
+RB	_	6	neg	8:neg	_
+JJ	_	6	adv	_	_
+JJ	_	0	root	_	_
+CC	_	6	cc	_	_
+JJ	_	6	conj	_	_
+RB	_	8	adv	_	_
+TO	_	11	aux	_	_
+VB	_	8	comp	6:comp	_
+RP	_	11	prt	_	_
+JJ	_	14	attr	_	_
+NN	_	11	obj	_	_
+RB	sem=tmp	11	adv	_	_
+.	_	6	p	_	_
+

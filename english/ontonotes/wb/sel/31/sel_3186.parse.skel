@@ -1,0 +1,11 @@
+:	_	2	p	_	_
+VB	_	0	root	_	_
+PRP$	_	4	poss	_	_
+NNS	_	2	obj	_	_
+IN	_	9	case	_	_
+RB	_	7	adv	_	_
+JJ	_	9	attr	_	_
+NN	_	9	com	_	_
+NN	sem=clr	2	ppmod	_	_
+.	_	2	p	_	_
+

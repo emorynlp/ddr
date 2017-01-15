@@ -1,0 +1,14 @@
+VB	_	0	root	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+JJ	_	6	attr	_	_
+NN	_	6	com	_	_
+NN	_	1	obj	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NN	_	12	com	_	_
+NN	_	8	obj	_	_
+.	_	1	p	_	_
+

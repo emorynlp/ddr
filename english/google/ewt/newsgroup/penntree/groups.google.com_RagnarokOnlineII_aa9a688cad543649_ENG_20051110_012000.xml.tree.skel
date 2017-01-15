@@ -1,0 +1,34 @@
+NN	_	3	dep	_	_
+:	_	3	p	_	_
+ADD	_	0	root	_	_
+
+NN	_	2	obj	_	_
+VBN	_	0	root	_	_
+.	_	2	p	_	_
+
+CC	_	18	cc	_	_
+PRP	_	3	nsbj	_	_
+VBZ	_	18	comp	_	_
+DT	_	8	nsbj	_	_
+VBZ	_	8	cop	_	_
+DT	_	8	det	_	_
+JJ	_	8	attr	_	_
+NN	_	3	comp	_	_
+IN	_	11	case	_	_
+NNP	_	11	com	_	_
+NNP	_	8	ppmod	_	_
+UH	_	18	disc	_	_
+IN	_	17	mark	_	_
+DT	_	15	det	_	_
+NN	_	17	nsbj	_	_
+VBZ	_	17	cop	_	_
+JJ	sem=prp	18	advcl	_	_
+VB	_	0	root	_	_
+PRP	_	18	dat	_	_
+PRP$	_	21	poss	_	_
+NNS	_	18	obj	_	_
+CC	_	21	cc	_	_
+NNS	_	21	conj	_	_
+
+VB	_	0	root	_	_
+

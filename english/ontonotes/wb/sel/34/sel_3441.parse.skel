@@ -1,0 +1,14 @@
+NN	_	5	nsbj	4:nsbj	_
+DT	_	3	det	_	_
+NN	_	4	nsbj	_	_
+VBD	_	1	relcl	_	_
+VBD	_	0	root	_	_
+IN	_	7	case	_	_
+NN	sem=clr	5	ppmod	_	_
+,	_	5	p	_	_
+VBG	_	12	adv	_	_
+IN	_	12	case	_	_
+JJ	_	12	attr	_	_
+NN	_	5	ppmod	_	_
+.	_	5	p	_	_
+

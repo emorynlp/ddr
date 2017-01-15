@@ -1,0 +1,25 @@
+DT	_	3	det	_	_
+JJ	_	3	attr	_	_
+NNS	_	6	obj	_	_
+MD	_	6	modal	_	_
+VB	_	6	aux	_	_
+VBN	_	0	root	_	_
+IN	_	11	mark	_	_
+PRP	_	11	obj	_	_
+VBD	_	11	aux	_	_
+RB	sem=mnr	11	adv	_	_
+VBN	_	6	advcl	_	_
+,	_	11	p	_	_
+WDT	_	14	nsbj	_	_
+VBZ	_	11	advcl	_	_
+TO	_	16	aux	_	_
+VB	_	14	comp	_	_
+NN	_	18	com	_	_
+NNS	_	19	nsbj	21:nsbj	_
+VB	_	16	comp	_	_
+CC	_	19	cc	_	_
+VB	_	19	conj	_	_
+NN	_	23	com	_	_
+NNS	_	21	obj	19:obj	_
+.	_	6	p	_	_
+

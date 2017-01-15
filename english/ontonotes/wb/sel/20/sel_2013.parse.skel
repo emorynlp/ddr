@@ -1,0 +1,23 @@
+CC	_	9	cc	_	_
+RB	sem=tmp	9	adv	_	_
+EX	_	9	expl	_	_
+VBZ	_	9	cop	_	_
+NNP	_	9	poss	_	_
+POS	_	5	case	_	_
+``	_	9	p	_	_
+NNP	_	9	com	_	_
+NNP	_	0	root	15:nsbj	_
+''	_	9	p	_	_
+,	_	9	p	_	_
+WDT	_	15	r-nsbj	_	_
+PRP	_	14	nsbj	_	_
+VBP	_	9	relcl	_	_
+VBZ	_	14	comp	_	_
+DT	_	17	det	_	_
+NN	_	15	obj	_	_
+IN	_	21	case	_	_
+DT	_	21	det	_	_
+JJ	_	21	attr	_	_
+NNP	_	17	ppmod	_	_
+.	_	9	p	_	_
+

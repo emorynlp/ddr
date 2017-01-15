@@ -1,0 +1,13 @@
+MD	_	3	modal	_	_
+PRP	_	3	nsbj	_	_
+VB	_	0	root	_	_
+IN	_	11	mark	_	_
+DT	_	6	det	_	_
+NN	_	11	nsbj	_	_
+VBD	_	11	raise	_	_
+TO	_	11	aux	_	_
+VB	_	11	cop	_	_
+JJ	_	11	attr	_	_
+NN	_	3	advcl	_	_
+.	_	3	p	_	_
+

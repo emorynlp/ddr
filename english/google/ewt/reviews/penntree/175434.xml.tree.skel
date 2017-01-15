@@ -1,0 +1,20 @@
+DT	_	4	nsbj	_	_
+VBZ	_	4	cop	_	_
+DT	_	4	det	_	_
+NNP	_	0	root	_	_
+POS	_	4	case	_	_
+
+PRP	_	3	nsbj	_	_
+RB	sem=tmp	3	adv	_	_
+VBD	_	0	root	_	_
+DT	_	5	det	_	_
+NN	_	3	obj	_	_
+CC	_	3	cc	_	_
+PRP	_	12	nsbj	_	_
+VBZ	_	12	cop	_	_
+DT	_	12	det	_	_
+NNP	_	12	poss	_	_
+POS	_	10	case	_	_
+NNP	_	3	conj	_	_
+.	_	12	p	_	_
+

@@ -1,0 +1,24 @@
+IN	_	5	mark	_	_
+PRP$	_	3	poss	_	_
+NN	_	5	nsbj	_	_
+VBD	_	5	cop	_	_
+JJ	_	22	advcl	_	_
+:	_	5	p	_	_
+JJ	_	5	dep	_	_
+,	_	7	p	_	_
+JJ	_	7	conj	_	_
+,	_	9	p	_	_
+CC	_	9	cc	_	_
+VBN	_	7	conj	_	_
+RB	_	15	adv	_	_
+IN	_	15	case	_	_
+NN	sem=clr	12	ppmod	_	_
+:	_	5	p	_	_
+PRP	_	22	nsbj	_	_
+VBZ	_	22	raise	_	_
+TO	_	22	aux	_	_
+VB	_	22	aux	_	_
+VBN	_	22	cop	_	_
+JJ	_	0	root	_	_
+.	_	22	p	_	_
+

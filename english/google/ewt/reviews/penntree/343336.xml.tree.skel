@@ -1,0 +1,15 @@
+VBN	_	0	root	_	_
+TO	_	3	aux	_	_
+VB	_	1	comp	_	_
+DT	_	5	det	_	_
+NN	_	3	obj	_	_
+.	_	1	p	_	_
+
+NN	_	3	nsbj	5:nsbj	_
+VBZ	_	3	cop	_	_
+JJ	_	0	root	_	_
+CC	_	3	cc	_	_
+VBG	_	3	conj	_	_
+NN	_	5	obj	_	_
+.	_	3	p	_	_
+

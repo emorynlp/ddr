@@ -1,0 +1,21 @@
+PRP	_	6	obj	_	_
+VBP	_	6	aux	_	_
+RB	_	6	adv	_	_
+VBN	_	6	aux	_	_
+``	_	6	p	_	_
+VBN	_	0	root	_	_
+RP	_	6	prt	_	_
+''	_	6	p	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NN	_	6	nsbj	_	_
+JJR	_	17	attr	_	_
+IN	_	13	com	_	_
+PDT	_	17	det	_	_
+DT	_	17	det	_	_
+CD	_	18	num	_	_
+NNS	_	19	advnp	_	_
+JJ	_	12	attr	_	_
+.	_	6	p	_	_
+

@@ -1,0 +1,20 @@
+NN	_	3	nsbj	_	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+CC	_	3	cc	_	_
+PRP	_	6	nsbj	_	_
+VBP	_	3	conj	_	_
+PRP	_	11	nsbj	_	_
+VBZ	_	11	aux	_	_
+VBG	_	11	raise	_	_
+TO	_	11	aux	_	_
+VB	_	6	comp	_	_
+PRP$	_	13	poss	_	_
+NN	_	11	obj	_	_
+IN	_	15	case	_	_
+NNP	_	13	ppmod	_	_
+IN	_	18	case	_	_
+DT	_	18	det	_	_
+NN	sem=tmp	11	ppmod	_	_
+.	_	6	p	_	_
+

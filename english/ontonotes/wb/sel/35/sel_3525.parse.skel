@@ -1,0 +1,18 @@
+PRP	_	3	obj	7:obj;9:obj;12:obj	_
+VBD	_	3	aux	_	_
+VBN	_	0	root	_	_
+IN	_	5	case	_	_
+NNS	sem=clr	3	ppmod	_	_
+,	_	3	p	_	_
+VBN	_	3	conj	_	_
+,	_	7	p	_	_
+VBN	_	3	conj	_	_
+CC	_	9	cc	_	_
+RB	_	12	adv	_	_
+VBN	_	3	conj	_	_
+RP	_	12	prt	_	_
+IN	_	16	case	_	_
+DT	_	16	det	_	_
+NNP	_	12	nsbj	3:nsbj;7:nsbj;9:nsbj	_
+.	_	3	p	_	_
+

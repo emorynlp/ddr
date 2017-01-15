@@ -1,0 +1,13 @@
+DT	_	2	det	_	_
+NNS	_	3	nsbj	_	_
+VBP	_	0	root	_	_
+RB	sem=clr	3	adv	_	_
+RB	_	6	adv	_	_
+JJ	_	7	attr	_	_
+NNS	_	3	obj	_	_
+IN	_	11	case	_	_
+JJ	_	11	attr	_	_
+NN	_	11	com	_	_
+NN	_	7	ppmod	_	_
+.	_	3	p	_	_
+

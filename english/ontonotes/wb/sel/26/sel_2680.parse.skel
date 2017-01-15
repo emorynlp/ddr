@@ -1,0 +1,18 @@
+CC	_	14	cc	_	_
+,	_	14	p	_	_
+DT	_	4	det	_	_
+NN	_	14	nsbj	8:adv;16:nsbj	_
+-LRB-	_	4	p	_	_
+WRB	sem=loc	8	r-adv	_	_
+PRP	_	8	nsbj	_	_
+VBP	_	4	relcl	_	_
+DT	_	11	det	_	_
+NN	_	11	com	_	_
+NNS	_	8	obj	_	_
+-RRB-	_	4	p	_	_
+VBZ	_	14	cop	_	_
+JJ	_	0	root	_	_
+CC	_	14	cc	_	_
+JJ	_	14	conj	_	_
+.	_	14	p	_	_
+

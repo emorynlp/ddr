@@ -1,0 +1,16 @@
+DT	_	3	nsbj	5:nsbj;9:nsbj	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+CC	_	3	cc	_	_
+VB	_	3	conj	_	_
+NN	_	5	obj	3:obj	_
+CC	_	3	cc	_	_
+MD	_	9	modal	_	_
+VB	_	3	conj	_	_
+DT	_	11	det	_	_
+NNS	_	9	obj	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	sem=tmp	9	ppmod	_	_
+.	_	3	p	_	_
+

@@ -1,0 +1,30 @@
+NNP	_	3	com	_	B-ORG
+NNP	_	3	com	_	I-ORG
+NNP	_	6	poss	_	I-ORG
+POS	_	3	case	_	L-ORG
+JJ	_	6	attr	_	O
+NN	_	7	nsbj	_	O
+VBD	_	0	root	_	O
+CD	sem=ext	7	advnp	_	B-PERCENT
+NN	_	8	meta	_	L-PERCENT
+IN	_	13	case	_	O
+DT	_	13	det	_	B-DATE
+JJ	_	13	attr	_	I-DATE
+NN	sem=tmp	7	ppmod	_	L-DATE
+IN	_	19	case	_	O
+DT	_	19	det	_	B-DATE
+NN	_	18	advnp	_	I-DATE
+HYPH	_	18	p	_	I-DATE
+JJR	_	19	attr	_	I-DATE
+NN	sem=dir	7	ppmod	_	L-DATE
+.	_	7	p	_	O
+
+NN	_	3	poss	_	U-DATE
+POS	_	1	case	_	O
+NN	_	4	nsbj	_	O
+VBD	_	0	root	_	O
+DT	_	7	det	_	O
+NN	_	7	com	_	O
+NN	_	4	obj	_	O
+.	_	4	p	_	O
+

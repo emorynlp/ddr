@@ -1,0 +1,23 @@
+PRP	_	5	nsbj	_	_
+VBP	_	5	aux	_	_
+VB	_	5	lv	_	_
+NN	_	5	com	_	_
+NNS	_	0	root	_	_
+IN	_	7	case	_	_
+NN	sem=tmp	5	ppmod	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+WRB	sem=prp	11	adv	_	_
+VB	_	5	conj	_	_
+IN	_	16	mark	_	_
+NN	_	14	com	_	_
+NN	_	16	obj	_	_
+VBD	_	16	aux	_	_
+VBN	_	11	comp	_	_
+IN	_	18	case	_	_
+NN	sem=clr	16	ppmod	_	_
+IN	_	21	case	_	_
+DT	_	21	det	_	_
+NN	_	16	ppmod	_	_
+.	_	11	p	_	_
+

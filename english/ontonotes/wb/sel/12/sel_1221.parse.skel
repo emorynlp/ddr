@@ -1,0 +1,16 @@
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	0	root	_	_
+DT	_	7	det	_	_
+CD	_	6	num	_	_
+NN	_	7	com	_	_
+NN	_	3	obj	_	_
+VBG	_	10	adv	_	_
+NNP	_	10	com	_	_
+NNP	_	7	ppmod	_	_
+IN	_	14	case	_	_
+NNP	_	14	com	_	_
+NNP	_	14	com	_	_
+NNP	sem=loc	7	ppmod	_	_
+.	_	3	p	_	_
+

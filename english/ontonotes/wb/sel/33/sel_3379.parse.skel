@@ -1,0 +1,24 @@
+NNP	_	6	nsbj	9:nsbj	_
+CC	_	1	cc	_	_
+DT	_	5	det	_	_
+VBN	_	5	attr	_	_
+NNS	_	1	conj	_	_
+VBP	_	0	root	_	_
+RB	sem=loc	6	adv	_	_
+CC	_	6	cc	_	_
+VBP	_	6	conj	_	_
+PRP$	_	11	poss	_	_
+NN	_	9	obj	_	_
+RB	sem=tmp	9	adv	_	_
+IN	_	14	mark	_	_
+VBG	sem=tmp	9	advcl	_	_
+RP	_	14	prt	_	_
+NN	_	14	obj	_	_
+IN	_	18	case	_	_
+NN	_	16	ppmod	_	_
+IN	_	22	case	_	_
+PRP$	_	22	poss	_	_
+NN	_	22	com	_	_
+NN	sem=loc	14	ppmod	_	_
+.	_	6	p	_	_
+

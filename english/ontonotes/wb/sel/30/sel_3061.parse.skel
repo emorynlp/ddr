@@ -1,0 +1,17 @@
+PRP	_	5	nsbj	_	_
+VBD	_	5	cop	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+NN	_	0	root	_	_
+IN	_	8	case	_	_
+PRP$	_	8	poss	_	_
+JJ	_	5	ppmod	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+PRP	_	12	nsbj	_	_
+VBD	_	5	conj	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+NN	sem=loc	12	ppmod	_	_
+.	_	12	p	_	_
+

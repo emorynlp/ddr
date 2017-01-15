@@ -1,0 +1,13 @@
+CC	_	5	cc	_	_
+EX	_	5	expl	_	_
+VBZ	_	5	cop	_	_
+DT	_	5	det	_	_
+NN	_	0	root	_	_
+IN	_	11	mark	_	_
+NN	_	10	poss	_	_
+RB	_	7	adv	_	_
+POS	_	7	case	_	_
+NNS	_	11	nsbj	_	_
+VBD	_	5	acl	_	_
+.	_	5	p	_	_
+

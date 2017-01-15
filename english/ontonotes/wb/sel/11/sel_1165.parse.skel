@@ -1,0 +1,18 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+IN	_	7	case	_	_
+RB	_	5	adv	_	_
+JJ	_	7	num	_	_
+JJ	_	7	attr	_	_
+NNS	_	10	ppmod	_	_
+PRP	_	10	nsbj	_	_
+RB	_	10	adv	_	_
+VBP	_	2	comp	_	_
+WRB	sem=tmp	15	adv	13:adv	_
+NNS	_	13	nsbj	15:nsbj	_
+VBP	sem=tmp	10	advcl	_	_
+CC	_	13	cc	_	_
+VBP	_	13	conj	_	_
+RBR	_	15	adv	_	_
+.	_	2	p	_	_
+

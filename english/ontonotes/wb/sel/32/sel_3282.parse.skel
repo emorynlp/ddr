@@ -1,0 +1,17 @@
+IN	_	5	mark	_	_
+PRP	_	5	nsbj	_	_
+MD	_	5	modal	_	_
+RB	_	5	adv	_	_
+VB	sem=prp	0	root	_	_
+IN	_	8	mark	_	_
+PRP	_	13	nsbj	_	_
+VBD	_	5	advcl	_	_
+CC	_	8	cc	_	_
+VB	_	13	aux	_	_
+VB	_	13	raise	_	_
+TO	_	13	aux	_	_
+VB	_	8	conj	_	_
+IN	_	15	case	_	_
+DT	sem=clr	13	ppmod	_	_
+.	_	5	p	_	_
+

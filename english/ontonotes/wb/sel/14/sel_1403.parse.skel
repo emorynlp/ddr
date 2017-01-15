@@ -1,0 +1,19 @@
+IN	_	3	case	_	_
+DT	_	3	det	_	_
+NN	_	15	ppmod	_	_
+DT	_	5	det	_	_
+NN	_	15	nsbj	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	_	5	ppmod	10:obj	_
+VBG	_	10	aux	_	_
+VBN	_	8	acl	_	_
+,	_	15	p	_	_
+MD	_	15	modal	_	_
+RB	_	15	adv	_	_
+PRP	_	15	advnp	_	_
+VB	_	0	root	_	_
+NN	_	17	com	_	_
+NN	_	15	obj	_	_
+.	_	15	p	_	_
+

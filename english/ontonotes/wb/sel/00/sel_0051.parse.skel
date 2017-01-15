@@ -1,0 +1,24 @@
+DT	_	2	det	_	_
+NN	_	5	nsbj	_	_
+VBZ	_	5	aux	_	_
+RB	_	5	neg	_	_
+VB	_	0	root	_	_
+IN	_	8	case	_	_
+NN	_	8	com	_	_
+NNS	sem=clr	5	ppmod	14:adv	_
+WRB	sem=loc	14	r-adv	_	_
+PRP	_	14	nsbj	_	_
+VBP	_	14	cop	_	_
+RB	_	13	com	_	_
+RB	_	14	adv	_	_
+JJ	_	8	relcl	_	_
+IN	_	16	case	_	_
+VBG	_	14	ppmod	_	_
+NNP	_	22	poss	_	_
+POS	_	17	case	_	_
+JJ	_	22	attr	_	_
+CD	_	22	num	_	_
+NN	_	22	com	_	_
+NN	_	16	obj	_	_
+.	_	5	p	_	_
+

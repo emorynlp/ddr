@@ -1,0 +1,21 @@
+DT	_	5	nsbj	_	_
+VBZ	_	5	cop	_	_
+RB	_	5	adv	_	_
+DT	_	5	det	_	_
+NN	_	0	root	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+CD	_	9	num	_	_
+NNS	_	5	ppmod	13:obj	_
+WDT	_	13	r-obj	_	_
+NNP	_	12	com	_	_
+NNP	_	13	nsbj	_	_
+VBD	_	9	relcl	_	_
+IN	_	15	case	_	_
+NNP	sem=loc	13	ppmod	_	_
+IN	_	19	mark	_	_
+PRP$	_	18	poss	_	_
+NN	_	19	nsbj	_	_
+VBD	sem=tmp	13	advcl	_	_
+.	_	5	p	_	_
+

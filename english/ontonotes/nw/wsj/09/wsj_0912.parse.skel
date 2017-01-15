@@ -1,0 +1,57 @@
+NNP	_	3	com	_	B-ORG
+NNP	_	3	com	_	I-ORG
+NNP	_	4	nsbj	_	L-ORG
+VBD	_	0	root	_	O
+PRP	_	6	nsbj	8:nsbj	O
+VBD	_	4	comp	_	O
+TO	_	8	aux	_	O
+VB	_	6	comp	_	O
+NNP	_	11	com	_	B-ORG
+NNP	_	11	com	_	I-ORG
+NNP	_	8	obj	_	L-ORG
+IN	_	13	case	_	O
+NNP	_	11	ppmod	_	U-GPE
+,	_	13	p	_	O
+NNP	_	13	appo	_	U-GPE
+.	_	4	p	_	O
+
+NNS	_	4	obj	_	_
+VBD	_	4	aux	_	_
+RB	_	4	neg	_	_
+VBN	_	0	root	_	_
+.	_	4	p	_	_
+
+NNP	_	3	nsbj	_	U-ORG
+MD	_	3	modal	_	O
+VB	_	0	root	_	O
+NNS	_	3	obj	_	O
+IN	_	8	case	_	O
+PRP$	_	8	poss	_	O
+JJ	_	8	attr	_	O
+NN	_	4	ppmod	_	O
+IN	_	11	case	_	O
+DT	_	11	det	_	O
+NNS	sem=clr	3	ppmod	_	O
+JJ	_	11	attr	_	O
+IN	_	15	case	_	O
+NNP	_	15	com	_	B-ORG
+NNP	_	11	ppmod	_	L-ORG
+,	_	15	p	_	O
+DT	_	21	det	_	O
+NN	_	20	advnp	_	O
+HYPH	_	20	p	_	O
+VBN	_	21	attr	_	O
+NN	_	15	appo	_	O
+.	_	3	p	_	O
+
+NNP	_	2	nsbj	_	U-ORG
+VBZ	_	0	root	_	O
+IN	_	4	case	_	B-CARDINAL
+CD	_	6	num	_	L-CARDINAL
+NN	_	6	com	_	O
+NNS	_	2	obj	_	O
+IN	_	9	case	_	O
+JJ	_	9	attr	_	O
+NNP	sem=loc	6	ppmod	_	U-GPE
+.	_	2	p	_	O
+

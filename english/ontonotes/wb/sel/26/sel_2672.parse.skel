@@ -1,0 +1,23 @@
+RB	sem=tmp	2	adv	10:adv;16:adv	_
+VB	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	2	obj	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NN	sem=loc	2	ppmod	_	_
+,	_	2	p	_	_
+RB	sem=tmp	10	adv	_	_
+VB	_	2	conj	_	_
+DT	_	12	det	_	_
+NN	_	10	obj	_	_
+IN	_	14	case	_	_
+CD	sem=tmp	10	ppmod	_	_
+CC	_	10	cc	_	_
+VB	_	2	conj	_	_
+DT	_	18	det	_	_
+NN	_	16	obj	_	_
+IN	_	21	case	_	_
+DT	_	21	det	_	_
+NN	sem=loc	16	ppmod	_	_
+.	_	2	p	_	_
+

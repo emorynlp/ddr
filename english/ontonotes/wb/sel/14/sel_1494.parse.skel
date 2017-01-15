@@ -1,0 +1,20 @@
+PRP	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBP	_	0	root	_	_
+NNP	_	5	com	_	_
+NNP	_	7	poss	_	_
+POS	_	5	case	_	_
+NN	_	3	obj	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+JJ	_	11	attr	_	_
+NN	_	7	ppmod	_	_
+,	_	3	p	_	_
+CC	_	3	cc	_	_
+PRP	_	15	nsbj	_	_
+VBP	_	3	conj	_	_
+PRP	_	17	nsbj	_	_
+VBD	_	15	comp	_	_
+PRP	_	17	obj	_	_
+.	_	15	p	_	_
+

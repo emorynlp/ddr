@@ -1,0 +1,16 @@
+VB	_	0	root	_	_
+DT	_	3	det	_	_
+NN	_	1	obj	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+JJ	_	8	attr	_	_
+NN	_	8	com	_	_
+NN	sem=dir	1	ppmod	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	_	14	com	_	_
+NN	sem=mnr	10	ppmod	_	_
+.	_	1	p	_	_
+

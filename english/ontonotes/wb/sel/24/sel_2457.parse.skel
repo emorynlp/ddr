@@ -1,0 +1,27 @@
+NNP	_	5	nsbj	_	_
+VBZ	_	5	aux	_	_
+RB	_	5	neg	_	_
+``	_	5	p	_	_
+VBG	_	0	root	_	_
+IN	_	8	case	_	_
+JJ	_	8	attr	_	_
+NNS	sem=clr	5	ppmod	10:nsbj	_
+WP	_	10	r-nsbj	_	_
+VBP	_	8	relcl	_	_
+JJ	_	15	attr	_	_
+JJ	_	15	attr	_	_
+CC	_	12	cc	_	_
+JJ	_	12	conj	_	_
+NNS	_	10	obj	17:nsbj	_
+WDT	_	17	r-nsbj	_	_
+VBP	_	15	relcl	_	_
+PRP	_	17	obj	_	_
+IN	_	20	case	_	_
+NN	sem=clr	17	ppmod	_	_
+,	_	5	p	_	_
+''	_	5	p	_	_
+IN	_	25	mark	_	_
+PRP	_	25	nsbj	_	_
+VBD	_	5	advcl	_	_
+.	_	5	p	_	_
+

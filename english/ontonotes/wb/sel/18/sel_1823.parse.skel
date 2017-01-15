@@ -1,0 +1,22 @@
+DT	_	2	det	_	_
+NNS	_	0	root	_	_
+IN	_	5	case	_	_
+JJ	_	5	attr	_	_
+NNS	_	2	ppmod	_	_
+VBP	_	2	aux	_	_
+VBN	_	2	lv	_	_
+IN	_	9	case	_	_
+NNS	sem=clr	2	ppmod	11:nsbj	_
+WDT	_	11	r-nsbj	_	_
+VBP	_	9	relcl	_	_
+NN	_	13	com	_	_
+NNS	_	11	obj	16:nsbj	_
+WDT	_	16	r-nsbj	_	_
+RB	_	16	adv	_	_
+VBP	_	13	relcl	_	_
+RB	sem=mnr	16	adv	_	_
+IN	_	20	case	_	_
+JJ	_	20	attr	_	_
+NNS	_	16	ppmod	_	_
+.	_	2	p	_	_
+

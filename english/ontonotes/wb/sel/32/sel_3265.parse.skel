@@ -1,0 +1,26 @@
+UH	_	20	disc	_	_
+,	_	20	p	_	_
+VB	_	20	prn	_	_
+,	_	20	p	_	_
+``	_	20	p	_	_
+DT	_	12	nsbj	8:nsbj	_
+WP	_	8	r-nsbj	_	_
+VBP	_	6	relcl	_	_
+IN	_	10	case	_	_
+NNS	sem=clr	8	ppmod	_	_
+,	_	12	p	_	_
+VBP	_	20	comp	_	_
+IN	_	15	mark	_	_
+NNP	_	15	nsbj	_	_
+VBZ	_	12	comp	_	_
+,	_	20	p	_	_
+IN	_	18	case	_	_
+NN	_	20	ppmod	_	_
+PRP	_	20	nsbj	_	_
+VBP	_	0	root	_	_
+DT	_	23	det	_	_
+JJ	_	23	attr	_	_
+NN	_	20	obj	_	_
+''	_	20	p	_	_
+.	_	20	p	_	_
+

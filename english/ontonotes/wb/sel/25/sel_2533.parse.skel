@@ -1,0 +1,13 @@
+PRP	_	3	nsbj	5:nsbj	_
+VBP	_	3	aux	_	_
+VBG	_	0	root	_	_
+TO	_	5	aux	_	_
+VB	_	3	comp	_	_
+NN	_	7	com	_	_
+NNS	_	5	obj	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NNP	_	11	com	_	_
+NNP	sem=clr	5	ppmod	_	_
+.	_	3	p	_	_
+

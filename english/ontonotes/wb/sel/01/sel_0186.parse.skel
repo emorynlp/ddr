@@ -1,0 +1,11 @@
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+JJ	_	7	attr	_	_
+NN	_	7	attr	_	_
+CC	_	4	cc	_	_
+JJ	_	4	conj	_	_
+NNS	_	8	nsbj	_	_
+VBP	_	0	root	_	_
+JJR	_	8	obj	_	_
+.	_	8	p	_	_
+

@@ -1,0 +1,15 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+IN	_	7	case	_	_
+DT	_	5	det	_	_
+NN	_	7	attr	9:nsbj	_
+POS	_	5	case	_	_
+NN	sem=clr	2	ppmod	_	_
+WDT	_	9	r-nsbj	_	_
+VBZ	_	5	relcl	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+NN	_	13	com	_	_
+NN	sem=clr	9	ppmod	_	_
+.	_	2	p	_	_
+

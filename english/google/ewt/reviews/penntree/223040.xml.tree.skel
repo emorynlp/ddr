@@ -1,0 +1,18 @@
+PRP	_	2	nsbj	_	_
+VBP	_	5	comp	_	_
+DT	_	4	det	_	_
+NN	_	2	obj	_	_
+NNS	_	0	root	_	_
+IN	_	7	case	_	_
+NNS	sem=clr	5	ppmod	9:ppmod	_
+TO	_	9	aux	_	_
+VB	_	7	relcl	_	_
+IN	_	9	case	_	_
+CC	_	5	cc	_	_
+NN	_	14	nsbj	_	_
+VBZ	_	14	cop	_	_
+IN	sem=loc	5	conj	_	_
+DT	_	16	det	_	_
+NN	_	14	obj	_	_
+.	_	14	p	_	_
+

@@ -1,0 +1,14 @@
+VBZ	_	3	cop	_	_
+EX	_	3	expl	_	_
+NN	_	0	root	5:adv	_
+TO	_	5	aux	_	_
+VB	_	3	relcl	_	_
+DT	_	7	det	_	_
+NN	_	5	obj	_	_
+RP	_	5	prt	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NN	sem=clr	5	ppmod	_	_
+.	_	3	p	_	_
+

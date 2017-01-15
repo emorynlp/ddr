@@ -1,0 +1,24 @@
+DT	_	2	det	_	_
+NN	_	3	nsbj	_	_
+VBZ	_	0	root	_	_
+VB	_	3	comp	_	_
+DT	_	6	det	_	_
+NNS	_	4	obj	_	_
+IN	_	13	mark	_	_
+PRP	_	13	nsbj	_	_
+VBP	_	13	aux	_	_
+RB	_	13	neg	_	_
+VB	_	13	raise	_	_
+TO	_	13	aux	_	_
+VB	sem=prp	4	advcl	_	_
+IN	_	17	case	_	_
+DT	_	17	det	_	_
+NN	_	17	com	_	_
+NN	sem=clr	13	ppmod	_	_
+RB	_	19	com	_	_
+RB	sem=mnr	13	adv	_	_
+IN	_	22	case	_	_
+PRP$	_	22	poss	_	_
+NN	_	13	ppmod	_	_
+.	_	3	p	_	_
+

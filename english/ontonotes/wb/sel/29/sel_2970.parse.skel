@@ -1,0 +1,9 @@
+RB	sem=tmp	3	adv	5:adv	_
+VB	_	3	raise	_	_
+VBG	_	0	root	_	_
+CC	_	3	cc	_	_
+VB	_	3	conj	_	_
+DT	_	7	det	_	_
+NN	_	5	obj	_	_
+.	_	3	p	_	_
+

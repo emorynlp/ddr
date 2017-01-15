@@ -1,0 +1,23 @@
+DT	_	2	det	_	_
+NN	_	14	obj	4:obj	_
+PRP	_	4	nsbj	_	_
+VBD	_	2	relcl	_	_
+RB	sem=mnr	4	adv	_	_
+DT	_	7	det	_	_
+JJ	_	8	num	_	_
+NNS	_	9	advnp	_	_
+RB	sem=tmp	4	adv	_	_
+VBZ	_	14	aux	_	_
+RB	_	14	adv	_	_
+RB	_	14	neg	_	_
+VBN	_	14	aux	_	_
+VBN	_	19	advcl	_	_
+:	_	19	p	_	_
+WP	sem=clr	19	comp	_	_
+VBZ	_	19	aux	_	_
+NNP	_	19	nsbj	_	_
+VB	_	0	root	_	_
+PRP$	_	21	poss	_	_
+NN	_	19	obj	16:nsbj	_
+.	_	19	p	_	_
+

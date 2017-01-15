@@ -1,0 +1,16 @@
+IN	_	6	mark	_	_
+VBG	_	3	cop	_	_
+JJ	_	6	csbj	_	_
+VBD	_	6	aux	_	_
+RB	_	6	neg	_	_
+VB	_	13	advcl	_	_
+,	_	13	p	_	_
+RB	_	13	adv	_	_
+DT	_	10	det	_	_
+NN	_	13	nsbj	_	_
+MD	_	13	modal	_	_
+RB	_	13	neg	_	_
+VB	_	0	root	_	_
+PRP	_	13	obj	_	_
+.	_	13	p	_	_
+

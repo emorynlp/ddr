@@ -1,0 +1,25 @@
+PRP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+PRP	_	2	obj	_	_
+RBR	_	2	adv	_	_
+IN	_	7	case	_	_
+``	_	7	p	_	_
+JJ	_	2	ppmod	_	_
+''	_	7	p	_	_
+:	_	2	p	_	_
+NNP	_	19	voc	_	_
+RB	_	12	adv	_	_
+JJ	_	19	dep	_	_
+PRP	_	19	nsbj	_	_
+VBP	_	19	aux	_	_
+RB	_	19	adv	_	_
+RB	_	19	adv	_	_
+JJ	_	19	modal	_	_
+TO	_	19	aux	_	_
+VB	_	2	dep	_	_
+DT	_	21	det	_	_
+NN	_	19	obj	_	_
+NNP	_	23	com	_	_
+NNP	_	21	appo	_	_
+.	_	2	p	_	_
+

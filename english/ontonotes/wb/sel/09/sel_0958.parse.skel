@@ -1,0 +1,21 @@
+EX	_	3	expl	_	_
+VBP	_	3	cop	_	_
+DT	_	0	root	5:nsbj;17:nsbj	_
+WP	_	5	r-nsbj	_	_
+VBP	_	3	relcl	_	_
+PRP	_	5	obj	_	_
+IN	_	10	case	_	_
+JJ	_	10	attr	_	_
+JJ	_	10	attr	_	_
+NN	sem=clr	5	ppmod	_	_
+IN	_	13	case	_	_
+PRP$	_	13	poss	_	_
+NNS	sem=loc	5	ppmod	_	_
+CC	_	5	cc	_	_
+VB	_	17	lv	_	_
+DT	_	17	det	_	_
+NN	_	5	conj	18:obj	_
+VBN	_	17	acl	_	_
+RB	sem=loc	18	adv	_	_
+.	_	3	p	_	_
+

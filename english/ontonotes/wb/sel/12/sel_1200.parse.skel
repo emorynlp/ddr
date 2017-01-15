@@ -1,0 +1,21 @@
+NN	_	2	nsbj	_	_
+VB	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	2	obj	_	_
+IN	_	6	case	_	_
+DT	_	4	ppmod	_	_
+CC	_	6	cc	_	_
+JJ	_	9	attr	_	_
+NN	_	6	conj	_	_
+IN	_	12	case	_	_
+``	_	12	p	_	_
+NNP	_	9	ppmod	_	_
+:	_	12	p	_	_
+JJ	_	12	dep	_	_
+CC	_	14	cc	_	_
+VBG	_	14	conj	_	_
+PRP	_	16	obj	_	_
+''	_	12	p	_	_
+RB	sem=tmp	2	adv	_	_
+.	_	2	p	_	_
+

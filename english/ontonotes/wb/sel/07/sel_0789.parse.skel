@@ -1,0 +1,24 @@
+DT	_	3	det	_	_
+NNP	_	3	com	_	_
+NN	_	7	obj	_	_
+MD	_	7	modal	_	_
+RB	_	7	neg	_	_
+VB	_	7	aux	_	_
+VBN	_	0	root	_	_
+IN	_	10	case	_	_
+JJ	_	10	attr	_	_
+NNS	sem=mnr	7	ppmod	_	_
+IN	_	12	case	_	_
+NNP	sem=loc	7	ppmod	19:adv	_
+,	_	12	p	_	_
+WRB	sem=loc	19	r-adv	_	_
+DT	_	17	det	_	_
+JJ	_	17	attr	_	_
+NN	_	19	nsbj	_	_
+MD	_	19	modal	_	_
+VB	_	12	relcl	_	_
+DT	_	22	det	_	_
+JJ	_	22	attr	_	_
+NNS	_	19	obj	_	_
+.	_	7	p	_	_
+

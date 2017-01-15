@@ -1,0 +1,11 @@
+LS	_	3	meta	_	_
+-RRB-	_	1	p	_	_
+VB	_	0	root	_	_
+DT	_	5	det	_	_
+NN	_	3	obj	_	_
+IN	_	9	case	_	_
+PRP$	_	9	poss	_	_
+NN	_	9	com	_	_
+NN	sem=clr	3	ppmod	_	_
+.	_	3	p	_	_
+

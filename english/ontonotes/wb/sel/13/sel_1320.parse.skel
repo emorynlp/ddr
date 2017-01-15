@@ -1,0 +1,22 @@
+IN	_	3	case	_	_
+DT	_	3	det	_	_
+NN	sem=tmp	6	ppmod	_	_
+PRP	_	6	nsbj	12:nsbj	_
+MD	_	6	modal	_	_
+VB	_	0	root	_	_
+PRP$	_	8	poss	_	_
+NNS	_	6	obj	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	sem=dir	6	ppmod	_	_
+VBG	_	6	advcl	_	_
+JJ	_	15	attr	_	_
+HYPH	_	15	p	_	_
+NN	_	20	attr	_	_
+CC	_	15	cc	_	_
+NN	_	19	com	_	_
+HYPH	_	19	p	_	_
+NN	_	15	conj	_	_
+NNS	_	12	obj	_	_
+.	_	6	p	_	_
+

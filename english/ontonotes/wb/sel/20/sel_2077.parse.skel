@@ -1,0 +1,24 @@
+PRP	_	3	nsbj	8:nsbj	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+DT	_	5	det	_	_
+NN	_	3	obj	6:nsbj	_
+JJ	sem=clr	3	comp	_	_
+CC	_	3	cc	_	_
+VB	_	3	conj	_	_
+PRP	_	8	obj	11:nsbj	_
+TO	_	11	aux	_	_
+VB	_	8	comp	_	_
+DT	_	13	det	_	_
+NN	_	11	obj	19:nsbj	_
+IN	_	16	case	_	_
+PRP$	_	16	poss	_	_
+JJ	_	13	ppmod	_	_
+TO	_	19	aux	_	_
+RB	sem=mnr	19	adv	_	_
+VB	sem=clr	11	comp	_	_
+DT	_	22	det	_	_
+VBN	_	22	attr	_	_
+NN	_	19	obj	_	_
+.	_	3	p	_	_
+

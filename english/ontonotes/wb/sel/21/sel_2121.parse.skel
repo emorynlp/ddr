@@ -1,0 +1,11 @@
+NNP	_	2	com	_	_
+NNP	_	5	voc	_	_
+PRP	_	5	nsbj	6:nsbj	_
+MD	_	5	modal	_	_
+VB	_	0	root	_	_
+VBG	_	5	comp	_	_
+RB	sem=loc	6	adv	_	_
+IN	_	9	case	_	_
+NNS	_	6	ppmod	_	_
+.	_	5	p	_	_
+

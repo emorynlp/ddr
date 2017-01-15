@@ -1,0 +1,20 @@
+CC	_	6	cc	_	_
+IN	_	3	case	_	_
+PRP	_	6	ppmod	_	_
+PRP	_	6	nsbj	_	_
+MD	_	6	modal	_	_
+VB	_	0	root	_	_
+DT	_	8	det	_	_
+NNS	_	6	obj	_	_
+RB	sem=clr	6	adv	_	_
+CC	_	9	cc	_	_
+RB	_	9	conj	_	_
+RB	_	13	com	_	_
+RB	_	9	cc	_	_
+IN	_	13	com	_	_
+JJ	sem=clr	9	conj	_	_
+IN	_	18	case	_	_
+DT	_	18	det	_	_
+NN	_	15	ppmod	_	_
+.	_	6	p	_	_
+

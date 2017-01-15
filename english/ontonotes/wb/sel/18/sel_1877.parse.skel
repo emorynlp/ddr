@@ -1,0 +1,20 @@
+PRP	_	2	nsbj	7:nsbj;10:nsbj;15:nsbj	_
+VBP	_	0	root	_	_
+PDT	_	5	det	_	_
+PRP$	_	5	poss	_	_
+NN	_	2	obj	_	_
+TO	_	7	aux	_	_
+VB	sem=prp	2	advcl	_	_
+NN	_	7	obj	_	_
+CC	_	2	cc	_	_
+VBP	_	2	conj	_	_
+PDT	_	13	det	_	_
+PRP$	_	13	poss	_	_
+NN	_	10	obj	_	_
+TO	_	15	aux	_	_
+VB	sem=prp	10	advcl	_	_
+RP	_	15	prt	_	_
+DT	_	18	det	_	_
+NN	_	15	obj	_	_
+.	_	2	p	_	_
+

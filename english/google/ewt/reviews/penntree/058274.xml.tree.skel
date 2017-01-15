@@ -1,0 +1,39 @@
+NN	_	0	root	_	_
+:	_	1	p	_	_
+RB	_	4	adv	_	_
+JJ	_	1	dep	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	_	8	com	_	_
+NN	_	4	ppmod	13:nsbj	_
+WDT	_	13	r-nsbj	_	_
+VBZ	_	13	cop	_	_
+RB	_	13	neg	_	_
+JJ	_	13	attr	_	_
+NN	_	8	relcl	_	_
+.	_	1	p	_	_
+
+NN	_	7	dep	_	_
+:	_	7	p	_	_
+DT	_	4	det	_	_
+NNS	_	7	nsbj	_	_
+VBP	_	7	cop	_	_
+RB	_	7	adv	_	_
+JJ	_	0	root	_	_
+.	_	7	p	_	_
+
+NN	_	4	nsbj	_	_
+VBZ	_	4	cop	_	_
+RB	sem=tmp	4	adv	_	_
+JJ	_	10	comp	_	_
+,	_	10	p	_	_
+DT	_	7	det	_	_
+NN	_	10	nsbj	_	_
+IN	_	9	case	_	_
+NNS	_	7	ppmod	_	_
+VBZ	_	0	root	_	_
+NN	_	10	obj	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	sem=clr	10	ppmod	_	_
+

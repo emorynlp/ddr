@@ -1,0 +1,14 @@
+NNP	_	0	root	_	_
+
+NNP	_	5	com	_	_
+NNP	_	5	com	_	_
+NNPS	_	5	com	_	_
+NNP	_	5	com	_	_
+NNP	_	7	dep	_	_
+,	_	7	p	_	_
+NN	_	0	root	_	_
+IN	_	10	case	_	_
+NNP	_	10	com	_	_
+NNPS	sem=loc	7	ppmod	_	_
+.	_	7	p	_	_
+

@@ -1,0 +1,16 @@
+NNP	_	3	nsbj	_	_
+VBD	_	3	aux	_	_
+VB	_	0	root	_	_
+RP	_	3	prt	_	_
+DT	_	6	det	_	_
+NNS	_	3	obj	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+JJ	_	10	attr	_	_
+NN	_	14	attr	_	_
+CC	_	10	cc	_	_
+NN	_	10	conj	_	_
+NN	_	14	com	_	_
+NNS	_	6	ppmod	_	_
+.	_	3	p	_	_
+

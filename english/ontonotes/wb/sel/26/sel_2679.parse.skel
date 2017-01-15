@@ -1,0 +1,24 @@
+NNP	_	2	nsbj	9:nsbj	_
+VBZ	_	20	comp	_	_
+PRP$	_	4	poss	_	_
+NN	_	2	obj	_	_
+IN	_	8	case	_	_
+CD	_	8	num	_	_
+NN	_	6	meta	_	_
+NN	sem=clr	2	ppmod	_	_
+VBG	_	2	advcl	_	_
+PRP	_	12	nsbj	_	_
+TO	_	12	aux	_	_
+VB	_	9	comp	_	_
+IN	_	16	case	_	_
+JJ	_	16	attr	_	_
+NN	_	16	com	_	_
+NN	sem=clr	12	ppmod	_	_
+DT	_	20	nsbj	_	_
+VBZ	_	20	aux	_	_
+RB	_	20	neg	_	_
+VB	_	0	root	_	_
+IN	_	22	case	_	_
+NN	sem=clr	20	ppmod	_	_
+.	_	20	p	_	_
+

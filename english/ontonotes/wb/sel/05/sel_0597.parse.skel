@@ -1,0 +1,22 @@
+TO	_	2	aux	_	_
+VB	_	11	csbj	14:csbj	_
+NN	_	7	nsbj	_	_
+VBN	_	7	raise	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+NN	_	2	comp	_	_
+VBZ	_	11	cop	_	_
+IN	_	10	case	_	_
+PRP	_	11	ppmod	_	_
+JJ	_	0	root	_	_
+CC	_	11	cc	_	_
+NN	_	14	advnp	_	_
+VBG	_	11	conj	_	_
+CC	_	11	cc	_	_
+PRP	_	20	obj	_	_
+VBZ	_	20	aux	_	_
+RB	_	20	neg	_	_
+RB	sem=tmp	20	adv	_	_
+VBN	_	11	conj	_	_
+.	_	20	p	_	_
+

@@ -1,0 +1,12 @@
+PRP	_	3	nsbj	_	_
+RB	sem=tmp	3	adv	_	_
+VBP	_	0	root	_	_
+JJ	_	5	attr	_	_
+NNS	_	3	obj	_	_
+CC	_	5	cc	_	_
+JJ	_	8	attr	_	_
+NN	_	5	conj	_	_
+IN	_	10	case	_	_
+NNP	sem=clr	3	ppmod	_	_
+.	_	3	p	_	_
+

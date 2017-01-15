@@ -1,0 +1,18 @@
+CC	_	15	cc	_	_
+WRB	sem=tmp	6	adv	_	_
+VBN	_	4	attr	_	_
+NNS	_	6	nsbj	_	_
+VBP	_	6	raise	_	_
+VBG	sem=tmp	15	advcl	_	_
+JJR	_	6	obj	_	_
+IN	_	10	case	_	_
+PRP$	_	10	poss	_	_
+NNS	_	7	ppmod	_	_
+,	_	15	p	_	_
+NNS	_	15	nsbj	_	_
+VBP	_	15	raise	_	_
+VBG	_	15	cop	_	_
+JJ	_	0	root	_	_
+.	_	15	p	_	_
+''	_	15	p	_	_
+

@@ -1,0 +1,16 @@
+VBD	_	0	root	_	_
+:	_	1	p	_	_
+MD	_	11	modal	_	_
+DT	_	9	det	_	_
+NN	_	9	attr	_	_
+CC	_	5	cc	_	_
+NN	_	8	com	_	_
+NN	_	5	conj	_	_
+NNS	_	13	nsbj	_	_
+VB	_	11	aux	_	_
+VBN	_	1	comp	_	_
+TO	_	13	aux	_	_
+VB	_	11	comp	_	_
+RB	sem=mnr	13	adv	_	_
+.	_	1	p	_	_
+

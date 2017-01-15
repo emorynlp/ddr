@@ -1,0 +1,18 @@
+IN	_	8	mark	_	_
+CD	_	8	nsbj	_	_
+IN	_	7	case	_	_
+NNP	_	7	poss	_	_
+CD	_	4	num	_	_
+POS	_	4	case	_	_
+NNS	_	2	ppmod	_	_
+VB	_	16	advcl	_	_
+CD	_	10	num	_	_
+NNS	_	8	obj	_	_
+,	_	16	p	_	_
+WRB	_	13	adv	_	_
+JJ	_	16	obj	_	_
+VBP	_	16	aux	_	_
+CD	_	16	nsbj	_	_
+VB	_	0	root	_	_
+.	_	16	p	_	_
+

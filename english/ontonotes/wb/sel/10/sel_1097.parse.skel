@@ -1,0 +1,19 @@
+PRP	_	5	nsbj	_	_
+VBZ	_	5	aux	_	_
+RB	_	4	com	_	_
+RB	_	5	adv	_	_
+VBN	_	0	root	_	_
+DT	_	7	det	_	_
+NNS	_	5	obj	10:nsbj;13:nsbj	_
+WP	_	10	r-nsbj	_	_
+RB	sem=mnr	10	adv	13:adv	_
+VBP	_	7	relcl	_	_
+NNS	_	10	obj	_	_
+CC	_	10	cc	_	_
+VBP	_	10	conj	_	_
+PRP	_	13	obj	_	_
+IN	_	17	case	_	_
+NN	_	17	com	_	_
+NNS	sem=clr	13	ppmod	_	_
+.	_	5	p	_	_
+

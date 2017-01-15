@@ -1,0 +1,8 @@
+VB	_	5	advcl	_	_
+IN	_	3	case	_	_
+NNS	sem=clr	1	ppmod	_	_
+:	_	5	p	_	_
+VB	_	0	root	_	_
+RB	sem=tmp	5	adv	_	_
+.	_	5	p	_	_
+

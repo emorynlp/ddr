@@ -1,0 +1,14 @@
+NNS	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+RB	_	5	adv	_	_
+CD	_	5	com	_	_
+CD	_	2	obj	_	_
+IN	_	8	case	_	_
+NNP	_	8	com	_	_
+NN	sem=clr	2	ppmod	_	_
+CC	_	8	cc	_	_
+NN	_	8	conj	_	_
+DT	_	12	det	_	_
+NN	sem=tmp	2	advnp	_	_
+.	_	2	p	_	_
+

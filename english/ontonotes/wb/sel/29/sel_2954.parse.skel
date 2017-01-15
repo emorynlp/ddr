@@ -1,0 +1,10 @@
+VB	_	0	root	_	_
+IN	_	3	case	_	_
+NNP	sem=clr	1	ppmod	_	_
+TO	_	5	aux	_	_
+VB	sem=prp	1	advcl	_	_
+RP	_	5	prt	_	_
+DT	_	8	det	_	_
+NNS	_	5	obj	_	_
+.	_	1	p	_	_
+

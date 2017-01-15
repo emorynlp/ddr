@@ -1,0 +1,19 @@
+WRB	sem=tmp	2	adv	_	_
+VBG	sem=tmp	5	advcl	_	_
+RB	sem=clr	2	adv	_	_
+PRP	_	5	nsbj	_	_
+VBP	_	0	root	_	_
+DT	_	7	det	_	_
+NN	_	10	nsbj	_	_
+VBZ	_	10	cop	_	_
+RB	sem=tmp	10	adv	_	_
+IN	sem=loc	5	comp	_	_
+NN	_	10	obj	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	sem=loc	10	ppmod	_	_
+IN	_	17	case	_	_
+DT	_	17	det	_	_
+NN	_	14	ppmod	_	_
+.	_	5	p	_	_
+

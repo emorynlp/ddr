@@ -1,0 +1,25 @@
+DT	_	2	det	_	_
+NN	_	3	nsbj	_	_
+VBD	_	0	root	_	_
+,	_	3	p	_	_
+``	_	3	p	_	_
+PRP	_	7	nsbj	_	_
+VBP	_	3	comp	_	_
+IN	_	15	mark	_	_
+VBG	_	12	adv	_	_
+IN	_	12	case	_	_
+PRP$	_	12	poss	_	_
+NN	_	15	ppmod	_	_
+PRP	_	15	nsbj	_	_
+MD	_	15	modal	_	_
+VB	_	7	comp	_	_
+IN	_	17	case	_	_
+NNP	sem=clr	15	ppmod	_	_
+DT	_	19	det	_	_
+NNS	_	15	obj	22:nsbj	_
+WDT	_	22	r-nsbj	_	_
+VBP	_	22	cop	_	_
+NNP	_	19	relcl	_	_
+POS	_	22	case	_	_
+.	_	3	p	_	_
+

@@ -1,0 +1,20 @@
+RB	_	6	adv	_	_
+,	_	6	p	_	_
+DT	_	6	nsbj	_	_
+VBP	_	6	cop	_	_
+JJ	_	6	attr	_	_
+NNS	_	0	root	8:nsbj	_
+WP	_	8	r-nsbj	_	_
+VBP	_	6	relcl	_	_
+IN	_	10	case	_	_
+NNS	sem=clr	8	ppmod	13:nsbj	_
+WP	_	13	r-nsbj	_	_
+VBP	_	13	aux	_	_
+VBN	_	10	relcl	_	_
+PRP$	_	16	poss	_	_
+JJ	_	16	attr	_	_
+NN	_	13	obj	_	_
+IN	_	18	case	_	_
+PRP	_	10	ppmod	_	_
+.	_	6	p	_	_
+

@@ -1,0 +1,14 @@
+NN	_	2	nsbj	_	_
+VBN	_	0	root	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NN	_	6	com	_	_
+NN	sem=clr	2	ppmod	_	_
+VBG	_	2	advcl	_	_
+DT	_	9	det	_	_
+NN	_	7	obj	_	_
+VBG	_	2	advcl	_	_
+DT	_	12	det	_	_
+NNS	_	10	obj	_	_
+.	_	2	p	_	_
+

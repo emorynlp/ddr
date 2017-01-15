@@ -1,0 +1,17 @@
+VB	_	3	aux	_	_
+RB	_	3	neg	_	_
+VB	_	0	root	_	_
+IN	_	6	case	_	_
+NN	_	6	com	_	_
+NNS	sem=loc	3	ppmod	_	_
+RB	_	11	adv	_	_
+IN	_	11	mark	_	_
+DT	_	10	det	_	_
+NN	_	11	nsbj	13:nsbj	_
+VBZ	sem=prp	3	advcl	_	_
+TO	_	13	aux	_	_
+VB	_	11	comp	_	_
+DT	_	15	det	_	_
+NN	_	13	obj	_	_
+.	_	3	p	_	_
+

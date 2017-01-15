@@ -1,0 +1,21 @@
+VB	_	0	root	_	_
+JJ	_	3	attr	_	_
+NN	_	1	obj	_	_
+JJ	_	7	adv	_	_
+IN	_	7	case	_	_
+VBN	_	7	attr	_	_
+NN	_	3	ppmod	_	_
+IN	_	12	case	_	_
+NN	_	10	advnp	_	_
+JJ	_	12	attr	_	_
+NN	_	12	com	_	_
+NN	sem=clr	1	ppmod	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+IN	_	17	case	_	_
+JJ	_	17	attr	_	_
+NNS	sem=mnr	14	ppmod	_	_
+IN	_	19	case	_	_
+NN	_	17	ppmod	_	_
+.	_	1	p	_	_
+

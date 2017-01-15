@@ -1,0 +1,18 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+NN	sem=loc	2	obj	7:obj;12:ppmod	_
+TO	_	7	aux	_	_
+VB	_	5	relcl	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NNP	sem=clr	7	ppmod	_	_
+TO	_	12	aux	_	_
+VB	_	5	relcl	_	_
+IN	_	12	case	_	_
+IN	_	16	case	_	_
+JJ	_	16	attr	_	_
+NNS	_	12	ppmod	_	_
+.	_	2	p	_	_
+

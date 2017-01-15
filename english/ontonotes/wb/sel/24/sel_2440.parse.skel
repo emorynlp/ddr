@@ -1,0 +1,20 @@
+VBP	_	3	aux	_	_
+PRP	_	3	nsbj	_	_
+VBG	_	0	root	_	_
+IN	_	17	mark	_	_
+IN	_	8	mark	_	_
+DT	_	7	det	_	_
+NN	_	8	nsbj	_	_
+RB	_	17	advcl	_	_
+IN	_	11	mark	_	_
+PRP	_	11	nsbj	_	_
+VBP	_	17	advcl	_	_
+DT	_	14	det	_	_
+NN	_	14	com	_	_
+NN	_	11	dep	_	_
+DT	_	16	det	_	_
+NN	_	17	nsbj	_	_
+VBZ	_	3	comp	_	_
+RP	_	17	prt	_	_
+.	_	3	p	_	_
+

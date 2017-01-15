@@ -1,0 +1,17 @@
+PRP	_	2	nsbj	4:nsbj;10:nsbj	_
+VB	_	0	root	_	_
+CC	_	2	cc	_	_
+VB	_	2	conj	_	_
+RP	_	4	prt	_	_
+,	_	4	p	_	_
+PDT	_	9	det	_	_
+DT	_	9	det	_	_
+NN	sem=tmp	10	advnp	_	_
+VBG	_	2	advcl	_	_
+RB	_	12	neg	_	_
+CD	_	15	num	_	_
+JJ	_	15	attr	_	_
+JJ	_	15	attr	_	_
+NN	_	10	obj	_	_
+.	_	2	p	_	_
+

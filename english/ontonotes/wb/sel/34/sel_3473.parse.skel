@@ -1,0 +1,19 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+WRB	sem=mnr	12	adv	5:adv	_
+PRP	_	5	nsbj	12:nsbj	_
+VBP	_	2	comp	_	_
+PRP$	_	7	poss	_	_
+NNS	_	5	obj	_	_
+,	_	5	p	_	_
+RB	_	5	adv	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+VBP	_	5	conj	_	_
+PRP$	_	14	poss	_	_
+NNS	_	12	obj	_	_
+IN	_	16	case	_	_
+VBG	sem=mnr	12	ppmod	_	_
+RP	_	16	prt	_	_
+.	_	2	p	_	_
+

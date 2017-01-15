@@ -1,0 +1,19 @@
+NN	_	14	nsbj	_	_
+VBG	_	1	acl	_	_
+WRB	sem=mnr	5	adv	_	_
+TO	_	5	aux	_	_
+VB	_	2	comp	_	_
+DT	_	5	obj	_	_
+RP	_	5	prt	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NN	_	12	com	_	_
+NN	sem=loc	5	ppmod	_	_
+UH	_	14	disc	_	_
+VB	_	0	root	_	_
+IN	_	17	case	_	_
+DT	_	17	det	_	_
+NN	sem=clr	14	ppmod	_	_
+.	_	14	p	_	_
+

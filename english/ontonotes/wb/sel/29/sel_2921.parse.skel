@@ -1,0 +1,14 @@
+:	_	5	p	_	_
+DT	_	4	det	_	_
+JJ	_	4	attr	_	_
+NN	_	5	nsbj	_	_
+VBZ	_	0	root	_	_
+IN	_	12	mark	_	_
+NNS	_	12	nsbj	_	_
+IN	_	9	case	_	_
+NNS	_	7	ppmod	_	_
+VBZ	_	12	aux	_	_
+RB	_	12	neg	_	_
+VB	_	5	comp	_	_
+.	_	5	p	_	_
+

@@ -1,0 +1,18 @@
+PRP	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBP	_	0	root	_	_
+,	_	3	p	_	_
+CC	_	3	cc	_	_
+PRP	_	10	nsbj	_	_
+VBP	_	10	aux	_	_
+RB	_	10	neg	_	_
+RB	_	10	adv	_	_
+VB	_	3	conj	_	_
+NNS	_	10	obj	_	_
+RB	_	13	com	_	_
+RB	sem=tmp	10	adv	_	_
+IN	_	16	case	_	_
+DT	_	16	det	_	_
+NN	_	13	ppmod	_	_
+.	_	10	p	_	_
+

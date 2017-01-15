@@ -1,0 +1,26 @@
+IN	_	3	case	_	_
+PRP$	_	3	poss	_	_
+NN	sem=loc	7	ppmod	_	_
+,	_	7	p	_	_
+DT	_	6	det	_	_
+NN	_	7	nsbj	_	_
+VBZ	_	0	root	_	_
+DT	_	10	det	_	_
+JJ	_	10	attr	_	_
+NN	_	7	obj	_	_
+IN	_	13	case	_	_
+JJ	_	13	attr	_	_
+NN	_	10	ppmod	17:nsbj	_
+WDT	_	17	r-nsbj	_	_
+VBZ	_	17	aux	_	_
+RB	_	17	neg	_	_
+VB	_	13	relcl	_	_
+IN	_	20	case	_	_
+DT	_	20	det	_	_
+NN	sem=clr	17	ppmod	_	_
+TO	_	22	aux	_	_
+VB	sem=prp	7	advcl	_	_
+NN	_	24	com	_	_
+NN	_	22	obj	_	_
+.	_	7	p	_	_
+

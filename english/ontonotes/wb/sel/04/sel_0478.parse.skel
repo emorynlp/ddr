@@ -1,0 +1,14 @@
+NNP	_	5	voc	_	_
+PRP	_	5	nsbj	_	_
+VBP	_	5	aux	_	_
+RB	_	5	neg	_	_
+VB	_	0	root	_	_
+IN	_	11	mark	_	_
+DT	_	9	det	_	_
+VBN	_	9	attr	_	_
+NN	_	11	nsbj	_	_
+MD	_	11	modal	_	_
+VB	_	5	comp	_	_
+NN	_	11	obj	_	_
+.	_	5	p	_	_
+

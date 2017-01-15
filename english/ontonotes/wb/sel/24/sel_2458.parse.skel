@@ -1,0 +1,12 @@
+NNP	_	2	nsbj	5:nsbj	_
+VBZ	_	0	root	_	_
+RB	_	5	adv	_	_
+TO	_	5	aux	_	_
+VB	_	2	comp	_	_
+DT	_	7	det	_	_
+NN	_	5	obj	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NN	_	3	ppmod	_	_
+.	_	2	p	_	_
+

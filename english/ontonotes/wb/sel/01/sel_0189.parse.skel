@@ -1,0 +1,19 @@
+PRP	_	5	nsbj	_	_
+MD	_	5	modal	_	_
+VB	_	5	cop	_	_
+DT	_	5	det	_	_
+NN	sem=clr	0	root	10:ppmod	_
+PRP	_	10	nsbj	13:nsbj	_
+MD	_	10	modal	_	_
+VB	_	10	raise	_	_
+TO	_	10	aux	_	_
+VB	_	5	relcl	_	_
+IN	_	10	case	_	_
+CC	_	10	cc	_	_
+VB	_	10	conj	_	_
+PRP$	_	15	poss	_	_
+NN	_	13	obj	_	_
+IN	_	17	case	_	_
+NN	sem=tmp	13	ppmod	_	_
+.	_	5	p	_	_
+

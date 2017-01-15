@@ -1,0 +1,19 @@
+NNP	_	3	nsbj	_	_
+MD	_	3	modal	_	_
+VB	_	14	comp	_	_
+PRP$	_	6	poss	_	_
+NN	_	6	com	_	_
+NN	_	3	obj	_	_
+IN	_	9	case	_	_
+JJ	_	9	attr	_	_
+NN	sem=tmp	3	ppmod	_	_
+,	_	14	p	_	_
+PRP	_	14	nsbj	_	_
+VBD	_	14	aux	_	_
+JJ	_	14	modal	_	_
+VBG	_	0	root	_	_
+DT	_	16	det	_	_
+NN	_	14	obj	_	_
+NN	sem=tmp	14	advnp	_	_
+.	_	14	p	_	_
+

@@ -1,0 +1,23 @@
+CD	_	2	num	_	_
+NN	_	4	com	_	_
+NN	_	4	com	_	_
+NN	_	5	nsbj	_	_
+VBD	_	11	comp	_	_
+RB	_	7	adv	_	_
+CD	_	5	obj	_	_
+:	_	11	p	_	_
+PRP	_	11	nsbj	16:nsbj	_
+MD	_	11	modal	_	_
+VB	_	0	root	_	_
+TO	_	16	aux	_	_
+VB	_	16	aux	_	_
+JJ	_	16	modal	_	_
+TO	_	16	aux	_	_
+VB	_	11	comp	_	_
+DT	_	16	obj	_	_
+IN	_	21	case	_	_
+DT	_	21	det	_	_
+NN	_	21	com	_	_
+NN	sem=clr	16	ppmod	_	_
+.	_	11	p	_	_
+

@@ -1,0 +1,13 @@
+PRP	_	3	nsbj	10:nsbj	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+DT	_	5	det	_	_
+NN	_	3	obj	_	_
+IN	_	8	case	_	_
+VBN	_	8	attr	_	_
+NN	sem=loc	3	ppmod	_	_
+CC	_	3	cc	_	_
+VB	_	3	conj	_	_
+RB	sem=dir	10	adv	_	_
+.	_	3	p	_	_
+

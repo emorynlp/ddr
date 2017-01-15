@@ -1,0 +1,69 @@
+WRB	sem=prp	7	adv	_	_
+VB	_	1	adv	_	_
+DT	_	4	det	_	_
+NN	_	5	nsbj	7:nsbj	_
+VBZ	_	0	root	_	_
+TO	_	7	aux	_	_
+VB	_	5	comp	_	_
+DT	_	9	det	_	_
+NNS	_	7	obj	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+NN	sem=loc	7	ppmod	_	_
+.	_	5	p	_	_
+
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+IN	_	4	case	_	_
+PRP	_	2	dep	_	_
+RB	_	6	com	_	_
+RB	_	4	adv	_	_
+.	_	2	p	_	_
+
+IN	_	8	mark	_	_
+RB	_	8	adv	_	_
+JJS	_	4	attr	_	_
+NNS	_	8	nsbj	_	_
+VBP	_	8	aux	_	_
+RB	sem=tmp	8	neg	_	_
+RB	_	8	adv	_	_
+VBN	_	0	root	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	sem=clr	8	ppmod	_	_
+.	_	8	p	_	_
+
+NN	_	5	nsbj	_	_
+VBD	_	5	raise	_	_
+TO	_	5	aux	_	_
+VB	_	5	cop	_	_
+JJ	_	0	root	_	_
+.	_	5	p	_	_
+
+PRP	_	5	nsbj	_	_
+VBP	_	5	aux	_	_
+RB	sem=tmp	5	neg	_	_
+VBN	_	5	cop	_	_
+RB	sem=loc	0	root	_	_
+.	_	5	p	_	_
+
+UH	_	6	disc	_	_
+,	_	6	p	_	_
+PRP	_	6	nsbj	_	_
+VBP	_	6	aux	_	_
+RB	_	6	neg	_	_
+VB	_	0	root	_	_
+NNS	_	6	obj	_	_
+RB	sem=loc	6	adv	_	_
+IN	_	11	mark	_	_
+PRP	_	11	nsbj	_	_
+VBP	sem=prp	6	advcl	_	_
+DT	_	13	det	_	_
+NN	_	11	obj	_	_
+WP	_	13	relcl	_	_
+``	_	16	p	_	_
+NNP	_	14	nsbj	_	_
+''	_	16	p	_	_
+VBZ	_	14	cop	_	_
+.	_	6	p	_	_
+

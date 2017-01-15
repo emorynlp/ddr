@@ -1,0 +1,20 @@
+PRP$	_	2	poss	_	_
+NN	_	4	nsbj	_	_
+VBD	_	4	cop	_	_
+JJ	_	0	root	_	_
+,	_	4	p	_	_
+CC	_	4	cc	_	_
+PRP	_	10	expl	_	_
+VBD	_	10	cop	_	_
+DT	_	10	det	_	_
+NN	_	4	conj	_	_
+TO	_	12	aux	_	_
+VB	_	10	csbj	_	_
+PRP	_	12	obj	_	_
+CC	_	12	cc	_	_
+VB	_	12	conj	_	_
+DT	_	17	det	_	_
+NN	_	15	obj	18:nsbj	_
+JJ	sem=clr	15	comp	_	_
+.	_	10	p	_	_
+

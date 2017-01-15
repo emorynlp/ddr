@@ -1,0 +1,22 @@
+DT	_	2	det	_	_
+NN	_	5	nsbj	15:nsbj	_
+VBD	_	5	raise	_	_
+TO	_	5	aux	_	_
+VB	_	0	root	_	_
+IN	_	8	case	_	_
+IN	_	8	case	_	_
+NN	sem=clr	5	ppmod	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+VBD	_	5	conj	_	_
+DT	_	13	det	_	_
+NNP	_	11	obj	_	_
+,	_	11	p	_	_
+VBG	_	11	advcl	_	_
+DT	_	18	det	_	_
+JJ	_	18	attr	_	_
+NN	_	15	obj	_	_
+IN	_	20	case	_	_
+NN	sem=clr	15	ppmod	_	_
+.	_	5	p	_	_
+

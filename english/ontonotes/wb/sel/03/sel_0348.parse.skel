@@ -1,0 +1,23 @@
+PRP	_	4	nsbj	_	_
+VBP	_	4	cop	_	_
+RB	_	4	neg	_	_
+JJ	_	0	root	_	_
+WDT	_	6	det	_	_
+NN	_	14	nsbj	_	_
+IN	_	9	case	_	_
+JJ	_	9	attr	_	_
+NN	_	6	ppmod	_	_
+CC	_	9	cc	_	_
+NN	_	12	com	_	_
+NN	_	9	conj	_	_
+MD	_	14	modal	_	_
+VB	_	4	comp	_	_
+DT	_	14	obj	_	_
+RP	_	14	prt	_	_
+CC	_	4	cc	_	_
+PRP	_	21	nsbj	_	_
+VBD	_	21	raise	_	_
+TO	_	21	aux	_	_
+VB	_	4	conj	_	_
+.	_	21	p	_	_
+

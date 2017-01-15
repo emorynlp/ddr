@@ -1,0 +1,26 @@
+JJ	_	0	root	_	_
+
+JJ	_	2	attr	_	_
+NN	_	3	disc	_	_
+VBD	_	0	root	_	_
+DT	_	3	nsbj	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+NN	_	3	obj	_	_
+.	_	3	p	_	_
+
+JJ	_	5	dep	_	_
+,	_	5	p	_	_
+JJ	_	5	dep	_	_
+,	_	5	p	_	_
+JJ	_	0	root	_	_
+.	_	5	p	_	_
+
+VBD	_	0	root	_	_
+DT	_	3	det	_	_
+NN	_	1	obj	_	_
+IN	_	5	case	_	_
+PRP	_	3	ppmod	_	_
+.	_	1	p	_	_
+NFP	_	1	p	_	_
+

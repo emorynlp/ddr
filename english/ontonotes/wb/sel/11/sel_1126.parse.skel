@@ -1,0 +1,23 @@
+RB	_	2	com	_	_
+RB	_	8	adv	_	_
+IN	_	6	mark	_	_
+PRP	_	6	obj	_	_
+VBP	_	6	aux	_	_
+VBN	_	2	comp	_	_
+NNP	_	8	nsbj	_	_
+VBP	_	0	root	_	_
+JJ	_	10	attr	_	_
+NNS	_	8	obj	_	_
+,	_	8	p	_	_
+CC	_	8	cc	_	_
+PRP	_	14	nsbj	_	_
+VBP	_	8	conj	_	_
+IN	_	21	mark	_	_
+PRP$	_	17	poss	_	_
+NNS	_	21	nsbj	_	_
+VBP	_	21	cop	_	_
+DT	_	20	det	_	_
+NN	_	21	advnp	_	_
+JJ	_	14	comp	_	_
+.	_	14	p	_	_
+

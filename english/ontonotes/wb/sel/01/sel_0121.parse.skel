@@ -1,0 +1,23 @@
+PRP	_	3	nsbj	_	_
+VBP	_	3	cop	_	_
+CD	_	0	root	_	_
+CC	_	3	cc	_	_
+PRP	_	6	nsbj	_	_
+VBP	_	3	conj	_	_
+PRP	_	12	nsbj	_	_
+MD	_	12	modal	_	_
+VB	_	12	cop	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NN	_	6	comp	_	_
+IN	_	17	mark	_	_
+DT	_	15	det	_	_
+NNS	_	17	nsbj	19:nsbj	_
+VBP	_	17	cop	_	_
+JJ	sem=tmp	12	advcl	_	_
+CC	_	17	cc	_	_
+JJ	_	17	conj	_	_
+IN	_	21	case	_	_
+PRP	_	19	ppmod	_	_
+.	_	6	p	_	_
+

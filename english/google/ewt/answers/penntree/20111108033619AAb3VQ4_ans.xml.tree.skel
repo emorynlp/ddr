@@ -1,0 +1,53 @@
+VBP	_	6	aux	_	_
+NNS	_	6	nsbj	_	_
+JJ	_	6	dep	_	_
+HYPH	_	6	p	_	_
+NN	_	6	dep	_	_
+VB	_	0	root	_	_
+IN	_	8	case	_	_
+NNP	sem=loc	6	ppmod	_	_
+.	_	6	p	_	_
+
+JJ	_	2	attr	_	_
+NNS	_	7	nsbj	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NN	_	6	com	_	_
+NN	_	2	ppmod	_	_
+VBP	_	0	root	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NN	sem=clr	7	ppmod	_	_
+,	_	7	p	_	_
+CC	_	7	cc	_	_
+RB	_	16	adv	_	_
+UH	_	16	disc	_	_
+RB	_	16	com	_	_
+RB	_	7	conj	_	_
+.	_	16	p	_	_
+
+UH	_	0	root	_	_
+,	_	1	p	_	_
+UH	_	1	disc	_	_
+.	_	1	p	_	_
+
+DT	_	2	det	_	_
+NNS	_	9	nsbj	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NN	_	6	com	_	_
+NN	_	2	ppmod	_	_
+JJ	_	9	dep	_	_
+NN	_	9	dep	_	_
+VBP	_	0	root	_	_
+.	_	9	p	_	_
+
+RB	_	7	adv	_	_
+IN	_	3	case	_	_
+DT	_	1	ppmod	_	_
+PRP	_	7	nsbj	_	_
+VBP	_	7	aux	_	_
+RB	_	7	neg	_	_
+VB	_	0	root	_	_
+.	_	7	p	_	_
+

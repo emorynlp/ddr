@@ -1,0 +1,21 @@
+RB	_	7	adv	_	_
+IN	_	7	mark	_	_
+PRP$	_	4	poss	_	_
+NNS	_	7	nsbj	_	_
+MD	_	7	modal	_	_
+RB	_	7	neg	_	_
+VB	_	12	advcl	_	_
+JJ	_	7	obj	_	_
+,	_	12	p	_	_
+PRP	_	12	nsbj	14:nsbj	_
+RB	_	12	adv	_	_
+VBP	_	0	root	_	_
+VBG	_	14	cop	_	_
+JJ	_	12	comp	_	_
+IN	_	19	case	_	_
+JJ	_	17	attr	_	_
+NN	_	19	poss	_	_
+POS	_	17	case	_	_
+NN	sem=prp	14	ppmod	_	_
+.	_	12	p	_	_
+

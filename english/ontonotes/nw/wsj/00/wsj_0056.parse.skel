@@ -1,0 +1,49 @@
+IN	_	0	case	_	_
+
+NNP	_	6	attr	_	O
+NNP	_	6	attr	_	O
+NNP	_	6	attr	_	O
+HYPH	_	6	p	_	O
+NNP	_	6	attr	_	O
+CD	_	0	root	_	B-PERCENT
+NN	_	6	meta	_	L-PERCENT
+
+LS	_	4	meta	_	O
+:	_	1	p	_	O
+JJ	_	4	attr	_	O
+NN	_	0	root	5:obj	O
+VBN	_	4	acl	_	O
+NN	sem=tmp	5	advnp	_	U-DATE
+IN	_	10	case	_	O
+CD	_	10	num	_	U-CARDINAL
+JJ	_	10	attr	_	O
+NNS	_	5	nsbj	_	O
+CC	_	10	cc	_	O
+NNS	_	10	conj	_	O
+IN	_	18	case	_	O
+DT	_	18	det	_	O
+CD	_	18	num	_	U-CARDINAL
+JJS	_	18	attr	_	O
+JJ	_	18	attr	_	O
+NNS	sem=loc	5	ppmod	_	O
+IN	_	20	mark	_	O
+VBN	_	4	acl	_	O
+IN	_	24	case	_	O
+NNP	_	23	com	_	B-ORG
+NNP	_	24	com	_	I-ORG
+NNP	_	20	nsbj	_	L-ORG
+.	_	4	p	_	O
+
+LS	_	5	meta	_	O
+:	_	1	p	_	O
+JJ	_	5	attr	_	O
+JJ	_	5	attr	_	U-DATE
+NN	_	0	root	_	O
+.	_	5	p	_	O
+
+VBN	_	2	attr	_	O
+NN	_	0	root	_	O
+CD	_	2	appo	_	B-PERCENT
+NN	_	3	meta	_	L-PERCENT
+.	_	2	p	_	O
+

@@ -1,0 +1,26 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+IN	_	6	mark	_	_
+DT	_	5	det	_	_
+NN	_	6	nsbj	15:nsbj	_
+VBZ	_	2	comp	_	_
+DT	_	8	det	_	_
+NN	_	11	obj	_	_
+VBN	_	11	cop	_	_
+RB	_	11	com	_	_
+RB	sem=loc	6	comp	_	_
+CC	_	6	cc	_	_
+VBD	_	15	aux	_	_
+RB	_	15	neg	_	_
+VBG	_	6	conj	_	_
+PRP	_	18	poss	_	_
+POS	_	16	case	_	_
+NN	_	15	obj	_	_
+IN	_	24	case	_	_
+IN	_	24	case	_	_
+DT	_	22	det	_	_
+NN	_	24	poss	_	_
+POS	_	22	case	_	_
+NN	_	15	ppmod	_	_
+.	_	2	p	_	_
+

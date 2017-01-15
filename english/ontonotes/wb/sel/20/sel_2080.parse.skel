@@ -1,0 +1,26 @@
+NNP	_	2	com	_	_
+NNP	_	5	nsbj	_	_
+VBZ	_	5	aux	_	_
+RB	_	5	neg	_	_
+VB	_	0	root	_	_
+DT	_	7	det	_	_
+NN	_	5	obj	_	_
+IN	_	11	case	_	_
+``	_	11	p	_	_
+NNP	_	11	com	_	_
+NNP	_	7	ppmod	_	_
+''	_	11	p	_	_
+IN	_	16	mark	_	_
+PRP	_	16	nsbj	_	_
+VBZ	_	16	cop	_	_
+JJ	_	5	comp	_	_
+WRB	sem=tmp	22	adv	_	_
+``	_	22	p	_	_
+NNP	_	20	com	_	_
+NNP	_	22	nsbj	_	_
+''	_	22	p	_	_
+VBZ	sem=tmp	5	advcl	_	_
+JJ	_	24	attr	_	_
+NN	_	22	obj	_	_
+.	_	5	p	_	_
+

@@ -1,0 +1,27 @@
+RB	_	5	adv	_	_
+IN	_	5	mark	_	_
+DT	_	4	det	_	_
+NNP	_	5	nsbj	_	_
+VBD	sem=tmp	18	advcl	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+NNPS	_	11	nsbj	_	_
+CC	_	8	cc	_	_
+NNS	_	8	conj	_	_
+VBD	_	5	conj	_	_
+,	_	11	p	_	_
+DT	_	14	det	_	_
+NNP	_	11	obj	5:obj	_
+VBD	_	18	aux	_	_
+NNP	_	17	com	_	_
+NNP	_	18	nsbj	_	_
+VB	_	0	root	_	_
+RP	_	18	prt	_	_
+PRP$	_	21	poss	_	_
+NNS	_	18	obj	_	_
+CC	_	18	cc	_	_
+VB	_	18	conj	_	_
+PRP$	_	25	poss	_	_
+NN	_	23	obj	_	_
+.	_	18	p	_	_
+

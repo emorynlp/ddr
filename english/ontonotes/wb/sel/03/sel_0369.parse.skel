@@ -1,0 +1,24 @@
+VB	_	0	root	_	_
+DT	_	3	det	_	_
+NNS	_	1	obj	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	_	8	com	_	_
+NN	_	8	com	_	_
+NNS	sem=loc	3	ppmod	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+NNS	_	10	obj	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+JJ	_	15	attr	_	_
+NN	sem=loc	11	ppmod	_	_
+TO	_	17	aux	_	_
+VB	sem=prp	10	advcl	_	_
+DT	_	20	det	_	_
+JJR	_	20	attr	_	_
+NN	_	17	obj	_	_
+IN	_	22	case	_	_
+PRP	_	20	ppmod	_	_
+.	_	1	p	_	_
+

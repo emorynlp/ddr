@@ -1,0 +1,20 @@
+LS	_	2	meta	_	_
+VB	_	0	root	_	_
+DT	_	4	det	_	_
+NNS	_	2	obj	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NNS	_	4	ppmod	_	_
+IN	_	9	case	_	_
+DT	_	7	ppmod	_	_
+IN	_	11	case	_	_
+PRP	sem=loc	9	ppmod	_	_
+WRB	sem=tmp	17	adv	_	_
+DT	_	14	det	_	_
+NN	_	17	nsbj	_	_
+VBZ	_	17	aux	_	_
+RB	_	17	neg	_	_
+VB	sem=tmp	2	advcl	_	_
+RP	_	17	prt	_	_
+:	_	2	p	_	_
+

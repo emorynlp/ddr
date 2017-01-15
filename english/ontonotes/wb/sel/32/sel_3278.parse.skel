@@ -1,0 +1,16 @@
+IN	_	2	case	_	_
+DT	_	10	ppmod	_	_
+-LRB-	_	2	p	_	_
+PRP	_	2	appo	_	_
+-RRB-	_	2	p	_	_
+,	_	10	p	_	_
+PRP	_	10	expl	_	_
+VBZ	_	10	cop	_	_
+RB	_	10	adv	_	_
+JJ	_	0	root	_	_
+TO	_	12	aux	_	_
+VB	_	10	csbj	_	_
+IN	_	14	case	_	_
+PRP	sem=clr	12	ppmod	_	_
+.	_	10	p	_	_
+

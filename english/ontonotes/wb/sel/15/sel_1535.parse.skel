@@ -1,0 +1,24 @@
+PRP	_	2	nsbj	8:nsbj	_
+VBD	_	0	root	_	_
+DT	_	2	obj	_	_
+IN	_	6	case	_	_
+JJ	_	6	attr	_	_
+NN	sem=mnr	2	ppmod	_	_
+,	_	2	p	_	_
+VBG	_	2	advcl	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NN	_	12	com	_	_
+NN	_	8	obj	_	_
+TO	_	14	aux	_	_
+VB	sem=clr	8	comp	_	_
+NN	_	16	com	_	_
+NN	_	14	obj	_	_
+,	_	8	p	_	_
+CC	_	8	cc	_	_
+IN	_	22	mark	_	_
+DT	_	21	det	_	_
+NN	_	22	obj	_	_
+VBN	_	8	advcl	_	_
+.	_	2	p	_	_
+

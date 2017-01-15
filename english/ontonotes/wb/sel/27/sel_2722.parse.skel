@@ -1,0 +1,25 @@
+IN	_	3	case	_	_
+DT	_	3	det	_	_
+NN	_	8	ppmod	_	_
+IN	_	5	case	_	_
+NN	_	3	ppmod	_	_
+PRP	_	8	nsbj	_	_
+RB	_	8	adv	_	_
+VBP	_	20	comp	_	_
+IN	_	13	mark	_	_
+DT	_	11	det	_	_
+NN	_	13	nsbj	_	_
+VBZ	_	13	cop	_	_
+JJ	sem=tmp	8	advcl	_	_
+:	_	20	p	_	_
+CD	_	20	nsbj	_	_
+VBZ	_	20	cop	_	_
+RB	sem=tmp	20	adv	_	_
+DT	_	19	det	_	_
+NN	_	20	advnp	_	_
+JJ	_	0	root	_	_
+IN	_	23	case	_	_
+DT	_	23	det	_	_
+NN	_	20	ppmod	_	_
+.	_	20	p	_	_
+

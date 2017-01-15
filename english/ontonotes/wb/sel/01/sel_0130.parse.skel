@@ -1,0 +1,14 @@
+WRB	sem=tmp	3	adv	_	_
+NNS	_	3	nsbj	_	_
+VBP	sem=tmp	12	advcl	_	_
+PRP	_	9	nsbj	_	_
+VBP	_	6	aux	_	_
+VBN	_	3	comp	_	_
+TO	_	9	aux	_	_
+VB	_	9	cop	_	_
+NNS	_	6	comp	_	_
+PRP	_	12	nsbj	_	_
+VBP	_	12	cop	_	_
+NNS	_	0	root	_	_
+.	_	12	p	_	_
+

@@ -1,0 +1,11 @@
+VB	_	0	root	_	_
+DT	_	3	det	_	_
+NNS	_	1	obj	_	_
+RB	sem=clr	1	adv	_	_
+IN	_	9	mark	_	_
+PRP	_	9	nsbj	_	_
+VBP	_	9	cop	_	_
+RB	_	9	adv	_	_
+JJ	sem=tmp	1	advcl	_	_
+.	_	1	p	_	_
+

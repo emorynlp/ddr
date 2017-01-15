@@ -1,0 +1,16 @@
+DT	_	3	det	_	_
+JJ	_	3	attr	_	_
+NN	_	8	nsbj	5:adv	_
+TO	_	5	aux	_	_
+VB	_	3	relcl	_	_
+DT	_	7	det	_	_
+NN	_	5	obj	_	_
+VBZ	_	0	root	_	_
+TO	_	10	aux	_	_
+VB	_	8	comp	_	_
+PRP	_	10	obj	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	sem=clr	10	ppmod	_	_
+.	_	8	p	_	_
+

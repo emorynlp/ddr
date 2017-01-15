@@ -1,0 +1,20 @@
+PRP	_	2	nsbj	11:nsbj	_
+VBD	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	2	obj	6:nsbj	_
+TO	_	6	aux	_	_
+VB	_	4	relcl	_	_
+NN	_	8	com	_	_
+NN	_	9	com	_	_
+NNS	_	6	obj	_	_
+CC	_	2	cc	_	_
+VBD	_	2	conj	_	_
+RP	_	11	prt	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+NN	sem=clr	11	ppmod	_	_
+``	_	15	p	_	_
+NN	_	15	appo	_	_
+''	_	15	p	_	_
+.	_	2	p	_	_
+

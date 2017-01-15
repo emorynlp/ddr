@@ -1,0 +1,28 @@
+WDT	_	5	det	_	_
+DT	_	5	det	_	_
+NN	_	4	advnp	_	_
+VBG	_	5	attr	_	_
+NN	_	0	root	_	_
+
+PRP	_	2	nsbj	10:nsbj	_
+VBP	_	0	root	_	_
+PRP$	_	4	poss	_	_
+NNS	_	2	obj	_	_
+IN	_	6	case	_	_
+NN	sem=mnr	2	ppmod	_	_
+CC	_	6	cc	_	_
+NN	_	6	conj	_	_
+CC	_	2	cc	_	_
+VBP	_	2	conj	_	_
+IN	_	14	mark	_	_
+PRP	_	14	nsbj	_	_
+MD	_	14	modal	_	_
+VB	_	10	comp	_	_
+DT	_	17	det	_	_
+JJ	_	17	attr	_	_
+NN	_	14	obj	_	_
+IN	_	20	case	_	_
+PRP$	_	20	poss	_	_
+NNS	sem=clr	14	ppmod	_	_
+.	_	2	p	_	_
+

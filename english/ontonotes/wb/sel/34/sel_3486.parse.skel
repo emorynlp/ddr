@@ -1,0 +1,24 @@
+PRP	_	4	obj	_	_
+VBZ	_	4	aux	_	_
+RB	sem=mnr	4	adv	_	_
+VBN	_	0	root	_	_
+,	_	4	p	_	_
+VBZ	_	4	conj	_	_
+RP	_	6	prt	_	_
+RB	sem=mnr	6	adv	_	_
+,	_	6	p	_	_
+VBZ	_	4	conj	_	_
+DT	_	12	det	_	_
+NNP	_	10	obj	_	_
+RB	sem=mnr	10	adv	_	_
+,	_	10	p	_	_
+CC	_	10	cc	_	_
+VBZ	_	18	cop	_	_
+DT	_	18	det	_	_
+NN	_	4	conj	20:obj	_
+TO	_	20	aux	_	_
+VB	_	18	relcl	_	_
+IN	_	22	case	_	_
+PRP	sem=loc	20	ppmod	_	_
+.	_	4	p	_	_
+

@@ -1,0 +1,21 @@
+IN	_	4	mark	_	_
+PRP	_	4	nsbj	_	_
+MD	_	4	modal	_	_
+VB	_	19	advcl	_	_
+JJR	_	6	attr	_	_
+NN	_	4	obj	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NNS	sem=loc	4	ppmod	_	_
+IN	_	13	case	_	_
+JJR	_	13	attr	_	_
+JJ	_	13	attr	_	_
+NNS	_	9	ppmod	_	_
+,	_	19	p	_	_
+DT	_	19	nsbj	_	_
+VBZ	_	19	cop	_	_
+RB	_	19	neg	_	_
+RB	sem=tmp	19	adv	_	_
+JJ	_	0	root	_	_
+.	_	19	p	_	_
+

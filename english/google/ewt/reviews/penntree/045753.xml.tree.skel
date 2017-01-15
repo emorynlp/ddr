@@ -1,0 +1,14 @@
+VBN	_	8	advcl	_	_
+IN	_	4	case	_	_
+JJ	_	4	attr	_	_
+NN	sem=clr	1	ppmod	_	_
+DT	_	6	det	_	_
+NNP	_	8	nsbj	_	_
+VBZ	_	8	aux	_	_
+VBG	_	0	root	_	_
+JJR	_	10	attr	_	_
+NN	_	8	obj	_	_
+IN	_	13	case	_	_
+JJ	_	13	attr	_	_
+NN	_	8	ppmod	_	_
+

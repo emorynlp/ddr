@@ -1,0 +1,17 @@
+NN	_	6	nsbj	_	_
+TO	_	3	aux	_	_
+VB	_	1	acl	_	_
+VBZ	_	6	cop	_	_
+NNP	_	6	com	_	_
+NN	_	8	comp	_	_
+UH	_	8	disc	_	_
+VB	_	0	root	_	_
+DT	_	10	det	_	_
+NN	_	8	obj	_	_
+IN	_	13	case	_	_
+PRP$	_	13	poss	_	_
+NN	_	10	ppmod	_	_
+IN	_	15	case	_	_
+NNP	sem=clr	8	ppmod	_	_
+.	_	8	p	_	_
+

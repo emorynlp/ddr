@@ -1,0 +1,17 @@
+PRP	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBP	_	0	root	_	_
+NN	_	7	com	_	_
+NN	_	6	com	_	_
+NN	_	7	com	_	_
+NNS	_	3	obj	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+NN	_	13	attr	_	_
+CC	_	10	cc	_	_
+NN	_	10	conj	_	_
+NNS	_	3	dat	_	_
+RB	_	15	com	_	_
+RB	sem=loc	13	adv	_	_
+.	_	3	p	_	_
+

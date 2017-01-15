@@ -1,0 +1,19 @@
+JJ	_	10	dep	_	_
+IN	_	4	case	_	_
+PRP$	_	4	poss	_	_
+NN	_	1	ppmod	_	_
+,	_	10	p	_	_
+DT	_	10	nsbj	_	_
+VBZ	_	10	cop	_	_
+DT	_	10	det	_	_
+JJ	_	10	attr	_	_
+NN	_	0	root	13:adv	_
+PRP	_	13	nsbj	_	_
+MD	_	13	modal	_	_
+VB	_	10	relcl	_	_
+IN	_	17	case	_	_
+DT	_	17	det	_	_
+JJ	_	17	attr	_	_
+NNP	sem=dir	13	ppmod	_	_
+.	_	10	p	_	_
+

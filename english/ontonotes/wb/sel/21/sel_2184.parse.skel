@@ -1,0 +1,14 @@
+JJ	_	6	dep	_	_
+WRB	sem=mnr	6	adv	_	_
+PRP	_	6	nsbj	_	_
+VBP	_	6	aux	_	_
+RB	_	6	neg	_	_
+VB	_	0	root	_	_
+NN	_	10	nsbj	9:obj	_
+PRP	_	9	nsbj	_	_
+VBP	_	7	relcl	_	_
+JJ	_	6	comp	_	_
+PRP$	_	12	poss	_	_
+NN	_	10	advnp	_	_
+.	_	6	p	_	_
+

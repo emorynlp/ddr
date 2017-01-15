@@ -1,0 +1,17 @@
+UH	_	5	disc	_	_
+UH	_	1	disc	_	_
+,	_	5	p	_	_
+PRP	_	5	nsbj	_	_
+VBD	_	15	comp	_	_
+IN	_	8	case	_	_
+IN	_	8	case	_	_
+NN	sem=dir	5	ppmod	12:adv	_
+WRB	sem=loc	12	r-adv	_	_
+PRP	_	12	nsbj	_	_
+RB	sem=tmp	12	adv	_	_
+VBP	_	8	relcl	_	_
+JJ	_	14	attr	_	_
+NNS	_	12	obj	_	_
+JJ	_	0	root	_	_
+.	_	15	p	_	_
+

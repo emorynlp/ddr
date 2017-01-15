@@ -1,0 +1,14 @@
+NN	_	0	root	4:nsbj	_
+WDT	_	4	r-nsbj	_	_
+MD	_	4	modal	_	_
+VB	_	1	relcl	_	_
+IN	_	7	case	_	_
+JJ	_	7	attr	_	_
+NN	sem=clr	4	ppmod	_	_
+,	_	1	p	_	_
+DT	_	11	nsbj	_	_
+VBZ	_	11	cop	_	_
+IN	_	1	conj	_	_
+JJ	_	11	adv	_	_
+.	_	11	p	_	_
+

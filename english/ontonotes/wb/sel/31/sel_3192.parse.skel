@@ -1,0 +1,14 @@
+RB	_	5	adv	_	_
+,	_	5	p	_	_
+VBD	_	5	aux	_	_
+PRP	_	5	nsbj	_	_
+VB	_	0	root	_	_
+DT	_	7	det	_	_
+NN	_	9	poss	_	_
+POS	_	7	case	_	_
+NNS	_	5	obj	_	_
+IN	_	12	case	_	_
+NNP	_	12	com	_	_
+NNP	sem=clr	5	ppmod	_	_
+.	_	5	p	_	_
+

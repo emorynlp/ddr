@@ -1,0 +1,18 @@
+UH	_	2	disc	_	_
+VB	_	12	advcl	_	_
+DT	_	4	det	_	_
+NN	_	2	obj	_	_
+CC	_	2	cc	_	_
+VB	_	2	conj	_	_
+PRP	_	6	dat	_	_
+DT	_	9	det	_	_
+NN	_	6	obj	_	_
+RB	sem=tmp	6	adv	_	_
+UH	_	12	disc	_	_
+VB	_	0	root	_	_
+DT	_	14	det	_	_
+NNS	_	12	obj	_	_
+IN	_	16	case	_	_
+NNP	_	12	dat	_	_
+.	_	12	p	_	_
+

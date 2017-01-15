@@ -1,0 +1,15 @@
+PRP	_	6	nsbj	_	_
+VBP	_	6	aux	_	_
+RB	_	6	adv	_	_
+JJ	_	6	modal	_	_
+TO	_	6	aux	_	_
+VB	_	0	root	_	_
+DT	_	10	det	_	_
+NNPS	_	10	com	_	_
+NN	_	10	com	_	_
+NN	_	6	obj	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+NNPS	_	10	ppmod	_	_
+.	_	6	p	_	_
+

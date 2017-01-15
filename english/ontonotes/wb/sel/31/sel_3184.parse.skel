@@ -1,0 +1,20 @@
+VB	_	0	root	_	_
+DT	_	3	det	_	_
+NN	_	1	obj	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+NN	sem=loc	1	ppmod	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NN	_	7	ppmod	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+PRP	_	14	nsbj	_	_
+VB	_	12	comp	_	_
+IN	_	18	case	_	_
+DT	_	17	det	_	_
+JJ	_	18	num	_	_
+NNS	sem=tmp	14	ppmod	_	_
+.	_	1	p	_	_
+

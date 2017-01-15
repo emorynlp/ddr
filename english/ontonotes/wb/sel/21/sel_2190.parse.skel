@@ -1,0 +1,19 @@
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	8	advcl	_	_
+PRP$	_	6	poss	_	_
+NN	_	6	com	_	_
+NN	_	3	obj	_	_
+,	_	8	p	_	_
+VB	_	0	root	_	_
+RP	_	8	prt	_	_
+CC	_	8	cc	_	_
+PRP	_	13	nsbj	_	_
+MD	_	13	modal	_	_
+VB	_	8	conj	_	_
+PRP	_	13	obj	_	_
+IN	_	16	case	_	_
+PRP	sem=clr	13	ppmod	_	_
+RB	sem=mnr	13	adv	_	_
+.	_	13	p	_	_
+

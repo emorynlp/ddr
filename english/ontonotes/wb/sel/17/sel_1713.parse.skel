@@ -1,0 +1,23 @@
+DT	_	2	det	_	_
+NN	_	3	nsbj	_	_
+VBZ	_	0	root	_	_
+,	_	3	p	_	_
+CC	_	10	cc	_	_
+PRP	_	10	nsbj	_	_
+VBZ	_	10	cop	_	_
+DT	_	10	det	_	_
+NNP	_	10	com	_	_
+NN	_	3	prn	_	_
+,	_	3	p	_	_
+NNS	_	13	nsbj	_	_
+VBP	_	3	comp	_	_
+NN	_	18	attr	_	_
+,	_	18	p	_	_
+NN	_	18	attr	_	_
+,	_	18	p	_	_
+NN	_	13	obj	_	_
+IN	_	21	case	_	_
+RB	_	21	adv	_	_
+JJ	sem=clr	13	ppmod	_	_
+.	_	3	p	_	_
+

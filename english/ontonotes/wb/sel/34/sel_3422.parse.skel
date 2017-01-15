@@ -1,0 +1,21 @@
+WRB	sem=tmp	4	adv	_	_
+PRP$	_	3	poss	_	_
+NN	_	4	nsbj	_	_
+VBD	sem=tmp	10	advcl	17:advcl	_
+PRP$	_	6	poss	_	_
+NN	_	4	obj	_	_
+,	_	10	p	_	_
+PRP	_	10	nsbj	17:nsbj	_
+RB	sem=tmp	10	adv	17:adv	_
+VBD	_	0	root	_	_
+IN	_	15	case	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+JJS	_	15	attr	_	_
+NN	sem=clr	10	ppmod	_	_
+CC	_	10	cc	_	_
+VBD	_	10	conj	_	_
+DT	_	19	det	_	_
+NN	_	17	obj	_	_
+.	_	10	p	_	_
+

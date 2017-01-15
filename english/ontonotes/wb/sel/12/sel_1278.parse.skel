@@ -1,0 +1,26 @@
+UH	_	5	disc	_	_
+WRB	sem=prp	16	adv	5:adv	_
+MD	_	5	modal	_	_
+PRP	_	5	nsbj	_	_
+VB	_	0	root	_	_
+CD	_	8	num	_	_
+JJ	_	8	attr	_	_
+NN	_	5	obj	_	_
+IN	_	11	case	_	_
+IN	_	11	case	_	_
+DT	sem=clr	5	ppmod	_	_
+IN	_	13	case	_	_
+PRP	_	11	ppmod	_	_
+CC	_	5	cc	_	_
+RB	_	16	adv	_	_
+VB	_	5	conj	_	_
+IN	_	19	mark	_	_
+PRP	_	19	nsbj	_	_
+VBD	_	16	comp	_	_
+TO	_	22	aux	_	_
+VB	_	22	raise	_	_
+VBG	_	19	comp	_	_
+DT	_	24	det	_	_
+CD	_	22	obj	_	_
+.	_	5	p	_	_
+

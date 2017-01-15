@@ -1,0 +1,20 @@
+VBD	_	3	aux	_	_
+PRP	_	3	nsbj	_	_
+VB	_	0	root	_	_
+PRP	_	3	obj	_	_
+JJ	_	6	attr	_	_
+NNS	_	4	appo	_	_
+IN	_	8	case	_	_
+NN	_	6	ppmod	_	_
+CC	_	3	cc	_	_
+VBD	_	15	aux	_	_
+PRP	_	15	nsbj	_	_
+RB	_	15	adv	_	_
+JJ	_	15	modal	_	_
+TO	_	15	aux	_	_
+VB	_	3	conj	_	_
+PRP$	_	18	poss	_	_
+JJ	_	18	attr	_	_
+NNS	_	15	obj	_	_
+.	_	15	p	_	_
+

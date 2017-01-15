@@ -1,0 +1,13 @@
+CC	_	5	cc	_	_
+RBR	_	3	com	_	_
+RB	_	5	adv	_	_
+,	_	5	p	_	_
+VB	_	0	root	_	_
+DT	_	7	det	_	_
+NNS	_	8	nsbj	_	_
+VB	_	5	comp	_	_
+DT	_	10	det	_	_
+NNS	_	8	obj	_	_
+RB	sem=tmp	8	adv	_	_
+.	_	5	p	_	_
+

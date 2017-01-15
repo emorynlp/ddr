@@ -1,0 +1,64 @@
+VB	_	0	root	_	O
+PRP	_	1	obj	4:nsbj	O
+DT	_	4	det	_	B-PERSON
+NNP	sem=clr	1	comp	_	I-PERSON
+IN	_	8	case	_	I-PERSON
+DT	_	8	det	_	I-PERSON
+NNP	_	8	com	_	I-PERSON
+NNPS	_	4	ppmod	_	L-PERSON
+.	_	1	p	_	O
+
+NNP	_	2	com	_	B-PERSON
+NNP	_	4	poss	_	I-PERSON
+POS	_	2	case	_	L-PERSON
+NN	_	9	nsbj	_	O
+NNP	_	4	appo	_	U-PERSON
+VBD	_	9	cop	_	O
+RB	_	9	adv	_	O
+DT	_	9	det	_	O
+NN	_	0	root	_	O
+IN	_	13	case	_	O
+CD	_	13	num	_	U-CARDINAL
+JJ	_	13	attr	_	O
+NNS	_	9	ppmod	_	O
+.	_	9	p	_	O
+
+DT	_	2	det	_	O
+NNS	_	9	nsbj	_	U-PRODUCT
+IN	_	5	case	_	O
+DT	_	5	det	_	O
+NN	sem=loc	2	ppmod	_	O
+VBD	_	9	aux	_	O
+NN	_	9	advnp	_	O
+HYPH	_	9	p	_	O
+VBN	_	0	root	_	O
+.	_	9	p	_	O
+
+EX	_	9	expl	_	_
+RB	_	9	adv	_	_
+VBD	_	9	cop	_	_
+NN	_	8	advnp	_	_
+CC	_	4	cc	_	_
+NN	_	4	conj	_	_
+HYPH	_	8	p	_	_
+VBN	_	9	attr	_	_
+NNS	_	0	root	_	_
+.	_	9	p	_	_
+
+CD	_	8	nsbj	5:nsbj	U-CARDINAL
+WDT	_	5	r-nsbj	_	O
+VBD	_	5	cop	_	O
+DT	_	5	det	_	O
+NN	_	1	relcl	_	O
+IN	_	7	case	_	O
+NNP	_	5	ppmod	_	U-PERSON
+VBD	_	0	root	_	O
+DT	_	10	det	_	O
+NN	_	8	obj	_	O
+IN	_	15	case	_	O
+DT	_	15	det	_	O
+JJ	_	15	attr	_	O
+JJ	_	15	attr	_	U-NORP
+NN	_	10	ppmod	_	O
+.	_	8	p	_	O
+

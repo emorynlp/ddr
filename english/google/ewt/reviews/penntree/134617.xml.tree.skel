@@ -1,0 +1,36 @@
+JJ	_	3	attr	_	_
+NN	_	3	com	_	_
+NN	_	0	root	_	_
+
+JJ	_	2	attr	_	_
+NN	_	0	root	4:adv;8:adv	_
+TO	_	4	aux	_	_
+VB	_	2	relcl	_	_
+DT	_	6	det	_	_
+NN	_	4	obj	_	_
+CC	_	4	cc	_	_
+VB	_	4	conj	_	_
+RP	_	8	prt	_	_
+IN	_	11	case	_	_
+NNS	sem=clr	8	ppmod	_	_
+.	_	2	p	_	_
+
+JJ	_	2	adv	_	_
+JJ	_	3	attr	_	_
+NN	_	0	root	_	_
+CC	_	3	cc	_	_
+JJ	_	6	attr	_	_
+NNS	_	3	conj	_	_
+.	_	6	p	_	_
+
+NN	_	2	nsbj	7:nsbj	_
+VBZ	_	0	root	_	_
+RB	_	2	adv	_	_
+JJ	_	5	attr	_	_
+NN	_	2	obj	_	_
+CC	_	2	cc	_	_
+VBZ	_	2	conj	_	_
+JJ	_	9	attr	_	_
+NNS	_	7	obj	_	_
+.	_	2	p	_	_
+

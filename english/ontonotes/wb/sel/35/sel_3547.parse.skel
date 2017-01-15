@@ -1,0 +1,23 @@
+PRP	_	2	nsbj	_	_
+VBD	_	14	comp	_	_
+IN	_	5	case	_	_
+DT	_	5	det	_	_
+NN	sem=clr	2	ppmod	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NN	_	9	com	_	_
+NN	sem=loc	2	ppmod	_	_
+:	_	2	p	_	_
+NN	_	5	appo	_	_
+CD	_	11	num	_	_
+PRP	_	14	nsbj	_	_
+VBZ	_	0	root	_	_
+PRP	_	19	nsbj	_	_
+``	_	19	p	_	_
+VBZ	_	19	aux	_	_
+RB	_	19	neg	_	_
+VB	_	14	comp	_	_
+RP	_	19	prt	_	_
+''	_	19	p	_	_
+.	_	14	p	_	_
+

@@ -1,0 +1,24 @@
+NFP	_	6	p	_	_
+-RRB-	_	6	p	_	_
+WRB	sem=mnr	6	adv	_	_
+VBD	_	6	aux	_	_
+PRP	_	6	nsbj	_	_
+VB	_	0	root	_	_
+WRB	sem=mnr	9	adv	_	_
+PRP	_	9	nsbj	_	_
+VBD	_	6	comp	_	_
+``	_	9	p	_	_
+NNP	_	13	com	_	_
+HYPH	_	13	p	_	_
+NNP	_	9	obj	_	_
+''	_	9	p	_	_
+IN	_	17	case	_	_
+DT	_	17	det	_	_
+NNS	sem=clr	9	ppmod	_	_
+IN	_	22	case	_	_
+DT	_	20	det	_	_
+NN	_	22	poss	_	_
+POS	_	20	case	_	_
+NN	sem=loc	9	ppmod	_	_
+.	_	6	p	_	_
+

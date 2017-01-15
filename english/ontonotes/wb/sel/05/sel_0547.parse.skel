@@ -1,0 +1,12 @@
+NN	_	0	root	_	_
+TO	_	3	aux	_	_
+VB	_	1	acl	_	_
+NN	_	3	obj	_	_
+CC	_	3	cc	_	_
+VB	_	3	conj	_	_
+JJ	_	10	attr	_	_
+NN	_	9	com	_	_
+NN	_	10	com	_	_
+NNS	_	6	obj	_	_
+.	_	1	p	_	_
+

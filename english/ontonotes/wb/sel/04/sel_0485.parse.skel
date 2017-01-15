@@ -1,0 +1,23 @@
+NNPS	_	2	com	_	_
+NNPS	_	5	nsbj	8:nsbj	_
+VBD	_	5	raise	_	_
+TO	_	5	aux	_	_
+VB	_	0	root	_	_
+NNS	_	5	obj	_	_
+CC	_	5	cc	_	_
+VB	_	5	conj	_	_
+RP	_	8	prt	_	_
+IN	_	14	case	_	_
+IN	_	12	case	_	_
+JJS	_	13	adv	_	_
+CD	_	14	num	_	_
+NNS	sem=tmp	8	ppmod	_	_
+IN	_	17	case	_	_
+JJ	_	17	attr	_	_
+NN	_	14	ppmod	_	_
+,	_	14	p	_	_
+NNP	_	14	appo	_	_
+CC	_	19	cc	_	_
+NNP	_	19	conj	_	_
+.	_	5	p	_	_
+

@@ -1,0 +1,18 @@
+NNP	_	2	com	_	_
+NNP	_	9	nsbj	_	_
+CC	_	2	cc	_	_
+NNP	_	6	com	_	_
+NNP	_	6	com	_	_
+NNP	_	2	conj	_	_
+,	_	9	p	_	_
+VBD	_	9	cop	_	_
+IN	_	0	root	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NNPS	_	9	obj	16:nsbj	_
+TO	_	16	aux	_	_
+VB	_	16	cop	_	_
+NNP	_	16	com	_	_
+NNPS	_	12	relcl	_	_
+.	_	9	p	_	_
+

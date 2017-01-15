@@ -1,0 +1,19 @@
+UH	_	0	root	_	_
+NN	_	1	voc	_	_
+,	_	1	p	_	_
+PRP	_	6	nsbj	_	_
+VBP	_	6	aux	_	_
+VBN	_	1	conj	_	_
+DT	_	17	det	_	_
+JJ	_	17	attr	_	_
+JJ	_	17	attr	_	_
+-LRB-	_	9	p	_	_
+CC	_	9	cc	_	_
+VBN	_	9	conj	_	_
+-RRB-	_	12	p	_	_
+NN	_	16	advnp	_	_
+HYPH	_	16	p	_	_
+VBG	_	17	attr	_	_
+NN	_	6	obj	_	_
+.	_	6	p	_	_
+

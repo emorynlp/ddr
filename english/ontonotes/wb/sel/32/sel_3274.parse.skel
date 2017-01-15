@@ -1,0 +1,7 @@
+DT	_	2	det	_	_
+NN	_	3	nsbj	_	_
+VBD	_	0	root	_	_
+IN	_	5	case	_	_
+CD	sem=tmp	3	ppmod	_	_
+.	_	3	p	_	_
+

@@ -1,0 +1,19 @@
+NNP	_	0	root	_	_
+
+DT	_	2	det	_	_
+NN	_	4	nsbj	_	_
+VBZ	_	4	cop	_	_
+JJ	_	12	comp	_	_
+NNP	_	6	nsbj	_	_
+VBD	_	12	comp	_	_
+DT	_	9	det	_	_
+JJ	_	9	attr	_	_
+NN	_	6	obj	_	_
+NN	_	12	nsbj	_	_
+VBZ	_	12	cop	_	_
+JJ	_	0	root	_	_
+CC	_	12	cc	_	_
+NN	_	16	nsbj	_	_
+VBZ	_	16	cop	_	_
+JJ	_	12	conj	_	_
+

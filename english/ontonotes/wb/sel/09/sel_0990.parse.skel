@@ -1,0 +1,10 @@
+RB	sem=tmp	2	adv	_	_
+VB	_	0	root	_	_
+PRP	_	4	nsbj	_	_
+VB	_	2	comp	_	_
+PRP	_	4	obj	_	_
+RB	sem=mnr	4	adv	_	_
+IN	_	8	case	_	_
+NN	sem=clr	4	ppmod	_	_
+.	_	2	p	_	_
+

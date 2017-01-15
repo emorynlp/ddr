@@ -1,0 +1,21 @@
+VB	_	0	root	_	_
+,	_	1	p	_	_
+VB	_	1	conj	_	_
+,	_	3	p	_	_
+CC	_	3	cc	_	_
+VB	_	1	conj	_	_
+DT	_	10	det	_	_
+JJ	_	10	attr	_	_
+NN	_	10	com	_	_
+NNS	_	6	obj	1:obj;3:obj	_
+,	_	1	p	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+NN	_	15	com	_	_
+NN	_	13	obj	_	_
+IN	_	17	case	_	_
+NN	_	15	ppmod	_	_
+IN	_	19	case	_	_
+NN	_	17	nsbj	_	_
+.	_	1	p	_	_
+

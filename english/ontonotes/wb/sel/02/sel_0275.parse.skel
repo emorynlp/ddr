@@ -1,0 +1,12 @@
+WP	_	4	obj	6:nsbj	_
+DT	_	3	det	_	_
+NNPS	_	4	nsbj	_	_
+VBP	_	10	csbj	_	_
+NN	_	6	com	_	_
+NN	sem=clr	4	comp	_	_
+VBZ	_	10	cop	_	_
+DT	_	10	det	_	_
+JJ	_	10	attr	_	_
+NN	_	0	root	_	_
+.	_	10	p	_	_
+

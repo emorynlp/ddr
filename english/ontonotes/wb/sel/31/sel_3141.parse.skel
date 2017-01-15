@@ -1,0 +1,15 @@
+TO	_	2	aux	_	_
+VB	sem=prp	5	advcl	_	_
+:	_	5	p	_	_
+CD	_	5	num	_	_
+NNS	_	0	root	_	_
+MD	_	5	modal	_	_
+VB	_	5	aux	_	_
+VBN	_	5	lv	_	_
+TO	_	10	aux	_	_
+VB	sem=prp	5	advcl	_	_
+DT	_	13	det	_	_
+NN	_	13	com	_	_
+NN	_	10	obj	_	_
+.	_	5	p	_	_
+

@@ -1,0 +1,14 @@
+JJ	_	4	attr	_	_
+JJ	_	4	attr	_	_
+NN	_	4	com	_	_
+NNS	_	7	obj	_	_
+IN	_	6	case	_	_
+NN	_	4	ppmod	_	_
+VBN	_	0	root	_	_
+IN	_	12	case	_	_
+CD	_	10	num	_	_
+NN	_	12	attr	_	_
+VBN	_	12	attr	_	_
+NNS	sem=clr	7	ppmod	_	_
+.	_	7	p	_	_
+

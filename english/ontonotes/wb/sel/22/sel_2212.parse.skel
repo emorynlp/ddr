@@ -1,0 +1,9 @@
+PRP	_	3	nsbj	_	_
+VBZ	_	3	aux	_	_
+VB	_	0	root	_	_
+JJS	_	5	attr	_	_
+NNS	_	3	obj	_	_
+IN	_	7	case	_	_
+NNS	sem=loc	5	ppmod	_	_
+.	_	3	p	_	_
+

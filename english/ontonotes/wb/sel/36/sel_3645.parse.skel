@@ -1,0 +1,22 @@
+CC	_	12	cc	_	_
+DT	_	4	det	_	_
+NN	_	4	com	_	_
+NNS	_	12	nsbj	14:nsbj	_
+RB	_	6	com	_	_
+RB	sem=loc	4	adv	_	_
+-LRB-	_	6	p	_	_
+NNP	_	6	advnp	_	_
+-RRB-	_	6	p	_	_
+VBP	_	12	cop	_	_
+DT	_	12	det	_	_
+NNS	_	0	root	_	_
+CC	_	12	cc	_	_
+VBP	_	12	conj	_	_
+RP	_	14	prt	_	_
+NNS	_	14	obj	_	_
+IN	_	20	case	_	_
+DT	_	20	det	_	_
+NN	_	20	com	_	_
+NN	sem=loc	14	ppmod	_	_
+.	_	12	p	_	_
+

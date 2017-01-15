@@ -1,0 +1,22 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+IN	_	7	mark	_	_
+CD	_	5	num	_	_
+NN	_	7	nsbj	_	_
+MD	_	7	modal	_	_
+VB	_	2	comp	_	_
+IN	_	12	mark	_	_
+PRP	_	12	nsbj	_	_
+VBP	_	12	aux	_	_
+RB	_	12	neg	_	_
+VB	_	7	comp	_	_
+PRP$	_	14	poss	_	_
+NNS	_	12	obj	_	_
+IN	_	17	mark	_	_
+PRP	_	17	nsbj	_	_
+VBP	sem=tmp	12	advcl	_	_
+RP	_	17	prt	_	_
+RB	_	20	com	_	_
+RB	sem=loc	17	adv	_	_
+.	_	2	p	_	_
+

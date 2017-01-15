@@ -1,0 +1,26 @@
+WRB	sem=tmp	3	adv	_	_
+NNP	_	3	nsbj	_	_
+VBD	sem=tmp	14	advcl	_	_
+NNP	_	5	com	_	_
+NNP	_	8	poss	_	_
+POS	_	5	case	_	_
+-LRB-	_	8	p	_	_
+NNP	_	10	attr	_	_
+-RRB-	_	8	p	_	_
+NN	_	3	obj	_	_
+PRP$	_	12	poss	_	_
+NNS	_	14	obj	_	_
+VBD	_	14	aux	_	_
+VBN	_	0	root	_	_
+RP	_	14	prt	_	_
+IN	_	17	case	_	_
+PRP	_	14	dat	_	_
+IN	_	19	case	_	_
+NNP	_	14	nsbj	23:nsbj	_
+,	_	19	p	_	_
+WP	_	23	r-nsbj	_	_
+VBD	_	23	aux	_	_
+VBN	_	19	relcl	_	_
+PRP	_	23	obj	_	_
+.	_	14	p	_	_
+

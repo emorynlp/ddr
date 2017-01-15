@@ -1,0 +1,11 @@
+NN	_	0	root	_	_
+TO	_	3	aux	_	_
+VB	_	1	acl	_	_
+JJ	_	6	attr	_	_
+JJ	_	6	attr	_	_
+NNS	_	3	obj	_	_
+IN	_	9	case	_	_
+NN	_	9	com	_	_
+NNS	sem=clr	3	ppmod	_	_
+.	_	1	p	_	_
+

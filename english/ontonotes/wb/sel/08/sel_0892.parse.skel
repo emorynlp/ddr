@@ -1,0 +1,20 @@
+NN	_	2	com	_	_
+NN	_	0	root	_	_
+IN	_	4	case	_	_
+NNS	_	2	ppmod	_	_
+JJ	_	4	dep	_	_
+TO	_	7	aux	_	_
+VB	_	5	comp	_	_
+DT	_	9	det	_	_
+NN	_	7	obj	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+RB	_	15	adv	_	_
+RB	_	14	com	_	_
+RB	sem=tmp	15	adv	_	_
+IN	_	5	conj	_	_
+IN	_	18	case	_	_
+NN	_	18	com	_	_
+NN	_	15	ppmod	_	_
+.	_	2	p	_	_
+

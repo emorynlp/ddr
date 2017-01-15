@@ -1,0 +1,20 @@
+PRP	_	3	nsbj	_	_
+RB	sem=mnr	3	adv	_	_
+VBP	_	0	root	_	_
+PRP	_	8	nsbj	12:nsbj	_
+MD	_	8	modal	_	_
+RB	_	8	adv	_	_
+VB	_	8	aux	_	_
+VBN	_	3	comp	_	_
+DT	_	10	det	_	_
+NN	_	8	obj	_	_
+CC	_	8	cc	_	_
+VBD	_	8	conj	_	_
+PRP	_	12	obj	_	_
+RP	_	12	prt	_	_
+RB	sem=tmp	12	adv	_	_
+CC	_	3	cc	_	_
+RB	_	18	neg	_	_
+JJ	_	3	conj	_	_
+.	_	18	p	_	_
+

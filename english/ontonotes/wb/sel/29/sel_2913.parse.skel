@@ -1,0 +1,26 @@
+PRP	_	2	nsbj	_	_
+VBP	_	12	comp	_	_
+PRP$	_	4	poss	_	_
+NN	_	6	nsbj	_	_
+TO	_	6	aux	_	_
+VB	_	2	comp	_	_
+RB	sem=mnr	6	adv	_	_
+,	_	12	p	_	_
+PRP	_	12	nsbj	_	_
+VBP	_	12	aux	_	_
+RB	_	12	neg	_	_
+VB	_	0	root	_	_
+DT	_	14	det	_	_
+NN	_	12	obj	_	_
+TO	_	16	aux	_	_
+VB	_	14	acl	_	_
+DT	_	19	det	_	_
+JJ	_	19	attr	_	_
+NN	_	16	obj	_	_
+IN	_	21	case	_	_
+NN	_	19	ppmod	_	_
+IN	_	24	case	_	_
+IN	_	24	case	_	_
+PRP	sem=clr	16	ppmod	_	_
+.	_	12	p	_	_
+

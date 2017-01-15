@@ -1,0 +1,17 @@
+JJ	_	2	attr	_	_
+NNS	_	3	nsbj	_	_
+VBP	_	0	root	_	_
+RB	_	5	adv	_	_
+CD	_	8	num	_	_
+TO	_	5	cc	_	_
+CD	_	5	conj	_	_
+NN	_	3	obj	_	_
+IN	_	12	case	_	_
+PRP$	_	12	poss	_	_
+NN	_	12	com	_	_
+NN	_	8	ppmod	_	_
+IN	_	15	case	_	_
+NN	_	15	com	_	_
+NN	sem=clr	3	ppmod	_	_
+.	_	3	p	_	_
+

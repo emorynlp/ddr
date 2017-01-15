@@ -1,0 +1,24 @@
+RB	_	2	com	_	_
+RB	_	13	adv	_	_
+IN	_	8	mark	_	_
+NN	_	5	com	_	_
+NN	_	8	nsbj	_	_
+CC	_	5	cc	_	_
+NN	_	5	conj	_	_
+VBZ	_	2	comp	_	_
+,	_	13	p	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NNS	_	13	nsbj	_	_
+VBP	_	0	root	_	_
+IN	_	16	case	_	_
+NN	_	16	com	_	_
+NNS	sem=clr	13	ppmod	_	_
+IN	_	22	mark	_	_
+PRP	_	22	nsbj	_	_
+VBP	_	22	aux	_	_
+IN	_	22	case	_	_
+VBN	_	22	attr	_	_
+NNS	sem=clr	13	advcl	_	_
+.	_	13	p	_	_
+

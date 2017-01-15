@@ -1,0 +1,22 @@
+PRP	_	5	expl	_	_
+VBD	_	5	aux	_	_
+VBG	_	5	cop	_	_
+RB	_	5	adv	_	_
+JJ	_	0	root	_	_
+IN	_	11	mark	_	_
+DT	_	9	det	_	_
+VBG	_	9	attr	_	_
+NNS	_	11	nsbj	_	_
+TO	_	11	aux	_	_
+VB	_	5	csbj	_	_
+NN	_	13	com	_	_
+NNS	_	11	obj	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+PRP	_	20	nsbj	_	_
+VBD	_	20	cop	_	_
+RB	_	20	com	_	_
+RB	_	20	com	_	_
+RB	_	5	conj	_	_
+.	_	20	p	_	_
+

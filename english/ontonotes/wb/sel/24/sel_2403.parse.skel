@@ -1,0 +1,21 @@
+NNP	_	11	nsbj	_	_
+-LRB-	_	1	p	_	_
+NN	_	1	appo	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+NN	_	3	ppmod	_	_
+IN	_	9	case	_	_
+CD	sem=tmp	7	ppmod	_	_
+-RRB-	_	1	p	_	_
+VBD	_	0	root	_	_
+DT	_	13	det	_	_
+JJ	_	15	num	_	_
+HYPH	_	15	p	_	_
+NN	_	16	advnp	_	_
+RB	sem=loc	11	adv	_	_
+IN	_	19	case	_	_
+NNP	_	19	com	_	_
+NNP	_	16	ppmod	_	_
+.	_	11	p	_	_
+

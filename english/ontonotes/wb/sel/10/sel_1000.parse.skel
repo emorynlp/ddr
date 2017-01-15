@@ -1,0 +1,14 @@
+DT	_	2	det	_	_
+NNS	_	3	nsbj	_	_
+VBP	_	0	root	_	_
+JJ	_	5	attr	_	_
+NNS	_	3	obj	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NNS	_	5	ppmod	9:obj	_
+VBN	_	8	acl	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+NN	sem=loc	9	ppmod	_	_
+.	_	3	p	_	_
+

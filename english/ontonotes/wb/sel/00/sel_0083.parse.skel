@@ -1,0 +1,21 @@
+IN	_	3	case	_	_
+DT	_	3	det	_	_
+NN	sem=tmp	5	ppmod	13:ppmod	_
+PRP	_	5	nsbj	13:nsbj	_
+VBP	_	0	root	_	_
+DT	_	7	det	_	_
+NNS	_	5	obj	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NNS	sem=loc	5	ppmod	_	_
+CC	_	5	cc	_	_
+RB	_	13	adv	_	_
+VBP	_	5	conj	_	_
+JJ	_	15	attr	_	_
+NN	_	13	obj	_	_
+IN	_	17	case	_	_
+CD	sem=loc	13	ppmod	_	_
+IN	_	19	case	_	_
+PRP	_	17	ppmod	_	_
+.	_	5	p	_	_
+

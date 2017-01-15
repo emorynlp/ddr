@@ -1,0 +1,31 @@
+DT	_	6	nsbj	5:obj	_
+PRP	_	5	nsbj	7:nsbj;20:nsbj	_
+VBP	_	5	raise	_	_
+TO	_	5	aux	_	_
+VB	_	1	relcl	_	_
+VBZ	_	0	root	_	_
+VB	_	6	comp	_	_
+RP	_	7	prt	_	_
+IN	_	12	case	_	_
+CD	_	12	num	_	_
+JJ	_	12	attr	_	_
+NN	sem=clr	7	ppmod	_	_
+-LRB-	_	16	p	_	_
+JJ	_	16	adv	_	_
+IN	_	16	case	_	_
+NN	_	12	ppmod	_	_
+-RRB-	_	16	p	_	_
+CC	_	7	cc	_	_
+RB	sem=tmp	20	adv	_	_
+VB	_	7	conj	_	_
+IN	_	25	case	_	_
+DT	_	25	det	_	_
+NN	_	25	com	_	_
+NN	_	25	com	_	_
+NN	sem=tmp	20	ppmod	_	_
+.	_	6	p	_	_
+
+RB	_	2	adv	_	_
+JJ	_	0	root	_	_
+.	_	2	p	_	_
+

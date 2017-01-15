@@ -1,0 +1,14 @@
+IN	_	5	mark	_	_
+PRP	_	5	nsbj	_	_
+VBP	_	5	raise	_	_
+TO	_	5	aux	_	_
+VB	_	8	advcl	_	_
+NNS	_	5	obj	_	_
+,	_	8	p	_	_
+VB	_	0	root	_	_
+WDT	_	10	det	_	_
+NNS	_	12	obj	_	_
+PRP	_	12	nsbj	_	_
+VBP	_	8	comp	_	_
+.	_	8	p	_	_
+

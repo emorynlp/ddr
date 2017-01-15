@@ -1,0 +1,15 @@
+RB	sem=tmp	8	adv	_	_
+,	_	8	p	_	_
+IN	_	5	case	_	_
+PRP$	_	5	poss	_	_
+NN	sem=loc	8	ppmod	_	_
+PRP	_	8	nsbj	_	_
+MD	_	8	modal	_	_
+VB	_	0	root	_	_
+NN	_	8	obj	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+NNP	_	13	com	_	_
+NN	_	8	dat	_	_
+.	_	8	p	_	_
+

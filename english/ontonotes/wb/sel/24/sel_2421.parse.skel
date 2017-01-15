@@ -1,0 +1,21 @@
+PRP	_	6	nsbj	_	_
+VBD	_	6	cop	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+RB	_	4	adv	_	_
+NN	_	0	root	_	_
+TO	_	8	aux	_	_
+VB	_	6	acl	_	_
+RP	_	8	prt	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+NN	sem=loc	8	ppmod	_	_
+,	_	6	p	_	_
+CC	_	6	cc	_	_
+NN	_	16	com	_	_
+NNS	_	17	nsbj	_	_
+VBD	_	6	conj	_	_
+PRP	_	17	obj	_	_
+VBN	sem=clr	17	comp	_	_
+.	_	17	p	_	_
+

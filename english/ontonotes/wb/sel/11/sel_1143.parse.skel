@@ -1,0 +1,14 @@
+VBZ	_	3	aux	_	_
+NN	_	3	nsbj	_	_
+VB	_	0	root	_	_
+DT	_	7	det	_	_
+CD	_	6	num	_	_
+NN	_	7	com	_	_
+NN	_	3	obj	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+CD	_	11	num	_	_
+NN	_	12	com	_	_
+NN	_	7	ppmod	_	_
+.	_	3	p	_	_
+

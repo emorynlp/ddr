@@ -1,0 +1,20 @@
+PRP	_	2	nsbj	_	_
+VBP	_	8	comp	_	_
+DT	_	6	det	_	_
+RB	_	5	adv	_	_
+JJR	_	6	attr	_	_
+NN	_	2	obj	_	_
+:	_	8	p	_	_
+VB	_	0	root	_	_
+CD	_	10	num	_	_
+NNS	_	8	obj	_	_
+CC	_	8	cc	_	_
+``	_	13	p	_	_
+VB	_	8	conj	_	_
+''	_	13	p	_	_
+TO	_	16	aux	_	_
+VB	_	13	comp	_	_
+DT	_	18	det	_	_
+NNS	_	16	obj	_	_
+.	_	8	p	_	_
+

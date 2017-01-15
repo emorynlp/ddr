@@ -1,0 +1,11 @@
+RB	sem=loc	3	adv	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	0	root	_	_
+RB	_	5	adv	_	_
+DT	_	6	num	_	_
+NNS	_	3	obj	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NNS	_	6	ppmod	_	_
+.	_	3	p	_	_
+

@@ -1,0 +1,13 @@
+VB	_	0	root	_	_
+DT	_	5	det	_	_
+CD	_	4	num	_	_
+NN	_	5	com	_	_
+NN	_	1	obj	_	_
+IN	_	8	case	_	_
+NN	_	8	com	_	_
+NN	_	5	ppmod	_	_
+IN	_	10	case	_	_
+NN	sem=clr	1	ppmod	_	_
+RB	sem=mnr	1	adv	_	_
+.	_	1	p	_	_
+

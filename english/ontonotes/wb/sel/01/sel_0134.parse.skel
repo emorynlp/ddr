@@ -1,0 +1,18 @@
+PRP	_	3	nsbj	_	_
+RB	sem=tmp	3	neg	_	_
+VBP	_	16	comp	_	_
+,	_	16	p	_	_
+DT	_	6	det	_	_
+NN	_	16	nsbj	8:obj	_
+PRP	_	8	nsbj	_	_
+VBD	_	6	relcl	_	_
+RP	_	8	prt	_	_
+RB	sem=mnr	8	adv	_	_
+MD	_	16	modal	_	_
+VB	_	16	cop	_	_
+DT	_	16	det	_	_
+JJ	_	16	attr	_	_
+JJ	_	16	attr	_	_
+NN	_	0	root	_	_
+.	_	16	p	_	_
+

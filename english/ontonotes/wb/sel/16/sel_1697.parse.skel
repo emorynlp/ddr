@@ -1,0 +1,20 @@
+DT	_	3	det	_	_
+JJR	_	3	attr	_	_
+NNS	_	5	nsbj	_	_
+RB	_	5	adv	_	_
+VBP	_	0	root	_	_
+DT	_	8	det	_	_
+NN	_	8	com	_	_
+NN	_	5	obj	15:obj	_
+WDT	_	11	obj	_	_
+VBD	_	11	aux	_	_
+VBN	_	8	relcl	_	_
+IN	_	13	case	_	_
+NNP	_	11	nsbj	_	_
+CC	_	11	cc	_	_
+VBN	_	11	conj	_	_
+IN	_	18	case	_	_
+DT	_	18	det	_	_
+NN	_	15	nsbj	_	_
+.	_	5	p	_	_
+

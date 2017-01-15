@@ -1,0 +1,14 @@
+PRP	_	3	nsbj	_	_
+VBZ	_	3	cop	_	_
+IN	_	0	root	_	_
+DT	_	5	det	_	_
+NN	_	3	obj	7:nsbj;11:nsbj	_
+WDT	_	7	r-nsbj	_	_
+VBZ	_	5	relcl	_	_
+DT	_	9	det	_	_
+NN	_	7	obj	_	_
+CC	_	7	cc	_	_
+VBZ	_	7	conj	_	_
+PRP	_	11	obj	_	_
+.	_	3	p	_	_
+

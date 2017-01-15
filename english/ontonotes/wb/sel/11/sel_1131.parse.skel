@@ -1,0 +1,22 @@
+VB	_	8	advcl	_	_
+PRP$	_	3	poss	_	_
+NN	_	4	nsbj	_	_
+VB	_	1	comp	_	_
+:	_	8	p	_	_
+JJS	_	7	attr	_	_
+NNS	_	8	nsbj	_	_
+VBP	_	0	root	_	_
+IN	_	10	case	_	_
+NN	sem=clr	8	ppmod	_	_
+CC	_	8	cc	_	_
+NNS	_	16	nsbj	_	_
+IN	_	15	case	_	_
+NN	_	15	com	_	_
+NN	_	12	ppmod	_	_
+VBP	_	8	conj	_	_
+NN	_	18	nsbj	_	_
+VB	_	16	comp	_	_
+IN	_	20	case	_	_
+PRP	sem=clr	18	ppmod	_	_
+.	_	8	p	_	_
+

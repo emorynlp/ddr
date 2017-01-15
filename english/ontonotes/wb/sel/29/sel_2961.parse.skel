@@ -1,0 +1,11 @@
+VB	_	0	root	_	_
+DT	_	3	det	_	_
+NNS	_	1	obj	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NN	_	3	ppmod	_	_
+RB	sem=dir	1	adv	_	_
+TO	_	9	aux	_	_
+VB	sem=prp	1	advcl	_	_
+.	_	1	p	_	_
+

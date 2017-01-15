@@ -1,0 +1,15 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+VBG	_	11	csbj	_	_
+NN	_	5	com	_	_
+NN	_	3	obj	_	_
+IN	_	8	case	_	_
+NN	_	8	com	_	_
+NN	sem=clr	3	ppmod	_	_
+MD	_	11	modal	_	_
+VB	_	11	cop	_	_
+JJ	_	2	comp	_	_
+VBG	_	11	comp	_	_
+RB	_	11	adv	_	_
+.	_	2	p	_	_
+

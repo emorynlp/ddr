@@ -1,0 +1,30 @@
+UH	_	0	root	_	_
+
+VBZ	_	2	cop	_	_
+JJ	_	0	root	_	_
+.	_	2	p	_	_
+
+VB	_	0	root	_	_
+TO	_	3	aux	_	_
+VB	_	1	comp	_	_
+IN	_	5	case	_	_
+NN	_	3	ppmod	_	_
+IN	_	7	case	_	_
+PRP	_	3	ppmod	_	_
+IN	_	10	mark	_	_
+PRP	_	10	nsbj	_	_
+VBP	sem=tmp	3	advcl	_	_
+PRP$	_	14	poss	_	_
+``	_	14	p	_	_
+NNP	_	14	com	_	_
+NN	_	10	obj	_	_
+''	_	14	p	_	_
+.	_	1	p	_	_
+
+RB	_	2	adv	_	_
+VBG	_	0	root	_	_
+TO	_	5	aux	_	_
+RB	_	5	adv	_	_
+VB	_	2	comp	_	_
+PRP	_	5	obj	_	_
+

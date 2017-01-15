@@ -1,0 +1,12 @@
+JJ	_	0	root	_	_
+IN	_	4	case	_	_
+NN	_	4	com	_	_
+NN	_	1	ppmod	_	_
+CC	_	1	cc	_	_
+JJ	_	1	conj	_	_
+IN	_	9	mark	_	_
+PRP	_	9	nsbj	_	_
+VBD	_	6	comp	_	_
+NN	_	9	obj	_	_
+.	_	6	p	_	_
+

@@ -1,0 +1,25 @@
+PRP	_	6	nsbj	_	_
+MD	_	6	modal	_	_
+RB	sem=mnr	6	adv	_	_
+CC	_	3	cc	_	_
+RB	_	3	conj	_	_
+VB	_	0	root	_	_
+JJ	_	9	attr	_	_
+NN	_	9	com	_	_
+NNS	_	6	obj	_	_
+IN	_	11	case	_	_
+VBG	sem=mnr	6	ppmod	_	_
+NNS	_	11	obj	_	_
+IN	_	15	case	_	_
+JJ	_	15	attr	_	_
+NNS	sem=clr	11	ppmod	_	_
+IN	_	18	case	_	_
+PRP$	_	18	poss	_	_
+NN	sem=loc	15	ppmod	_	_
+CC	_	15	cc	_	_
+PRP$	_	23	poss	_	_
+VBG	_	23	attr	_	_
+NN	_	23	com	_	_
+NNS	_	15	conj	_	_
+.	_	6	p	_	_
+

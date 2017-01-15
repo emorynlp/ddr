@@ -1,0 +1,15 @@
+WRB	sem=tmp	5	adv	_	_
+PRP$	_	3	poss	_	_
+NNS	_	5	nsbj	_	_
+VBP	_	5	cop	_	_
+NNS	sem=tmp	10	advcl	_	_
+,	_	10	p	_	_
+WRB	sem=prp	10	adv	_	_
+MD	_	10	modal	_	_
+PRP	_	10	nsbj	_	_
+VB	_	0	root	_	_
+PRP	_	10	obj	_	_
+IN	_	13	case	_	_
+NNS	sem=clr	10	ppmod	_	_
+.	_	10	p	_	_
+

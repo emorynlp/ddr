@@ -1,0 +1,10 @@
+NN	_	2	com	_	_
+NNS	_	3	nsbj	_	_
+VBP	_	0	root	_	_
+RB	_	5	adv	_	_
+CD	sem=ext	3	advnp	_	_
+NN	_	5	meta	_	_
+IN	_	8	case	_	_
+NNP	sem=loc	3	ppmod	_	_
+.	_	3	p	_	_
+

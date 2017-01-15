@@ -1,0 +1,17 @@
+RB	sem=tmp	3	adv	5:adv	_
+PRP	_	3	nsbj	5:nsbj	_
+VBP	_	15	comp	_	_
+CC	_	3	cc	_	_
+VBP	_	3	conj	_	_
+,	_	15	p	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NN	sem=tmp	15	ppmod	_	_
+CC	_	11	cc	_	_
+CD	_	9	num	_	_
+PRP	_	15	nsbj	_	_
+MD	_	15	modal	_	_
+RB	sem=tmp	15	adv	_	_
+VB	_	0	root	_	_
+.	_	15	p	_	_
+

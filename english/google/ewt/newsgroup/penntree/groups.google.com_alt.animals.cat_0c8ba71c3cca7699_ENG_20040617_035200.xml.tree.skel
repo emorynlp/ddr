@@ -1,0 +1,33 @@
+NN	_	3	dep	_	_
+:	_	3	p	_	_
+ADD	_	0	root	_	_
+
+NNS	_	19	dep	_	_
+:	_	19	p	_	_
+NN	_	19	attr	_	_
+,	_	19	p	_	_
+NN	_	19	attr	_	_
+,	_	19	p	_	_
+NN	_	19	attr	_	_
+,	_	19	p	_	_
+NN	_	19	attr	_	_
+,	_	19	p	_	_
+NN	_	19	attr	_	_
+,	_	19	p	_	_
+NN	_	19	attr	_	_
+,	_	19	p	_	_
+NN	_	19	attr	_	_
+,	_	19	p	_	_
+NN	_	19	attr	_	_
+,	_	19	p	_	_
+NN	_	0	root	_	_
+
+DT	_	2	det	_	_
+NN	_	4	obj	_	_
+VBD	_	4	aux	_	_
+VBN	_	0	root	_	_
+IN	_	7	case	_	_
+IN	_	7	case	_	_
+NNP	_	4	ppmod	_	_
+.	_	4	p	_	_
+

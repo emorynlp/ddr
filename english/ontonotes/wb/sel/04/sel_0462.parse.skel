@@ -1,0 +1,14 @@
+DT	_	3	det	_	_
+JJ	_	3	attr	_	_
+NNS	_	6	nsbj	9:nsbj	_
+IN	_	5	case	_	_
+NN	_	3	ppmod	_	_
+VBP	_	0	root	_	_
+NN	_	6	obj	_	_
+TO	_	9	aux	_	_
+VB	sem=prp	6	advcl	_	_
+PRP$	_	12	poss	_	_
+JJ	_	12	attr	_	_
+NNS	_	9	obj	_	_
+.	_	6	p	_	_
+

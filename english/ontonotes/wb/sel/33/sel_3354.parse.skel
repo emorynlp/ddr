@@ -1,0 +1,19 @@
+DT	_	3	nsbj	_	_
+VBD	_	3	cop	_	_
+JJ	_	0	root	_	_
+WRB	sem=tmp	7	adv	_	_
+PRP	_	7	nsbj	_	_
+RB	_	7	adv	_	_
+VBD	sem=tmp	3	advcl	_	_
+NNP	_	9	com	_	_
+NNP	_	7	obj	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+NNPS	_	13	com	_	_
+NN	sem=loc	7	ppmod	_	_
+DT	_	16	det	_	_
+JJ	_	16	attr	_	_
+NNS	_	17	advnp	_	_
+RB	sem=tmp	7	adv	_	_
+.	_	3	p	_	_
+

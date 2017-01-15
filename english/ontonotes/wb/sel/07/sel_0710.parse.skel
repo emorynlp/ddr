@@ -1,0 +1,20 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+PRP$	_	4	poss	_	_
+NNS	_	2	obj	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+JJ	_	9	attr	_	_
+NN	_	9	com	_	_
+NN	_	4	ppmod	_	_
+VBG	_	13	adv	_	_
+DT	_	13	det	_	_
+CD	_	13	num	_	_
+NNS	_	4	ppmod	_	_
+IN	_	16	case	_	_
+VBN	_	16	attr	_	_
+NN	_	13	ppmod	18:obj	_
+PRP	_	18	nsbj	_	_
+VBP	_	16	relcl	_	_
+.	_	2	p	_	_
+

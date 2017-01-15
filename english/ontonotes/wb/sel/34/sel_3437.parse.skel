@@ -1,0 +1,13 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	2	obj	_	_
+IN	_	6	case	_	_
+NN	_	4	ppmod	9:obj;11:obj	_
+PRP	_	9	nsbj	11:nsbj	_
+RB	sem=tmp	9	adv	11:adv	_
+VBP	_	6	relcl	_	_
+CC	_	9	cc	_	_
+VBP	_	9	conj	_	_
+.	_	2	p	_	_
+

@@ -1,0 +1,17 @@
+DT	_	2	det	_	_
+NNPS	_	3	nsbj	6:nsbj;13:nsbj	_
+VBD	_	0	root	_	_
+RP	_	3	prt	_	_
+TO	_	6	aux	_	_
+VB	_	3	comp	_	_
+IN	_	11	case	_	_
+CD	_	11	num	_	_
+SYM	_	8	cc	_	_
+CD	_	8	conj	_	_
+NNS	sem=clr	6	ppmod	_	_
+CC	_	6	cc	_	_
+VB	_	6	conj	_	_
+DT	_	15	det	_	_
+NNS	_	13	obj	_	_
+.	_	3	p	_	_
+

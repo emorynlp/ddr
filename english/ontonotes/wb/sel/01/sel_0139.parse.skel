@@ -1,0 +1,18 @@
+PRP$	_	3	poss	_	_
+CD	_	3	num	_	_
+NNS	_	16	nsbj	5:nsbj	_
+,	_	16	p	_	_
+VBG	_	16	advcl	_	_
+IN	_	9	mark	_	_
+PRP	_	9	nsbj	14:nsbj	_
+VBD	_	9	aux	_	_
+VBN	_	5	comp	_	_
+PRP$	_	11	poss	_	_
+NN	_	9	obj	_	_
+CC	_	9	cc	_	_
+VBN	_	14	cop	_	_
+JJ	_	9	conj	_	_
+,	_	16	p	_	_
+VBD	_	0	root	_	_
+.	_	16	p	_	_
+

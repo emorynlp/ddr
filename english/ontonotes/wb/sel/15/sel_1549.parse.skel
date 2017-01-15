@@ -1,0 +1,17 @@
+IN	_	3	mark	_	_
+DT	_	3	nsbj	_	_
+VBZ	_	13	advcl	_	_
+VBG	_	3	comp	_	_
+TO	_	6	aux	_	_
+VB	sem=prp	4	advcl	_	_
+DT	_	9	det	_	_
+NN	_	9	com	_	_
+NN	_	6	obj	_	_
+IN	_	11	case	_	_
+NNS	_	9	ppmod	_	_
+RB	_	13	com	_	_
+RB	_	0	root	_	_
+VB	_	13	cop	_	_
+PRP	_	13	nsbj	_	_
+.	_	13	p	_	_
+

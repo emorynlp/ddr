@@ -1,0 +1,15 @@
+MD	_	4	modal	_	_
+DT	_	3	det	_	_
+NN	_	4	nsbj	_	_
+VB	_	0	root	_	_
+PRP	_	4	dat	_	_
+DT	_	7	det	_	_
+NNP	_	4	obj	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+NNPS	_	12	com	_	_
+NNP	_	12	com	_	_
+NNP	_	13	com	_	_
+NNP	_	7	ppmod	_	_
+.	_	4	p	_	_
+

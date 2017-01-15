@@ -1,0 +1,21 @@
+VBZ	_	5	cop	_	_
+PRP	_	5	nsbj	_	_
+RB	_	5	adv	_	_
+NNP	_	5	com	_	_
+NNPS	_	0	root	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+VBZ	_	13	cop	_	_
+EX	_	13	expl	_	_
+RB	sem=tmp	13	adv	_	_
+DT	_	13	det	_	_
+NN	_	13	com	_	_
+NN	_	5	conj	16:nsbj	_
+WDT	_	16	r-nsbj	_	_
+RB	sem=mnr	16	adv	_	_
+VBZ	_	13	relcl	_	_
+NN	_	19	com	_	_
+NN	_	19	com	_	_
+NNS	_	16	obj	_	_
+.	_	13	p	_	_
+

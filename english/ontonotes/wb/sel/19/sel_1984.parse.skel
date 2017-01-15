@@ -1,0 +1,24 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+NN	_	2	obj	_	_
+IN	_	18	mark	_	_
+NNPS	_	18	nsbj	11:obj	_
+IN	_	10	case	_	_
+JJ	_	10	attr	_	_
+NN	_	7	ppmod	_	_
+VBN	_	7	acl	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+NNP	_	15	com	_	_
+NNP	sem=loc	11	ppmod	_	_
+VBP	_	18	cop	_	_
+RB	_	18	neg	_	_
+JJ	_	5	acl	_	_
+IN	_	22	case	_	_
+DT	_	22	det	_	_
+NNP	_	22	com	_	_
+NNP	sem=loc	18	ppmod	_	_
+.	_	2	p	_	_
+

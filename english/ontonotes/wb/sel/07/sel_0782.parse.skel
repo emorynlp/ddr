@@ -1,0 +1,20 @@
+NNP	_	7	nsbj	_	_
+VBZ	_	7	lv	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+,	_	7	p	_	_
+JJ	_	7	attr	_	_
+NN	_	0	root	_	_
+IN	_	9	case	_	_
+NNS	_	7	ppmod	_	_
+,	_	7	p	_	_
+IN	_	13	mark	_	_
+PRP	_	13	nsbj	_	_
+VBP	_	7	advcl	_	_
+JJ	_	15	attr	_	_
+NN	_	13	obj	_	_
+RB	sem=tmp	13	adv	_	_
+RB	_	18	com	_	_
+RB	sem=mnr	13	adv	_	_
+.	_	7	p	_	_
+

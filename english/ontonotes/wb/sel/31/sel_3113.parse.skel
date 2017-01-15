@@ -1,0 +1,14 @@
+PRP	_	5	nsbj	_	_
+RB	_	5	adv	_	_
+VBP	_	5	aux	_	_
+RB	_	5	neg	_	_
+VB	_	0	root	_	_
+WP	sem=clr	8	ppmod	_	_
+PRP	_	8	nsbj	_	_
+VBZ	_	5	comp	_	_
+PRP$	_	10	poss	_	_
+NN	_	8	obj	_	_
+RP	_	8	prt	_	_
+IN	_	6	case	_	_
+.	_	5	p	_	_
+

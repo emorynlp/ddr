@@ -1,0 +1,17 @@
+NN	_	4	nsbj	_	_
+VBZ	_	4	cop	_	_
+DT	_	4	det	_	_
+NN	_	10	comp	_	_
+IN	_	8	case	_	_
+NNP	_	8	poss	_	_
+POS	_	6	case	_	_
+NN	_	4	ppmod	_	_
+NFP	_	10	p	_	_
+VB	_	0	root	_	_
+DT	_	12	det	_	_
+NNS	_	10	obj	_	_
+RB	sem=loc	12	adv	_	_
+CC	_	10	cc	_	_
+VB	_	10	conj	_	_
+.	_	10	p	_	_
+

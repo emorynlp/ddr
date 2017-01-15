@@ -1,0 +1,16 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+JJ	_	4	attr	_	_
+NN	_	5	nsbj	_	_
+VBZ	_	2	comp	_	_
+RP	_	5	prt	_	_
+WRB	sem=tmp	9	adv	_	_
+PRP	_	9	nsbj	_	_
+VBZ	sem=tmp	5	advcl	_	_
+IN	_	14	case	_	_
+``	_	14	p	_	_
+NN	_	14	attr	_	_
+''	_	14	p	_	_
+NNS	sem=clr	9	ppmod	_	_
+.	_	2	p	_	_
+

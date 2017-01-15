@@ -1,0 +1,23 @@
+NNP	_	2	com	_	_
+NNP	_	4	com	_	_
+NN	_	4	com	_	_
+NN	_	5	nsbj	_	_
+VBD	_	0	root	_	_
+RB	_	5	adv	_	_
+DT	_	8	det	_	_
+NN	sem=ext	5	advnp	_	_
+DT	_	11	det	_	_
+JJ	_	11	attr	_	_
+NN	sem=tmp	5	advnp	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+PRP	_	16	nsbj	18:nsbj	_
+RB	sem=tmp	16	adv	_	_
+VBD	_	5	conj	_	_
+TO	_	18	aux	_	_
+VB	_	16	comp	_	_
+RP	_	18	prt	_	_
+CD	_	21	com	_	_
+CD	_	18	obj	_	_
+.	_	16	p	_	_
+

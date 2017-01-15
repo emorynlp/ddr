@@ -1,0 +1,20 @@
+NNP	_	2	com	_	_
+NNP	_	7	nsbj	_	_
+IN	_	4	case	_	_
+NNP	sem=loc	2	ppmod	_	_
+MD	_	7	modal	_	_
+RB	sem=tmp	7	adv	_	_
+VB	_	0	root	_	_
+DT	_	10	det	_	_
+JJ	_	10	attr	_	_
+NN	_	7	obj	_	_
+IN	_	13	case	_	_
+CD	_	13	num	_	_
+NNS	_	7	dat	_	_
+,	_	7	p	_	_
+RB	sem=tmp	7	adv	_	_
+VB	_	7	dep	_	_
+DT	_	18	det	_	_
+NN	_	16	obj	_	_
+.	_	7	p	_	_
+

@@ -1,0 +1,19 @@
+IN	_	5	case	_	_
+WP	_	5	det	_	_
+IN	_	5	mark	_	_
+PRP	_	5	nsbj	10:nsbj	_
+VBD	_	15	ppmod	_	_
+CD	_	8	num	_	_
+JJR	_	6	attr	_	_
+NN	_	5	obj	10:obj	_
+TO	_	10	aux	_	_
+VB	_	8	relcl	_	_
+IN	_	13	case	_	_
+NNP	_	13	com	_	_
+NNP	sem=clr	10	ppmod	_	_
+,	_	15	p	_	_
+NN	_	0	root	_	_
+IN	_	17	case	_	_
+DT	_	15	ppmod	_	_
+.	_	15	p	_	_
+

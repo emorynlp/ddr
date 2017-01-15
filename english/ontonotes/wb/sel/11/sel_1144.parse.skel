@@ -1,0 +1,21 @@
+DT	_	5	det	_	_
+``	_	5	p	_	_
+NNP	_	5	attr	_	_
+''	_	5	p	_	_
+NN	_	11	nsbj	_	_
+CC	_	5	cc	_	_
+``	_	10	p	_	_
+NNP	_	10	attr	_	_
+''	_	10	p	_	_
+NN	_	5	conj	_	_
+VBP	_	0	root	_	_
+IN	_	15	mark	_	_
+PRP	_	15	nsbj	_	_
+MD	_	15	modal	_	_
+VB	_	11	comp	_	_
+JJ	_	17	attr	_	_
+NN	_	15	obj	_	_
+IN	_	19	case	_	_
+NN	_	17	ppmod	_	_
+.	_	11	p	_	_
+

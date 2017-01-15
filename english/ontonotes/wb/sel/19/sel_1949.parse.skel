@@ -1,0 +1,14 @@
+CC	_	3	cc	_	_
+PRP	_	3	expl	_	_
+VBD	_	0	root	_	_
+PRP	_	3	dat	_	_
+DT	_	6	det	_	_
+NN	_	3	obj	_	_
+TO	_	9	aux	_	_
+VB	_	9	raise	_	_
+VBG	_	3	csbj	_	_
+``	_	9	p	_	_
+NN	_	9	obj	_	_
+.	_	3	p	_	_
+''	_	3	p	_	_
+

@@ -1,0 +1,28 @@
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+
+EX	_	5	expl	_	_
+VBZ	_	5	cop	_	_
+DT	_	5	det	_	_
+JJR	_	5	attr	_	_
+NN	_	0	root	_	_
+IN	_	9	case	_	_
+NNP	_	9	poss	_	_
+POS	_	7	case	_	_
+NNP	_	5	ppmod	_	_
+,	_	9	p	_	_
+NNS	_	9	appo	_	_
+CC	_	11	cc	_	_
+NNS	_	11	conj	_	_
+.	_	5	p	_	_
+
+DT	_	3	det	_	_
+JJ	_	3	attr	_	_
+NN	_	6	nsbj	_	_
+VBZ	_	6	cop	_	_
+RB	_	6	neg	_	_
+JJ	_	0	root	_	_
+.	_	6	p	_	_
+
+NNP	_	0	root	_	_
+

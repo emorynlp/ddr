@@ -1,0 +1,16 @@
+UH	_	4	disc	_	_
+DT	_	4	nsbj	_	_
+VBZ	_	4	cop	_	_
+NN	_	7	comp	_	_
+,	_	7	p	_	_
+RB	_	7	adv	_	_
+VB	_	0	root	_	_
+JJ	_	7	dep	_	_
+PRP	_	10	nsbj	_	_
+VBP	_	8	comp	_	_
+DT	_	12	det	_	_
+NNS	_	10	obj	_	_
+IN	_	14	case	_	_
+PRP	sem=clr	10	ppmod	_	_
+.	_	7	p	_	_
+

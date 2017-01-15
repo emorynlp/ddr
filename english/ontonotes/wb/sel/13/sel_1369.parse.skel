@@ -1,0 +1,18 @@
+PRP	_	5	nsbj	_	_
+MD	_	5	modal	_	_
+VB	_	5	raise	_	_
+TO	_	5	aux	_	_
+VB	_	0	root	_	_
+IN	_	8	case	_	_
+NNP	_	8	com	_	_
+NNS	sem=tmp	5	ppmod	_	_
+CC	_	5	cc	_	_
+MD	_	11	modal	_	_
+VB	_	5	conj	_	_
+DT	_	14	det	_	_
+NN	_	14	com	_	_
+NN	_	11	obj	_	_
+IN	_	16	case	_	_
+NNP	sem=tmp	11	ppmod	_	_
+.	_	5	p	_	_
+

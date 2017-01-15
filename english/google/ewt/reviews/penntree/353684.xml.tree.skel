@@ -1,0 +1,31 @@
+PRP$	_	3	poss	_	_
+JJ	_	3	attr	_	_
+NN	_	0	root	5:adv	_
+TO	_	5	aux	_	_
+VB	_	3	relcl	_	_
+.	_	3	p	_	_
+
+DT	_	2	det	_	_
+NN	_	5	nsbj	_	_
+VBZ	_	5	cop	_	_
+DT	_	5	det	_	_
+JJS	_	0	root	_	_
+,	_	5	p	_	_
+JJ	_	8	attr	_	_
+NN	_	5	obj	_	_
+,	_	8	p	_	_
+NNS	_	8	appo	_	_
+,	_	8	p	_	_
+JJ	_	15	attr	_	_
+CC	_	12	cc	_	_
+JJ	_	12	conj	_	_
+NN	_	8	appo	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+DT	_	19	det	_	_
+NN	_	21	nsbj	_	_
+VBZ	_	21	cop	_	_
+JJ	_	5	conj	_	_
+RB	_	21	adv	_	_
+.	_	21	p	_	_
+

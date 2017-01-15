@@ -1,0 +1,15 @@
+PRP	_	3	nsbj	7:nsbj;9:nsbj	_
+VBP	_	3	cop	_	_
+JJ	_	0	root	_	_
+IN	_	7	case	_	_
+VBG	_	7	lv	_	_
+RP	_	7	prt	_	_
+NNS	_	3	ppmod	_	_
+TO	_	9	aux	_	_
+VB	sem=prp	7	advcl	_	_
+PRP$	_	11	poss	_	_
+NNS	_	9	obj	_	_
+NFP	_	3	p	_	_
+.	_	3	p	_	_
+.	_	3	p	_	_
+

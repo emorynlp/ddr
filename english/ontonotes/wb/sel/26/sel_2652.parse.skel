@@ -1,0 +1,23 @@
+DT	_	4	det	_	_
+NN	_	4	com	_	_
+HYPH	_	4	p	_	_
+NNS	_	6	nsbj	_	_
+MD	_	6	modal	_	_
+VB	_	11	comp	_	_
+RP	_	6	prt	_	_
+DT	_	9	det	_	_
+NN	_	6	obj	_	_
+:	_	11	p	_	_
+VB	_	0	root	_	_
+DT	_	14	det	_	_
+NN	_	14	com	_	_
+NN	_	11	obj	_	_
+CD	_	18	num	_	_
+SYM	_	15	cc	_	_
+CD	_	15	conj	_	_
+NNS	sem=tmp	11	advnp	_	_
+TO	_	20	aux	_	_
+VB	sem=prp	11	advcl	_	_
+PRP	_	20	obj	_	_
+.	_	11	p	_	_
+

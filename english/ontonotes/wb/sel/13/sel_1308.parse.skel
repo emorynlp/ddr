@@ -1,0 +1,15 @@
+NNS	_	0	root	_	_
+IN	_	3	case	_	_
+NN	sem=tmp	1	ppmod	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NN	sem=clr	1	ppmod	11:ppmod	_
+CC	_	6	cc	_	_
+NNS	_	6	conj	_	_
+PRP	_	11	nsbj	_	_
+MD	_	11	modal	_	_
+VB	_	6	relcl	_	_
+PRP	_	11	obj	_	_
+IN	_	11	case	_	_
+.	_	1	p	_	_
+

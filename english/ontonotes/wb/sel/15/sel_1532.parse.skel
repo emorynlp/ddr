@@ -1,0 +1,16 @@
+DT	_	5	det	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+RB	_	5	neg	_	_
+DT	_	8	num	_	_
+,	_	8	p	_	_
+NN	_	8	com	_	_
+NNS	_	9	nsbj	_	_
+VBP	_	0	root	_	_
+IN	_	13	mark	_	_
+NN	_	13	nsbj	_	_
+MD	_	13	modal	_	_
+VB	_	9	comp	_	_
+NN	_	13	obj	_	_
+.	_	9	p	_	_
+

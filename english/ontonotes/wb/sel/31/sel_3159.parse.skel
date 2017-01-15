@@ -1,0 +1,16 @@
+VB	_	0	root	_	_
+DT	_	3	det	_	_
+NNS	_	1	obj	_	_
+IN	_	5	case	_	_
+NN	_	3	ppmod	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NN	_	9	com	_	_
+NN	sem=clr	1	ppmod	_	_
+IN	_	14	mark	_	_
+PRP	_	14	nsbj	_	_
+VBP	_	14	cop	_	_
+RB	_	14	adv	_	_
+JJ	sem=tmp	1	advcl	_	_
+.	_	1	p	_	_
+

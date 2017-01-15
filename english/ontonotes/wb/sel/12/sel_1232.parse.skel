@@ -1,0 +1,19 @@
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	7	advcl	11:advcl	_
+NNP	_	5	com	_	_
+NNP	_	3	obj	_	_
+RB	_	7	adv	_	_
+VB	_	0	root	_	_
+IN	_	9	case	_	_
+ADD	sem=clr	7	ppmod	_	_
+CC	_	7	cc	_	_
+VB	_	7	conj	_	_
+NNP	_	13	com	_	_
+NNP	_	11	obj	_	_
+VBG	_	11	advcl	_	_
+DT	_	17	det	_	_
+NNP	_	17	com	_	_
+NN	_	14	obj	_	_
+.	_	7	p	_	_
+

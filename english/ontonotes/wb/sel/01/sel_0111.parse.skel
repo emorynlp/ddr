@@ -1,0 +1,19 @@
+IN	_	5	case	_	_
+JJ	_	5	attr	_	_
+CC	_	2	cc	_	_
+JJ	_	2	conj	_	_
+NNS	_	14	ppmod	_	_
+DT	_	7	nsbj	11:nsbj	_
+VBP	_	14	comp	_	_
+NN	_	7	obj	_	_
+CC	_	7	cc	_	_
+VBP	_	11	cop	_	_
+NNS	_	7	conj	_	_
+,	_	14	p	_	_
+DT	_	14	nsbj	17:nsbj	_
+VBP	_	0	root	_	_
+CC	_	14	cc	_	_
+VBP	_	17	cop	_	_
+NNS	_	14	conj	_	_
+.	_	14	p	_	_
+

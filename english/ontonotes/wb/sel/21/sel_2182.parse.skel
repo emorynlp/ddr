@@ -1,0 +1,18 @@
+PRP	_	2	nsbj	5:nsbj;12:nsbj	_
+VBP	_	0	root	_	_
+NNS	_	2	obj	_	_
+,	_	2	p	_	_
+VBP	_	2	conj	_	_
+PRP$	_	8	poss	_	_
+NN	_	8	com	_	_
+NNS	_	5	obj	_	_
+IN	_	10	case	_	_
+PRP	sem=clr	5	ppmod	_	_
+CC	_	5	cc	_	_
+VBP	_	2	conj	_	_
+IN	_	16	mark	_	_
+NNS	_	16	nsbj	_	_
+TO	_	16	aux	_	_
+VB	_	12	comp	_	_
+.	_	2	p	_	_
+

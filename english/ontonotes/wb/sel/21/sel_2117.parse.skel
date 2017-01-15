@@ -1,0 +1,9 @@
+VB	_	0	root	_	_
+CC	_	1	cc	_	_
+RB	sem=tmp	4	adv	1:adv	_
+VB	_	1	conj	_	_
+DT	_	7	det	_	_
+NN	_	7	com	_	_
+NN	_	4	obj	_	_
+.	_	1	p	_	_
+

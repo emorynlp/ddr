@@ -1,0 +1,21 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+PRP	_	5	expl	_	_
+VBZ	_	5	cop	_	_
+IN	_	2	comp	_	_
+PRP$	_	7	poss	_	_
+NN	_	5	obj	_	_
+TO	_	9	aux	_	_
+VB	_	5	csbj	_	_
+NNS	_	9	obj	_	_
+,	_	2	p	_	_
+CC	_	2	cc	_	_
+PRP	_	16	nsbj	_	_
+RB	_	15	com	_	_
+RB	sem=tmp	16	neg	_	_
+VBP	_	2	conj	_	_
+PRP$	_	19	poss	_	_
+NN	_	19	com	_	_
+NNS	_	16	obj	_	_
+.	_	16	p	_	_
+

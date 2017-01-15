@@ -1,0 +1,13 @@
+PRP	_	3	nsbj	_	_
+VBP	_	3	aux	_	_
+VBG	_	0	root	_	_
+IN	_	6	case	_	_
+JJ	_	6	attr	_	_
+NNS	sem=clr	3	ppmod	11:nsbj	_
+TO	_	11	aux	_	_
+VB	_	11	cop	_	_
+PRP$	_	11	poss	_	_
+NN	_	11	com	_	_
+NNS	_	6	relcl	_	_
+.	_	3	p	_	_
+

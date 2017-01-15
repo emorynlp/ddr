@@ -1,0 +1,19 @@
+-LRB-	_	6	p	_	_
+-RRB-	_	6	p	_	_
+RB	sem=tmp	6	adv	_	_
+,	_	6	p	_	_
+PRP	_	6	nsbj	_	_
+VBD	_	0	root	_	_
+RP	_	6	prt	_	_
+PRP$	_	9	poss	_	_
+NNP	_	6	obj	_	_
+,	_	6	p	_	_
+CC	_	6	cc	_	_
+PRP$	_	14	poss	_	_
+NN	_	14	com	_	_
+NN	_	17	nsbj	_	_
+VBD	_	17	cop	_	_
+RB	sem=tmp	17	adv	_	_
+JJ	_	6	conj	_	_
+.	_	17	p	_	_
+

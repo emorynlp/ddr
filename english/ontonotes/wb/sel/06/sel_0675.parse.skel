@@ -1,0 +1,20 @@
+RB	_	2	adv	_	_
+VB	_	0	root	_	_
+JJ	_	2	comp	_	_
+PRP	_	7	nsbj	_	_
+VBP	_	7	aux	_	_
+RB	_	7	neg	_	_
+VB	_	3	csbj	_	_
+NNS	_	7	obj	10:nsbj	_
+WDT	_	10	r-nsbj	_	_
+VBP	_	8	relcl	_	_
+PRP	_	10	obj	12:nsbj	_
+JJ	sem=clr	10	comp	_	_
+IN	_	18	case	_	_
+DT	_	18	det	_	_
+NN	_	17	advnp	_	_
+HYPH	_	17	p	_	_
+JJ	_	18	attr	_	_
+NN	_	10	ppmod	_	_
+.	_	2	p	_	_
+

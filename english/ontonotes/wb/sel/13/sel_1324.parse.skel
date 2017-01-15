@@ -1,0 +1,25 @@
+PRP	_	4	expl	_	_
+VBZ	_	4	cop	_	_
+RB	_	4	neg	_	_
+JJ	_	0	root	_	_
+TO	_	6	aux	_	_
+VB	_	4	csbj	_	_
+RP	_	6	prt	_	_
+DT	_	13	det	_	_
+RB	_	11	adv	_	_
+:	_	11	p	_	_
+VBN	_	13	attr	_	_
+NN	_	13	com	_	_
+NN	_	6	obj	_	_
+IN	_	16	case	_	_
+PRP$	_	16	poss	_	_
+NN	sem=loc	6	ppmod	_	_
+,	_	6	p	_	_
+CC	_	6	cc	_	_
+VB	_	6	conj	_	_
+PRP$	_	21	poss	_	_
+NN	_	19	obj	_	_
+IN	_	23	case	_	_
+PRP	sem=dir	19	ppmod	_	_
+.	_	4	p	_	_
+

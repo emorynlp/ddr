@@ -1,0 +1,21 @@
+CC	_	6	cc	_	_
+PRP	_	6	nsbj	_	_
+MD	_	6	modal	_	_
+VB	_	6	cop	_	_
+RB	_	6	adv	_	_
+JJ	_	0	root	_	_
+IN	_	10	mark	_	_
+PRP	_	10	nsbj	13:nsbj	_
+MD	_	10	modal	_	_
+VB	_	6	advcl	_	_
+PRP	_	10	obj	_	_
+CC	_	10	cc	_	_
+VB	_	10	conj	_	_
+DT	_	15	det	_	_
+NN	_	13	obj	_	_
+IN	_	19	case	_	_
+RBR	_	18	adv	_	_
+JJ	_	19	attr	_	_
+NNS	_	15	ppmod	_	_
+.	_	6	p	_	_
+

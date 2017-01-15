@@ -1,0 +1,23 @@
+RB	sem=tmp	5	adv	_	_
+PRP	_	5	nsbj	_	_
+IN	_	4	case	_	_
+JJS	_	5	adv	_	_
+VBP	_	0	root	_	_
+NN	_	5	obj	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+VBN	_	14	adv	_	_
+IN	_	14	mark	_	_
+DT	_	12	det	_	_
+NN	_	14	nsbj	_	_
+VBZ	_	14	cop	_	_
+IN	_	18	ppmod	_	_
+JJ	_	16	attr	_	_
+NN	_	14	obj	_	_
+PRP	_	18	nsbj	_	_
+VBP	_	5	conj	_	_
+PRP	_	20	nsbj	_	_
+VBP	_	18	comp	_	_
+NN	_	20	obj	_	_
+.	_	18	p	_	_
+

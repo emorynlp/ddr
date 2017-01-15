@@ -1,0 +1,26 @@
+PRP	_	4	nsbj	12:nsbj	_
+VBP	_	4	aux	_	_
+RB	_	4	adv	_	_
+VBN	_	0	root	_	_
+DT	_	6	det	_	_
+NN	_	4	obj	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NN	_	10	com	_	_
+NN	_	6	ppmod	_	_
+CC	_	4	cc	_	_
+VBP	_	4	conj	_	_
+IN	_	14	case	_	_
+PRP	sem=clr	12	ppmod	_	_
+DT	_	14	appo	_	_
+,	_	14	p	_	_
+RB	_	19	adv	_	_
+JJ	_	19	attr	_	_
+NNS	_	14	appo	_	_
+IN	_	22	mark	_	_
+NNP	_	22	nsbj	_	_
+VBP	_	19	acl	_	_
+IN	_	24	case	_	_
+NNP	sem=clr	22	ppmod	_	_
+.	_	4	p	_	_
+

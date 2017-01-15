@@ -1,0 +1,17 @@
+TO	_	2	aux	_	_
+VB	sem=prp	9	advcl	12:advcl	_
+PRP$	_	5	poss	_	_
+NN	_	5	com	_	_
+NN	_	2	obj	_	_
+,	_	9	p	_	_
+PRP	_	9	nsbj	12:nsbj	_
+MD	_	9	modal	_	_
+VB	_	0	root	_	_
+RP	_	9	prt	_	_
+CC	_	9	cc	_	_
+VB	_	9	conj	_	_
+NNS	_	12	obj	9:obj	_
+IN	_	15	case	_	_
+DT	_	13	ppmod	_	_
+.	_	9	p	_	_
+

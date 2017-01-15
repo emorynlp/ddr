@@ -1,0 +1,16 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+NNS	_	5	nsbj	_	_
+TO	_	5	aux	_	_
+VB	_	2	comp	_	_
+IN	_	7	case	_	_
+NN	_	2	ppmod	_	_
+IN	_	12	case	_	_
+VBG	_	12	lv	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NN	_	7	ppmod	_	_
+IN	_	14	case	_	_
+NN	_	12	ppmod	_	_
+.	_	2	p	_	_
+

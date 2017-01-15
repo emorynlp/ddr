@@ -1,0 +1,25 @@
+EX	_	4	expl	_	_
+VBP	_	4	cop	_	_
+RB	_	4	neg	_	_
+JJ	_	9	comp	7:obj	_
+IN	_	6	case	_	_
+PRP	_	4	ppmod	_	_
+VBN	_	4	acl	_	_
+:	_	9	p	_	_
+VB	_	0	root	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NNS	_	13	nsbj	_	_
+VB	_	9	comp	_	_
+IN	_	16	case	_	_
+PRP$	_	16	poss	_	_
+NNS	sem=clr	13	ppmod	_	_
+CC	_	9	cc	_	_
+VB	_	9	conj	_	_
+PRP	_	18	dat	_	_
+DT	_	21	det	_	_
+NN	_	18	obj	23:adv	_
+TO	_	23	aux	_	_
+VB	_	21	relcl	_	_
+.	_	9	p	_	_
+

@@ -1,0 +1,18 @@
+PRP	_	3	nsbj	_	_
+MD	_	3	modal	_	_
+VB	_	16	comp	_	_
+DT	_	5	det	_	_
+NN	_	7	nsbj	_	_
+VBD	_	7	aux	_	_
+VBG	_	3	comp	_	_
+DT	_	9	det	_	_
+NN	_	7	obj	_	_
+IN	_	11	case	_	_
+NNP	_	9	ppmod	_	_
+:	_	16	p	_	_
+PRP	_	16	nsbj	_	_
+MD	_	16	modal	_	_
+VB	_	16	cop	_	_
+JJ	_	0	root	_	_
+.	_	16	p	_	_
+

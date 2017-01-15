@@ -1,0 +1,13 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+DT	_	5	det	_	_
+CD	_	5	num	_	_
+NN	_	7	nsbj	_	_
+MD	_	7	modal	_	_
+VB	_	2	comp	_	_
+DT	_	10	det	_	_
+JJ	_	10	attr	_	_
+NN	_	7	obj	_	_
+RB	_	7	adv	_	_
+.	_	2	p	_	_
+

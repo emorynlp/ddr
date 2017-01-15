@@ -1,0 +1,20 @@
+NNS	_	5	attr	_	_
+POS	_	1	case	_	_
+CC	_	1	cc	_	_
+NNS	_	1	conj	_	_
+NNS	_	0	root	_	_
+,	_	5	p	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+NN	_	12	attr	_	_
+CD	_	9	num	_	_
+NN	_	12	com	_	_
+NN	sem=loc	5	ppmod	_	_
+.	_	5	p	_	_
+
+NNS	_	2	com	_	_
+NN	_	0	root	_	_
+,	_	2	p	_	_
+JJ	_	2	dep	_	_
+NNPS	sem=tmp	2	advnp	_	_
+

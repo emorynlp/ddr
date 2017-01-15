@@ -1,0 +1,25 @@
+IN	_	4	mark	_	_
+PRP	_	4	nsbj	_	_
+VBP	_	4	aux	_	_
+VBG	_	8	advcl	_	_
+DT	_	6	det	_	_
+NNP	sem=tmp	4	advnp	_	_
+,	_	8	p	_	_
+VB	_	0	root	_	_
+:	_	8	p	_	_
+NNP	_	11	nsbj	13:nsbj;17:nsbj;22:nsbj	_
+VBD	_	8	comp	_	_
+TO	_	13	aux	_	_
+VB	sem=prp	11	advcl	_	_
+PRP	_	13	obj	_	_
+,	_	13	p	_	_
+TO	_	17	aux	_	_
+VB	_	13	conj	_	_
+PRP	_	17	obj	_	_
+,	_	17	p	_	_
+CC	_	17	cc	_	_
+TO	_	22	aux	_	_
+VB	_	13	conj	_	_
+PRP	_	22	obj	_	_
+.	_	8	p	_	_
+

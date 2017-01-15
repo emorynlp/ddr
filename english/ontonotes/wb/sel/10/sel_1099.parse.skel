@@ -1,0 +1,23 @@
+DT	_	2	det	_	_
+NN	_	4	obj	_	_
+VBZ	_	4	aux	_	_
+VBN	_	0	root	_	_
+RP	_	4	prt	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	sem=clr	4	ppmod	_	_
+IN	_	10	case	_	_
+NNP	_	8	ppmod	_	_
+CC	_	4	cc	_	_
+NNS	_	14	obj	16:nsbj;18:nsbj	_
+VBP	_	14	aux	_	_
+VBN	_	4	conj	_	_
+TO	_	16	aux	_	_
+VB	_	14	comp	_	_
+TO	_	18	aux	_	_
+VB	sem=prp	16	advcl	_	_
+DT	_	21	det	_	_
+NN	_	21	com	_	_
+NNS	_	16	obj	_	_
+.	_	14	p	_	_
+

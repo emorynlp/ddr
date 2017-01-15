@@ -1,0 +1,26 @@
+DT	_	4	nsbj	_	_
+VBZ	_	4	cop	_	_
+RB	_	4	neg	_	_
+CD	_	24	num	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NNS	_	4	ppmod	10:adv	_
+WRB	sem=loc	10	r-adv	_	_
+PRP	_	10	nsbj	_	_
+VBP	sem=loc	7	advcl	_	_
+JJ	_	12	attr	_	_
+NNS	_	10	obj	_	_
+:	_	24	p	_	_
+RB	sem=loc	24	adv	_	_
+,	_	24	p	_	_
+VBG	_	24	csbj	_	_
+DT	_	19	det	_	_
+JJ	_	19	attr	_	_
+NN	_	16	obj	_	_
+VBZ	_	24	cop	_	_
+RB	_	24	adv	_	_
+NN	_	24	advnp	_	_
+HYPH	_	24	p	_	_
+JJ	_	0	root	_	_
+.	_	24	p	_	_
+

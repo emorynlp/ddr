@@ -1,0 +1,27 @@
+CC	_	7	cc	_	_
+DT	_	3	det	_	_
+NN	_	7	nsbj	9:nsbj;13:nsbj	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NN	_	3	ppmod	_	_
+VBD	_	0	root	_	_
+TO	_	9	aux	_	_
+VB	_	7	comp	_	_
+IN	_	11	case	_	_
+PRP	sem=clr	9	ppmod	_	_
+CC	_	9	cc	_	_
+VB	_	9	conj	_	_
+,	_	13	p	_	_
+``	_	13	p	_	_
+VB	_	13	comp	_	_
+DT	_	19	det	_	_
+JJ	_	19	attr	_	_
+NN	_	16	obj	_	_
+IN	_	21	case	_	_
+PRP	_	19	ppmod	_	_
+IN	_	24	case	_	_
+PRP$	_	24	poss	_	_
+NN	_	19	ppmod	_	_
+.	_	7	p	_	_
+''	_	7	p	_	_
+

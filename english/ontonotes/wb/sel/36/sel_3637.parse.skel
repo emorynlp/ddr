@@ -1,0 +1,21 @@
+NNP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	2	obj	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NN	sem=clr	2	ppmod	9:obj	_
+PRP	_	9	nsbj	_	_
+VBD	_	7	relcl	_	_
+IN	_	11	case	_	_
+NN	_	2	ppmod	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+NN	_	15	com	_	_
+NN	_	11	ppmod	17:obj	_
+PRP	_	17	nsbj	_	_
+VBD	_	15	relcl	_	_
+IN	_	19	case	_	_
+CD	sem=tmp	17	ppmod	_	_
+.	_	2	p	_	_
+

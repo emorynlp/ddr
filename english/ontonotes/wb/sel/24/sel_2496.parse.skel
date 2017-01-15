@@ -1,0 +1,12 @@
+NNP	_	8	nsbj	_	_
+CC	_	1	cc	_	_
+JJ	_	4	attr	_	_
+NN	_	5	com	_	_
+NNP	_	1	conj	_	_
+VBZ	_	8	aux	_	_
+RB	_	8	neg	_	_
+VB	_	0	root	_	_
+IN	_	10	case	_	_
+NN	sem=clr	8	ppmod	_	_
+.	_	8	p	_	_
+

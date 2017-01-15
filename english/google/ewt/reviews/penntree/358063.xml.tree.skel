@@ -1,0 +1,48 @@
+JJ	_	2	adv	_	_
+JJ	_	6	attr	_	_
+CC	_	2	cc	_	_
+RB	_	5	adv	_	_
+JJ	_	2	conj	_	_
+NN	_	0	root	_	_
+IN	_	8	case	_	_
+NNS	_	6	ppmod	_	_
+IN	_	12	case	_	_
+JJ	_	12	attr	_	_
+JJ	_	12	attr	_	_
+NN	_	8	ppmod	_	_
+
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+IN	_	4	case	_	_
+NNS	_	2	ppmod	_	_
+IN	_	7	case	_	_
+JJ	_	7	attr	_	_
+NN	_	4	ppmod	_	_
+.	_	2	p	_	_
+
+NN	_	4	nsbj	_	_
+VBZ	_	4	cop	_	_
+RB	_	4	adv	_	_
+JJ	_	6	comp	_	_
+PRP	_	6	nsbj	_	_
+VBP	_	0	root	_	_
+PRP	_	6	obj	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+JJ	_	11	attr	_	_
+NN	_	6	ppmod	_	_
+CC	_	11	cc	_	_
+RB	_	12	com	_	_
+RB	_	16	adv	_	_
+DT	_	16	det	_	_
+NN	_	11	conj	_	_
+.	_	6	p	_	_
+
+RB	_	2	adv	_	_
+JJ	_	0	root	_	_
+IN	_	4	case	_	_
+VBG	_	2	ppmod	_	_
+JJ	_	6	attr	_	_
+NN	_	4	obj	_	_
+.	_	2	p	_	_
+

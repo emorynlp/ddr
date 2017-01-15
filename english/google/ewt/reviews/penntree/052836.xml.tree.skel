@@ -1,0 +1,13 @@
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+CC	_	2	cc	_	_
+JJ	_	5	attr	_	_
+NN	_	2	conj	_	_
+.	_	5	p	_	_
+
+VB	_	0	root	_	_
+PRP	_	1	dat	_	_
+DT	_	4	det	_	_
+NN	_	1	obj	_	_
+.	_	1	p	_	_
+

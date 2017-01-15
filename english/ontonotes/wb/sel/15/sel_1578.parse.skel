@@ -1,0 +1,16 @@
+PRP	_	2	nsbj	4:nsbj;11:nsbj	_
+VBD	_	0	root	_	_
+TO	_	4	aux	_	_
+VB	_	2	comp	_	_
+NN	_	4	obj	_	_
+IN	_	8	case	_	_
+PRP$	_	8	poss	_	_
+NNS	sem=clr	4	ppmod	_	_
+CC	_	4	cc	_	_
+TO	_	11	aux	_	_
+VB	_	4	conj	_	_
+PRP$	_	14	poss	_	_
+JJ	_	14	attr	_	_
+NN	_	11	obj	_	_
+.	_	2	p	_	_
+

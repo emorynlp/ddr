@@ -1,0 +1,16 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+IN	_	5	mark	_	_
+PRP	_	5	nsbj	7:nsbj	_
+VBP	sem=tmp	2	advcl	_	_
+NNS	_	5	obj	_	_
+VBG	_	5	advcl	_	_
+PRP	_	7	obj	11:nsbj	_
+TO	_	11	aux	_	_
+``	_	11	p	_	_
+VB	_	7	comp	_	_
+PRP$	_	13	poss	_	_
+NNS	_	11	obj	_	_
+.	_	2	p	_	_
+''	_	2	p	_	_
+

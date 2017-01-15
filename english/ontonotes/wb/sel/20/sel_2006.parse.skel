@@ -1,0 +1,18 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	6	nsbj	_	_
+MD	_	6	modal	_	_
+VB	_	2	comp	_	_
+IN	_	8	case	_	_
+PRP	sem=clr	6	ppmod	_	_
+,	_	2	p	_	_
+CC	_	2	cc	_	_
+PRP	_	14	nsbj	_	_
+VBP	_	14	aux	_	_
+RB	_	14	neg	_	_
+VB	_	2	conj	_	_
+WP	_	16	det	_	_
+RB	_	14	obj	_	_
+.	_	14	p	_	_
+

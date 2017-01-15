@@ -1,0 +1,19 @@
+PRP	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBD	_	0	root	_	_
+NN	_	3	obj	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NN	sem=loc	3	ppmod	_	_
+IN	_	10	case	_	_
+PRP$	_	10	poss	_	_
+NN	_	7	ppmod	_	_
+,	_	3	p	_	_
+IN	_	13	case	_	_
+VBG	sem=mnr	3	ppmod	_	_
+NNS	_	13	obj	_	_
+IN	_	17	case	_	_
+PRP$	_	17	poss	_	_
+NN	sem=loc	13	ppmod	_	_
+.	_	3	p	_	_
+

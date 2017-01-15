@@ -1,0 +1,13 @@
+VBG	_	0	root	_	_
+NN	_	1	obj	_	_
+VBG	_	2	acl	_	_
+DT	_	5	det	_	_
+NN	_	3	obj	8:nsbj	_
+WP	_	8	r-nsbj	_	_
+MD	_	8	modal	_	_
+VB	_	5	relcl	_	_
+RB	_	10	adv	_	_
+JJ	_	11	attr	_	_
+NNS	_	8	obj	_	_
+.	_	1	p	_	_
+

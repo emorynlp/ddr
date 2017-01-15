@@ -1,0 +1,17 @@
+VB	_	11	advcl	_	_
+VB	_	1	dep	_	_
+DT	_	5	det	_	_
+NN	_	5	com	_	_
+NN	_	1	obj	_	_
+TO	_	7	aux	_	_
+VB	sem=prp	1	advcl	_	_
+PRP	_	7	obj	_	_
+,	_	11	p	_	_
+RB	sem=tmp	11	adv	14:adv	_
+VB	_	0	root	_	_
+VB	_	11	dep	_	_
+CC	_	11	cc	_	_
+VB	_	11	conj	_	_
+NN	_	14	obj	_	_
+.	_	11	p	_	_
+

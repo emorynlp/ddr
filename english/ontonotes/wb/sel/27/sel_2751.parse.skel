@@ -1,0 +1,20 @@
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBP	sem=tmp	6	advcl	14:advcl	_
+PRP	_	6	nsbj	14:nsbj	_
+RB	sem=tmp	6	adv	14:adv	_
+VBP	_	0	root	_	_
+DT	_	8	det	_	_
+NNS	_	6	obj	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	sem=loc	6	ppmod	_	_
+RB	sem=tmp	6	adv	_	_
+CC	_	6	cc	_	_
+VBP	_	6	conj	_	_
+DT	_	14	obj	_	_
+IN	_	18	case	_	_
+DT	_	18	det	_	_
+NN	sem=clr	14	ppmod	_	_
+.	_	6	p	_	_
+

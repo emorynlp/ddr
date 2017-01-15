@@ -1,0 +1,14 @@
+VBD	_	0	root	_	_
+
+NNP	_	2	com	_	_
+NNP	_	3	nsbj	_	_
+VBD	_	0	root	_	_
+.	_	3	p	_	_
+
+NNP	_	2	com	_	_
+NNP	_	5	nsbj	_	_
+VBZ	_	5	cop	_	_
+PRP$	_	5	poss	_	_
+NN	_	0	root	_	_
+.	_	5	p	_	_
+

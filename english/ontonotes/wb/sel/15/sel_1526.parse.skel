@@ -1,0 +1,25 @@
+DT	_	2	det	_	_
+NNP	_	5	nsbj	_	_
+VBD	_	5	aux	_	_
+RB	sem=tmp	5	adv	_	_
+VBN	_	0	root	_	_
+DT	_	7	det	_	_
+NN	_	5	obj	_	_
+IN	_	11	case	_	_
+``	_	11	p	_	_
+JJ	_	11	attr	_	_
+NNS	_	7	ppmod	_	_
+''	_	11	p	_	_
+IN	_	15	case	_	_
+JJ	_	15	attr	_	_
+NNS	sem=clr	5	ppmod	_	_
+TO	_	17	aux	_	_
+VB	_	15	acl	_	_
+DT	_	20	det	_	_
+JJ	_	20	attr	_	_
+NNS	_	17	obj	_	_
+IN	_	23	case	_	_
+NN	_	23	com	_	_
+NNS	_	20	ppmod	_	_
+.	_	5	p	_	_
+

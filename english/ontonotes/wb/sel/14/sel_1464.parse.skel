@@ -1,0 +1,17 @@
+DT	_	2	det	_	_
+NNS	_	3	nsbj	_	_
+VBP	_	0	root	_	_
+:	_	3	p	_	_
+``	_	3	p	_	_
+VBG	_	12	csbj	15:csbj	_
+NNS	_	6	obj	_	_
+CC	_	6	cc	_	_
+VBG	_	6	conj	_	_
+NNS	_	9	obj	_	_
+VBZ	_	12	cop	_	_
+JJ	_	3	comp	_	_
+CC	_	12	cc	_	_
+VBZ	_	15	cop	_	_
+JJ	_	12	conj	_	_
+.	_	3	p	_	_
+

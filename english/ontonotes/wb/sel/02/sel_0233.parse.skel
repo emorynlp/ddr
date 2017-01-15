@@ -1,0 +1,19 @@
+RB	_	9	adv	_	_
+IN	_	4	mark	_	_
+PRP	_	4	nsbj	_	_
+VBP	_	9	advcl	_	_
+DT	_	7	det	_	_
+JJS	_	7	attr	_	_
+NN	_	4	obj	_	_
+RB	_	9	adv	_	_
+VB	_	17	advcl	_	_
+CD	_	9	obj	_	_
+,	_	17	p	_	_
+RB	_	17	adv	_	_
+,	_	17	p	_	_
+NN	_	15	com	_	_
+NNS	_	17	nsbj	_	_
+RB	_	17	adv	_	_
+VBP	_	0	root	_	_
+.	_	17	p	_	_
+

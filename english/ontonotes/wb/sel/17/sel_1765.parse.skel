@@ -1,0 +1,12 @@
+TO	_	2	aux	_	_
+VB	sem=prp	7	advcl	_	_
+IN	_	5	case	_	_
+DT	_	5	det	_	_
+NN	sem=clr	2	ppmod	_	_
+,	_	7	p	_	_
+VB	_	0	root	_	_
+NN	_	7	obj	_	_
+IN	_	10	case	_	_
+NNP	_	7	dat	_	_
+.	_	7	p	_	_
+

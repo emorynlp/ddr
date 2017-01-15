@@ -1,0 +1,18 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+VB	_	2	comp	_	_
+DT	_	5	det	_	_
+NN	_	3	obj	_	_
+IN	_	8	case	_	_
+PRP$	_	8	poss	_	_
+NN	sem=loc	5	ppmod	_	_
+,	_	5	p	_	_
+JJ	_	5	attr	_	_
+,	_	5	p	_	_
+NNP	_	13	com	_	_
+NNP	_	5	appo	_	_
+CC	_	13	cc	_	_
+DT	_	16	det	_	_
+NN	_	13	conj	_	_
+.	_	2	p	_	_
+

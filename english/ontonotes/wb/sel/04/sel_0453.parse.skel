@@ -1,0 +1,9 @@
+VB	_	0	root	_	_
+NN	_	1	obj	_	_
+IN	_	4	case	_	_
+NN	sem=clr	1	ppmod	_	_
+TO	_	7	aux	_	_
+RB	sem=mnr	7	adv	_	_
+VB	sem=prp	1	advcl	_	_
+.	_	1	p	_	_
+

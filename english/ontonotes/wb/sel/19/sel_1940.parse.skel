@@ -1,0 +1,15 @@
+NNS	_	6	nsbj	_	_
+IN	_	3	case	_	_
+DT	_	1	ppmod	_	_
+MD	_	6	modal	_	_
+RB	sem=tmp	6	neg	_	_
+VB	_	0	root	_	_
+NNP	_	6	obj	_	_
+,	_	7	p	_	_
+NNP	_	7	conj	_	_
+CC	_	9	cc	_	_
+DT	_	13	det	_	_
+JJ	_	13	attr	_	_
+NN	_	7	conj	_	_
+.	_	6	p	_	_
+

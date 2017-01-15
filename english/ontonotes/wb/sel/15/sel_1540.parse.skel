@@ -1,0 +1,27 @@
+VBG	_	7	advcl	_	_
+DT	_	3	det	_	_
+NN	_	1	obj	_	_
+,	_	7	p	_	_
+NN	_	6	com	_	_
+NNS	_	7	nsbj	1:nsbj;16:nsbj	_
+VBD	_	0	root	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NNP	_	11	com	_	_
+NNP	sem=mnr	7	ppmod	_	_
+IN	_	14	case	_	_
+NNP	_	14	com	_	_
+NNP	_	11	ppmod	_	_
+TO	_	16	aux	_	_
+VB	_	7	comp	_	_
+RB	sem=mnr	16	adv	_	_
+DT	_	20	det	_	_
+JJ	_	20	attr	_	_
+NN	_	16	obj	_	_
+IN	_	23	case	_	_
+NN	_	23	com	_	_
+NN	_	20	ppmod	_	_
+IN	_	25	case	_	_
+CD	sem=tmp	16	ppmod	_	_
+.	_	7	p	_	_
+

@@ -1,0 +1,18 @@
+VB	_	0	root	_	_
+DT	_	3	det	_	_
+NN	_	1	obj	_	_
+IN	_	5	case	_	_
+NN	_	3	ppmod	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	sem=loc	1	ppmod	_	_
+IN	_	10	case	_	_
+NN	_	8	ppmod	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+PRP$	_	14	poss	_	_
+NN	_	12	obj	_	_
+IN	_	16	case	_	_
+PRP	sem=clr	12	ppmod	_	_
+.	_	1	p	_	_
+

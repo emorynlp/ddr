@@ -1,0 +1,10 @@
+VBZ	_	5	aux	_	_
+NNP	_	3	com	_	_
+NNP	_	5	nsbj	_	_
+RB	sem=tmp	5	adv	_	_
+VB	_	0	root	_	_
+NNP	_	8	com	_	_
+NNPS	_	8	com	_	_
+NNP	_	5	obj	_	_
+.	_	5	p	_	_
+

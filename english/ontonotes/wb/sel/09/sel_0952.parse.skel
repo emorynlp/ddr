@@ -1,0 +1,18 @@
+RB	_	7	adv	_	_
+,	_	7	p	_	_
+JJ	_	4	attr	_	_
+NNS	_	7	nsbj	_	_
+IN	_	6	case	_	_
+NNP	_	4	ppmod	_	_
+VBP	_	0	root	_	_
+PRP	_	7	dat	_	_
+JJ	_	10	attr	_	_
+NNS	_	7	obj	_	_
+IN	_	13	case	_	_
+JJ	_	13	attr	_	_
+NNS	_	7	ppmod	_	_
+IN	_	16	case	_	_
+NNP	_	16	com	_	_
+NN	_	13	ppmod	_	_
+.	_	7	p	_	_
+

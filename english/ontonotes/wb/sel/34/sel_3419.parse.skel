@@ -1,0 +1,26 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+``	_	6	p	_	_
+NN	sem=clr	2	ppmod	8:nsbj;11:nsbj	_
+WP	_	8	r-nsbj	_	_
+VBZ	_	6	relcl	_	_
+''	_	6	p	_	_
+WP	_	11	r-nsbj	_	_
+VBD	_	6	relcl	_	_
+PRP	_	11	obj	17:nsbj	_
+TO	_	17	aux	_	_
+RB	_	16	neg	_	_
+,	_	16	p	_	_
+RB	sem=tmp	17	adv	_	_
+VB	_	11	comp	_	_
+DT	_	20	det	_	_
+JJ	_	20	attr	_	_
+NN	_	17	obj	_	_
+IN	_	23	mark	_	_
+PRP	_	23	nsbj	_	_
+VBP	_	17	advcl	_	_
+RB	sem=tmp	23	adv	_	_
+.	_	2	p	_	_
+

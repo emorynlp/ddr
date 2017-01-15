@@ -1,0 +1,18 @@
+LS	_	12	num	_	_
+.	_	1	p	_	_
+RB	sem=mnr	4	adv	_	_
+VB	_	12	advcl	_	_
+CD	_	4	obj	_	_
+IN	_	7	case	_	_
+NNS	_	5	ppmod	_	_
+IN	_	10	case	_	_
+NN	_	10	com	_	_
+NN	sem=clr	4	ppmod	_	_
+:	_	12	p	_	_
+VB	_	0	root	_	_
+RB	sem=clr	12	adv	_	_
+NN	_	12	obj	_	_
+IN	_	16	case	_	_
+NNS	_	14	ppmod	_	_
+.	_	12	p	_	_
+

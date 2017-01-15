@@ -1,0 +1,16 @@
+NNP	_	3	poss	_	_
+POS	_	1	case	_	_
+NN	_	0	root	_	_
+:	_	3	p	_	_
+VB	_	3	acl	_	_
+WRB	sem=mnr	11	adv	_	_
+DT	_	8	det	_	_
+NN	_	11	nsbj	_	_
+VBD	_	11	aux	_	_
+RB	_	11	neg	_	_
+VB	_	5	comp	_	_
+DT	_	14	det	_	_
+NN	_	14	com	_	_
+NN	_	11	obj	_	_
+.	_	3	p	_	_
+

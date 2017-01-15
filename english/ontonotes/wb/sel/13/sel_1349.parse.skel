@@ -1,0 +1,13 @@
+MD	_	4	modal	_	_
+NN	_	4	nsbj	_	_
+UH	_	4	disc	_	_
+VB	_	0	root	_	_
+PRP	_	4	obj	_	_
+IN	_	7	case	_	_
+PRP	sem=clr	4	ppmod	_	_
+IN	_	11	mark	_	_
+EX	_	11	expl	_	_
+VBD	_	11	cop	_	_
+CD	_	4	advcl	_	_
+.	_	4	p	_	_
+

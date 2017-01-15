@@ -1,0 +1,20 @@
+DT	_	2	det	_	_
+NNPS	_	3	nsbj	_	_
+VBD	_	0	root	_	_
+DT	_	5	det	_	_
+NNPS	_	3	obj	_	_
+,	_	3	p	_	_
+CD	_	3	advnp	_	_
+SYM	_	9	p	_	_
+CD	_	7	ppmod	_	_
+,	_	3	p	_	_
+IN	_	13	case	_	_
+NNP	_	13	com	_	_
+NNP	sem=loc	3	ppmod	_	_
+IN	_	18	case	_	_
+DT	_	18	det	_	_
+CD	_	18	num	_	_
+NNP	_	18	com	_	_
+NN	_	3	ppmod	_	_
+.	_	3	p	_	_
+

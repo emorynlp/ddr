@@ -1,0 +1,19 @@
+NNP	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBZ	_	0	root	_	_
+,	_	3	p	_	_
+``	_	3	p	_	_
+NNP	_	8	com	_	_
+NNP	_	8	com	_	_
+NNP	_	11	nsbj	_	_
+VBD	_	11	aux	_	_
+RB	_	11	neg	_	_
+VB	_	3	comp	_	_
+IN	_	15	mark	_	_
+PRP$	_	14	poss	_	_
+NNS	_	15	nsbj	_	_
+VBP	_	11	comp	_	_
+JJ	_	17	attr	_	_
+NNS	_	15	obj	_	_
+.	_	3	p	_	_
+

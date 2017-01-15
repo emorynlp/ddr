@@ -1,0 +1,19 @@
+DT	_	2	det	_	_
+NN	_	3	nsbj	_	_
+VBD	_	0	root	_	_
+IN	_	14	mark	_	_
+DT	_	13	det	_	_
+NN	_	13	attr	_	_
+,	_	6	p	_	_
+NN	_	6	conj	_	_
+,	_	8	p	_	_
+NN	_	6	conj	_	_
+CC	_	10	cc	_	_
+NN	_	6	conj	_	_
+NNS	_	14	nsbj	_	_
+VBP	_	3	comp	_	_
+DT	_	17	det	_	_
+JJS	_	17	attr	_	_
+NN	_	14	obj	_	_
+.	_	3	p	_	_
+

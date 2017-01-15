@@ -1,0 +1,23 @@
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	14	advcl	_	_
+IN	_	6	mark	_	_
+PRP	_	6	nsbj	_	_
+VBP	sem=tmp	3	advcl	_	_
+CD	_	11	num	_	_
+,	_	11	p	_	_
+CD	_	11	num	_	_
+,	_	11	p	_	_
+CD	_	6	obj	_	_
+,	_	14	p	_	_
+RB	sem=loc,tmp	14	adv	_	_
+VBZ	_	0	root	_	_
+DT	_	18	det	_	_
+PRP$	_	18	poss	_	_
+NN	_	18	com	_	_
+NNS	_	14	nsbj	_	_
+IN	_	21	case	_	_
+DT	_	21	det	_	_
+NN	sem=clr	14	ppmod	_	_
+.	_	14	p	_	_
+

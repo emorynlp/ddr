@@ -1,0 +1,27 @@
+NNP	_	2	com	_	_
+NNP	_	3	nsbj	_	_
+VBD	_	0	root	_	_
+:	_	3	p	_	_
+VBZ	_	9	aux	_	_
+DT	_	8	det	_	_
+NN	_	8	com	_	_
+NN	_	9	nsbj	_	_
+VB	_	3	comp	_	_
+PDT	_	13	det	_	_
+DT	_	13	det	_	_
+NN	_	13	com	_	_
+NNS	_	9	obj	_	_
+,	_	13	p	_	_
+IN	_	16	case	_	_
+NN	_	13	ppmod	_	_
+,	_	16	p	_	_
+NN	_	16	conj	_	_
+,	_	18	p	_	_
+NN	_	23	attr	_	_
+IN	_	22	case	_	_
+NN	_	20	ppmod	_	_
+FW	_	16	conj	_	_
+.	_	3	p	_	_
+NN	_	3	dep	_	_
+.	_	3	p	_	_
+

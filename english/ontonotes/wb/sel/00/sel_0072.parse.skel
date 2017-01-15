@@ -1,0 +1,9 @@
+VBZ	_	6	aux	_	_
+RB	_	6	neg	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+NN	_	6	nsbj	_	_
+VB	_	0	root	_	_
+RB	sem=loc	6	adv	_	_
+.	_	6	p	_	_
+

@@ -1,0 +1,20 @@
+NNP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	2	obj	_	_
+,	_	2	p	_	_
+VBD	_	2	dep	_	_
+NN	_	8	com	_	_
+NNS	_	6	obj	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	sem=clr	6	ppmod	_	_
+,	_	2	p	_	_
+VBD	_	2	dep	_	_
+PRP	_	15	nsbj	_	_
+VB	_	13	comp	_	_
+RP	_	18	prt	_	_
+DT	_	18	det	_	_
+NN	sem=clr	15	ppmod	_	_
+.	_	2	p	_	_
+

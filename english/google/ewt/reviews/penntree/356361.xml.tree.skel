@@ -1,0 +1,29 @@
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+
+DT	_	5	det	_	_
+RB	_	4	adv	_	_
+RB	_	4	adv	_	_
+VBN	_	5	attr	_	_
+NN	_	0	root	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+JJ	_	9	attr	_	_
+NN	_	5	ppmod	_	_
+.	_	5	p	_	_
+
+DT	_	3	dep	_	_
+RB	_	3	adv	_	_
+VBN	_	0	root	_	_
+CC	_	3	cc	_	_
+MD	_	7	modal	_	_
+VB	_	7	aux	_	_
+VBG	_	3	conj	_	_
+RB	_	7	adv	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NNS	_	7	ppmod	_	_
+.	_	7	p	_	_
+
+NN	_	0	root	_	_
+

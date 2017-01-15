@@ -1,0 +1,23 @@
+DT	_	3	det	_	_
+JJ	_	3	attr	_	_
+NN	sem=tmp	7	advnp	_	_
+,	_	7	p	_	_
+DT	_	6	det	_	_
+NN	_	7	nsbj	18:nsbj	_
+VBD	_	0	root	_	_
+PRP$	_	9	poss	_	_
+NN	_	7	obj	_	_
+IN	_	12	case	_	_
+JJ	_	12	attr	_	_
+NN	sem=clr	7	ppmod	_	_
+JJ	_	12	attr	_	_
+IN	_	16	case	_	_
+JJ	_	16	attr	_	_
+NNS	_	13	ppmod	_	_
+,	_	7	p	_	_
+VBG	_	7	advcl	_	_
+JJR	_	21	attr	_	_
+IN	_	19	com	_	_
+CD	_	18	obj	_	_
+.	_	7	p	_	_
+

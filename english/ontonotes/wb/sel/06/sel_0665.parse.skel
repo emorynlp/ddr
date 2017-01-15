@@ -1,0 +1,12 @@
+CC	_	7	cc	_	_
+PRP	_	7	nsbj	_	_
+VBP	_	7	aux	_	_
+RB	_	7	neg	_	_
+VB	_	7	raise	_	_
+TO	_	7	aux	_	_
+VB	_	0	root	_	_
+IN	_	10	case	_	_
+NN	_	10	com	_	_
+NN	sem=tmp	7	ppmod	_	_
+:	_	7	p	_	_
+

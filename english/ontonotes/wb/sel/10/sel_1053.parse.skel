@@ -1,0 +1,24 @@
+VB	_	4	aux	_	_
+JJ	_	4	modal	_	_
+TO	_	4	aux	_	_
+VB	_	0	root	_	_
+RP	_	4	prt	_	_
+DT	_	7	det	_	_
+NN	_	4	obj	_	_
+IN	_	9	case	_	_
+NN	sem=clr	4	ppmod	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+NN	_	9	ppmod	17:ppmod	_
+IN	_	14	case	_	_
+WDT	sem=loc	17	r-ppmod	_	_
+PRP	_	17	nsbj	_	_
+VBP	_	17	aux	_	_
+VBN	_	12	relcl	_	_
+IN	_	21	mark	_	_
+NNS	_	21	nsbj	_	_
+RB	sem=tmp	21	neg	_	_
+VBP	_	17	comp	_	_
+NNS	_	21	obj	_	_
+.	_	4	p	_	_
+

@@ -1,0 +1,21 @@
+IN	_	2	case	_	_
+NN	_	7	ppmod	_	_
+,	_	7	p	_	_
+PRP	_	7	nsbj	_	_
+VBP	_	7	cop	_	_
+RB	_	7	adv	_	_
+JJ	_	0	root	_	_
+DT	_	9	det	_	_
+NN	_	12	nsbj	_	_
+MD	_	12	modal	_	_
+RB	_	12	neg	_	_
+VB	_	7	comp	_	_
+DT	_	14	det	_	_
+NN	_	12	obj	19:obj	_
+DT	_	17	det	_	_
+CD	_	17	num	_	_
+NNS	_	19	nsbj	_	_
+MD	_	19	modal	_	_
+VB	_	14	relcl	_	_
+.	_	7	p	_	_
+

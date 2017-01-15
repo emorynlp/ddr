@@ -1,0 +1,25 @@
+DT	_	2	det	_	_
+NN	_	3	nsbj	_	_
+VBZ	_	0	root	_	_
+IN	_	16	mark	_	_
+WRB	sem=tmp	7	adv	_	_
+PRP	_	7	nsbj	_	_
+VBP	sem=tmp	16	advcl	_	_
+PRP	_	7	obj	_	_
+IN	_	12	case	_	_
+PRP$	_	12	poss	_	_
+NN	_	12	com	_	_
+NN	sem=clr	7	ppmod	_	_
+,	_	16	p	_	_
+PRP	_	16	nsbj	_	_
+``	_	16	p	_	_
+VBZ	_	3	comp	_	_
+''	_	16	p	_	_
+VBZ	_	16	dep	_	_
+RB	_	22	adv	_	_
+IN	_	22	mark	_	_
+PRP	_	22	nsbj	_	_
+VBP	sem=tmp	16	advcl	_	_
+PRP	_	22	obj	_	_
+.	_	3	p	_	_
+

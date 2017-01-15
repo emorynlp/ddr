@@ -1,0 +1,19 @@
+PRP	_	3	nsbj	9:nsbj;12:nsbj	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+NNS	_	3	obj	_	_
+RB	sem=mnr	3	adv	_	_
+DT	_	8	det	_	_
+NN	_	8	com	_	_
+NN	sem=tmp	3	advnp	_	_
+VBG	sem=clr	3	comp	_	_
+NNP	_	9	obj	_	_
+CC	_	3	cc	_	_
+VBD	_	3	conj	_	_
+DT	_	15	det	_	_
+JJ	_	15	attr	_	_
+NN	_	12	obj	_	_
+VBG	_	15	acl	_	_
+PRP	_	16	obj	_	_
+.	_	3	p	_	_
+

@@ -1,0 +1,15 @@
+VBD	_	0	root	_	_
+:	_	1	p	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+JJ	_	6	attr	_	_
+NN	_	8	nsbj	_	_
+MD	_	8	modal	_	_
+VB	_	1	comp	_	_
+DT	_	10	det	_	_
+NN	_	11	advnp	_	_
+JJR	_	8	obj	_	_
+IN	_	13	case	_	_
+DT	_	11	ppmod	_	_
+.	_	1	p	_	_
+

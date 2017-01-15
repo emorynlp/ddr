@@ -1,0 +1,24 @@
+DT	_	2	det	_	_
+NNS	_	6	nsbj	_	_
+RB	sem=loc	2	adv	_	_
+VBP	_	6	cop	_	_
+RB	_	6	neg	_	_
+NNS	_	0	root	_	_
+,	_	6	p	_	_
+CC	_	6	cc	_	_
+PRP	_	12	nsbj	_	_
+VBP	_	12	cop	_	_
+NN	_	12	com	_	_
+NNS	_	6	conj	15:nsbj;18:nsbj	_
+WDT	_	15	r-nsbj	_	_
+RB	sem=tmp	15	adv	_	_
+VBP	_	12	relcl	_	_
+CC	_	15	cc	_	_
+RB	sem=tmp	18	adv	15:adv	_
+VBP	_	15	conj	_	_
+NNS	_	18	obj	15:obj	_
+IN	_	22	case	_	_
+VBN	_	22	attr	_	_
+NN	_	19	ppmod	_	_
+.	_	12	p	_	_
+

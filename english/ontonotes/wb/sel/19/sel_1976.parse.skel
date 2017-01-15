@@ -1,0 +1,19 @@
+NNP	_	5	nsbj	_	_
+CC	_	1	cc	_	_
+DT	_	4	det	_	_
+NNP	_	1	conj	_	_
+VBD	_	0	root	_	_
+:	_	5	p	_	_
+PRP$	_	8	poss	_	_
+NN	_	9	nsbj	_	_
+VBZ	_	5	comp	_	_
+PRP	_	9	obj	_	_
+IN	_	15	mark	_	_
+NNP	_	15	nsbj	_	_
+VBZ	_	15	aux	_	_
+RB	_	15	neg	_	_
+VB	_	9	comp	_	_
+JJ	_	17	attr	_	_
+NNS	_	15	obj	_	_
+.	_	5	p	_	_
+

@@ -1,0 +1,16 @@
+VBD	_	0	root	_	_
+DT	_	4	det	_	_
+JJ	_	4	attr	_	_
+NN	_	1	obj	_	_
+IN	_	6	case	_	_
+VBG	_	4	ppmod	_	_
+PRP$	_	8	poss	_	_
+NN	_	6	obj	_	_
+IN	_	10	case	_	_
+NNPS	sem=loc	6	ppmod	_	_
+.	_	1	p	_	_
+
+NN	_	0	root	_	_
+NNP	_	1	voc	_	_
+.	_	1	p	_	_
+

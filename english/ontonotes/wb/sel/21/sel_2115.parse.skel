@@ -1,0 +1,10 @@
+VB	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	4	com	_	_
+NN	_	1	obj	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+DT	_	8	det	_	_
+NN	_	6	obj	_	_
+.	_	1	p	_	_
+

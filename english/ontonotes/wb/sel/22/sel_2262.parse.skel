@@ -1,0 +1,19 @@
+PRP$	_	2	poss	_	_
+NN	_	12	nsbj	4:obj	_
+,	_	2	p	_	_
+VBN	_	2	acl	_	_
+IN	_	6	case	_	_
+PRP	sem=clr	4	ppmod	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NNP	_	10	com	_	_
+NN	_	4	nsbj	_	_
+,	_	12	p	_	_
+VBZ	_	0	root	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+JJ	sem=clr	12	ppmod	_	_
+CC	_	15	cc	_	_
+JJ	_	15	conj	_	_
+.	_	12	p	_	_
+

@@ -1,0 +1,18 @@
+MD	_	3	modal	_	_
+PRP	_	3	nsbj	_	_
+VB	_	0	root	_	_
+DT	_	5	det	_	_
+NN	_	3	obj	_	_
+IN	_	11	case	_	_
+WRB	_	8	adv	_	_
+JJ	_	9	attr	_	_
+NNS	_	11	obj	13:obj	_
+PRP	_	11	nsbj	13:nsbj	_
+VBZ	_	5	ppmod	_	_
+CC	_	11	cc	_	_
+VBZ	_	11	conj	_	_
+IN	_	16	case	_	_
+DT	_	16	det	_	_
+NN	sem=clr	13	ppmod	_	_
+.	_	3	p	_	_
+

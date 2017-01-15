@@ -1,0 +1,21 @@
+NNP	_	2	com	_	_
+NNP	_	3	com	_	_
+NNS	_	6	nsbj	_	_
+VBP	_	6	cop	_	_
+RB	_	6	adv	_	_
+JJ	_	0	root	_	_
+CC	_	6	cc	_	_
+JJ	_	6	conj	_	_
+IN	_	11	mark	_	_
+PRP	_	11	nsbj	13:nsbj;16:nsbj	_
+VBP	_	6	comp	_	_
+TO	_	13	aux	_	_
+VB	_	11	comp	_	_
+RB	sem=mnr	13	adv	_	_
+TO	_	16	aux	_	_
+VB	sem=prp	13	advcl	_	_
+DT	_	19	det	_	_
+VBN	_	19	attr	_	_
+NN	_	16	obj	_	_
+.	_	6	p	_	_
+

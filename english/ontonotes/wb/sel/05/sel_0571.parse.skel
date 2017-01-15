@@ -1,0 +1,21 @@
+IN	_	5	mark	_	_
+DT	_	3	det	_	_
+NNS	_	5	obj	_	_
+VBP	_	5	aux	_	_
+VBN	sem=tmp	14	advcl	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	sem=clr	5	ppmod	_	_
+,	_	14	p	_	_
+DT	_	11	det	_	_
+NN	_	14	nsbj	_	_
+MD	_	14	modal	_	_
+RB	sem=mnr	14	adv	_	_
+VB	_	0	root	_	_
+DT	_	16	det	_	_
+NN	_	14	obj	_	_
+IN	_	19	case	_	_
+RB	_	19	adv	_	_
+JJ	sem=clr	14	ppmod	_	_
+.	_	14	p	_	_
+

@@ -1,0 +1,27 @@
+CC	_	2	cc	_	_
+VB	_	0	root	_	_
+WP	_	5	obj	_	_
+PRP	_	5	nsbj	_	_
+VBP	_	2	obj	_	_
+IN	_	8	case	_	_
+PRP$	_	8	poss	_	_
+NNS	_	5	ppmod	_	_
+,	_	5	p	_	_
+VB	_	5	acl	_	_
+DT	_	10	obj	13:nsbj	_
+WDT	_	13	r-nsbj	_	_
+VBP	_	11	relcl	_	_
+CC	_	10	cc	_	_
+VB	_	10	conj	_	_
+PRP	_	15	obj	_	_
+IN	_	19	case	_	_
+PRP$	_	19	poss	_	_
+NN	_	15	dat	22:nsbj	_
+,	_	19	p	_	_
+WP	_	22	r-nsbj	_	_
+VBZ	_	19	relcl	_	_
+NNS	_	22	obj	25:nsbj	_
+WP	_	25	r-nsbj	_	_
+VBP	_	23	relcl	_	_
+PRP	_	25	obj	_	_
+

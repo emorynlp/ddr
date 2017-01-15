@@ -1,0 +1,17 @@
+VB	_	0	root	_	_
+DT	_	4	det	_	_
+JJ	_	4	attr	_	_
+NN	_	1	obj	_	_
+IN	_	7	case	_	_
+NN	_	7	com	_	_
+NN	_	4	ppmod	_	_
+IN	_	10	mark	_	_
+PRP	_	10	nsbj	_	_
+VBZ	sem=tmp	1	advcl	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+IN	_	15	case	_	_
+CD	_	15	num	_	_
+NNS	sem=tmp	12	ppmod	_	_
+.	_	1	p	_	_
+

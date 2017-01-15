@@ -1,0 +1,26 @@
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	22	advcl	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+NN	_	3	obj	8:nsbj;12:nsbj	_
+TO	_	8	aux	_	_
+VB	sem=prp	3	advcl	_	_
+PRP$	_	10	poss	_	_
+NN	_	8	obj	_	_
+CC	_	8	cc	_	_
+VB	_	8	conj	_	_
+DT	_	16	det	_	_
+JJ	_	16	attr	_	_
+JJ	_	16	attr	_	_
+NN	_	12	obj	_	_
+,	_	22	p	_	_
+VBP	_	22	aux	_	_
+PRP	_	22	nsbj	_	_
+CC	_	19	cc	_	_
+PRP	_	19	conj	_	_
+VBG	_	0	root	_	_
+DT	_	24	det	_	_
+NN	_	22	obj	_	_
+.	_	22	p	_	_
+

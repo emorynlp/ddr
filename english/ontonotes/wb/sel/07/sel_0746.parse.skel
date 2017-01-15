@@ -1,0 +1,17 @@
+PRP	_	3	nsbj	10:nsbj	_
+RB	_	3	adv	_	_
+VBD	_	0	root	_	_
+PRP$	_	5	poss	_	_
+NN	_	3	obj	8:nsbj	_
+DT	_	8	det	_	_
+JJ	_	8	attr	_	_
+NN	sem=clr	3	comp	_	_
+CC	_	3	cc	_	_
+VBP	_	3	conj	_	_
+PRP	_	14	nsbj	_	_
+TO	_	14	aux	_	_
+RB	_	14	adv	_	_
+VB	_	10	comp	_	_
+PRP	_	14	obj	_	_
+.	_	3	p	_	_
+

@@ -1,0 +1,25 @@
+DT	_	3	det	_	_
+JJS	_	3	attr	_	_
+NN	_	24	dep	_	_
+RB	_	3	adv	_	_
+PRP	_	7	nsbj	_	_
+VBP	_	7	cop	_	_
+JJ	_	24	comp	_	_
+RB	_	11	adv	_	_
+PRP	_	11	nsbj	_	_
+VBP	_	11	aux	_	_
+VBN	_	24	comp	_	_
+DT	_	13	det	_	_
+NN	_	11	obj	_	_
+IN	_	15	case	_	_
+NN	_	13	ppmod	_	_
+JJ	_	15	attr	_	_
+IN	_	18	case	_	_
+NN	_	16	ppmod	_	_
+IN	_	20	case	_	_
+NNP	_	18	ppmod	_	_
+PRP	_	24	nsbj	_	_
+VBZ	_	24	cop	_	_
+DT	_	24	det	_	_
+JJS	_	0	root	_	_
+

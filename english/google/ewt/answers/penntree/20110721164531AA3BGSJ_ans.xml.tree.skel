@@ -1,0 +1,219 @@
+NN	_	5	dep	_	_
+:	_	5	p	_	_
+VBZ	_	5	cop	_	_
+PRP	_	5	expl	_	_
+JJ	_	0	root	_	_
+TO	_	7	aux	_	_
+VB	_	5	csbj	_	_
+TO	_	9	aux	_	_
+VB	_	7	comp	_	_
+DT	_	11	det	_	_
+NN	_	9	obj	_	_
+IN	_	17	mark	_	_
+PRP	_	17	nsbj	_	_
+VBP	_	17	cop	_	_
+RB	_	16	com	_	_
+RB	_	17	adv	_	_
+JJ	sem=prp	9	advcl	_	_
+,	_	5	p	_	_
+.	_	5	p	_	_
+
+PRP	_	4	nsbj	6:nsbj	_
+VBD	_	4	aux	_	_
+RB	_	4	neg	_	_
+VB	_	0	root	_	_
+TO	_	6	aux	_	_
+VB	_	4	comp	_	_
+DT	_	8	det	_	_
+NNS	_	6	obj	_	_
+UH	_	4	disc	_	_
+NFP	_	4	p	_	_
+
+PRP	_	6	nsbj	_	_
+VBP	_	6	aux	_	_
+RB	_	6	neg	_	_
+VBG	_	6	raise	_	_
+TO	_	6	aux	_	_
+VB	_	11	advcl	_	_
+WP	_	6	obj	_	_
+,	_	11	p	_	_
+PRP	_	11	nsbj	_	_
+VBP	_	11	cop	_	_
+RB	_	0	root	_	_
+RB	sem=tmp	11	adv	_	_
+.	_	11	p	_	_
+
+PRP	_	4	nsbj	_	_
+VBP	_	4	aux	_	_
+RB	_	4	neg	_	_
+VB	_	0	root	_	_
+PRP	_	7	nsbj	10:nsbj	_
+TO	_	7	aux	_	_
+VB	_	4	comp	_	_
+NN	_	7	obj	_	_
+CC	_	7	cc	_	_
+NN	_	7	conj	_	_
+UH	_	4	disc	_	_
+
+UH	_	2	disc	_	_
+NNP	_	0	root	_	_
+
+UH	_	0	root	_	_
+UH	_	1	disc	_	_
+UH	_	1	disc	_	_
+UH	_	1	disc	_	_
+UH	_	1	disc	_	_
+UH	_	1	disc	_	_
+
+PRP	_	5	nsbj	_	_
+VBZ	_	5	cop	_	_
+RB	_	5	adv	_	_
+RB	_	5	neg	_	_
+PRP	_	0	root	_	_
+.	_	5	p	_	_
+
+UH	_	0	root	_	_
+
+PRP	_	4	nsbj	_	_
+VBZ	_	4	cop	_	_
+RB	_	4	neg	_	_
+DT	_	0	root	_	_
+IN	_	6	case	_	_
+PRP	_	4	ppmod	_	_
+UH	_	4	disc	_	_
+
+PRP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+PRP	_	2	obj	_	_
+NNP	_	2	voc	_	_
+.	_	2	p	_	_
+
+PRP	_	4	nsbj	_	_
+VBP	_	4	aux	_	_
+RB	_	4	neg	_	_
+VB	_	0	root	_	_
+.	_	4	p	_	_
+
+WRB	sem=mnr	4	adv	_	_
+VBD	_	4	aux	_	_
+PRP	_	4	nsbj	_	_
+VB	_	0	root	_	_
+.	_	4	p	_	_
+
+PRP	_	4	nsbj	_	_
+VBZ	_	4	cop	_	_
+RB	_	4	neg	_	_
+PRP	_	5	comp	_	_
+VBZ	_	0	root	_	_
+PRP	_	5	nsbj	_	_
+.	_	5	p	_	_
+
+PRP	_	4	nsbj	_	_
+VBP	_	4	aux	_	_
+RB	_	4	adv	_	_
+VBG	_	0	root	_	_
+WRB	sem=tmp	7	adv	_	_
+PRP	_	7	nsbj	_	_
+VBP	sem=tmp	4	advcl	_	_
+IN	_	9	case	_	_
+NN	sem=clr	7	ppmod	_	_
+CC	_	4	cc	_	_
+RB	_	16	adv	_	_
+PRP	_	16	nsbj	_	_
+VBP	_	16	cop	_	_
+RB	_	16	neg	_	_
+RB	_	16	adv	_	_
+JJ	_	19	comp	_	_
+PRP	_	19	nsbj	_	_
+RB	_	19	adv	_	_
+VBP	_	4	conj	_	_
+IN	_	22	case	_	_
+JJ	_	22	attr	_	_
+NNS	sem=clr	19	ppmod	_	_
+NFP	_	19	p	_	_
+
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+WP	_	2	obj	_	_
+UH	_	2	disc	_	_
+
+WP	_	0	root	_	_
+.	_	1	p	_	_
+
+UH	_	6	disc	_	_
+CC	_	6	cc	_	_
+PRP	_	6	nsbj	_	_
+MD	_	6	modal	_	_
+RB	_	6	neg	_	_
+VB	_	0	root	_	_
+PRP$	_	8	poss	_	_
+NN	_	6	obj	_	_
+NFP	_	6	p	_	_
+
+NN	_	21	dep	_	_
+:	_	21	p	_	_
+PRP	_	4	nsbj	_	_
+VBP	_	21	comp	_	_
+WRB	_	15	adv	_	_
+PRP	_	7	nsbj	15:nsbj	_
+VBZ	_	4	comp	_	_
+PRP	_	11	nsbj	_	_
+VBZ	_	11	cop	_	_
+RB	_	11	neg	_	_
+NNP	_	7	comp	_	_
+CC	_	7	cc	_	_
+VBZ	_	15	aux	_	_
+RB	_	15	neg	_	_
+VB	_	7	conj	_	_
+PRP	_	18	nsbj	_	_
+VBZ	_	18	cop	_	_
+PRP	_	15	comp	_	_
+,	_	21	p	_	_
+PRP	_	21	nsbj	_	_
+VBP	_	0	root	_	_
+PRP	_	24	nsbj	_	_
+DT	_	22	appo	_	_
+VBP	_	21	comp	_	_
+WP	sem=clr	28	ppmod	_	_
+PRP	_	28	nsbj	_	_
+VBZ	_	28	aux	_	_
+VBG	_	24	comp	_	_
+IN	_	25	case	_	_
+.	_	21	p	_	_
+
+NN	_	6	dep	_	_
+:	_	6	p	_	_
+RB	sem=tmp	6	adv	_	_
+PRP	_	6	nsbj	_	_
+VBP	_	6	cop	_	_
+JJ	_	0	root	_	_
+.	_	6	p	_	_
+
+NN	_	6	dep	_	_
+:	_	6	p	_	_
+WRB	sem=mnr	6	adv	_	_
+VBD	_	6	aux	_	_
+PRP	_	6	nsbj	_	_
+VB	_	0	root	_	_
+.	_	6	p	_	_
+
+UH	_	8	disc	_	_
+PRP	_	8	nsbj	_	_
+RB	_	8	adv	_	_
+VBP	_	8	cop	_	_
+RB	_	8	neg	_	_
+RB	_	7	com	_	_
+RB	_	8	adv	_	_
+JJR	_	0	root	_	_
+IN	_	10	case	_	_
+PRP	_	8	ppmod	_	_
+
+CC	_	5	cc	_	_
+PRP$	_	3	poss	_	_
+NN	_	5	nsbj	_	_
+VBD	_	5	cop	_	_
+JJR	_	0	root	_	_
+IN	_	7	case	_	_
+PRP	_	5	ppmod	_	_
+.	_	5	p	_	_
+

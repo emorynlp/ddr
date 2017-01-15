@@ -1,0 +1,14 @@
+DT	_	2	det	_	_
+NN	_	0	root	_	_
+DT	_	5	det	_	_
+NNP	_	5	com	_	_
+NN	_	6	nsbj	_	_
+VBD	_	2	advcl	_	_
+PRP	_	6	obj	_	_
+RP	_	6	prt	_	_
+RB	_	11	adv	_	_
+DT	_	11	det	_	_
+NN	_	12	advnp	_	_
+RB	sem=tmp	6	adv	_	_
+.	_	2	p	_	_
+

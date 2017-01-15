@@ -1,0 +1,24 @@
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+.	_	2	p	_	_
+
+NNS	_	15	dep	_	_
+JJ	_	1	dep	_	_
+JJ	_	5	attr	_	_
+NN	_	5	com	_	_
+NN	_	15	nsbj	_	_
+-LRB-	_	11	p	_	_
+JJ	_	9	adv	_	_
+HYPH	_	9	p	_	_
+JJ	_	11	adv	_	_
+,	_	11	p	_	_
+JJ	_	5	attr	_	_
+,	_	11	p	_	_
+FW	_	11	adv	_	_
+-RRB-	_	11	p	_	_
+VBZ	_	0	root	_	_
+NNS	_	17	nsbj	_	_
+VBG	_	15	comp	_	_
+RB	sem=loc	17	adv	_	_
+.	_	15	p	_	_
+

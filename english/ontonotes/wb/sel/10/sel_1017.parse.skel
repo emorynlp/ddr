@@ -1,0 +1,26 @@
+NNS	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+DT	_	5	det	_	_
+VBG	_	5	attr	_	_
+NN	_	2	obj	_	_
+IN	_	7	case	_	_
+NNS	_	5	ppmod	10:nsbj	_
+WDT	_	10	r-nsbj	_	_
+MD	_	10	modal	_	_
+VB	_	7	relcl	_	_
+NNS	_	10	obj	_	_
+RB	_	13	adv	_	_
+JJ	_	11	attr	_	_
+IN	_	15	case	_	_
+VBG	_	13	ppmod	_	_
+NNS	_	15	obj	_	_
+IN	_	18	case	_	_
+NNP	sem=clr	15	ppmod	_	_
+CC	_	15	cc	_	_
+VBG	_	15	conj	_	_
+NNS	_	20	obj	_	_
+VBG	_	20	advcl	_	_
+NNP	_	24	com	_	_
+NNPS	_	22	obj	_	_
+.	_	2	p	_	_
+

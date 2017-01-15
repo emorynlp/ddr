@@ -1,0 +1,13 @@
+DT	_	7	nsbj	_	_
+VBZ	_	7	cop	_	_
+DT	_	7	det	_	_
+JJS	_	7	attr	_	_
+NNP	_	7	poss	_	_
+POS	_	5	case	_	_
+NN	_	0	root	12:obj	_
+PRP	_	12	nsbj	_	_
+VBP	_	12	aux	_	_
+RB	sem=tmp	12	adv	_	_
+VBN	_	12	cop	_	_
+IN	sem=dir	7	relcl	_	_
+

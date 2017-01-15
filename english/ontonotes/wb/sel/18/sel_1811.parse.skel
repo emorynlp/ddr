@@ -1,0 +1,16 @@
+``	_	11	p	_	_
+IN	_	4	case	_	_
+DT	_	4	det	_	_
+NN	sem=tmp	11	ppmod	_	_
+RB	_	4	adv	_	_
+,	_	11	p	_	_
+PRP	_	11	nsbj	13:nsbj	_
+MD	_	11	modal	_	_
+RB	_	10	com	_	_
+RB	sem=tmp	11	neg	_	_
+VB	_	0	root	_	_
+TO	_	13	aux	_	_
+VB	sem=prp	11	advcl	_	_
+NNS	_	13	obj	_	_
+.	_	11	p	_	_
+

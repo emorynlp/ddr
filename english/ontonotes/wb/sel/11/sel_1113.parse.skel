@@ -1,0 +1,23 @@
+VBN	_	0	root	_	_
+IN	_	3	case	_	_
+CD	sem=tmp	1	ppmod	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NN	_	1	nsbj	_	_
+IN	_	10	case	_	_
+JJ	_	10	attr	_	_
+NNP	_	10	com	_	_
+NNS	_	6	ppmod	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+NN	_	10	ppmod	_	_
+TO	_	15	aux	_	_
+VB	_	13	acl	_	_
+NNP	_	17	advnp	_	_
+VBN	_	18	attr	_	_
+NN	_	19	nsbj	_	_
+JJ	_	15	comp	_	_
+IN	_	21	case	_	_
+DT	_	19	ppmod	_	_
+.	_	1	p	_	_
+

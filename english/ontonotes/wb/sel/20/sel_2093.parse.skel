@@ -1,0 +1,24 @@
+TO	_	2	aux	_	_
+VB	_	14	advcl	_	_
+NNP	_	4	com	_	_
+NNP	_	5	nsbj	_	_
+VB	_	2	comp	_	_
+DT	_	7	det	_	_
+NN	_	5	obj	_	_
+,	_	14	p	_	_
+NNP	_	10	com	_	_
+NNP	_	14	nsbj	_	_
+VBZ	_	14	aux	_	_
+JJ	_	14	modal	_	_
+TO	_	14	aux	_	_
+VB	_	0	root	_	_
+DT	_	17	det	_	_
+JJ	_	17	attr	_	_
+NN	_	14	obj	_	_
+IN	_	22	case	_	_
+DT	_	22	det	_	_
+JJ	_	22	attr	_	_
+JJ	_	22	attr	_	_
+NN	_	17	ppmod	_	_
+.	_	14	p	_	_
+

@@ -1,0 +1,13 @@
+JJ	_	2	attr	_	_
+NNP	_	0	root	_	_
+.	_	2	p	_	_
+
+NN	_	7	dep	_	_
+IN	_	3	case	_	_
+VBG	_	1	ppmod	_	_
+PRP$	_	6	poss	_	_
+NN	_	6	com	_	_
+NN	_	3	obj	_	_
+DT	_	0	root	_	_
+SYM	_	7	p	_	_
+

@@ -1,0 +1,20 @@
+IN	_	2	case	_	_
+PRP	sem=mnr	8	ppmod	13:ppmod	_
+IN	_	5	case	_	_
+VBN	_	5	attr	_	_
+NNS	sem=loc	8	ppmod	13:ppmod	_
+PRP	_	8	nsbj	13:nsbj	_
+RB	sem=mnr	8	adv	13:adv	_
+VBP	_	0	root	_	_
+DT	_	10	det	_	_
+NN	_	8	obj	_	_
+CC	_	8	cc	_	_
+RB	_	13	adv	_	_
+VBP	_	8	conj	_	_
+NN	_	13	obj	_	_
+TO	_	16	aux	_	_
+VB	sem=clr	13	comp	_	_
+DT	_	18	det	_	_
+NN	_	16	obj	_	_
+.	_	8	p	_	_
+

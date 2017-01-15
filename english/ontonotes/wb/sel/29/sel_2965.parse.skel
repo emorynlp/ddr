@@ -1,0 +1,18 @@
+VB	_	0	root	_	_
+DT	_	3	det	_	_
+NN	_	1	obj	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+PRP	_	5	obj	_	_
+RP	_	5	prt	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+VB	_	1	conj	_	_
+PRP	_	12	nsbj	_	_
+VB	_	10	comp	_	_
+IN	_	16	case	_	_
+RB	_	15	adv	_	_
+CD	_	16	num	_	_
+NNS	sem=tmp	12	ppmod	_	_
+.	_	1	p	_	_
+

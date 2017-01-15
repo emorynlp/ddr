@@ -1,0 +1,12 @@
+WRB	sem=tmp	3	adv	_	_
+PRP	_	3	nsbj	_	_
+VBP	sem=tmp	10	advcl	_	_
+JJ	_	5	attr	_	_
+NNS	_	3	obj	_	_
+PRP	_	10	obj	_	_
+MD	_	10	modal	_	_
+RB	sem=mnr	10	adv	_	_
+VB	_	10	aux	_	_
+VBN	_	0	root	_	_
+.	_	10	p	_	_
+

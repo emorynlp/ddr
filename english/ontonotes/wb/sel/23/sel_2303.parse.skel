@@ -1,0 +1,23 @@
+WRB	sem=tmp	6	adv	_	_
+DT	_	3	det	_	_
+NN	_	6	nsbj	_	_
+VBZ	_	6	raise	_	_
+TO	_	6	aux	_	_
+VB	sem=tmp	21	advcl	_	_
+RB	sem=loc	6	adv	_	_
+IN	_	9	case	_	_
+VBG	_	7	ppmod	_	_
+CD	_	11	num	_	_
+NNS	_	9	obj	_	_
+IN	_	13	case	_	_
+NN	_	11	ppmod	_	_
+IN	_	17	case	_	_
+DT	_	17	det	_	_
+JJ	_	17	attr	_	_
+NN	sem=mnr	9	ppmod	_	_
+,	_	21	p	_	_
+NN	_	21	nsbj	_	_
+VBZ	_	21	cop	_	_
+JJ	_	0	root	_	_
+.	_	21	p	_	_
+

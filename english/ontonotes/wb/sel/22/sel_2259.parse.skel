@@ -1,0 +1,13 @@
+PRP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+IN	_	4	case	_	_
+PRP	sem=clr	2	ppmod	_	_
+IN	_	9	mark	_	_
+PRP	_	9	nsbj	_	_
+MD	_	9	modal	_	_
+VB	_	9	cop	_	_
+NN	_	2	comp	_	_
+IN	_	11	case	_	_
+JJ	_	9	ppmod	_	_
+.	_	2	p	_	_
+

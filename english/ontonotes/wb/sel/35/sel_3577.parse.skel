@@ -1,0 +1,19 @@
+VBD	_	0	root	_	_
+:	_	1	p	_	_
+WDT	_	5	nsbj	_	_
+RB	_	5	adv	_	_
+VBD	_	1	comp	_	_
+RP	_	5	prt	_	_
+IN	_	8	case	_	_
+VBG	sem=clr	5	ppmod	_	_
+DT	_	17	det	_	_
+VBG	_	17	attr	_	_
+HYPH	_	10	p	_	_
+PRP$	_	16	poss	_	_
+HYPH	_	16	p	_	_
+JJ	_	16	attr	_	_
+HYPH	_	16	p	_	_
+NN	_	10	obj	_	_
+NN	_	8	obj	_	_
+.	_	1	p	_	_
+

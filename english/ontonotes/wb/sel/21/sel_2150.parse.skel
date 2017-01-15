@@ -1,0 +1,13 @@
+IN	_	5	mark	_	_
+PRP	_	5	nsbj	7:nsbj	_
+VBP	_	5	aux	_	_
+RB	_	5	neg	_	_
+VB	_	10	advcl	_	_
+TO	_	7	aux	_	_
+VB	_	5	comp	_	_
+NN	_	7	obj	_	_
+,	_	10	p	_	_
+VB	_	0	root	_	_
+DT	_	10	obj	_	_
+.	_	10	p	_	_
+

@@ -1,0 +1,10 @@
+NNP	_	3	nsbj	_	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+JJ	_	5	attr	_	_
+NN	_	6	com	_	_
+NNP	_	3	obj	_	_
+IN	_	8	case	_	_
+CD	sem=tmp	3	ppmod	_	_
+.	_	3	p	_	_
+

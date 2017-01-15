@@ -1,0 +1,17 @@
+DT	_	2	det	_	_
+NN	_	8	nsbj	_	_
+TO	_	4	aux	_	_
+VB	_	2	acl	_	_
+NN	_	4	obj	_	_
+MD	_	8	modal	_	_
+RB	_	8	adv	_	_
+VB	_	0	root	_	_
+RBR	_	10	adv	_	_
+JJ	_	11	attr	_	_
+NNS	_	8	obj	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+JJ	_	15	attr	_	_
+NN	sem=tmp	8	ppmod	_	_
+.	_	8	p	_	_
+

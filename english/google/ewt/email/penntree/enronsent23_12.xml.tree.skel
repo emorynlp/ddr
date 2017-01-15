@@ -1,0 +1,40 @@
+MD	_	3	modal	_	_
+RB	_	3	neg	_	_
+VB	_	0	root	_	_
+PRP	_	5	nsbj	_	_
+VBD	_	3	comp	_	_
+JJ	_	7	attr	_	_
+NN	sem=tmp	5	advnp	_	_
+.	_	3	p	_	_
+
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+.	_	2	p	_	_
+
+DT	_	3	nsbj	_	_
+VBZ	_	3	cop	_	_
+JJ	_	18	comp	_	_
+,	_	18	p	_	_
+PRP	_	8	nsbj	10:nsbj	_
+VBP	_	8	aux	_	_
+RB	_	8	neg	_	_
+VB	_	18	comp	_	_
+TO	_	10	aux	_	_
+VB	_	8	comp	_	_
+PRP	_	10	obj	_	_
+RB	_	8	adv	_	_
+,	_	18	p	_	_
+PRP	_	18	nsbj	_	_
+RB	_	18	adv	_	_
+VBP	_	18	raise	_	_
+TO	_	18	aux	_	_
+VB	_	0	root	_	_
+DT	_	20	det	_	_
+NN	_	18	obj	_	_
+.	_	18	p	_	_
+
+PRP	_	4	nsbj	_	_
+MD	_	4	modal	_	_
+RB	_	4	neg	_	_
+VB	_	0	root	_	_
+

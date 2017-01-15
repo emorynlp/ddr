@@ -1,0 +1,19 @@
+NN	_	2	com	_	_
+NN	_	3	nsbj	6:nsbj;10:nsbj;15:nsbj	_
+VBZ	_	0	root	_	_
+JJR	_	3	obj	_	_
+,	_	3	p	_	_
+VBZ	_	3	conj	_	_
+JJ	_	8	attr	_	_
+NN	_	6	obj	_	_
+,	_	6	p	_	_
+VBZ	_	3	conj	_	_
+,	_	10	p	_	_
+CC	_	10	cc	_	_
+VBZ	_	15	cop	_	_
+RB	_	15	adv	_	_
+JJ	_	3	conj	_	_
+IN	_	17	case	_	_
+NNS	_	15	ppmod	_	_
+.	_	3	p	_	_
+

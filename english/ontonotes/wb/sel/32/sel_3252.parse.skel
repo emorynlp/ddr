@@ -1,0 +1,17 @@
+DT	_	2	det	_	_
+NN	_	7	nsbj	_	_
+IN	_	5	case	_	_
+DT	_	5	det	_	_
+NNP	_	2	ppmod	_	_
+RB	sem=mnr	7	adv	_	_
+VBZ	_	0	root	_	_
+RP	_	7	prt	_	_
+IN	_	15	mark	_	_
+DT	_	11	det	_	_
+NNS	_	15	nsbj	_	_
+IN	_	13	case	_	_
+NN	_	11	ppmod	_	_
+VBZ	_	15	cop	_	_
+NN	_	7	comp	_	_
+.	_	7	p	_	_
+

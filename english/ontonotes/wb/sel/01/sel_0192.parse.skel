@@ -1,0 +1,14 @@
+JJ	_	2	attr	_	_
+NNS	_	5	obj	_	_
+MD	_	5	modal	_	_
+VB	_	5	aux	_	_
+VBN	_	8	advcl	_	_
+:	_	8	p	_	_
+UH	_	8	disc	_	_
+VB	_	0	root	_	_
+DT	_	10	det	_	_
+NN	_	8	obj	12:obj	_
+TO	_	12	aux	_	_
+VB	_	10	relcl	_	_
+.	_	8	p	_	_
+

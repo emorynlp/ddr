@@ -1,0 +1,36 @@
+RB	sem=tmp	6	adv	_	O
+NNP	_	3	com	_	O
+NNP	_	5	com	_	O
+NNP	_	5	com	_	B-PERSON
+NNP	_	6	nsbj	_	L-PERSON
+VBD	_	0	root	_	O
+JJ	_	8	attr	_	U-NORP
+NN	_	6	obj	_	O
+PRP	_	10	nsbj	_	O
+VBZ	_	6	comp	_	O
+DT	_	13	det	_	O
+NN	_	13	com	_	O
+NN	_	16	obj	_	O
+MD	_	16	modal	_	O
+VB	_	16	aux	_	O
+VBN	_	10	comp	_	O
+IN	_	22	case	_	O
+NNP	_	22	poss	_	U-GPE
+POS	_	18	case	_	O
+NNP	_	21	com	_	B-DATE
+NN	_	22	com	_	L-DATE
+NN	sem=tmp	16	ppmod	_	O
+.	_	6	p	_	O
+
+PRP	_	2	nsbj	_	O
+VBD	_	0	root	_	O
+PRP	_	6	nsbj	8:nsbj	O
+MD	_	6	modal	_	O
+RB	sem=tmp	6	adv	_	O
+VB	_	2	comp	_	O
+IN	_	8	case	_	O
+VBG	sem=clr	6	ppmod	_	O
+JJ	_	10	attr	_	U-NORP
+NN	_	8	obj	_	O
+.	_	2	p	_	O
+

@@ -1,0 +1,16 @@
+WRB	sem=loc	3	adv	_	_
+PRP	_	3	nsbj	_	_
+VBP	sem=loc	0	root	_	_
+JJ	_	7	attr	_	_
+RB	_	6	adv	_	_
+JJ	_	7	attr	_	_
+NNS	_	3	obj	_	_
+JJ	_	14	adv	_	_
+IN	_	14	case	_	_
+:	_	14	p	_	_
+``	_	14	p	_	_
+VB	_	14	aux	_	_
+RB	_	14	neg	_	_
+VB	_	7	ppmod	_	_
+.	_	3	p	_	_
+

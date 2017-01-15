@@ -1,0 +1,15 @@
+NFP	_	3	p	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	0	root	_	_
+DT	_	5	det	_	_
+NN	_	13	nsbj	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	_	5	ppmod	_	_
+VBZ	_	13	aux	_	_
+VBG	_	13	raise	_	_
+TO	_	13	aux	_	_
+VB	_	13	cop	_	_
+JJ	_	3	comp	_	_
+.	_	3	p	_	_
+

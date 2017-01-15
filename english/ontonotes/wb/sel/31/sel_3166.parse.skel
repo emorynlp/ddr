@@ -1,0 +1,24 @@
+PRP	_	8	nsbj	18:nsbj	_
+VBP	_	8	aux	_	_
+RB	_	7	neg	_	_
+,	_	7	p	_	_
+RB	_	7	adv	_	_
+,	_	7	p	_	_
+RB	sem=tmp	8	adv	18:adv	_
+VBN	_	0	root	_	_
+DT	_	10	det	_	_
+NN	_	8	obj	_	_
+RB	sem=tmp	8	adv	_	_
+CC	_	11	cc	_	_
+IN	_	14	case	_	_
+NNS	_	11	conj	_	_
+,	_	8	p	_	_
+CC	_	8	cc	_	_
+RB	sem=tmp	18	neg	8:neg	_
+VBN	_	8	conj	_	_
+NN	_	18	obj	_	_
+IN	_	22	case	_	_
+JJ	_	22	attr	_	_
+NN	_	19	ppmod	_	_
+.	_	8	p	_	_
+

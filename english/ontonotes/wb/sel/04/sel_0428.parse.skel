@@ -1,0 +1,23 @@
+PRP	_	3	expl	_	_
+VBZ	_	3	cop	_	_
+JJ	_	0	root	_	_
+IN	_	8	mark	_	_
+NNS	_	8	nsbj	_	_
+CC	_	5	cc	_	_
+NNS	_	5	conj	_	_
+VBP	_	3	csbj	_	_
+RB	_	10	adv	_	_
+JJR	_	8	obj	_	_
+RB	sem=loc	8	adv	_	_
+IN	_	13	case	_	_
+NNP	_	11	ppmod	_	_
+,	_	3	p	_	_
+CC	_	3	cc	_	_
+PRP	_	19	nsbj	_	_
+MD	_	19	modal	_	_
+RB	_	19	neg	_	_
+VB	_	3	conj	_	_
+IN	_	21	case	_	_
+PRP	sem=clr	19	ppmod	_	_
+.	_	19	p	_	_
+

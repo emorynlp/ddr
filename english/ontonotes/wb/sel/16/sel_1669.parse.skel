@@ -1,0 +1,20 @@
+CC	_	5	cc	_	_
+RB	sem=tmp	5	adv	_	_
+PRP	_	5	nsbj	7:nsbj	_
+RB	sem=mnr	5	adv	_	_
+VBP	_	0	root	_	_
+IN	_	7	case	_	_
+VBG	sem=clr	5	ppmod	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+JJ	_	13	attr	_	_
+JJ	_	13	attr	_	_
+JJ	_	13	attr	_	_
+NN	sem=clr	7	ppmod	_	_
+,	_	13	p	_	_
+CC	_	13	cc	_	_
+JJ	_	18	attr	_	_
+JJ	_	18	attr	_	_
+NNS	_	13	conj	_	_
+.	_	5	p	_	_
+

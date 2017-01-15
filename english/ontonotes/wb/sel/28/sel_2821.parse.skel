@@ -1,0 +1,23 @@
+``	_	3	p	_	_
+PRP	_	3	nsbj	_	_
+VBD	_	0	root	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+NN	_	3	obj	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NN	_	10	com	_	_
+NN	_	6	ppmod	_	_
+IN	_	16	mark	_	_
+PRP	_	16	nsbj	_	_
+VBD	_	16	aux	_	_
+JJ	_	16	modal	_	_
+TO	_	16	aux	_	_
+VB	sem=tmp	3	advcl	_	_
+PRP$	_	18	poss	_	_
+NN	_	16	obj	_	_
+IN	_	21	case	_	_
+DT	_	21	det	_	_
+NN	sem=clr	16	ppmod	_	_
+.	_	3	p	_	_
+

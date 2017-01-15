@@ -1,0 +1,17 @@
+VBD	_	3	aux	_	_
+PRP	_	3	nsbj	5:nsbj	_
+VB	_	12	comp	_	_
+TO	_	5	aux	_	_
+VB	_	3	comp	_	_
+NNP	_	5	obj	_	_
+.	_	12	p	_	_
+UH	_	12	disc	_	_
+,	_	12	p	_	_
+IN	_	12	mark	_	_
+NNP	_	12	nsbj	_	_
+VBD	_	0	root	_	_
+``	_	12	p	_	_
+NNS	_	12	obj	_	_
+''	_	12	p	_	_
+.	_	12	p	_	_
+

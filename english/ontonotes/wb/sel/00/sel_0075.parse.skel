@@ -1,0 +1,15 @@
+JJ	_	2	attr	_	_
+NNS	_	3	nsbj	_	_
+VBP	_	9	comp	_	_
+IN	_	5	case	_	_
+NNPS	sem=clr	3	ppmod	_	_
+WP	_	9	obj	_	_
+VBZ	_	9	aux	_	_
+DT	_	9	nsbj	_	_
+VBN	_	0	root	_	_
+TO	_	11	aux	_	_
+VB	_	9	comp	_	_
+IN	_	13	case	_	_
+PRP	sem=clr	11	ppmod	_	_
+.	_	9	p	_	_
+

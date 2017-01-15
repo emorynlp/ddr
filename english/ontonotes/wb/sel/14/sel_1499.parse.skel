@@ -1,0 +1,17 @@
+VBD	_	9	advcl	_	_
+PRP	_	1	obj	_	_
+IN	_	4	case	_	_
+NNP	sem=loc	1	ppmod	_	_
+NN	sem=tmp	1	advnp	_	_
+PRP	_	9	nsbj	_	_
+VBD	_	9	cop	_	_
+DT	_	9	det	_	_
+NN	_	0	root	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+NN	_	9	ppmod	_	_
+IN	_	15	case	_	_
+JJ	_	15	attr	_	_
+NNS	_	12	ppmod	_	_
+.	_	9	p	_	_
+

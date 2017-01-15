@@ -1,0 +1,22 @@
+IN	_	3	case	_	_
+DT	_	3	det	_	_
+NN	sem=tmp	10	ppmod	_	_
+CC	_	3	cc	_	_
+IN	_	8	case	_	_
+NNP	_	8	poss	_	_
+POS	_	6	case	_	_
+NN	_	3	conj	_	_
+RB	sem=tmp	10	neg	_	_
+VB	_	0	root	_	_
+DT	_	15	det	_	_
+JJ	_	15	attr	_	_
+JJ	_	15	attr	_	_
+NN	_	15	com	_	_
+NN	_	10	obj	_	_
+CC	_	18	cc	_	_
+IN	_	18	case	_	_
+NN	sem=prp	10	ppmod	_	_
+CC	_	18	cc	_	_
+NN	_	18	conj	_	_
+.	_	10	p	_	_
+

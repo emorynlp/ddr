@@ -1,0 +1,12 @@
+PRP	_	6	nsbj	_	_
+MD	_	6	modal	_	_
+IN	_	5	case	_	_
+JJ	_	5	attr	_	_
+NNS	_	6	ppmod	_	_
+VB	_	0	root	_	_
+WDT	_	8	det	_	_
+NN	_	10	obj	_	_
+NNP	_	10	nsbj	_	_
+VBZ	_	6	comp	_	_
+.	_	6	p	_	_
+

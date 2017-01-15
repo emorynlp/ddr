@@ -1,0 +1,13 @@
+CC	_	5	cc	_	_
+PRP	_	5	nsbj	_	_
+MD	_	5	modal	_	_
+RB	_	5	adv	_	_
+VB	_	0	root	_	_
+NN	_	7	com	_	_
+NN	_	8	com	_	_
+NN	_	5	obj	11:nsbj	_
+WDT	_	11	r-nsbj	_	_
+VBZ	_	11	cop	_	_
+JJ	_	8	relcl	_	_
+.	_	5	p	_	_
+

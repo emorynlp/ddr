@@ -1,0 +1,17 @@
+DT	_	3	det	_	_
+NN	_	3	com	_	_
+NN	_	7	nsbj	6:obj	_
+PRP	_	6	nsbj	_	_
+RB	_	6	adv	_	_
+VBP	_	3	relcl	_	_
+VBZ	_	0	root	_	_
+,	_	7	p	_	_
+VB	_	7	comp	_	_
+NNP	_	9	obj	_	_
+IN	_	15	case	_	_
+VBG	_	15	cop	_	_
+DT	_	15	det	_	_
+JJ	_	15	attr	_	_
+NN	sem=clr	9	ppmod	_	_
+.	_	7	p	_	_
+

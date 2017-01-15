@@ -1,0 +1,15 @@
+NNP	_	2	com	_	_
+NNP	_	3	nsbj	_	_
+VBD	_	0	root	_	_
+:	_	3	p	_	_
+MD	_	10	modal	_	_
+DT	_	9	det	_	_
+NNP	_	9	com	_	_
+NN	_	9	com	_	_
+NNS	_	10	nsbj	11:nsbj	_
+VB	_	3	comp	_	_
+VBG	_	10	comp	_	_
+DT	_	13	det	_	_
+NN	_	11	obj	_	_
+.	_	3	p	_	_
+

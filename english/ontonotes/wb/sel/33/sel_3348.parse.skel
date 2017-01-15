@@ -1,0 +1,17 @@
+CD	_	4	num	_	_
+NNP	_	3	com	_	_
+NNP	_	4	com	_	_
+NNPS	_	8	nsbj	_	_
+IN	_	7	case	_	_
+CD	_	7	num	_	_
+NNP	sem=tmp	8	ppmod	_	_
+VBD	_	0	root	_	_
+JJ	_	10	attr	_	_
+NNS	_	8	obj	_	_
+RP	_	8	prt	_	_
+,	_	8	p	_	_
+IN	_	16	case	_	_
+IN	_	16	case	_	_
+DT	_	16	det	_	_
+NNP	_	8	ppmod	_	_
+

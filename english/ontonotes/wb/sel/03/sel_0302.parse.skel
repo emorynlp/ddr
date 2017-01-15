@@ -1,0 +1,14 @@
+NNS	_	7	dep	_	_
+DT	_	7	nsbj	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NNS	_	6	com	_	_
+NNS	_	2	ppmod	_	_
+VBP	_	0	root	_	_
+JJ	_	10	attr	_	_
+HYPH	_	10	p	_	_
+NN	_	12	com	_	_
+NN	_	12	com	_	_
+NNS	_	7	obj	_	_
+.	_	7	p	_	_
+

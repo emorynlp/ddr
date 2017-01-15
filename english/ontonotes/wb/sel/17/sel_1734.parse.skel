@@ -1,0 +1,13 @@
+DT	_	2	det	_	_
+NNS	_	9	nsbj	5:nsbj	_
+PRP	_	4	nsbj	_	_
+VBP	_	2	relcl	_	_
+VBG	_	4	comp	_	_
+``	_	5	p	_	_
+NNS	_	5	obj	_	_
+''	_	5	p	_	_
+VBP	_	0	root	_	_
+DT	_	11	det	_	_
+NN	_	9	obj	_	_
+.	_	9	p	_	_
+

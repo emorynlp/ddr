@@ -1,0 +1,26 @@
+RB	_	16	adv	_	_
+,	_	16	p	_	_
+RB	_	4	adv	_	_
+VBG	_	18	nsbj	22:nsbj	_
+DT	_	6	det	_	_
+NN	_	4	obj	_	_
+IN	_	8	case	_	_
+NN	_	6	ppmod	_	_
+IN	_	11	case	_	_
+JJ	_	11	attr	_	_
+NN	_	8	ppmod	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	_	4	ppmod	_	_
+VBZ	_	16	cop	_	_
+JJ	_	0	root	_	_
+TO	_	18	aux	_	_
+VB	_	16	comp	_	_
+NN	_	20	com	_	_
+NN	_	18	obj	_	_
+CC	_	18	cc	_	_
+VB	_	18	conj	_	_
+NN	_	24	com	_	_
+NN	_	22	obj	_	_
+.	_	16	p	_	_
+

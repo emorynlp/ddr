@@ -1,0 +1,24 @@
+IN	_	3	mark	_	_
+NNP	_	3	nsbj	_	_
+VBD	sem=tmp	11	advcl	_	_
+RP	_	3	prt	_	_
+DT	_	8	det	_	_
+$	_	7	meta	_	_
+CD	_	8	num	_	_
+NN	_	3	obj	_	_
+,	_	11	p	_	_
+PRP	_	11	nsbj	_	_
+VBD	_	0	root	_	_
+JJ	_	11	comp	_	_
+TO	_	14	aux	_	_
+VB	_	12	comp	_	_
+PRP$	_	18	poss	_	_
+CD	_	18	num	_	_
+NN	_	18	com	_	_
+NNS	_	14	obj	_	_
+IN	_	22	case	_	_
+NNP	_	22	poss	_	_
+POS	_	20	case	_	_
+NN	sem=dir	14	ppmod	_	_
+.	_	11	p	_	_
+

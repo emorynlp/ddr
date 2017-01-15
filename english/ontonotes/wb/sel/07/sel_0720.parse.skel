@@ -1,0 +1,14 @@
+VB	_	0	root	_	_
+DT	_	3	det	_	_
+NN	_	1	obj	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NN	_	3	ppmod	_	_
+,	_	1	p	_	_
+VB	_	1	dep	_	_
+NN	_	8	obj	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+NN	_	9	ppmod	_	_
+.	_	1	p	_	_
+

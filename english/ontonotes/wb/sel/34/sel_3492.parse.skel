@@ -1,0 +1,25 @@
+PRP	_	4	nsbj	7:nsbj	_
+MD	_	4	modal	_	_
+RB	_	4	adv	_	_
+VB	_	0	root	_	_
+PRP	_	4	obj	_	_
+TO	_	7	aux	_	_
+VB	sem=prp	4	advcl	_	_
+DT	_	10	det	_	_
+JJ	_	10	attr	_	_
+NN	_	7	obj	12:obj	_
+PRP	_	12	nsbj	_	_
+VBD	_	10	relcl	_	_
+,	_	4	p	_	_
+CC	_	4	cc	_	_
+PRP	_	18	nsbj	_	_
+VBP	_	18	cop	_	_
+RB	_	18	neg	_	_
+JJ	_	4	conj	_	_
+WRB	_	20	com	_	_
+RB	sem=mnr	23	adv	_	_
+DT	_	23	nsbj	_	_
+MD	_	23	modal	_	_
+VB	_	18	comp	_	_
+.	_	18	p	_	_
+

@@ -1,0 +1,23 @@
+RB	sem=tmp	2	adv	_	_
+VBZ	_	11	comp	_	_
+DT	_	4	det	_	_
+NN	_	2	nsbj	_	_
+NNP	_	9	com	_	_
+HYPH	_	9	p	_	_
+NNP	_	9	com	_	_
+HYPH	_	9	p	_	_
+NNP	_	4	appo	_	_
+:	_	11	p	_	_
+VB	_	0	root	_	_
+DT	_	14	det	_	_
+NN	_	14	com	_	_
+NN	_	11	obj	16:nsbj	_
+WDT	_	16	r-nsbj	_	_
+VBD	_	14	relcl	_	_
+RP	_	16	prt	_	_
+IN	_	21	case	_	_
+DT	_	21	det	_	_
+JJ	_	21	attr	_	_
+NN	sem=clr	16	ppmod	_	_
+.	_	11	p	_	_
+

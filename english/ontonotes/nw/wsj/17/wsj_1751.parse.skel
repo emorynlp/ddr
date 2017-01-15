@@ -1,0 +1,28 @@
+NNP	_	2	com	_	B-ORG
+NNP	_	10	nsbj	5:obj;8:nsbj	L-ORG
+,	_	2	p	_	O
+RB	sem=tmp	5	adv	_	O
+VBN	_	2	acl	_	O
+NNP	_	8	com	_	B-ORG
+HYPH	_	8	p	_	I-ORG
+NNP	sem=clr	5	comp	_	L-ORG
+,	_	2	p	_	O
+VBD	_	0	root	_	O
+DT	_	13	det	_	O
+JJ	_	13	attr	_	O
+NN	_	10	obj	_	O
+IN	_	15	case	_	O
+CD	sem=tmp	10	ppmod	_	U-DATE
+.	_	10	p	_	O
+
+NN	_	4	poss	_	U-DATE
+POS	_	1	case	_	O
+NNP	_	4	com	_	B-ORG
+NNP	_	5	nsbj	_	L-ORG
+VBD	_	0	root	_	O
+DT	_	7	det	_	O
+NN	_	9	poss	_	O
+POS	_	7	case	_	O
+NN	_	5	obj	_	O
+.	_	5	p	_	O
+

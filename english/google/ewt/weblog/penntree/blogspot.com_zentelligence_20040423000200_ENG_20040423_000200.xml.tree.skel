@@ -1,0 +1,42 @@
+WP	_	0	root	_	_
+IN	_	4	mark	_	_
+NNP	_	4	nsbj	_	_
+VBD	_	1	advcl	_	_
+IN	_	6	case	_	_
+NNP	sem=loc	4	ppmod	_	_
+.	_	1	p	_	_
+
+WP	_	0	root	_	_
+IN	_	4	mark	_	_
+NNP	_	4	nsbj	_	_
+VBD	_	1	advcl	_	_
+IN	_	15	case	_	_
+PRP$	_	15	poss	_	_
+NN	_	9	com	_	_
+HYPH	_	9	p	_	_
+NN	_	15	attr	_	_
+-LRB-	_	9	p	_	_
+CC	_	9	cc	_	_
+RB	sem=tmp	13	adv	_	_
+NN	_	9	conj	_	_
+-RRB-	_	15	p	_	_
+NNS	sem=clr	4	ppmod	_	_
+IN	_	22	case	_	_
+DT	_	22	det	_	_
+RB	_	20	adv	_	_
+HYPH	_	20	p	_	_
+JJ	_	22	attr	_	_
+NN	_	22	com	_	_
+NN	sem=clr	4	ppmod	_	_
+.	_	1	p	_	_
+
+-LRB-	_	8	p	_	_
+IN	_	4	case	_	_
+NNP	_	4	com	_	_
+NNP	_	8	ppmod	_	_
+IN	_	8	case	_	_
+NNP	_	8	com	_	_
+NNP	_	8	com	_	_
+NNP	_	0	root	_	_
+-RRB-	_	8	p	_	_
+

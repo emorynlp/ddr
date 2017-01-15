@@ -1,0 +1,18 @@
+DT	_	4	det	_	_
+RBR	_	3	adv	_	_
+VBN	_	4	attr	_	_
+NNS	_	8	nsbj	10:nsbj;12:nsbj	_
+RB	_	8	adv	_	_
+MD	_	8	modal	_	_
+RB	_	8	neg	_	_
+VB	_	0	root	_	_
+TO	_	10	aux	_	_
+VB	_	8	comp	_	_
+CC	_	10	cc	_	_
+VB	_	10	conj	_	_
+NN	_	12	obj	10:obj	_
+IN	_	16	case	_	_
+NNP	_	16	com	_	_
+NNP	sem=loc	13	ppmod	_	_
+.	_	8	p	_	_
+

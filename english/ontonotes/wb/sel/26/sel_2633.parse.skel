@@ -1,0 +1,16 @@
+RB	_	6	adv	_	_
+,	_	6	p	_	_
+JJ	_	4	attr	_	_
+NNS	_	6	nsbj	_	_
+VBP	_	6	aux	_	_
+VBG	_	0	root	_	_
+IN	_	10	case	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NN	sem=clr	6	ppmod	_	_
+WRB	sem=tmp	13	adv	_	_
+PRP	_	13	nsbj	_	_
+VBP	sem=tmp	6	advcl	_	_
+NFP	_	6	p	_	_
+.	_	6	p	_	_
+

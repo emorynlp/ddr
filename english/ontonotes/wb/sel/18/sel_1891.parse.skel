@@ -1,0 +1,15 @@
+EX	_	4	expl	_	_
+VBD	_	4	cop	_	_
+DT	_	4	det	_	_
+NNS	_	0	root	10:adv	_
+WRB	sem=loc	10	r-adv	_	_
+DT	_	8	det	_	_
+NN	_	8	com	_	_
+NN	_	10	nsbj	_	_
+MD	_	10	modal	_	_
+VB	_	4	relcl	_	_
+PRP$	_	13	poss	_	_
+NN	_	13	com	_	_
+NN	_	10	obj	_	_
+.	_	4	p	_	_
+

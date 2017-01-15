@@ -1,0 +1,17 @@
+PRP$	_	3	poss	_	_
+``	_	3	p	_	_
+NNS	_	7	nsbj	_	_
+''	_	3	p	_	_
+RB	_	7	adv	_	_
+RB	_	7	adv	_	_
+VBP	_	0	root	_	_
+IN	_	10	case	_	_
+PRP$	_	10	poss	_	_
+NNS	sem=clr	7	ppmod	13:nsbj	_
+WP	_	13	r-nsbj	_	_
+MD	_	13	modal	_	_
+VB	_	10	relcl	_	_
+IN	_	15	case	_	_
+PRP	sem=clr	13	ppmod	_	_
+.	_	7	p	_	_
+

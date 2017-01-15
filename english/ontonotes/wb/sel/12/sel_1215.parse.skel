@@ -1,0 +1,19 @@
+DT	_	2	det	_	_
+NN	_	4	nsbj	_	_
+VBZ	_	4	cop	_	_
+JJ	_	17	comp	_	_
+IN	_	6	case	_	_
+DT	_	4	ppmod	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NNP	_	10	com	_	_
+NNP	_	6	ppmod	13:obj	_
+PRP	_	13	nsbj	_	_
+RB	sem=tmp	13	adv	_	_
+VBP	_	10	relcl	_	_
+PRP	_	17	nsbj	_	_
+VBZ	_	17	raise	_	_
+RB	_	17	adv	_	_
+JJR	_	0	root	_	_
+.	_	17	p	_	_
+

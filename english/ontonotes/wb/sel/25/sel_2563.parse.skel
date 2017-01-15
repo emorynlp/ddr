@@ -1,0 +1,22 @@
+DT	_	2	det	_	_
+NN	_	4	nsbj	_	_
+MD	_	4	modal	_	_
+VB	_	0	root	_	_
+RP	_	4	prt	_	_
+IN	_	9	case	_	_
+VBG	_	9	raise	_	_
+TO	_	9	aux	_	_
+VB	sem=mnr	4	ppmod	_	_
+DT	_	11	det	_	_
+NNS	_	9	dat	_	_
+IN	_	13	case	_	_
+NN	sem=clr	9	ppmod	_	_
+CD	_	13	num	_	_
+IN	_	16	case	_	_
+NN	sem=clr	9	ppmod	_	_
+CD	_	16	num	_	_
+,	_	9	p	_	_
+FW	_	9	obj	_	_
+-RRB-	_	4	p	_	_
+.	_	4	p	_	_
+

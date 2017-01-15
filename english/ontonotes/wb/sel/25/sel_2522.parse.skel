@@ -1,0 +1,13 @@
+RB	_	3	adv	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	0	root	_	_
+PRP	_	5	nsbj	7:nsbj	_
+VBZ	_	3	comp	_	_
+RB	_	7	adv	_	_
+JJ	sem=clr	5	comp	_	_
+IN	_	11	case	_	_
+WP	_	11	obj	_	_
+PRP	_	11	nsbj	_	_
+VBP	_	7	ppmod	_	_
+.	_	3	p	_	_
+

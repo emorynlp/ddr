@@ -1,0 +1,10 @@
+PRP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+IN	_	4	case	_	_
+DT	sem=clr	2	ppmod	_	_
+IN	_	8	case	_	_
+PRP$	_	8	poss	_	_
+NNP	_	8	com	_	_
+NNS	sem=loc	2	ppmod	_	_
+.	_	2	p	_	_
+

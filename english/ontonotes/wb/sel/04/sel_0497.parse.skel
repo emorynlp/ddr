@@ -1,0 +1,20 @@
+PRP	_	3	nsbj	_	_
+RB	sem=tmp	3	adv	_	_
+VBP	_	0	root	_	_
+NN	_	3	obj	_	_
+IN	_	6	case	_	_
+NN	_	4	ppmod	_	_
+,	_	3	p	_	_
+WDT	_	9	det	_	_
+JJR	_	12	obj	_	_
+MD	_	12	modal	_	_
+PRP	_	12	nsbj	_	_
+VB	_	3	advcl	_	_
+WDT	_	17	obj	_	_
+VBG	_	17	csbj	_	_
+NNP	_	14	obj	_	_
+MD	_	17	modal	_	_
+VB	_	12	comp	_	_
+PRP	_	17	dat	_	_
+.	_	3	p	_	_
+

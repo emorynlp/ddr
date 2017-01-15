@@ -1,0 +1,16 @@
+VBN	_	3	adv	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	14	ppmod	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+NN	_	3	obj	8:obj	_
+TO	_	8	aux	_	_
+VB	_	6	relcl	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	sem=clr	8	ppmod	_	_
+PRP	_	14	nsbj	_	_
+MD	_	14	modal	_	_
+VB	_	0	root	_	_
+.	_	14	p	_	_
+

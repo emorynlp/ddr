@@ -1,0 +1,19 @@
+DT	_	3	det	_	_
+JJ	_	3	attr	_	_
+NN	_	11	nsbj	7:adv	_
+PRP	_	7	nsbj	_	_
+VBZ	_	7	aux	_	_
+RB	_	7	neg	_	_
+VB	_	3	relcl	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NN	sem=clr	7	ppmod	_	_
+VBZ	_	0	root	_	_
+IN	_	15	mark	_	_
+PRP	_	15	obj	_	_
+VBZ	_	15	aux	_	_
+VBN	sem=prp	11	advcl	_	_
+IN	_	17	case	_	_
+PRP	sem=clr	15	ppmod	_	_
+.	_	11	p	_	_
+

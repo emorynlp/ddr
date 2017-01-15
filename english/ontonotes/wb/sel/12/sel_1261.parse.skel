@@ -1,0 +1,22 @@
+NNS	_	3	nsbj	_	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+RP	_	3	prt	_	_
+NN	_	6	com	_	_
+NN	_	3	obj	_	_
+RB	_	8	com	_	_
+RB	sem=mnr	3	adv	_	_
+IN	_	11	mark	_	_
+PRP	_	11	nsbj	_	_
+VBP	_	3	advcl	_	_
+PRP	_	13	nsbj	_	_
+VB	_	11	comp	_	_
+IN	_	15	case	_	_
+PRP	sem=clr	13	ppmod	_	_
+IN	_	20	case	_	_
+DT	_	18	det	_	_
+JJ	_	20	num	_	_
+JJ	_	20	attr	_	_
+NNS	sem=mnr	13	ppmod	_	_
+.	_	3	p	_	_
+

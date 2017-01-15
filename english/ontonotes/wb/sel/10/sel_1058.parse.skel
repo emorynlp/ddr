@@ -1,0 +1,24 @@
+PRP	_	6	nsbj	_	_
+MD	_	6	modal	_	_
+RB	sem=tmp	6	neg	_	_
+VB	_	6	cop	_	_
+DT	_	6	det	_	_
+NN	_	0	root	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NN	_	6	ppmod	_	_
+,	_	6	p	_	_
+IN	_	13	mark	_	_
+PRP	_	13	nsbj	_	_
+VBP	_	6	advcl	_	_
+NN	_	13	obj	_	_
+IN	_	17	case	_	_
+VBG	_	17	aux	_	_
+VBD	sem=mnr	13	ppmod	_	_
+RP	_	17	prt	_	_
+IN	_	21	case	_	_
+JJ	_	21	attr	_	_
+NN	sem=clr	17	ppmod	_	_
+.	_	6	p	_	_
+''	_	6	p	_	_
+

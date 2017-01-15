@@ -1,0 +1,25 @@
+JJ	_	2	attr	_	_
+NN	_	3	nsbj	_	_
+VBD	_	0	root	_	_
+IN	_	5	case	_	_
+NNP	sem=clr	3	ppmod	_	_
+IN	_	7	case	_	_
+NNP	sem=tmp	3	ppmod	_	_
+,	_	3	p	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+JJ	_	13	attr	_	_
+NN	_	13	com	_	_
+NN	_	3	ppmod	_	_
+IN	_	16	case	_	_
+DT	_	16	det	_	_
+NN	sem=loc	13	ppmod	_	_
+IN	_	18	case	_	_
+NNP	_	16	ppmod	_	_
+,	_	3	p	_	_
+VBG	_	23	adv	_	_
+IN	_	23	case	_	_
+NN	_	23	com	_	_
+NNP	_	3	ppmod	_	_
+.	_	3	p	_	_
+

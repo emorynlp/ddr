@@ -1,0 +1,26 @@
+PRP	_	6	nsbj	_	_
+VBZ	_	6	cop	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+JJ	_	6	attr	_	_
+NN	_	0	root	_	_
+,	_	6	p	_	_
+CC	_	6	cc	_	_
+RB	_	10	adv	_	_
+JJ	_	6	conj	_	_
+TO	_	13	aux	_	_
+VB	_	13	cop	_	_
+JJ	_	10	csbj	_	_
+IN	_	15	case	_	_
+PRP	_	13	ppmod	_	_
+NFP	_	10	p	_	_
+,	_	10	p	_	_
+VBG	_	10	advcl	_	_
+PRP	_	20	expl	_	_
+JJ	_	18	comp	_	_
+TO	_	22	aux	_	_
+VB	_	20	csbj	_	_
+PRP$	_	24	poss	_	_
+NN	_	22	obj	_	_
+.	_	10	p	_	_
+

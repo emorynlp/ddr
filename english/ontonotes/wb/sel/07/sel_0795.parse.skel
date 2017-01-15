@@ -1,0 +1,17 @@
+NNP	_	7	dep	_	_
+DT	_	3	det	_	_
+NN	_	1	appo	_	_
+:	_	7	p	_	_
+JJ	_	6	attr	_	_
+NNS	_	7	nsbj	_	_
+VBP	_	0	root	_	_
+NN	_	9	com	_	_
+NN	_	7	obj	_	_
+IN	_	11	case	_	_
+VBG	sem=prp	7	ppmod	_	_
+RB	sem=mnr	11	adv	_	_
+IN	_	15	case	_	_
+PRP$	_	15	poss	_	_
+NN	sem=clr	11	ppmod	_	_
+.	_	7	p	_	_
+

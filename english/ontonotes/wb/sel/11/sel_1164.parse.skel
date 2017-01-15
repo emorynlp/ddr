@@ -1,0 +1,13 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+RB	_	4	adv	_	_
+NNP	_	9	nsbj	_	_
+VBZ	_	9	aux	_	_
+RB	_	7	com	_	_
+RB	_	9	adv	_	_
+VBN	_	9	raise	_	_
+VBG	_	2	comp	_	_
+NN	_	11	com	_	_
+NNS	_	9	obj	_	_
+.	_	2	p	_	_
+

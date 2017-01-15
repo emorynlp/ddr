@@ -1,0 +1,20 @@
+RB	_	5	adv	_	_
+,	_	5	p	_	_
+PRP	_	5	nsbj	_	_
+VBZ	_	5	cop	_	_
+IN	_	0	root	_	_
+NN	_	5	obj	_	_
+IN	_	13	case	_	_
+DT	_	9	det	_	_
+NNP	_	13	poss	_	_
+POS	_	9	case	_	_
+JJ	_	13	attr	_	_
+NN	_	13	com	_	_
+NN	_	6	ppmod	14:obj	_
+VBN	_	13	acl	_	_
+RB	sem=mnr	14	adv	_	_
+IN	_	18	case	_	_
+NN	_	18	com	_	_
+NN	sem=clr	14	ppmod	_	_
+.	_	5	p	_	_
+

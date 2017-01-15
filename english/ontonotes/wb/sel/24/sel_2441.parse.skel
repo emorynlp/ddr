@@ -1,0 +1,16 @@
+VBZ	_	0	root	_	_
+PRP	_	5	nsbj	_	_
+VBP	_	5	aux	_	_
+RB	_	5	adv	_	_
+VBN	_	1	comp	_	_
+IN	_	9	mark	_	_
+PRP	_	9	expl	_	_
+VBZ	_	9	cop	_	_
+JJS	_	5	comp	_	_
+TO	_	11	aux	_	_
+VB	_	9	csbj	_	_
+DT	_	14	det	_	_
+JJ	_	14	attr	_	_
+NNS	_	11	obj	_	_
+.	_	1	p	_	_
+

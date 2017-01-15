@@ -1,0 +1,14 @@
+RB	_	2	neg	_	_
+JJ	_	0	root	_	_
+IN	_	7	case	_	_
+WRB	sem=mnr	7	adv	_	_
+NN	_	7	nsbj	_	_
+MD	_	7	modal	_	_
+VB	_	2	ppmod	_	_
+JJ	_	11	attr	_	_
+NN	_	10	com	_	_
+NN	_	11	com	_	_
+NNS	_	7	obj	_	_
+RB	_	7	adv	_	_
+.	_	2	p	_	_
+

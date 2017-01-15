@@ -1,0 +1,17 @@
+JJ	_	3	attr	_	_
+HYPH	_	3	p	_	_
+NN	_	4	com	_	_
+NNS	_	5	nsbj	_	_
+VBP	_	0	root	_	_
+$	_	7	meta	_	_
+CD	_	5	obj	_	_
+IN	_	13	mark	_	_
+CD	_	11	num	_	_
+HYPH	_	11	p	_	_
+NN	_	12	com	_	_
+NNS	_	13	nsbj	_	_
+VBP	_	5	advcl	_	_
+$	_	15	meta	_	_
+CD	_	13	obj	_	_
+.	_	5	p	_	_
+

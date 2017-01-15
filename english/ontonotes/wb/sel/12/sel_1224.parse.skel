@@ -1,0 +1,15 @@
+PRP	_	2	nsbj	9:nsbj	_
+VBP	_	0	root	_	_
+DT	_	6	det	_	_
+CD	_	6	num	_	_
+NNP	_	6	com	_	_
+NNP	_	2	obj	_	_
+CC	_	2	cc	_	_
+VBP	_	9	aux	_	_
+VBG	_	2	conj	_	_
+IN	_	11	case	_	_
+NN	sem=clr	9	ppmod	_	_
+IN	_	13	case	_	_
+PRP	_	11	ppmod	_	_
+.	_	2	p	_	_
+

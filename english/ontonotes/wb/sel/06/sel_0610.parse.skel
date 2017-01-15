@@ -1,0 +1,15 @@
+PRP	_	3	nsbj	7:nsbj	_
+RB	sem=tmp	3	adv	7:adv	_
+VBP	_	0	root	_	_
+JJ	_	5	attr	_	_
+NNS	_	3	obj	_	_
+CC	_	3	cc	_	_
+VBP	_	3	conj	_	_
+NN	_	7	obj	_	_
+IN	_	13	case	_	_
+DT	_	11	det	_	_
+JJ	_	13	poss	_	_
+POS	_	11	case	_	_
+NNS	_	8	ppmod	_	_
+.	_	3	p	_	_
+

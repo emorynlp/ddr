@@ -1,0 +1,24 @@
+JJ	_	2	attr	_	_
+NN	_	4	nsbj	_	_
+MD	_	4	modal	_	_
+VB	_	0	root	_	_
+PRP	_	4	obj	_	_
+IN	_	8	case	_	_
+PRP$	_	8	poss	_	_
+NN	sem=loc	4	ppmod	_	_
+IN	_	10	case	_	_
+NNS	_	8	ppmod	_	_
+RB	sem=mnr	4	adv	_	_
+,	_	4	p	_	_
+IN	_	17	mark	_	_
+PRP	_	17	nsbj	_	_
+VBZ	_	17	aux	_	_
+RB	sem=tmp	17	adv	_	_
+VBN	sem=prp	4	advcl	_	_
+PRP	_	17	obj	_	_
+DT	_	20	det	_	_
+RB	sem=ext	17	adv	_	_
+,	_	17	p	_	_
+UH	_	17	disc	_	_
+.	_	4	p	_	_
+

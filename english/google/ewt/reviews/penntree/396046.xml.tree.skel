@@ -1,0 +1,26 @@
+JJS	_	2	attr	_	_
+NN	_	0	root	_	_
+RB	_	2	adv	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NN	_	7	com	_	_
+NN	_	2	ppmod	_	_
+CC	_	2	cc	_	_
+DT	_	10	det	_	_
+NN	_	15	nsbj	_	_
+RB	_	10	adv	_	_
+VBZ	_	15	cop	_	_
+DT	_	15	det	_	_
+JJS	_	15	attr	_	_
+NN	_	2	conj	19:obj	_
+PRP	_	19	nsbj	_	_
+VBP	_	19	aux	_	_
+RB	_	19	adv	_	_
+VBN	_	15	relcl	_	_
+.	_	15	p	_	_
+
+VB	_	3	aux	_	_
+RB	_	3	adv	_	_
+VB	_	0	root	_	_
+RB	sem=dir	3	adv	_	_
+

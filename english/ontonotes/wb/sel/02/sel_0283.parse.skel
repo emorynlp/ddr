@@ -1,0 +1,19 @@
+DT	_	2	det	_	_
+NN	_	3	nsbj	_	_
+VBZ	_	0	root	_	_
+TO	_	5	aux	_	_
+VB	_	3	comp	_	_
+DT	_	7	det	_	_
+NN	_	5	obj	_	_
+RB	sem=loc	5	adv	_	_
+IN	_	11	case	_	_
+PRP$	_	11	poss	_	_
+NN	_	8	ppmod	_	_
+CC	_	5	cc	_	_
+VB	_	5	conj	_	_
+RP	_	13	prt	_	_
+``	_	13	p	_	_
+NNS	_	13	obj	_	_
+.	_	3	p	_	_
+''	_	3	p	_	_
+

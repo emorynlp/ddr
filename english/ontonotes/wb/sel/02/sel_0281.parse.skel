@@ -1,0 +1,27 @@
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	20	advcl	_	_
+JJ	_	5	attr	_	_
+NNS	_	3	obj	_	_
+,	_	20	p	_	_
+VB	_	20	advcl	_	_
+DT	_	11	det	_	_
+NNP	_	11	com	_	_
+NNP	_	11	com	_	_
+NNP	_	12	com	_	_
+NNP	_	7	obj	_	_
+CC	_	7	cc	_	_
+VB	_	7	conj	_	_
+IN	_	18	case	_	_
+DT	_	18	det	_	_
+NNPS	_	18	com	_	_
+NNP	sem=clr	14	ppmod	_	_
+.	_	20	p	_	_
+VB	_	0	root	_	_
+PRP	_	20	obj	_	_
+RP	_	20	prt	_	_
+IN	_	25	case	_	_
+DT	_	25	det	_	_
+NN	sem=loc	20	ppmod	_	_
+.	_	20	p	_	_
+

@@ -1,0 +1,19 @@
+PRP	_	2	nsbj	7:nsbj;13:nsbj;16:nsbj	_
+VBP	_	0	root	_	_
+DT	_	5	det	_	_
+NN	_	5	com	_	_
+NN	_	2	obj	_	_
+CC	_	2	cc	_	_
+VB	_	2	conj	_	_
+NN	_	7	obj	_	_
+CC	_	8	cc	_	_
+DT	_	11	det	_	_
+NN	_	8	conj	_	_
+TO	_	13	aux	_	_
+VB	sem=clr	7	comp	_	_
+NN	_	13	obj	_	_
+CC	_	13	cc	_	_
+VB	_	13	conj	_	_
+NN	_	16	obj	_	_
+.	_	2	p	_	_
+

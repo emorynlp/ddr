@@ -1,0 +1,8 @@
+VB	_	0	root	_	_
+IN	_	3	case	_	_
+NNS	sem=clr	1	ppmod	_	_
+CC	_	3	cc	_	_
+JJR	_	6	attr	_	_
+NN	_	3	conj	_	_
+.	_	1	p	_	_
+

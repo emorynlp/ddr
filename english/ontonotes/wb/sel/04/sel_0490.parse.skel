@@ -1,0 +1,26 @@
+NN	_	14	dep	_	_
+IN	_	6	case	_	_
+DT	_	4	det	_	_
+JJ	_	6	num	_	_
+JJ	_	6	attr	_	_
+NNS	_	14	ppmod	_	_
+,	_	14	p	_	_
+DT	_	9	det	_	_
+NNS	_	14	nsbj	10:obj	_
+VBN	_	9	acl	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+NN	sem=loc	10	ppmod	_	_
+VBP	_	0	root	_	_
+DT	_	17	det	_	_
+JJ	_	17	attr	_	_
+NN	_	14	obj	19:nsbj	_
+WDT	_	19	r-nsbj	_	_
+VBZ	_	17	relcl	_	_
+IN	_	21	case	_	_
+CD	_	24	ppmod	_	_
+IN	_	24	case	_	_
+CD	_	24	num	_	_
+NN	sem=tmp	19	ppmod	_	_
+.	_	14	p	_	_
+

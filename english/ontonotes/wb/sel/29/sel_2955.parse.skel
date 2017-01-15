@@ -1,0 +1,26 @@
+PRP	_	3	nsbj	_	_
+VBP	_	3	aux	_	_
+VBG	_	0	root	_	_
+EX	_	7	expl	_	_
+VBZ	_	7	cop	_	_
+DT	_	7	det	_	_
+NN	_	3	comp	9:nsbj	_
+WDT	_	9	r-nsbj	_	_
+VBZ	_	7	relcl	_	_
+DT	_	11	det	_	_
+NN	_	9	obj	_	_
+IN	_	16	case	_	_
+DT	_	16	det	_	_
+NN	_	15	com	_	_
+NN	_	16	com	_	_
+NN	sem=loc	11	ppmod	_	_
+IN	_	20	case	_	_
+DT	_	20	det	_	_
+NN	_	20	com	_	_
+NN	_	11	ppmod	_	_
+CC	_	20	cc	_	_
+DT	_	24	det	_	_
+NN	_	24	com	_	_
+NN	_	20	conj	_	_
+.	_	3	p	_	_
+

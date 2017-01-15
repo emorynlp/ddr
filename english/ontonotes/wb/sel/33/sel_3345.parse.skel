@@ -1,0 +1,16 @@
+RB	_	2	com	_	_
+RB	sem=tmp	8	adv	_	_
+VBZ	_	8	aux	_	_
+PRP$	_	6	poss	_	_
+JJ	_	6	attr	_	_
+NN	_	8	obj	10:nsbj	_
+VBN	_	8	aux	_	_
+VBN	_	0	root	_	_
+RB	_	10	adv	_	_
+JJ	sem=clr	8	comp	_	_
+IN	_	12	mark	_	_
+PRP	_	10	comp	_	_
+VBZ	_	12	aux	_	_
+NN	sem=tmp	12	advnp	_	_
+.	_	8	p	_	_
+

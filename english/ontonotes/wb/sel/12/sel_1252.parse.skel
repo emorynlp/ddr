@@ -1,0 +1,13 @@
+VB	_	0	root	_	_
+DT	_	4	det	_	_
+JJS	_	4	attr	_	_
+NN	_	1	obj	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+PRP	_	6	obj	_	_
+RP	_	6	prt	_	_
+IN	_	11	case	_	_
+VBN	_	11	attr	_	_
+NNS	sem=mnr	6	ppmod	_	_
+.	_	1	p	_	_
+

@@ -1,0 +1,27 @@
+NN	_	2	com	_	_
+NNS	_	5	obj	_	_
+VBP	_	5	aux	_	_
+VBN	_	5	aux	_	_
+VBN	_	0	root	_	_
+RP	_	5	prt	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NN	sem=loc	5	ppmod	_	_
+,	_	5	p	_	_
+TO	_	12	aux	_	_
+VB	sem=prp	5	advcl	_	_
+NNS	_	12	obj	15:nsbj	_
+TO	_	15	aux	_	_
+VB	_	12	comp	_	_
+NN	_	17	com	_	_
+NNS	_	15	obj	_	_
+IN	_	20	case	_	_
+DT	_	20	det	_	_
+NN	sem=loc	15	ppmod	_	_
+IN	_	22	case	_	_
+NNS	_	20	ppmod	_	_
+IN	_	25	case	_	_
+DT	_	25	det	_	_
+NN	sem=loc	22	ppmod	_	_
+.	_	5	p	_	_
+

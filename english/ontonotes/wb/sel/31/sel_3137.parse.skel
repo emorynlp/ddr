@@ -1,0 +1,10 @@
+NNS	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+IN	_	5	case	_	_
+DT	_	5	det	_	_
+NNS	sem=clr	2	ppmod	_	_
+CC	_	5	cc	_	_
+NNS	_	5	conj	_	_
+.	_	2	p	_	_
+''	_	2	p	_	_
+

@@ -1,0 +1,17 @@
+VB	_	0	root	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+CD	_	5	num	_	_
+NNS	_	1	obj	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+JJ	_	10	attr	_	_
+NN	_	10	com	_	_
+NN	sem=loc	1	ppmod	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+NN	sem=clr	12	ppmod	_	_
+.	_	12	p	_	_
+

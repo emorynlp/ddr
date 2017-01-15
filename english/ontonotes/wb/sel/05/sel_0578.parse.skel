@@ -1,0 +1,26 @@
+NN	_	2	com	_	_
+NNPS	_	3	nsbj	_	_
+VBD	_	0	root	_	_
+NNS	_	6	nsbj	_	_
+VBD	_	6	aux	_	_
+VBG	_	3	comp	_	_
+VBN	_	8	attr	_	_
+NNS	_	6	obj	10:nsbj	_
+TO	_	10	aux	_	_
+VB	_	6	comp	_	_
+IN	_	15	mark	_	_
+NNP	_	13	com	_	_
+NNP	_	15	nsbj	_	_
+VBD	_	15	aux	_	_
+VBG	_	10	comp	_	_
+NNPS	_	15	obj	17:obj;22:nsbj	_
+VBN	_	16	acl	_	_
+IN	_	20	case	_	_
+NNP	_	20	com	_	_
+NNP	_	17	nsbj	_	_
+TO	_	22	aux	_	_
+VB	_	15	comp	_	_
+DT	_	24	det	_	_
+NN	_	22	obj	_	_
+.	_	3	p	_	_
+

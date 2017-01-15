@@ -1,0 +1,25 @@
+NNP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+RB	sem=mnr	2	adv	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+NNS	sem=clr	2	ppmod	_	_
+:	_	7	p	_	_
+NNP	_	7	appo	_	_
+,	_	9	p	_	_
+NNP	_	12	com	_	_
+NNP	_	9	conj	_	_
+,	_	12	p	_	_
+NNP	_	9	conj	_	_
+,	_	14	p	_	_
+NNP	_	9	conj	_	_
+,	_	16	p	_	_
+NNP	_	9	conj	_	_
+,	_	18	p	_	_
+NNP	_	21	com	_	_
+NNP	_	9	conj	_	_
+CC	_	21	cc	_	_
+NNP	_	9	conj	_	_
+.	_	2	p	_	_
+

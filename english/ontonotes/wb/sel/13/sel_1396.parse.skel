@@ -1,0 +1,19 @@
+PRP	_	5	nsbj	_	_
+RB	_	5	adv	_	_
+MD	_	5	modal	_	_
+RB	_	5	neg	_	_
+VB	_	0	root	_	_
+NN	_	5	obj	_	_
+RB	_	8	adv	_	_
+JJ	_	6	attr	_	_
+IN	_	13	mark	_	_
+PRP	_	13	nsbj	_	_
+VBD	_	13	lv	_	_
+DT	_	13	det	_	_
+NN	_	5	advcl	15:nsbj	_
+TO	_	15	aux	_	_
+VB	_	13	relcl	_	_
+PRP	_	15	obj	_	_
+RP	_	15	prt	_	_
+.	_	5	p	_	_
+

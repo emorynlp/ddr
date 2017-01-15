@@ -1,0 +1,18 @@
+VBG	_	9	csbj	_	_
+IN	_	4	case	_	_
+DT	_	4	det	_	_
+NN	sem=clr	1	ppmod	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NN	_	1	ppmod	_	_
+MD	_	9	modal	_	_
+VB	_	0	root	_	_
+DT	_	11	det	_	_
+NN	_	9	dat	_	_
+NN	_	13	com	_	_
+NN	_	9	obj	_	_
+IN	_	16	case	_	_
+PRP$	_	16	poss	_	_
+NN	_	13	ppmod	_	_
+.	_	9	p	_	_
+

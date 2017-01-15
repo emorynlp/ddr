@@ -1,0 +1,25 @@
+:	_	7	p	_	_
+RB	_	7	adv	_	_
+PRP	_	7	nsbj	16:nsbj	_
+VBD	_	7	aux	_	_
+JJ	_	7	modal	_	_
+TO	_	7	aux	_	_
+VB	_	0	root	_	_
+NNS	_	7	obj	10:nsbj	_
+WDT	_	10	r-nsbj	_	_
+VBD	_	8	relcl	_	_
+PRP$	_	12	poss	_	_
+NN	_	10	obj	_	_
+,	_	10	p	_	_
+:	_	10	p	_	_
+CC	_	7	cc	_	_
+VB	_	7	conj	_	_
+RP	_	16	prt	_	_
+DT	_	19	det	_	_
+NN	_	16	obj	21:nsbj	_
+WDT	_	21	r-nsbj	_	_
+VBD	_	19	relcl	_	_
+DT	_	23	det	_	_
+NN	_	21	obj	_	_
+.	_	7	p	_	_
+

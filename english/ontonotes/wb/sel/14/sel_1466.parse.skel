@@ -1,0 +1,27 @@
+RB	_	5	adv	_	_
+,	_	5	p	_	_
+PRP	_	5	nsbj	7:nsbj	_
+VBP	_	5	aux	_	_
+VBN	_	19	comp	_	_
+RP	_	5	prt	_	_
+VBG	_	5	advcl	_	_
+PRP$	_	10	poss	_	_
+NN	_	10	com	_	_
+NN	_	7	obj	_	_
+,	_	19	p	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	sem=prp	19	ppmod	21:ppmod	_
+PRP	_	19	nsbj	21:nsbj;23:nsbj	_
+RB	sem=tmp	19	adv	21:adv	_
+MD	_	19	modal	_	_
+RB	_	19	neg	21:neg	_
+VB	_	0	root	_	_
+CC	_	19	cc	_	_
+VB	_	19	conj	_	_
+NNS	_	21	obj	19:obj	_
+VBG	_	21	advcl	19:advcl	_
+PRP$	_	25	poss	_	_
+NN	_	23	obj	_	_
+.	_	19	p	_	_
+

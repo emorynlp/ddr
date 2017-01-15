@@ -1,0 +1,25 @@
+PRP	_	5	nsbj	_	_
+VBZ	_	5	cop	_	_
+RB	_	4	com	_	_
+RBR	_	5	adv	_	_
+JJ	_	0	root	_	_
+WRB	sem=tmp	16	adv	8:adv	_
+PRP	_	8	nsbj	16:nsbj	_
+VBP	sem=tmp	5	advcl	_	_
+PRP	_	8	obj	_	_
+RB	sem=mnr	8	adv	_	_
+IN	_	13	mark	_	_
+PRP	_	13	nsbj	_	_
+VBZ	sem=tmp	8	advcl	_	_
+CC	_	8	cc	_	_
+RB	sem=tmp	16	adv	8:adv	_
+VBP	_	8	conj	_	_
+PRP	_	16	obj	_	_
+IN	_	20	mark	_	_
+PRP	_	20	nsbj	_	_
+VBP	sem=tmp	16	advcl	_	_
+PRP	_	23	nsbj	_	_
+VBZ	_	23	cop	_	_
+JJ	_	20	comp	_	_
+.	_	5	p	_	_
+

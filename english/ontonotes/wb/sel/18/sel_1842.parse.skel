@@ -1,0 +1,14 @@
+CC	_	2	cc	_	_
+VB	_	0	root	_	_
+IN	_	4	case	_	_
+NNS	sem=mnr	2	ppmod	_	_
+IN	_	6	case	_	_
+NN	_	4	ppmod	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NN	sem=mnr	2	ppmod	_	_
+IN	_	12	case	_	_
+VBN	_	12	attr	_	_
+NN	_	9	ppmod	_	_
+.	_	2	p	_	_
+

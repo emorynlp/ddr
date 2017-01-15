@@ -1,0 +1,15 @@
+VB	_	6	advcl	_	_
+NN	_	1	obj	_	_
+IN	_	4	case	_	_
+NN	sem=clr	1	ppmod	_	_
+:	_	6	p	_	_
+VB	_	0	root	_	_
+DT	_	6	obj	_	_
+IN	_	9	case	_	_
+NNS	sem=clr	6	ppmod	_	_
+,	_	6	p	_	_
+VBG	_	6	advcl	_	_
+TO	_	13	aux	_	_
+VB	sem=prp	11	advcl	_	_
+.	_	6	p	_	_
+

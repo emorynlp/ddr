@@ -1,0 +1,13 @@
+WRB	_	2	adv	_	_
+JJ	_	7	obj	_	_
+VBP	_	7	aux	_	_
+NN	_	6	attr	_	_
+JJ	_	6	attr	_	_
+NNS	_	7	nsbj	10:nsbj	_
+VB	_	0	root	_	_
+RB	sem=mnr	7	adv	_	_
+TO	_	10	aux	_	_
+VB	sem=prp	7	advcl	_	_
+NNS	_	10	obj	_	_
+.	_	7	p	_	_
+

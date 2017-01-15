@@ -1,0 +1,18 @@
+VBG	_	16	csbj	_	_
+NNS	_	1	obj	8:ppmod	_
+IN	_	4	case	_	_
+WP	sem=clr	8	r-ppmod	_	_
+PRP	_	8	nsbj	_	_
+VBP	_	8	aux	_	_
+RB	_	8	neg	_	_
+VB	_	2	relcl	_	_
+IN	_	10	case	_	_
+VBG	sem=mnr	1	ppmod	_	_
+DT	_	12	det	_	_
+NN	_	10	obj	_	_
+VBZ	_	16	cop	_	_
+RB	_	16	adv	_	_
+RB	_	16	neg	_	_
+JJ	_	0	root	_	_
+.	_	16	p	_	_
+

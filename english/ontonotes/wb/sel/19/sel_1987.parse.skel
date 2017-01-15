@@ -1,0 +1,24 @@
+NNP	_	8	voc	_	_
+,	_	8	p	_	_
+IN	_	6	case	_	_
+DT	_	5	det	_	_
+JJ	_	6	num	_	_
+NNS	sem=tmp	8	ppmod	_	_
+PRP	_	8	nsbj	18:nsbj	_
+VBD	_	0	root	_	_
+NN	_	10	com	_	_
+NNS	_	8	obj	_	_
+CC	_	10	cc	_	_
+NN	_	13	com	_	_
+NNS	_	10	conj	_	_
+RB	_	16	adv	_	_
+IN	_	16	case	_	_
+NN	sem=loc	8	ppmod	_	_
+TO	_	18	aux	_	_
+VB	sem=prp	8	advcl	_	_
+VB	_	18	comp	_	_
+PRP$	_	22	poss	_	_
+NN	_	22	com	_	_
+NN	_	19	obj	_	_
+.	_	8	p	_	_
+

@@ -1,0 +1,20 @@
+NN	_	0	root	_	_
+SYM	_	1	p	_	_
+
+PRP	_	7	nsbj	_	_
+VBP	_	7	cop	_	_
+IN	_	4	case	_	_
+RB	_	7	ppmod	_	_
+DT	_	7	det	_	_
+JJS	_	7	attr	_	_
+NN	_	15	comp	_	_
+IN	_	10	case	_	_
+CD	_	10	num	_	_
+NNS	sem=loc	7	ppmod	_	_
+,	_	15	p	_	_
+VB	_	15	advcl	_	_
+PRP	_	12	obj	_	_
+PRP	_	15	nsbj	_	_
+VBP	_	0	root	_	_
+.	_	15	p	_	_
+

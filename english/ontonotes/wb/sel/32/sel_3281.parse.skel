@@ -1,0 +1,26 @@
+DT	_	2	det	_	_
+NN	_	3	nsbj	7:nsbj	_
+VBZ	_	0	root	_	_
+CC	_	3	cc	_	_
+VBZ	_	7	cop	_	_
+RB	_	7	adv	_	_
+JJ	_	3	conj	_	_
+IN	_	10	case	_	_
+PRP$	_	10	poss	_	_
+NNS	_	7	ppmod	_	_
+RB	_	15	adv	_	_
+JJ	_	15	adv	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+NN	sem=prp	7	ppmod	_	_
+PRP	_	17	nsbj	_	_
+VBP	_	15	acl	_	_
+DT	_	20	det	_	_
+JJ	_	20	attr	_	_
+NN	_	17	obj	_	_
+IN	_	24	case	_	_
+DT	_	23	det	_	_
+NNS	_	24	com	_	_
+NN	_	20	ppmod	_	_
+.	_	3	p	_	_
+

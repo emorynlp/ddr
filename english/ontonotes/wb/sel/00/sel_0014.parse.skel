@@ -1,0 +1,24 @@
+PRP	_	4	nsbj	6:nsbj	_
+MD	_	4	modal	_	_
+RB	_	4	neg	6:neg	_
+VB	_	0	root	_	_
+CC	_	4	cc	_	_
+VB	_	4	conj	_	_
+IN	_	11	mark	_	_
+PRP	_	11	nsbj	13:nsbj	_
+VBP	_	11	aux	_	_
+VBN	_	11	aux	_	_
+VBG	sem=prp	6	advcl	4:advcl	_
+CC	_	11	cc	_	_
+VBG	_	11	conj	_	_
+NN	_	13	obj	_	_
+IN	_	17	case	_	_
+DT	_	17	det	_	_
+CD	_	22	ppmod	_	_
+,	_	22	p	_	_
+RB	_	22	neg	_	_
+RB	_	22	adv	_	_
+IN	_	22	case	_	_
+NNP	_	14	ppmod	_	_
+.	_	4	p	_	_
+

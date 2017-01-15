@@ -1,0 +1,19 @@
+NNS	_	5	nsbj	_	_
+IN	_	4	case	_	_
+DT	_	4	det	_	_
+NN	_	1	ppmod	_	_
+VBP	_	0	root	_	_
+JJ	_	9	attr	_	_
+JJ	_	8	adv	_	_
+VBG	_	9	attr	_	_
+NNS	_	5	obj	14:nsbj	_
+WDT	_	14	r-nsbj	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+NN	_	14	ppmod	_	_
+VBZ	_	9	relcl	_	_
+DT	_	17	det	_	_
+NN	_	17	com	_	_
+NN	_	14	obj	_	_
+.	_	5	p	_	_
+

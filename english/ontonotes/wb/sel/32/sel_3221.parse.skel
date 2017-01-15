@@ -1,0 +1,13 @@
+NNS	_	2	nsbj	4:nsbj;6:nsbj;8:nsbj	_
+VBP	_	0	root	_	_
+TO	_	4	aux	_	_
+VB	_	2	comp	_	_
+CC	_	4	cc	_	_
+VB	_	4	conj	_	_
+CC	_	6	cc	_	_
+VB	_	4	conj	_	_
+IN	_	11	case	_	_
+JJ	_	11	attr	_	_
+NNS	sem=tmp	2	ppmod	_	_
+.	_	2	p	_	_
+

@@ -1,0 +1,22 @@
+PRP	_	3	nsbj	_	_
+NNS	_	1	appo	_	_
+VBP	_	0	root	_	_
+NN	_	3	obj	_	_
+RB	sem=mnr	3	adv	_	_
+.	_	3	p	_	_
+
+PRP	_	5	nsbj	_	_
+RB	_	5	adv	_	_
+MD	_	5	modal	_	_
+RB	_	5	neg	_	_
+VB	_	0	root	_	_
+IN	_	9	case	_	_
+RB	_	9	adv	_	_
+CD	_	9	num	_	_
+NN	sem=clr	5	ppmod	13:obj	_
+PRP	_	13	nsbj	_	_
+VBD	_	13	aux	_	_
+RB	_	13	neg	_	_
+VB	_	9	relcl	_	_
+.	_	5	p	_	_
+

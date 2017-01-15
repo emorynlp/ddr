@@ -1,0 +1,26 @@
+NNP	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+IN	_	8	mark	_	_
+NNP	_	8	nsbj	18:nsbj;20:nsbj	_
+RB	_	8	adv	_	_
+VBP	_	8	cop	_	_
+RB	_	8	neg	_	_
+JJ	_	2	comp	_	_
+IN	_	10	case	_	_
+VBG	_	8	ppmod	_	_
+JJ	_	13	attr	_	_
+JJ	_	13	attr	_	_
+NNS	_	10	obj	_	_
+RB	_	15	com	_	_
+RBR	sem=tmp	10	adv	_	_
+,	_	8	p	_	_
+RB	_	18	adv	_	_
+VBG	_	8	advcl	_	_
+TO	_	20	aux	_	_
+VB	_	18	comp	_	_
+PRP$	_	22	poss	_	_
+NNS	_	20	obj	_	_
+IN	_	24	case	_	_
+NN	sem=mnr	20	ppmod	_	_
+.	_	2	p	_	_
+

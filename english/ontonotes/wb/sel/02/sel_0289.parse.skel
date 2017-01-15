@@ -1,0 +1,18 @@
+NN	_	5	nsbj	_	_
+IN	_	4	case	_	_
+PRP$	_	4	poss	_	_
+NNS	sem=clr	5	ppmod	_	_
+VBZ	_	0	root	_	_
+VB	_	5	comp	_	_
+DT	_	9	det	_	_
+JJ	_	9	attr	_	_
+NN	_	6	obj	_	_
+IN	_	12	mark	_	_
+PRP	_	12	nsbj	15:nsbj	_
+VBP	sem=tmp	6	advcl	_	_
+PRP	_	12	obj	_	_
+CC	_	12	cc	_	_
+VBP	_	12	conj	_	_
+PRP	_	15	obj	_	_
+.	_	5	p	_	_
+

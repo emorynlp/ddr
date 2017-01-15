@@ -1,0 +1,10 @@
+DT	_	3	det	_	_
+JJ	_	3	attr	_	_
+NN	_	8	nsbj	_	_
+IN	_	5	case	_	_
+NNP	_	3	ppmod	_	_
+MD	_	8	modal	_	_
+RB	_	8	neg	_	_
+VB	_	0	root	_	_
+.	_	8	p	_	_
+

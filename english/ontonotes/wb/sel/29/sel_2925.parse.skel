@@ -1,0 +1,25 @@
+VBZ	_	0	root	_	_
+:	_	1	p	_	_
+NNP	_	4	com	_	_
+NNP	_	5	com	_	_
+NNS	_	8	nsbj	_	_
+MD	_	8	modal	_	_
+RB	_	8	neg	_	_
+VB	_	16	comp	_	_
+DT	_	10	det	_	_
+NNS	_	8	obj	_	_
+:	_	16	p	_	_
+NNS	_	13	com	_	_
+NN	_	16	nsbj	_	_
+VBD	_	16	aux	_	_
+RB	_	16	neg	_	_
+VB	_	1	comp	_	_
+NNP	_	18	com	_	_
+NNS	_	16	obj	_	_
+WRB	sem=tmp	22	adv	_	_
+NNP	_	22	nsbj	_	_
+RB	_	22	adv	_	_
+VBD	sem=tmp	16	advcl	_	_
+NNS	_	22	obj	_	_
+.	_	1	p	_	_
+

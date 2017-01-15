@@ -1,0 +1,25 @@
+PRP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+DT	_	5	det	_	_
+NN	_	5	com	_	_
+NN	_	2	obj	_	_
+,	_	5	p	_	_
+DT	_	8	det	_	_
+NN	_	5	appo	11:obj	_
+PRP	_	11	nsbj	_	_
+DT	_	9	appo	_	_
+VBP	_	8	relcl	_	_
+,	_	2	p	_	_
+NN	sem=tmp	2	advnp	_	_
+,	_	2	p	_	_
+CC	_	2	cc	_	_
+PRP	_	17	nsbj	_	_
+VBD	_	2	conj	_	_
+PRP	_	19	nsbj	20:nsbj	_
+VBP	_	17	comp	_	_
+VBG	_	19	comp	_	_
+PRP	_	20	dat	_	_
+VBN	_	23	attr	_	_
+NN	_	20	obj	_	_
+.	_	17	p	_	_
+

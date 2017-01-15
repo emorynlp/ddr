@@ -1,0 +1,27 @@
+PRP	_	3	expl	_	_
+VBZ	_	3	cop	_	_
+JJ	_	0	root	_	_
+PRP	_	9	nsbj	18:nsbj	_
+VBP	_	9	aux	_	_
+RB	sem=tmp	9	adv	_	_
+VBN	_	9	raise	_	_
+TO	_	9	aux	_	_
+VB	_	3	csbj	_	_
+IN	_	13	case	_	_
+NNP	_	13	poss	_	_
+POS	_	11	case	_	_
+NN	sem=dir	9	ppmod	_	_
+IN	_	16	case	_	_
+JJ	_	16	attr	_	_
+NN	_	9	ppmod	_	_
+TO	_	18	aux	_	_
+VB	_	16	acl	_	_
+PRP$	_	21	poss	_	_
+JJ	_	21	attr	_	_
+NN	_	18	obj	_	_
+CC	_	21	cc	_	_
+JJ	_	24	attr	_	_
+NNS	_	21	conj	_	_
+RB	sem=dir	18	adv	_	_
+.	_	3	p	_	_
+

@@ -1,0 +1,23 @@
+IN	_	2	case	_	_
+NNP	_	4	ppmod	_	_
+PRP	_	4	nsbj	_	_
+VBD	_	9	comp	_	_
+DT	_	7	det	_	_
+VBN	_	7	attr	_	_
+NNS	_	4	obj	_	_
+PRP	_	9	nsbj	11:nsbj	_
+VBP	_	0	root	_	_
+CC	_	9	cc	_	_
+VBP	_	9	conj	_	_
+CC	_	9	cc	_	_
+EX	_	16	expl	_	_
+VBZ	_	16	cop	_	_
+DT	_	16	det	_	_
+NN	_	9	conj	19:adv	_
+PRP	_	19	nsbj	_	_
+VBP	_	19	aux	_	_
+VBG	_	16	relcl	_	_
+PRP	_	19	obj	_	_
+RB	_	19	adv	_	_
+.	_	9	p	_	_
+

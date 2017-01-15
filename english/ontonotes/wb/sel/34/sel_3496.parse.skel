@@ -1,0 +1,18 @@
+VBP	_	3	aux	_	_
+PRP	_	3	nsbj	_	_
+VB	_	0	root	_	_
+RP	_	3	prt	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+NN	_	3	obj	_	_
+DT	_	9	det	_	_
+NN	sem=tmp	3	advnp	_	_
+IN	_	16	mark	_	_
+IN	_	16	mark	_	_
+DT	_	13	det	_	_
+NNS	_	16	nsbj	_	_
+VBP	_	16	cop	_	_
+RB	_	16	neg	_	_
+JJ	sem=prp	3	advcl	_	_
+.	_	3	p	_	_
+

@@ -1,0 +1,23 @@
+CC	_	5	cc	_	_
+DT	_	4	det	_	_
+JJ	_	4	attr	_	_
+NN	_	5	nsbj	_	_
+VBZ	_	0	root	_	_
+IN	_	8	case	_	_
+NNP	_	8	com	_	_
+NNP	sem=clr	5	ppmod	_	_
+,	_	5	p	_	_
+IN	_	13	case	_	_
+NNP	_	13	poss	_	_
+POS	_	11	case	_	_
+NN	_	17	ppmod	_	_
+IN	_	17	case	_	_
+JJ	_	17	attr	_	_
+NN	_	17	com	_	_
+NNS	sem=dir	5	ppmod	18:obj	_
+VBN	_	17	acl	_	_
+IN	_	21	case	_	_
+JJ	_	21	attr	_	_
+NNS	sem=clr	18	ppmod	_	_
+.	_	5	p	_	_
+

@@ -1,0 +1,13 @@
+NN	_	0	root	_	_
+CD	_	1	num	_	_
+:	_	1	p	_	_
+JJ	_	7	attr	_	_
+NN	_	6	com	_	_
+NN	_	7	com	_	_
+NNS	_	8	nsbj	_	_
+VBP	_	1	acl	_	_
+JJR	_	8	obj	_	_
+TO	_	11	aux	_	_
+VB	sem=clr	8	comp	_	_
+.	_	1	p	_	_
+

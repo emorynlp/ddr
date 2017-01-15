@@ -1,0 +1,18 @@
+VB	_	0	root	_	_
+NN	_	3	com	_	_
+NN	_	1	obj	_	_
+CC	_	3	cc	_	_
+NN	_	3	conj	_	_
+IN	_	10	mark	_	_
+PRP	_	10	nsbj	12:nsbj	_
+MD	_	10	modal	_	_
+RB	sem=mnr	10	adv	_	_
+VB	sem=prp	1	advcl	_	_
+TO	_	12	aux	_	_
+VB	sem=prp	10	advcl	_	_
+IN	_	16	case	_	_
+DT	_	16	det	_	_
+NN	_	16	com	_	_
+NN	sem=clr	12	ppmod	_	_
+.	_	1	p	_	_
+

@@ -1,0 +1,18 @@
+PRP	_	6	nsbj	_	_
+VBZ	_	6	cop	_	_
+RB	_	6	neg	_	_
+DT	_	6	det	_	_
+NN	_	6	com	_	_
+NN	_	12	comp	_	_
+,	_	12	p	_	_
+PRP	_	12	nsbj	_	_
+VBZ	_	12	cop	_	_
+DT	_	12	det	_	_
+JJR	_	12	attr	_	_
+NN	_	0	root	14:nsbj	_
+WDT	_	14	r-nsbj	_	_
+VBD	_	12	relcl	_	_
+IN	_	17	case	_	_
+DT	_	17	det	_	_
+NN	sem=clr	14	ppmod	_	_
+

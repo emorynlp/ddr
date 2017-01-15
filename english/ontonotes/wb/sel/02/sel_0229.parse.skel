@@ -1,0 +1,26 @@
+IN	_	3	case	_	_
+DT	_	3	det	_	_
+NNP	sem=loc	11	ppmod	_	_
+,	_	11	p	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NNP	_	8	com	_	_
+NNS	_	11	ppmod	_	_
+,	_	11	p	_	_
+PRP	_	11	nsbj	_	_
+VBZ	_	0	root	_	_
+IN	_	14	case	_	_
+TO	_	12	com	_	_
+CD	_	15	num	_	_
+NNS	_	11	obj	17:adv;19:adv	_
+TO	_	17	aux	_	_
+VB	_	15	relcl	_	_
+CC	_	17	cc	_	_
+VB	_	17	conj	_	_
+NN	_	19	obj	17:obj;22:obj	_
+PRP	_	22	nsbj	_	_
+VBP	_	20	relcl	_	_
+IN	_	24	case	_	_
+NN	sem=mnr	22	ppmod	_	_
+.	_	11	p	_	_
+

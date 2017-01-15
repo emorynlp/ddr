@@ -1,0 +1,21 @@
+NNS	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+PRP	_	5	nsbj	7:nsbj;13:nsbj	_
+VBP	_	5	aux	_	_
+VBN	_	2	comp	_	_
+TO	_	7	aux	_	_
+VB	_	5	comp	_	_
+PRP$	_	10	poss	_	_
+``	_	10	p	_	_
+NN	_	7	obj	_	_
+''	_	10	p	_	_
+CC	_	7	cc	_	_
+VB	_	7	conj	_	_
+PRP	_	13	dat	_	_
+NN	_	16	com	_	_
+NN	_	13	obj	18:nsbj	_
+WDT	_	18	r-nsbj	_	_
+VBZ	_	16	relcl	_	_
+PRP	_	18	obj	_	_
+.	_	2	p	_	_
+

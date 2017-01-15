@@ -1,0 +1,21 @@
+NNP	_	2	com	_	_
+NNP	_	4	poss	_	_
+POS	_	2	case	_	_
+NN	_	7	nsbj	_	_
+VBZ	_	7	raise	_	_
+TO	_	7	aux	_	_
+VB	_	0	root	_	_
+RP	_	7	prt	_	_
+DT	_	10	det	_	_
+NNS	_	7	obj	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+JJ	_	14	attr	_	_
+NN	sem=tmp	7	ppmod	_	_
+IN	_	19	case	_	_
+DT	_	19	det	_	_
+NNP	_	19	com	_	_
+NNP	_	19	com	_	_
+NNP	_	14	ppmod	_	_
+.	_	7	p	_	_
+

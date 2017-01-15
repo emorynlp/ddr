@@ -1,0 +1,9 @@
+PRP	_	2	nsbj	4:nsbj;7:nsbj	_
+VBD	_	0	root	_	_
+TO	_	4	aux	_	_
+VB	_	2	comp	_	_
+RB	sem=mnr	4	adv	_	_
+TO	_	7	aux	_	_
+VB	sem=prp	4	advcl	_	_
+.	_	2	p	_	_
+

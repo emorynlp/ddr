@@ -1,0 +1,10 @@
+RB	_	2	adv	_	_
+VB	_	0	root	_	_
+DT	_	5	det	_	_
+NN	_	5	com	_	_
+NNS	_	2	obj	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NNS	_	5	ppmod	_	_
+.	_	2	p	_	_
+

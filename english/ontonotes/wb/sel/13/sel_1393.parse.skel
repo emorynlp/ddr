@@ -1,0 +1,13 @@
+NNS	_	3	nsbj	_	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+NNS	_	3	obj	_	_
+,	_	3	p	_	_
+PRP	_	7	nsbj	_	_
+VBD	_	3	prn	_	_
+,	_	3	p	_	_
+IN	_	11	mark	_	_
+JJ	_	11	nsbj	_	_
+VBP	_	3	advcl	_	_
+.	_	3	p	_	_
+

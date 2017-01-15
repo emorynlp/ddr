@@ -1,0 +1,32 @@
+WDT	_	2	det	_	_
+NNS	_	5	obj	_	_
+VBP	_	5	aux	_	_
+PRP	_	5	nsbj	_	_
+VB	_	0	root	_	_
+IN	_	7	case	_	_
+NNP	sem=loc	5	ppmod	_	_
+.	_	5	p	_	_
+
+JJ	_	2	attr	_	_
+NNS	_	0	root	_	_
+RB	_	4	com	_	_
+RB	_	2	adv	_	_
+,	_	2	p	_	_
+UH	_	2	disc	_	_
+.	_	2	p	_	_
+
+UH	_	0	root	_	_
+.	_	1	p	_	_
+
+NN	_	0	root	_	_
+
+PRP	_	2	nsbj	_	_
+VBP	_	6	comp	_	_
+NNP	_	2	obj	_	_
+NNP	sem=loc	3	advnp	_	_
+PRP	_	6	nsbj	_	_
+VBP	_	0	root	_	_
+JJ	_	8	attr	_	_
+NN	_	6	obj	_	_
+RB	sem=loc	6	adv	_	_
+

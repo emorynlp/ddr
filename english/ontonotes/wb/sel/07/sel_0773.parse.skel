@@ -1,0 +1,21 @@
+NNP	_	14	dep	_	_
+``	_	14	p	_	_
+IN	_	4	mark	_	_
+VBG	_	14	advcl	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+NN	_	4	obj	9:obj	_
+PRP	_	9	nsbj	_	_
+VBP	_	7	relcl	_	_
+,	_	14	p	_	_
+NNP	_	13	com	_	_
+NN	_	13	com	_	_
+NNS	_	14	nsbj	_	_
+VBP	_	0	root	_	_
+PRP	_	18	nsbj	_	_
+VBP	_	18	aux	_	_
+RB	_	18	neg	_	_
+VBG	_	14	comp	_	_
+.	_	14	p	_	_
+''	_	14	p	_	_
+

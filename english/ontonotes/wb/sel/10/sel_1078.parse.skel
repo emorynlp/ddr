@@ -1,0 +1,15 @@
+NN	_	9	nsbj	3:nsbj;5:nsbj	_
+WP	_	3	r-nsbj	_	_
+VBZ	_	1	relcl	_	_
+TO	_	5	aux	_	_
+VB	_	3	comp	_	_
+NN	_	5	obj	_	_
+MD	_	9	modal	_	_
+RB	sem=mnr	9	adv	_	_
+VB	_	0	root	_	_
+RP	_	9	prt	_	_
+DT	_	13	det	_	_
+NN	_	13	com	_	_
+NN	_	9	obj	_	_
+.	_	9	p	_	_
+

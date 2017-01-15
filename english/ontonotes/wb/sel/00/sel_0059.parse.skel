@@ -1,0 +1,12 @@
+DT	_	2	det	_	_
+NN	_	5	nsbj	_	_
+MD	_	5	modal	_	_
+RB	_	5	adv	_	_
+VB	_	0	root	_	_
+IN	_	8	case	_	_
+NNP	_	8	com	_	_
+NNP	sem=loc	5	ppmod	_	_
+,	_	5	p	_	_
+RB	_	5	adv	_	_
+.	_	5	p	_	_
+

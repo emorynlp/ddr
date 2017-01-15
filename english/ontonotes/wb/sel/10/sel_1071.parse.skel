@@ -1,0 +1,23 @@
+VBD	_	0	root	_	_
+:	_	1	p	_	_
+IN	_	11	mark	_	_
+VBG	_	11	csbj	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+NN	_	4	obj	_	_
+VBZ	_	11	cop	_	_
+DT	_	11	det	_	_
+JJ	_	11	attr	_	_
+NN	sem=prp	1	advcl	_	_
+CC	_	11	cc	_	_
+VBG	_	18	csbj	20:csbj	_
+PRP	_	13	obj	_	_
+RB	sem=mnr	13	adv	_	_
+MD	_	18	modal	_	_
+RB	sem=mnr	18	adv	20:adv	_
+VB	_	11	conj	_	_
+CC	_	18	cc	_	_
+VB	_	18	conj	_	_
+NNS	_	20	obj	18:obj	_
+.	_	1	p	_	_
+

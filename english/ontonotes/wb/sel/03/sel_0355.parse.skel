@@ -1,0 +1,12 @@
+RB	sem=tmp	5	adv	_	_
+EX	_	5	expl	_	_
+VBZ	_	5	cop	_	_
+DT	_	5	det	_	_
+NN	_	0	root	10:obj	_
+WDT	_	8	det	_	_
+JJ	_	8	attr	_	_
+NN	_	10	r-obj	_	_
+TO	_	10	aux	_	_
+VB	_	5	relcl	_	_
+.	_	5	p	_	_
+

@@ -1,0 +1,23 @@
+UH	_	4	disc	_	_
+PRP	_	4	nsbj	_	_
+VBP	_	4	aux	_	_
+VBN	_	0	root	_	_
+PRP	_	6	nsbj	19:nsbj	_
+VB	_	4	comp	_	_
+DT	_	8	det	_	_
+NN	_	6	obj	13:obj;14:nsbj	_
+WDT	_	13	r-obj	_	_
+PRP	_	13	nsbj	_	_
+MD	_	13	modal	_	_
+RB	_	13	neg	_	_
+VB	_	8	relcl	_	_
+JJ	sem=clr	13	comp	_	_
+,	_	6	p	_	_
+CC	_	6	cc	_	_
+RB	sem=tmp	19	neg	6:neg	_
+RB	_	19	adv	_	_
+VB	_	6	conj	_	_
+PRP	_	19	obj	_	_
+RB	sem=mnr	19	adv	_	_
+.	_	4	p	_	_
+

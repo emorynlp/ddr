@@ -1,0 +1,15 @@
+VB	_	0	root	_	_
+NN	sem=tmp	1	advnp	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+DT	_	9	det	_	_
+NNP	_	8	com	_	_
+NNP	_	8	com	_	_
+NNP	_	9	com	_	_
+NNP	_	4	obj	_	_
+IN	_	13	case	_	_
+RB	_	13	adv	_	_
+$	_	13	meta	_	_
+CD	_	4	ppmod	_	_
+.	_	1	p	_	_
+

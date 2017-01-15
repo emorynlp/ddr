@@ -1,0 +1,16 @@
+PRP	_	2	nsbj	4:nsbj	_
+VBZ	_	0	root	_	_
+TO	_	4	aux	_	_
+VB	_	2	comp	_	_
+NN	_	4	obj	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+JJ	_	9	attr	_	_
+NNS	sem=clr	4	ppmod	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+NNP	_	9	ppmod	_	_
+CC	_	12	cc	_	_
+NNP	_	12	conj	_	_
+.	_	2	p	_	_
+

@@ -1,0 +1,18 @@
+JJ	_	2	attr	_	_
+NN	_	3	nsbj	9:nsbj	_
+VBZ	_	0	root	_	_
+NN	_	5	com	_	_
+NN	_	6	com	_	_
+NN	_	3	obj	_	_
+CC	_	3	cc	_	_
+RB	sem=tmp	9	adv	3:adv	_
+VBZ	_	3	conj	_	_
+IN	_	11	case	_	_
+NNS	sem=clr	9	ppmod	_	_
+IN	_	14	mark	_	_
+PRP	_	14	nsbj	_	_
+VBP	_	9	advcl	_	_
+IN	_	16	case	_	_
+NN	sem=mnr	14	ppmod	_	_
+.	_	3	p	_	_
+

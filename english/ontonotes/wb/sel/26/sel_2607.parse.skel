@@ -1,0 +1,9 @@
+DT	_	2	det	_	_
+NN	_	3	obj	_	_
+VBN	_	0	root	_	_
+TO	_	5	aux	_	_
+VB	sem=prp	3	advcl	_	_
+NN	_	7	com	_	_
+NN	_	5	obj	_	_
+.	_	3	p	_	_
+

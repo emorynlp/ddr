@@ -1,0 +1,25 @@
+EX	_	3	expl	_	_
+VBZ	_	3	cop	_	_
+NN	_	0	root	_	_
+JJ	_	3	attr	_	_
+IN	_	6	case	_	_
+PRP	_	3	ppmod	_	_
+,	_	3	p	_	_
+CC	_	3	cc	_	_
+VBG	_	17	csbj	_	_
+JJ	_	14	attr	_	_
+NN	_	13	advnp	_	_
+HYPH	_	13	p	_	_
+JJ	_	14	attr	_	_
+NNS	_	9	obj	_	_
+IN	_	16	case	_	_
+NNS	sem=clr	9	ppmod	_	_
+VBZ	_	3	conj	_	_
+PRP	_	19	nsbj	_	_
+VB	_	17	comp	_	_
+IN	_	23	case	_	_
+DT	_	23	det	_	_
+JJ	_	23	attr	_	_
+NN	sem=clr	19	ppmod	_	_
+.	_	17	p	_	_
+

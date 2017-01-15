@@ -1,0 +1,27 @@
+DT	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+VBG	_	2	comp	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+NN	_	3	obj	_	_
+IN	_	8	case	_	_
+VBG	_	6	ppmod	_	_
+PRP$	_	11	poss	_	_
+NN	_	11	com	_	_
+NN	_	8	obj	_	_
+,	_	3	p	_	_
+RB	_	17	adv	_	_
+IN	_	17	mark	_	_
+PRP$	_	16	poss	_	_
+NNS	_	17	nsbj	_	_
+VBP	_	3	advcl	_	_
+DT	_	20	det	_	_
+JJ	_	20	attr	_	_
+NN	_	17	obj	_	_
+IN	_	22	case	_	_
+VBG	_	20	ppmod	_	_
+PRP$	_	25	poss	_	_
+JJ	_	25	attr	_	_
+NN	_	22	obj	_	_
+.	_	2	p	_	_
+

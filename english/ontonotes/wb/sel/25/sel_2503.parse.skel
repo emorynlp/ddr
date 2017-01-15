@@ -1,0 +1,23 @@
+DT	_	3	det	_	_
+NN	_	3	com	_	_
+NN	_	5	nsbj	_	_
+MD	_	5	modal	_	_
+VB	_	0	root	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	sem=clr	5	ppmod	_	_
+CC	_	8	cc	_	_
+NNS	_	11	com	_	_
+NNS	_	8	conj	_	_
+TO	_	13	aux	_	_
+VB	sem=clr	5	comp	_	_
+DT	_	16	det	_	_
+NN	_	16	com	_	_
+NN	_	13	obj	_	_
+IN	_	21	case	_	_
+DT	_	21	det	_	_
+NN	_	20	com	_	_
+NN	_	21	com	_	_
+NNS	sem=clr	13	ppmod	_	_
+.	_	5	p	_	_
+

@@ -1,0 +1,22 @@
+VBG	_	10	advcl	_	_
+DT	_	3	det	_	_
+NNS	_	1	obj	_	_
+IN	_	6	case	_	_
+PRP$	_	6	poss	_	_
+NNS	sem=clr	1	ppmod	_	_
+,	_	10	p	_	_
+NNS	_	10	nsbj	_	_
+MD	_	10	modal	_	_
+VB	_	0	root	_	_
+JJ	_	12	attr	_	_
+NNS	_	10	obj	_	_
+VBG	_	15	adv	_	_
+PRP$	_	15	poss	_	_
+NN	_	12	ppmod	_	_
+IN	_	20	case	_	_
+JJ	_	20	attr	_	_
+CC	_	17	cc	_	_
+NNS	_	17	conj	_	_
+NNS	_	15	ppmod	_	_
+.	_	10	p	_	_
+

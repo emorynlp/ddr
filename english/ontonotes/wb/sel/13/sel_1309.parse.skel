@@ -1,0 +1,24 @@
+PRP	_	6	nsbj	16:nsbj	_
+VBP	_	6	aux	_	_
+RB	_	6	adv	_	_
+VBG	_	6	raise	_	_
+TO	_	6	aux	_	_
+VB	_	0	root	_	_
+PRP	_	9	nsbj	_	_
+MD	_	9	modal	_	_
+VB	_	6	comp	_	_
+DT	_	9	obj	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	_	14	com	_	_
+NN	sem=clr	9	ppmod	_	_
+CC	_	6	cc	_	_
+VB	_	6	conj	_	_
+PRP	_	16	obj	_	_
+IN	_	21	case	_	_
+DT	_	21	det	_	_
+NN	_	21	com	_	_
+NN	sem=clr	16	ppmod	_	_
+:	_	21	p	_	_
+ADD	_	21	appo	_	_
+

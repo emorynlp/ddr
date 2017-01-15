@@ -1,0 +1,16 @@
+NNP	_	3	nsbj	_	_
+PRP	_	1	appo	_	_
+VBZ	_	0	root	_	_
+PRP	_	3	obj	6:nsbj	_
+TO	_	6	aux	_	_
+VB	_	3	comp	_	_
+,	_	3	p	_	_
+CC	_	3	cc	_	_
+RB	_	14	adv	_	_
+PRP	_	14	obj	_	_
+VBP	_	14	aux	_	_
+RBS	_	13	com	_	_
+RB	_	14	adv	_	_
+VBN	_	3	conj	_	_
+.	_	14	p	_	_
+

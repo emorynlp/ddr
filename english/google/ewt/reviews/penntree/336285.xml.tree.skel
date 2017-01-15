@@ -1,0 +1,34 @@
+WDT	_	3	det	_	_
+DT	_	3	det	_	_
+NN	_	0	root	_	_
+.	_	3	p	_	_
+
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	12	advcl	_	_
+DT	_	5	det	_	_
+JJS	_	3	obj	_	_
+IN	_	8	case	_	_
+PRP$	_	8	poss	_	_
+NN	_	5	ppmod	_	_
+,	_	12	p	_	_
+VB	_	12	aux	_	_
+RB	_	12	neg	_	_
+VB	_	0	root	_	_
+IN	_	14	case	_	_
+VBG	sem=clr	12	ppmod	_	_
+DT	_	17	det	_	_
+JJ	_	17	attr	_	_
+NN	_	14	obj	_	_
+.	_	12	p	_	_
+
+DT	_	5	nsbj	_	_
+VBZ	_	5	cop	_	_
+DT	_	5	det	_	_
+RB	_	5	adv	_	_
+JJS	_	0	root	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NNP	_	5	ppmod	_	_
+.	_	5	p	_	_
+

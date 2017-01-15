@@ -1,0 +1,12 @@
+DT	_	8	det	_	_
+RB	_	3	adv	_	_
+JJ	_	8	attr	_	_
+,	_	8	p	_	_
+NN	_	6	advnp	_	_
+VBN	_	8	attr	_	_
+NNP	_	8	com	_	_
+NNP	_	0	root	_	_
+IN	_	10	case	_	_
+JJ	_	8	ppmod	_	_
+.	_	8	p	_	_
+

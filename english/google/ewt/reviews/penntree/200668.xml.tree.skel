@@ -1,0 +1,22 @@
+NNS	_	0	root	_	_
+IN	_	6	case	_	_
+NNP	_	5	com	_	_
+NNP	_	5	com	_	_
+NNP	_	6	com	_	_
+NNS	_	1	ppmod	_	_
+
+DT	_	2	det	_	_
+NNS	_	6	nsbj	8:nsbj;11:nsbj	_
+IN	_	4	case	_	_
+NNP	sem=loc	2	ppmod	_	_
+VBP	_	6	cop	_	_
+JJ	_	0	root	_	_
+,	_	6	p	_	_
+JJ	_	6	conj	_	_
+CC	_	8	cc	_	_
+DT	_	11	det	_	_
+NN	_	6	conj	13:obj	_
+TO	_	13	aux	_	_
+VB	_	11	relcl	_	_
+.	_	6	p	_	_
+

@@ -1,0 +1,18 @@
+IN	_	5	mark	_	_
+DT	_	5	obj	_	_
+MD	_	5	modal	_	_
+VB	_	5	aux	_	_
+VBN	_	10	advcl	_	_
+,	_	10	p	_	_
+RB	_	10	adv	_	_
+WRB	sem=mnr	10	adv	_	_
+TO	_	10	aux	_	_
+VB	_	0	root	_	_
+DT	_	13	det	_	_
+NN	_	13	com	_	_
+NNS	_	10	obj	_	_
+IN	_	16	case	_	_
+NNP	_	16	com	_	_
+NN	sem=clr	10	ppmod	_	_
+.	_	10	p	_	_
+

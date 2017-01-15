@@ -1,0 +1,23 @@
+PRP	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBZ	_	0	root	_	_
+PRP	_	3	dat	_	_
+DT	_	6	det	_	_
+NN	_	3	obj	12:ppmod	_
+IN	_	8	case	_	_
+WDT	sem=clr	12	r-ppmod	_	_
+PRP	_	12	nsbj	_	_
+VBP	_	12	raise	_	_
+TO	_	12	aux	_	_
+VB	_	6	relcl	_	_
+DT	_	14	det	_	_
+NN	_	12	obj	15:obj	_
+VBN	_	14	acl	_	_
+IN	_	21	case	_	_
+DT	_	21	det	_	_
+NN	_	21	attr	_	_
+-LRB-	_	21	p	_	_
+-RRB-	_	21	p	_	_
+NN	_	15	nsbj	_	_
+.	_	3	p	_	_
+

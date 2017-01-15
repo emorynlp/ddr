@@ -1,0 +1,16 @@
+DT	_	2	det	_	_
+NN	_	4	nsbj	_	_
+VBZ	_	4	cop	_	_
+JJ	_	0	root	_	_
+
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+,	_	2	p	_	_
+JJ	_	5	attr	_	_
+NN	_	2	appo	_	_
+.	_	2	p	_	_
+
+RB	_	2	adv	_	_
+VBG	_	0	root	_	_
+RB	_	2	adv	_	_
+

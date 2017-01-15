@@ -1,0 +1,71 @@
+NNP	_	2	com	_	B-PERSON
+NNP	_	4	nsbj	8:nsbj	L-PERSON
+MD	_	4	modal	_	O
+VB	_	0	root	_	O
+RP	_	4	prt	_	O
+NN	sem=tmp	4	advnp	_	U-DATE
+DT	_	8	det	_	O
+NN	sem=clr	4	comp	_	O
+IN	_	11	case	_	O
+NNP	_	11	com	_	B-PERSON
+NNP	_	8	ppmod	_	L-PERSON
+.	_	4	p	_	O
+
+DT	_	2	det	_	O
+NN	_	4	nsbj	6:nsbj	O
+VBZ	_	4	aux	_	O
+VBG	_	0	root	_	O
+TO	_	6	aux	_	O
+VB	_	4	comp	_	O
+DT	_	8	det	_	O
+NN	_	6	obj	_	O
+IN	_	11	case	_	O
+NNP	_	11	com	_	B-FAC
+NNP	sem=loc	6	ppmod	_	L-FAC
+IN	_	14	case	_	O
+NNP	_	14	com	_	B-GPE
+NNP	sem=loc	11	ppmod	_	L-GPE
+NN	sem=tmp	6	advnp	_	U-TIME
+.	_	4	p	_	O
+
+NNP	_	3	com	_	O
+NNP	_	3	com	_	B-PERSON
+NNP	_	5	nsbj	_	L-PERSON
+MD	_	5	modal	_	O
+VB	_	0	root	_	O
+DT	_	7	det	_	O
+NN	_	5	obj	_	O
+.	_	5	p	_	O
+
+NNS	_	4	obj	_	U-CARDINAL
+VBP	_	4	aux	_	O
+VBN	_	4	aux	_	O
+VBN	_	0	root	_	O
+CC	_	4	cc	_	O
+NNP	_	7	com	_	B-PERSON
+NNP	_	9	nsbj	_	L-PERSON
+MD	_	9	modal	_	O
+VB	_	4	conj	_	O
+DT	_	11	det	_	O
+NN	_	9	obj	_	O
+.	_	9	p	_	O
+
+JJR	_	3	attr	_	O
+JJ	_	3	attr	_	O
+NNS	_	0	root	_	O
+IN	_	6	case	_	O
+DT	_	6	det	_	B-TIME
+NN	sem=loc	3	ppmod	_	I-TIME
+IN	_	9	case	_	I-TIME
+DT	_	9	det	_	I-TIME
+NN	_	6	ppmod	_	L-TIME
+.	_	3	p	_	O
+
+RB	sem=tmp	2	com	_	_
+RB	_	0	root	_	_
+IN	_	5	case	_	_
+``	_	5	p	_	_
+ADD	_	2	ppmod	_	_
+.	_	2	p	_	_
+''	_	2	p	_	_
+

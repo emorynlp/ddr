@@ -1,0 +1,19 @@
+NN	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+PRP	_	5	nsbj	_	_
+MD	_	5	modal	_	_
+VB	_	2	comp	_	_
+NNS	_	5	obj	_	_
+IN	_	10	mark	_	_
+NNS	_	10	nsbj	_	_
+MD	_	10	modal	_	_
+VB	sem=tmp	5	advcl	_	_
+IN	_	12	case	_	_
+NN	sem=mnr	10	ppmod	_	_
+IN	_	17	mark	_	_
+DT	_	15	det	_	_
+NN	_	17	nsbj	_	_
+VBD	_	17	cop	_	_
+JJ	_	10	comp	_	_
+.	_	2	p	_	_
+

@@ -1,0 +1,50 @@
+RB	_	3	adv	_	_
+DT	_	3	det	_	_
+NN	_	0	root	5:nsbj	_
+WDT	_	5	r-nsbj	_	_
+VBZ	_	3	relcl	_	_
+IN	_	7	case	_	_
+PRP	_	5	ppmod	_	_
+.	_	3	p	_	_
+
+UH	_	0	root	_	_
+HYPH	_	1	p	_	_
+UH	_	1	disc	_	_
+.	_	1	p	_	_
+
+NFP	_	0	root	_	_
+
+VB	_	0	root	_	_
+NNP	_	3	com	_	_
+NNP	_	6	poss	_	_
+POS	_	3	case	_	_
+NNP	_	6	com	_	_
+NNP	_	1	obj	_	_
+IN	_	10	case	_	_
+PDT	_	10	det	_	_
+DT	_	10	det	_	_
+NN	_	1	ppmod	_	_
+CC	_	10	cc	_	_
+NNS	_	10	conj	_	_
+:	_	1	p	_	_
+-LRB-	_	1	p	_	_
+-RRB-	_	1	p	_	_
+
+NNP	_	2	com	_	_
+NNP	_	5	poss	_	_
+POS	_	2	case	_	_
+NNP	_	5	com	_	_
+NNP	_	7	obj	_	_
+VBZ	_	7	aux	_	_
+VBN	_	0	root	_	_
+IN	_	7	case	_	_
+:	_	7	p	_	_
+-LRB-	_	7	p	_	_
+-RRB-	_	7	p	_	_
+
+NN	_	0	root	_	_
+
+CD	_	3	num	_	_
+NN	_	1	attr	_	_
+NN	_	0	root	_	_
+

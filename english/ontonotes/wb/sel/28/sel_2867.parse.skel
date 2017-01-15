@@ -1,0 +1,21 @@
+CC	_	13	cc	_	_
+DT	_	4	det	_	_
+JJ	_	4	attr	_	_
+NNS	_	13	nsbj	_	_
+,	_	4	p	_	_
+JJ	_	7	attr	_	_
+NN	_	4	conj	_	_
+,	_	7	p	_	_
+CC	_	7	cc	_	_
+JJ	_	12	attr	_	_
+NN	_	12	com	_	_
+NNS	_	4	conj	_	_
+VBP	_	0	root	_	_
+NNP	_	16	nsbj	_	_
+``	_	16	p	_	_
+NN	_	13	comp	_	_
+IN	_	18	case	_	_
+NNS	_	16	ppmod	_	_
+''	_	16	p	_	_
+.	_	13	p	_	_
+

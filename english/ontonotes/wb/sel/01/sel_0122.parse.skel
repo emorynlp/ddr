@@ -1,0 +1,21 @@
+DT	_	2	det	_	_
+NNP	_	6	nsbj	8:nsbj	_
+VBZ	_	6	cop	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+NN	_	0	root	_	_
+CC	_	6	cc	_	_
+VBZ	_	6	conj	_	_
+DT	_	11	det	_	_
+JJ	_	11	attr	_	_
+NN	_	8	obj	_	_
+IN	_	15	case	_	_
+WP	_	15	dep	_	_
+PRP	_	15	nsbj	_	_
+VBZ	_	11	ppmod	_	_
+NNP	_	17	com	_	_
+NNP	_	19	nsbj	_	_
+MD	_	19	modal	_	_
+VB	_	15	comp	_	_
+.	_	6	p	_	_
+

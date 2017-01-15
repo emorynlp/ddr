@@ -1,0 +1,14 @@
+NNP	_	5	voc	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	5	comp	_	_
+:	_	5	p	_	_
+VB	_	0	root	_	_
+DT	_	7	det	_	_
+NN	_	5	obj	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+NNP	_	11	com	_	_
+NN	_	12	com	_	_
+NN	_	7	ppmod	_	_
+.	_	5	p	_	_
+

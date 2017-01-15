@@ -1,0 +1,13 @@
+UH	_	3	disc	_	_
+PRP	_	3	nsbj	_	_
+VBD	_	0	root	_	_
+DT	_	5	det	_	_
+NNS	_	3	obj	7:obj	_
+PRP	_	7	nsbj	_	_
+VBD	_	5	relcl	_	_
+RB	_	3	adv	_	_
+.	_	3	p	_	_
+
+JJ	_	0	root	_	_
+.	_	1	p	_	_
+

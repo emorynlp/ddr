@@ -1,0 +1,24 @@
+CD	_	5	num	_	_
+CC	_	1	cc	_	_
+CD	_	1	conj	_	_
+JJ	_	5	attr	_	_
+NNS	_	6	nsbj	18:nsbj	_
+VBP	_	0	root	_	_
+RP	_	6	prt	_	_
+DT	_	9	det	_	_
+NN	_	6	obj	_	_
+,	_	6	p	_	_
+NN	_	12	nsbj	_	_
+VBG	_	15	comp	_	_
+CC	_	12	cc	_	_
+NN	_	15	nsbj	_	_
+VBG	_	6	advcl	_	_
+,	_	6	p	_	_
+CC	_	6	cc	_	_
+VBZ	_	6	conj	_	_
+PRP	_	18	obj	_	_
+IN	_	22	case	_	_
+DT	_	22	det	_	_
+NN	sem=dir	18	ppmod	_	_
+.	_	6	p	_	_
+

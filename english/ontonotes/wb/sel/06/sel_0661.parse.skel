@@ -1,0 +1,17 @@
+MD	_	3	modal	_	_
+PRP	_	3	nsbj	_	_
+VB	_	0	root	_	_
+CC	_	3	cc	_	_
+VB	_	3	conj	_	_
+PRP$	_	7	poss	_	_
+NN	_	5	obj	3:obj	_
+IN	_	14	case	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NNP	_	12	com	_	_
+NNP	_	14	com	_	_
+NNP	_	14	com	_	_
+NNP	_	5	ppmod	_	_
+.	_	3	p	_	_
+''	_	3	p	_	_
+

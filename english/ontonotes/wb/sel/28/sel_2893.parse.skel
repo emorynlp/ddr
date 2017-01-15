@@ -1,0 +1,19 @@
+IN	_	2	case	_	_
+NNP	_	12	ppmod	_	_
+,	_	12	p	_	_
+DT	_	5	det	_	_
+NN	_	7	nsbj	_	_
+VBZ	_	7	cop	_	_
+JJ	_	12	comp	_	_
+,	_	12	p	_	_
+DT	_	10	det	_	_
+NN	_	12	nsbj	_	_
+VBZ	_	12	cop	_	_
+JJ	_	0	root	_	_
+CC	_	12	cc	_	_
+DT	_	15	det	_	_
+NN	_	16	nsbj	_	_
+VBZ	_	12	conj	_	_
+RB	sem=mnr	16	adv	_	_
+.	_	12	p	_	_
+

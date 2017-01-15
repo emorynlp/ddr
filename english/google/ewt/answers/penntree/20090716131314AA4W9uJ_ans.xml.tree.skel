@@ -1,0 +1,15 @@
+VBZ	_	3	aux	_	_
+NN	_	3	nsbj	_	_
+VB	_	0	root	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+NNS	_	3	obj	_	_
+IN	_	8	case	_	_
+NNP	sem=loc	6	ppmod	_	_
+.	_	3	p	_	_
+
+RB	_	2	neg	_	_
+PRP	_	0	root	_	_
+UH	_	2	disc	_	_
+.	_	2	p	_	_
+

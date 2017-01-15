@@ -1,0 +1,12 @@
+MD	_	3	modal	_	_
+PRP	_	3	nsbj	_	_
+VB	_	0	root	_	_
+DT	_	3	obj	_	_
+IN	_	7	case	_	_
+NN	_	7	com	_	_
+NNS	_	4	ppmod	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NN	sem=clr	3	ppmod	_	_
+.	_	3	p	_	_
+

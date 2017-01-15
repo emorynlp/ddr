@@ -1,0 +1,19 @@
+PRP	_	3	nsbj	_	_
+RB	sem=tmp	3	neg	_	_
+VBP	_	0	root	_	_
+NNS	_	3	obj	_	_
+,	_	3	p	_	_
+IN	_	9	mark	_	_
+PRP$	_	8	poss	_	_
+NN	_	9	nsbj	_	_
+VBZ	sem=prp	3	advcl	_	_
+DT	_	11	det	_	_
+NNS	_	9	obj	_	_
+WDT	_	15	obj	_	_
+MD	_	15	modal	_	_
+VB	_	15	aux	_	_
+VBN	_	11	relcl	_	_
+IN	_	17	case	_	_
+PRP	_	9	ppmod	_	_
+.	_	3	p	_	_
+

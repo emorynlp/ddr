@@ -1,0 +1,11 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+CD	_	2	obj	_	_
+DT	_	5	det	_	_
+NN	sem=tmp	2	advnp	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NN	_	9	com	_	_
+NN	sem=tmp	2	ppmod	_	_
+.	_	2	p	_	_
+

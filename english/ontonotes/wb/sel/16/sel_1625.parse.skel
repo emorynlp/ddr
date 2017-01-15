@@ -1,0 +1,22 @@
+RB	_	2	adv	_	_
+VB	_	19	advcl	_	_
+PRP	_	2	obj	_	_
+,	_	19	p	_	_
+NNP	_	8	nsbj	_	_
+MD	_	8	modal	_	_
+RB	_	8	adv	_	_
+VB	_	19	comp	_	_
+IN	_	10	case	_	_
+PRP	sem=clr	8	ppmod	_	_
+IN	_	13	case	_	_
+JJ	_	13	attr	_	_
+NN	sem=mnr	8	ppmod	_	_
+,	_	19	p	_	_
+PRP	_	19	nsbj	_	_
+VBP	_	19	cop	_	_
+``	_	19	p	_	_
+RB	_	19	adv	_	_
+JJ	_	0	root	_	_
+''	_	19	p	_	_
+.	_	19	p	_	_
+

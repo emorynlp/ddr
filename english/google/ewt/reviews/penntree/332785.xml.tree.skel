@@ -1,0 +1,53 @@
+NN	_	0	root	_	_
+IN	_	3	case	_	_
+VBG	_	1	ppmod	_	_
+PRP	_	3	obj	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NN	_	3	ppmod	_	_
+
+JJ	_	2	obj	_	_
+VBN	_	0	root	_	_
+.	_	2	p	_	_
+
+PRP	_	4	nsbj	_	_
+VBP	_	4	aux	_	_
+RB	_	4	neg	_	_
+VB	_	9	comp	_	_
+,	_	9	p	_	_
+PRP	_	9	nsbj	_	_
+VBD	_	9	aux	_	_
+RB	_	9	neg	_	_
+VBG	_	0	root	_	_
+RB	sem=mnr	9	adv	_	_
+.	_	9	p	_	_
+
+PRP	_	5	nsbj	_	_
+VBD	_	5	aux	_	_
+JJ	_	5	modal	_	_
+TO	_	5	aux	_	_
+VB	_	0	root	_	_
+DT	_	8	det	_	_
+JJ	_	8	attr	_	_
+NN	_	5	obj	_	_
+,	_	8	p	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NN	_	8	conj	_	_
+CC	_	12	cc	_	_
+DT	_	15	det	_	_
+NN	_	8	conj	_	_
+IN	_	19	case	_	_
+PRP$	_	19	poss	_	_
+JJ	_	19	attr	_	_
+NNS	_	15	ppmod	_	_
+CC	_	5	cc	_	_
+PRP	_	22	nsbj	_	_
+VBD	_	5	conj	_	_
+RB	sem=dir	22	adv	_	_
+IN	_	28	case	_	_
+IN	_	28	case	_	_
+PRP$	_	28	poss	_	_
+JJ	_	28	attr	_	_
+NN	sem=prp	22	ppmod	_	_
+

@@ -1,0 +1,12 @@
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+,	_	2	p	_	_
+NN	_	2	dep	_	_
+NNP	_	4	voc	_	_
+.	_	2	p	_	_
+
+JJ	_	3	attr	_	_
+NN	_	3	com	_	_
+NNS	_	0	root	_	_
+.	_	3	p	_	_
+

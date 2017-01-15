@@ -1,0 +1,13 @@
+DT	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+WRB	sem=loc	10	adv	_	_
+NNP	_	6	poss	_	_
+POS	_	4	case	_	_
+NN	_	10	nsbj	_	_
+CC	_	6	cc	_	_
+NN	_	6	conj	_	_
+RB	_	10	adv	_	_
+VBD	sem=loc	2	advcl	_	_
+RP	_	10	prt	_	_
+.	_	2	p	_	_
+

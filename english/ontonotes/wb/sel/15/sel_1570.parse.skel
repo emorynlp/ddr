@@ -1,0 +1,24 @@
+VBZ	_	0	root	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	1	comp	_	_
+IN	_	16	mark	_	_
+VBG	_	16	nsbj	19:nsbj	_
+NN	_	5	obj	_	_
+IN	_	10	case	_	_
+JJ	_	10	adv	_	_
+HYPH	_	10	p	_	_
+JJ	sem=clr	5	ppmod	_	_
+,	_	5	p	_	_
+RB	sem=tmp	14	adv	_	_
+JJ	_	14	attr	_	_
+NN	_	5	conj	_	_
+,	_	16	p	_	_
+VBZ	_	3	comp	_	_
+PRP	_	16	obj	_	_
+CC	_	16	cc	_	_
+VBZ	_	16	conj	_	_
+PRP	_	22	nsbj	_	_
+RBR	_	22	adv	_	_
+JJ	_	19	comp	_	_
+.	_	1	p	_	_
+

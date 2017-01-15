@@ -1,0 +1,14 @@
+IN	_	2	case	_	_
+NN	_	9	ppmod	_	_
+PRP	_	5	nsbj	_	_
+VBP	_	5	cop	_	_
+IN	_	2	acl	_	_
+NN	_	5	obj	_	_
+,	_	9	p	_	_
+RB	_	9	adv	_	_
+VB	_	0	root	_	_
+NNP	_	9	obj	_	_
+JJ	_	12	attr	_	_
+NN	sem=tmp	10	advnp	_	_
+.	_	9	p	_	_
+

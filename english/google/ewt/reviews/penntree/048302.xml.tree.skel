@@ -1,0 +1,12 @@
+VBG	_	2	attr	_	_
+NN	_	6	dep	_	_
+,	_	6	p	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+NN	_	0	root	8:adv	_
+TO	_	8	aux	_	_
+VB	_	6	relcl	_	_
+DT	_	10	det	_	_
+NN	_	8	obj	_	_
+.	_	6	p	_	_
+

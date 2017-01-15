@@ -1,0 +1,20 @@
+VB	_	0	root	_	_
+JJ	_	4	attr	_	_
+NN	_	4	com	_	_
+NN	_	1	obj	_	_
+,	_	1	p	_	_
+VB	_	1	dep	_	_
+IN	_	9	case	_	_
+NN	_	9	com	_	_
+NNS	sem=clr	6	ppmod	_	_
+TO	_	11	aux	_	_
+VB	sem=prp	6	advcl	_	_
+DT	_	13	det	_	_
+NN	_	11	obj	_	_
+IN	_	17	case	_	_
+DT	_	17	det	_	_
+NN	_	17	com	_	_
+NN	_	13	ppmod	18:obj	_
+VBN	_	17	acl	_	_
+.	_	1	p	_	_
+

@@ -1,0 +1,12 @@
+PRP	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+IN	_	10	mark	_	_
+RB	sem=tmp	10	adv	_	_
+DT	_	10	nsbj	8:obj	_
+PRP	_	8	nsbj	_	_
+MD	_	8	modal	_	_
+VB	_	5	relcl	_	_
+VBZ	_	10	cop	_	_
+NN	sem=prp	2	advcl	_	_
+.	_	2	p	_	_
+

@@ -1,0 +1,22 @@
+UH	_	5	disc	_	_
+DT	_	5	nsbj	_	_
+VBZ	_	5	cop	_	_
+DT	_	5	det	_	_
+NN	_	0	root	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+PRP	_	11	nsbj	_	_
+VBP	_	11	raise	_	_
+TO	_	11	aux	_	_
+VB	_	5	conj	_	_
+DT	_	13	det	_	_
+NN	_	11	obj	15:adv;17:adv	_
+TO	_	15	aux	_	_
+VB	_	13	relcl	_	_
+CC	_	15	cc	_	_
+VB	_	15	conj	_	_
+DT	_	19	det	_	_
+NN	_	17	obj	15:obj	_
+RB	sem=tmp	17	adv	15:adv	_
+.	_	11	p	_	_
+

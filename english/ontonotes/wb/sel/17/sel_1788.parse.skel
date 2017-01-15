@@ -1,0 +1,22 @@
+IN	_	4	mark	_	_
+PRP	_	4	nsbj	_	_
+MD	_	4	modal	_	_
+VB	_	20	advcl	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+NN	_	4	obj	9:obj	_
+TO	_	9	aux	_	_
+VB	_	7	relcl	_	_
+IN	_	12	case	_	_
+PRP$	_	12	poss	_	_
+NN	sem=clr	9	ppmod	_	_
+,	_	20	p	_	_
+PRP	_	20	nsbj	_	_
+MD	_	20	modal	_	_
+VB	_	20	aux	_	_
+JJ	_	20	modal	_	_
+TO	_	20	aux	_	_
+VB	_	20	lv	_	_
+NN	_	0	root	_	_
+.	_	20	p	_	_
+

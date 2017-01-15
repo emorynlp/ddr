@@ -1,0 +1,25 @@
+CC	_	6	cc	_	_
+RB	sem=tmp	6	adv	16:adv;23:adv	_
+NNS	_	6	nsbj	16:nsbj;23:nsbj	_
+MD	_	6	modal	_	_
+RB	_	6	adv	_	_
+VB	_	0	root	_	_
+CD	_	11	num	_	_
+CC	_	7	cc	_	_
+DT	_	10	det	_	_
+JJ	_	7	conj	_	_
+NN	_	6	obj	_	_
+IN	_	14	case	_	_
+JJ	_	14	attr	_	_
+NNS	sem=clr	6	ppmod	_	_
+,	_	6	p	_	_
+VB	_	6	conj	_	_
+JJ	_	18	attr	_	_
+NNS	_	16	obj	_	_
+,	_	16	p	_	_
+CC	_	16	cc	_	_
+RB	sem=tmp	23	adv	6:adv;16:adv	_
+VB	_	23	cop	_	_
+JJ	_	6	conj	_	_
+.	_	6	p	_	_
+

@@ -1,0 +1,21 @@
+CC	_	5	cc	_	_
+PRP	_	5	nsbj	_	_
+MD	_	5	modal	_	_
+RB	sem=mnr	5	adv	_	_
+VB	_	0	root	_	_
+DT	_	7	det	_	_
+NN	_	5	obj	_	_
+IN	_	16	mark	_	_
+PRP	_	16	nsbj	_	_
+CC	_	9	cc	_	_
+PRP	_	9	conj	_	_
+VBZ	_	16	aux	_	_
+RB	_	16	neg	_	_
+JJ	_	16	modal	_	_
+TO	_	16	aux	_	_
+VB	_	5	comp	_	_
+IN	_	19	case	_	_
+PRP$	_	19	poss	_	_
+NN	sem=loc	16	ppmod	_	_
+.	_	5	p	_	_
+

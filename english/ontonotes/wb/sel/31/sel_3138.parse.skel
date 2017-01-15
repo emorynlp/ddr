@@ -1,0 +1,26 @@
+NNP	sem=loc	5	advnp	_	_
+:	_	5	p	_	_
+DT	_	4	det	_	_
+NNPS	_	5	nsbj	_	_
+VBD	_	0	root	_	_
+PRP$	_	7	poss	_	_
+NN	_	5	obj	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+NNP	_	11	com	_	_
+NNP	_	13	com	_	_
+NN	_	13	com	_	_
+NNS	sem=clr	5	ppmod	_	_
+IN	_	16	case	_	_
+NNP	_	16	com	_	_
+NN	sem=tmp	5	ppmod	_	_
+IN	_	20	case	_	_
+DT	_	20	det	_	_
+JJS	_	20	attr	_	_
+NNS	sem=clr	5	ppmod	21:obj	_
+VBN	_	20	acl	_	_
+IN	_	24	case	_	_
+CD	_	24	num	_	_
+NNS	sem=tmp	21	ppmod	_	_
+.	_	5	p	_	_
+

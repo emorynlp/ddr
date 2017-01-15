@@ -1,0 +1,27 @@
+RB	_	10	adv	_	_
+,	_	10	p	_	_
+JJS	_	10	nsbj	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NNP	_	7	com	_	_
+NNS	_	3	ppmod	_	_
+VBP	_	10	raise	_	_
+TO	_	10	aux	_	_
+VB	_	0	root	_	_
+DT	_	13	det	_	_
+NN	_	13	com	_	_
+NN	_	10	obj	_	_
+CC	_	13	cc	_	_
+RB	_	19	neg	_	_
+DT	_	19	det	_	_
+NN	_	18	advnp	_	_
+VBN	_	19	attr	_	_
+NNS	_	13	conj	25:obj	_
+IN	_	21	case	_	_
+NNP	_	19	ppmod	_	_
+WDT	_	25	r-obj	_	_
+PRP	_	25	nsbj	_	_
+VBP	_	25	aux	_	_
+VBN	_	19	relcl	_	_
+.	_	10	p	_	_
+

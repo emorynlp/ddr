@@ -1,0 +1,20 @@
+VB	_	0	root	_	_
+NN	_	3	nsbj	_	_
+VB	_	1	comp	_	_
+DT	_	6	det	_	_
+NN	_	6	com	_	_
+NN	_	3	obj	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NN	_	6	ppmod	_	_
+IN	_	12	mark	_	_
+PRP	_	12	nsbj	_	_
+VBP	sem=prp	1	advcl	_	_
+WRB	sem=loc	15	adv	_	_
+TO	_	15	aux	_	_
+VB	_	12	comp	_	_
+IN	_	18	case	_	_
+DT	_	18	det	_	_
+NN	sem=clr	15	ppmod	_	_
+.	_	1	p	_	_
+

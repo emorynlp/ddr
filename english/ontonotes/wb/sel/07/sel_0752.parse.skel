@@ -1,0 +1,23 @@
+IN	_	2	case	_	_
+DT	_	0	root	_	_
+VBZ	_	2	cop	_	_
+DT	_	5	det	_	_
+NN	_	2	nsbj	_	_
+IN	_	16	mark	_	_
+NNPS	_	16	nsbj	13:nsbj	_
+WP	_	13	r-nsbj	_	_
+VBP	_	13	aux	_	_
+JJ	_	13	modal	_	_
+RB	_	13	adv	_	_
+TO	_	13	aux	_	_
+VB	_	7	relcl	_	_
+NN	_	13	obj	_	_
+RB	sem=tmp	16	neg	_	_
+VBP	_	5	acl	_	_
+JJ	_	18	attr	_	_
+NNS	_	16	obj	_	_
+IN	_	21	case	_	_
+JJ	_	21	attr	_	_
+NN	_	18	ppmod	_	_
+.	_	2	p	_	_
+

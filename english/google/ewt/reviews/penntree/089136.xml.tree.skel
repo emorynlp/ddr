@@ -1,0 +1,21 @@
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+.	_	2	p	_	_
+
+VB	_	0	root	_	_
+JJ	_	1	comp	_	_
+TO	_	4	aux	_	_
+VB	_	2	csbj	_	_
+JJ	_	6	attr	_	_
+NNS	_	4	obj	_	_
+IN	_	9	case	_	_
+PRP$	_	9	poss	_	_
+NN	sem=loc	4	ppmod	_	_
+TO	_	11	aux	_	_
+VB	sem=prp	4	advcl	_	_
+PRP	_	13	nsbj	_	_
+JJ	_	11	comp	_	_
+.	_	1	p	_	_
+
+UH	_	0	root	_	_
+

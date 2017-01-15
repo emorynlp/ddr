@@ -1,0 +1,19 @@
+PRP	_	2	nsbj	4:nsbj;11:nsbj	_
+VBD	_	0	root	_	_
+IN	_	4	case	_	_
+VBG	sem=clr	2	ppmod	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NNP	_	8	com	_	_
+NNP	sem=clr	4	ppmod	_	_
+,	_	4	p	_	_
+TO	_	11	aux	_	_
+VB	sem=prp	4	advcl	_	_
+CD	_	16	num	_	_
+JJ	_	15	attr	_	_
+HYPH	_	15	p	_	_
+NN	_	16	com	_	_
+NNS	_	17	nsbj	_	_
+VB	_	11	comp	_	_
+.	_	2	p	_	_
+

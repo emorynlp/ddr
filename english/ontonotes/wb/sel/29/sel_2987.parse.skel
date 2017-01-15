@@ -1,0 +1,16 @@
+CD	_	2	num	_	_
+NN	_	3	nsbj	_	_
+VBZ	_	0	root	_	_
+TO	_	5	aux	_	_
+VB	_	3	comp	_	_
+NNS	_	5	obj	9:obj	_
+WDT	_	9	r-obj	_	_
+PRP	_	9	nsbj	_	_
+VBP	_	6	relcl	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	_	13	advnp	_	_
+JJ	_	14	attr	_	_
+NN	sem=loc	9	ppmod	_	_
+.	_	3	p	_	_
+

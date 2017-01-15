@@ -1,0 +1,13 @@
+PRP	_	4	nsbj	_	_
+VBD	_	4	cop	_	_
+DT	_	4	det	_	_
+NN	_	0	root	6:nsbj	_
+WDT	_	6	r-nsbj	_	_
+VBD	_	4	relcl	_	_
+DT	_	8	det	_	_
+RBS	sem=mnr	6	adv	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	sem=loc	6	ppmod	_	_
+.	_	4	p	_	_
+

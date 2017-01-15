@@ -1,0 +1,30 @@
+NNP	_	2	com	_	B-ORG
+NNP	_	4	poss	_	I-ORG
+POS	_	2	case	_	L-ORG
+NN	_	5	nsbj	_	O
+VBN	_	0	root	_	O
+IN	_	9	case	_	O
+$	_	9	meta	_	B-MONEY
+CD	_	9	com	_	I-MONEY
+CD	sem=dir	5	ppmod	_	L-MONEY
+IN	_	13	case	_	O
+DT	_	13	det	_	B-DATE
+JJ	_	13	attr	_	I-DATE
+NN	sem=tmp	5	ppmod	_	L-DATE
+IN	_	17	case	_	O
+$	_	17	meta	_	B-MONEY
+CD	_	17	com	_	I-MONEY
+CD	sem=dir	5	ppmod	_	L-MONEY
+DT	_	19	det	_	B-DATE
+NN	_	20	advnp	_	I-DATE
+IN	sem=tmp	17	adv	_	L-DATE
+.	_	5	p	_	O
+
+NNP	_	3	poss	_	U-DATE
+POS	_	1	case	_	O
+NN	_	4	nsbj	_	O
+VBD	_	0	root	_	O
+DT	_	6	det	_	O
+NN	_	4	obj	_	O
+.	_	4	p	_	O
+

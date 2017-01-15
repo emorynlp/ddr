@@ -1,0 +1,16 @@
+LS	_	5	num	_	_
+.	_	1	p	_	_
+VB	_	5	aux	_	_
+RB	_	5	neg	_	_
+VB	_	0	root	_	_
+DT	_	7	det	_	_
+NNS	_	5	obj	_	_
+-LRB-	_	7	p	_	_
+DT	_	13	det	_	_
+,	_	13	p	_	_
+DT	_	13	det	_	_
+,	_	13	p	_	_
+DT	_	7	appo	_	_
+-RRB-	_	7	p	_	_
+.	_	5	p	_	_
+

@@ -1,0 +1,16 @@
+VB	_	2	aux	_	_
+VBG	_	0	root	_	_
+PRP$	_	4	poss	_	_
+NN	_	2	obj	_	_
+RB	sem=loc	2	adv	_	_
+IN	_	7	case	_	_
+NNP	_	5	ppmod	_	_
+CC	_	2	cc	_	_
+VB	_	2	conj	_	_
+IN	_	14	mark	_	_
+PRP$	_	13	poss	_	_
+JJ	_	13	attr	_	_
+NNPS	_	14	nsbj	_	_
+VBP	_	9	comp	_	_
+.	_	2	p	_	_
+

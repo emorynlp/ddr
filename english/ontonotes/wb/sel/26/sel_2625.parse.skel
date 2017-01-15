@@ -1,0 +1,24 @@
+NNS	_	2	nsbj	_	_
+JJ	_	6	advcl	_	_
+,	_	6	p	_	_
+DT	_	5	det	_	_
+NN	_	6	nsbj	_	_
+VBD	_	0	root	_	_
+PRP$	_	8	poss	_	_
+NN	_	6	obj	_	_
+IN	_	16	mark	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NN	_	16	nsbj	_	_
+MD	_	16	modal	_	_
+RB	_	15	com	_	_
+RB	sem=tmp	16	neg	_	_
+VB	sem=tmp	6	advcl	_	_
+IN	_	22	case	_	_
+DT	_	19	det	_	_
+NN	_	22	poss	_	_
+POS	_	19	case	_	_
+NN	_	22	com	_	_
+NNS	sem=clr	16	ppmod	_	_
+.	_	6	p	_	_
+

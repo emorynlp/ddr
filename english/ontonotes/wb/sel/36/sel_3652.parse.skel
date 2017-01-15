@@ -1,0 +1,16 @@
+PRP$	_	2	poss	_	_
+NNS	_	3	nsbj	_	_
+VBP	_	0	root	_	_
+NN	_	3	obj	_	_
+IN	_	6	case	_	_
+NNP	sem=tmp	3	ppmod	_	_
+CD	_	6	num	_	_
+,	_	6	p	_	_
+CD	_	10	num	_	_
+NN	sem=tmp	6	advnp	_	_
+,	_	3	p	_	_
+NNP	_	14	attr	_	_
+XX	_	14	attr	_	_
+NNP	_	3	dep	_	_
+.	_	3	p	_	_
+

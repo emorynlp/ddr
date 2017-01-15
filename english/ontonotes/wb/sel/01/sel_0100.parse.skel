@@ -1,0 +1,21 @@
+CC	_	10	cc	_	_
+WRB	sem=loc	10	adv	_	_
+VBZ	_	10	aux	_	_
+DT	_	9	det	_	_
+``	_	9	p	_	_
+JJ	_	7	attr	_	_
+NN	_	9	attr	_	_
+''	_	9	p	_	_
+NN	_	10	nsbj	_	_
+VB	_	0	root	_	_
+,	_	10	p	_	_
+VBG	_	10	advcl	_	_
+IN	_	19	mark	_	_
+DT	_	15	det	_	_
+NN	_	19	nsbj	_	_
+VBZ	_	19	cop	_	_
+RB	sem=tmp	19	adv	_	_
+DT	_	19	det	_	_
+NN	_	12	comp	_	_
+.	_	10	p	_	_
+

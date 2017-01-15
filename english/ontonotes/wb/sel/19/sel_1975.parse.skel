@@ -1,0 +1,24 @@
+PRP	_	3	dat	_	_
+VBP	_	3	aux	_	_
+VBN	_	0	root	_	_
+JJ	_	3	obj	_	_
+TO	_	6	aux	_	_
+VB	_	4	acl	_	_
+PRP$	_	12	poss	_	_
+JJ	_	12	attr	_	_
+NN	_	12	attr	_	_
+CC	_	9	cc	_	_
+NN	_	9	conj	_	_
+NNS	_	6	obj	_	_
+,	_	3	p	_	_
+CC	_	3	cc	_	_
+PRP	_	16	nsbj	_	_
+VBP	_	3	conj	_	_
+CD	_	18	num	_	_
+NNS	_	16	obj	_	_
+IN	_	20	case	_	_
+NN	_	18	ppmod	_	_
+DT	_	22	det	_	_
+NN	_	18	advnp	_	_
+.	_	16	p	_	_
+

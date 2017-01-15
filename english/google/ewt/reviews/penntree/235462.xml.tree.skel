@@ -1,0 +1,14 @@
+NNP	_	0	root	_	_
+IN	_	3	case	_	_
+NNP	sem=loc	1	ppmod	_	_
+.	_	1	p	_	_
+
+RB	_	4	adv	_	_
+PRP$	_	4	poss	_	_
+JJ	_	4	attr	_	_
+NN	_	0	root	_	_
+IN	_	6	case	_	_
+NNP	sem=loc	4	ppmod	_	_
+,	_	6	p	_	_
+NNP	sem=loc	6	advnp	_	_
+

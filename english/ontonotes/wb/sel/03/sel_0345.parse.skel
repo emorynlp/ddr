@@ -1,0 +1,12 @@
+IN	_	2	case	_	_
+NN	_	8	ppmod	_	_
+MD	_	8	modal	_	_
+NNS	_	8	nsbj	_	_
+CC	_	4	cc	_	_
+NN	_	7	com	_	_
+NNS	_	4	conj	_	_
+VB	_	0	root	_	_
+JJR	_	10	attr	_	_
+NN	_	8	obj	_	_
+.	_	8	p	_	_
+

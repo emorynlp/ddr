@@ -1,0 +1,15 @@
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+,	_	2	p	_	_
+JJ	_	5	attr	_	_
+NN	_	2	appo	_	_
+.	_	2	p	_	_
+
+VBD	_	0	root	_	_
+NNP	_	1	obj	_	_
+CC	_	1	cc	_	_
+VBD	_	1	conj	_	_
+JJ	_	6	attr	_	_
+NN	_	4	obj	_	_
+.	_	1	p	_	_
+

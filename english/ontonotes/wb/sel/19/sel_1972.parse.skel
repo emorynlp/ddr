@@ -1,0 +1,17 @@
+UH	_	6	disc	_	_
+,	_	6	p	_	_
+NNP	_	6	voc	_	_
+,	_	6	p	_	_
+UH	_	6	disc	_	_
+VB	_	0	root	_	_
+NNS	_	6	obj	_	_
+CC	_	6	cc	_	_
+VB	_	6	conj	_	_
+JJ	_	11	attr	_	_
+NNS	_	9	obj	_	_
+TO	_	13	aux	_	_
+VB	sem=prp	9	advcl	6:advcl	_
+PRP$	_	15	poss	_	_
+NN	_	13	obj	_	_
+.	_	6	p	_	_
+

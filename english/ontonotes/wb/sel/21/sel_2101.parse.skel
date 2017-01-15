@@ -1,0 +1,14 @@
+NNS	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+IN	_	4	case	_	_
+NNS	sem=clr	2	ppmod	_	_
+,	_	4	p	_	_
+RB	_	9	adv	_	_
+RB	_	9	adv	_	_
+NNP	_	9	com	_	_
+NNP	_	4	appo	_	_
+PRP	_	9	appo	_	_
+WP	_	12	nsbj	_	_
+VBZ	_	9	acl	_	_
+.	_	2	p	_	_
+

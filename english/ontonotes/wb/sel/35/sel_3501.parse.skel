@@ -1,0 +1,19 @@
+DT	_	2	det	_	_
+NN	_	3	nsbj	_	_
+VBZ	_	0	root	_	_
+TO	_	5	aux	_	_
+VB	_	3	comp	_	_
+DT	_	7	det	_	_
+NN	_	5	obj	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NN	sem=clr	5	ppmod	_	_
+CC	_	5	cc	_	_
+RB	sem=tmp	13	adv	5:adv	_
+VB	_	5	conj	_	_
+PRP	_	15	nsbj	_	_
+VB	_	13	comp	_	_
+DT	_	17	det	_	_
+NN	_	15	obj	_	_
+.	_	3	p	_	_
+

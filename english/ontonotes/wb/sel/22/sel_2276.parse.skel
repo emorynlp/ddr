@@ -1,0 +1,25 @@
+NNP	_	2	com	_	_
+NNP	_	7	nsbj	9:nsbj	_
+,	_	7	p	_	_
+RB	_	7	adv	_	_
+,	_	7	p	_	_
+VBD	_	7	cop	_	_
+JJ	_	0	root	_	_
+CC	_	7	cc	_	_
+VBD	_	7	conj	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+JJ	sem=clr	9	ppmod	_	_
+IN	_	16	case	_	_
+DT	_	16	det	_	_
+JJ	_	16	attr	_	_
+NNS	_	9	ppmod	20:obj	_
+DT	_	19	det	_	_
+JJ	_	19	attr	_	_
+NNS	_	20	nsbj	_	_
+VBD	_	16	relcl	_	_
+RP	_	20	prt	_	_
+IN	_	23	case	_	_
+PRP	_	20	ppmod	_	_
+.	_	7	p	_	_
+

@@ -1,0 +1,16 @@
+PRP$	_	2	poss	_	_
+NN	_	3	nsbj	_	_
+VBZ	_	0	root	_	_
+TO	_	5	aux	_	_
+VB	_	3	comp	_	_
+PRP	_	5	obj	_	_
+JJ	_	8	attr	_	_
+NN	sem=tmp	5	advnp	_	_
+IN	_	12	mark	_	_
+DT	_	11	det	_	_
+NN	_	12	nsbj	_	_
+VBZ	_	5	advcl	_	_
+IN	_	14	case	_	_
+CD	sem=clr	12	ppmod	_	_
+.	_	3	p	_	_
+

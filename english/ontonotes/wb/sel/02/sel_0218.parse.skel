@@ -1,0 +1,19 @@
+PRP	_	3	nsbj	14:nsbj	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+DT	_	7	det	_	_
+NNP	_	7	com	_	_
+NN	_	7	com	_	_
+NN	_	3	obj	_	_
+IN	_	9	case	_	_
+CD	sem=clr	3	ppmod	_	_
+IN	_	11	case	_	_
+NNP	sem=clr	3	ppmod	_	_
+RB	_	3	cc	_	_
+IN	_	12	com	_	_
+CD	_	3	conj	_	_
+IN	_	17	case	_	_
+NN	_	17	com	_	_
+NN	sem=loc	14	ppmod	_	_
+.	_	3	p	_	_
+

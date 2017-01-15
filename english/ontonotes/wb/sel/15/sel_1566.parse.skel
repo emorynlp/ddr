@@ -1,0 +1,21 @@
+PRP	_	2	nsbj	9:nsbj	_
+VBD	_	0	root	_	_
+NNS	_	7	nsbj	_	_
+IN	_	6	case	_	_
+NNP	_	6	com	_	_
+NNP	_	3	ppmod	_	_
+JJ	_	2	comp	_	_
+TO	_	9	aux	_	_
+VB	_	7	comp	_	_
+IN	_	19	mark	_	_
+DT	_	12	det	_	_
+NN	_	19	nsbj	_	_
+VBD	_	19	cop	_	_
+RB	_	19	adv	_	_
+CD	_	18	num	_	_
+CC	_	15	cc	_	_
+CD	_	15	conj	_	_
+NNS	_	19	advnp	_	_
+JJ	sem=prp	7	advcl	_	_
+.	_	2	p	_	_
+

@@ -4,7 +4,8 @@ This project provides resources for Deep Dependency Representation (DDR) that in
 
 ## Resources
 
-* [Guidelines](https://emorynlp.github.io/ddr/).
+* [Constituency to DDG Conversion](md/conversion.md).
+* [DDG Guidelines](https://emorynlp.github.io/ddr/).
 
 ## References
 

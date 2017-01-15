@@ -1,0 +1,22 @@
+DT	_	2	det	_	_
+NNS	_	3	nsbj	7:nsbj	_
+VBD	_	0	root	_	_
+DT	_	5	det	_	_
+NNS	_	3	obj	_	_
+TO	_	7	aux	_	_
+VB	sem=clr	3	comp	_	_
+DT	_	9	det	_	_
+NN	_	7	obj	_	_
+CC	_	9	cc	_	_
+NN	_	9	conj	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NNS	_	9	ppmod	_	_
+IN	_	16	case	_	_
+NN	_	9	ppmod	_	_
+IN	_	20	case	_	_
+DT	_	20	det	_	_
+VBN	_	20	attr	_	_
+NN	_	16	ppmod	_	_
+.	_	3	p	_	_
+

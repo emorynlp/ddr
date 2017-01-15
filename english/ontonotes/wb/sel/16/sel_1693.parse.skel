@@ -1,0 +1,19 @@
+PRP	_	5	nsbj	_	_
+RB	_	5	adv	_	_
+VBP	_	5	lv	_	_
+DT	_	5	det	_	_
+NN	_	0	root	_	_
+IN	_	10	case	_	_
+IN	_	10	case	_	_
+IN	_	10	mark	_	_
+PRP	_	10	nsbj	_	_
+VBZ	_	5	ppmod	_	_
+NNS	_	10	obj	_	_
+CC	_	11	cc	_	_
+JJ	_	14	attr	_	_
+NNS	_	11	conj	_	_
+IN	_	17	case	_	_
+JJ	_	17	attr	_	_
+NNS	_	11	ppmod	_	_
+.	_	5	p	_	_
+

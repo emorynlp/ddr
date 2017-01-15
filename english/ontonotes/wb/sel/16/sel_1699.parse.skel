@@ -1,0 +1,10 @@
+WRB	sem=prp	5	adv	_	_
+MD	_	5	modal	_	_
+RB	_	5	neg	_	_
+PRP	_	5	nsbj	_	_
+VB	_	0	root	_	_
+NN	_	5	obj	_	_
+IN	_	8	case	_	_
+NN	sem=clr	5	ppmod	_	_
+.	_	5	p	_	_
+

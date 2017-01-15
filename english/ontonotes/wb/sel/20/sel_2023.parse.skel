@@ -1,0 +1,23 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+PRP	_	9	nsbj	_	_
+,	_	9	p	_	_
+RB	_	9	adv	_	_
+,	_	9	p	_	_
+TO	_	9	aux	_	_
+VB	_	9	cop	_	_
+NNS	_	2	comp	_	_
+,	_	2	p	_	_
+IN	_	15	mark	_	_
+PRP	_	15	nsbj	_	_
+RB	_	14	com	_	_
+RB	sem=tmp	15	neg	_	_
+VBP	sem=prp	2	advcl	_	_
+WP	_	20	obj	_	_
+NN	_	20	nsbj	_	_
+CC	_	17	cc	_	_
+NN	_	17	conj	_	_
+VBZ	_	15	comp	_	_
+.	_	2	p	_	_
+''	_	2	p	_	_
+

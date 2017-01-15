@@ -1,0 +1,49 @@
+JJ	_	2	attr	_	_
+NN	_	3	com	_	_
+NN	_	0	root	_	_
+
+NNP	_	2	com	_	_
+NNP	_	9	nsbj	_	_
+VBZ	_	9	cop	_	_
+DT	_	9	det	_	_
+JJ	_	9	attr	_	_
+NNP	_	9	attr	_	_
+JJ	_	8	attr	_	_
+NN	_	9	com	_	_
+NN	_	0	root	_	_
+.	_	9	p	_	_
+
+PRP	_	2	nsbj	7:nsbj	_
+VB	_	0	root	_	_
+VBD	_	2	dep	_	_
+NNS	_	2	obj	_	_
+RB	_	2	adv	_	_
+CC	_	2	cc	_	_
+VBD	_	2	conj	_	_
+PRP	_	9	nsbj	12:nsbj	_
+VB	_	7	comp	_	_
+RP	_	9	prt	_	_
+CC	_	9	cc	_	_
+VB	_	9	conj	_	_
+DT	_	14	det	_	_
+NN	_	12	obj	_	_
+.	_	2	p	_	_
+
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	12	advcl	_	_
+DT	_	5	det	_	_
+NN	_	3	obj	8:nsbj	_
+WP	_	8	r-nsbj	_	_
+MD	_	8	modal	_	_
+VB	_	5	relcl	_	_
+PRP$	_	10	poss	_	_
+NN	_	8	obj	_	_
+,	_	12	p	_	_
+VB	_	0	root	_	_
+NNP	_	14	com	_	_
+NNPS	_	12	obj	_	_
+IN	_	17	case	_	_
+NNP	_	17	com	_	_
+NNP	_	14	ppmod	_	_
+

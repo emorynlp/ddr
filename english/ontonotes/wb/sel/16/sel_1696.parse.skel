@@ -1,0 +1,10 @@
+CC	_	3	cc	_	_
+NNP	_	3	nsbj	8:nsbj	_
+VBD	_	0	root	_	_
+IN	_	5	case	_	_
+NNP	sem=clr	3	ppmod	_	_
+DT	_	8	det	_	_
+JJ	_	8	attr	_	_
+NN	_	3	comp	_	_
+.	_	3	p	_	_
+

@@ -1,0 +1,71 @@
+DT	_	2	det	_	_
+NN	_	5	nsbj	_	_
+RB	sem=loc	2	adv	_	_
+VBZ	_	5	cop	_	_
+JJ	_	0	root	_	_
+.	_	5	p	_	_
+
+IN	_	5	mark	_	_
+DT	_	4	det	_	_
+JJ	_	4	attr	_	_
+NN	_	5	nsbj	_	_
+VBD	_	11	advcl	_	_
+,	_	11	p	_	_
+DT	_	9	det	_	_
+NN	_	9	com	_	_
+NNS	_	11	obj	_	_
+VBP	_	11	aux	_	_
+VBN	_	0	root	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+JJ	_	15	attr	_	_
+NN	sem=clr	11	ppmod	_	_
+.	_	11	p	_	_
+
+DT	_	5	nsbj	_	_
+VBZ	_	5	cop	_	_
+CD	_	5	num	_	_
+SYM	_	3	p	_	_
+JJR	_	0	root	_	_
+IN	_	12	case	_	_
+NNP	_	8	com	_	_
+NNP	_	12	poss	_	_
+POS	_	8	case	_	_
+JJS	_	11	attr	_	_
+NN	_	12	com	_	_
+NN	_	5	ppmod	_	_
+.	_	5	p	_	_
+
+DT	_	3	det	_	_
+JJ	_	3	attr	_	_
+NN	_	4	nsbj	_	_
+VBZ	_	0	root	_	_
+PRP	_	6	nsbj	_	_
+VB	_	4	comp	_	_
+DT	_	8	det	_	_
+NN	_	10	nsbj	_	_
+VBZ	_	10	cop	_	_
+JJ	_	6	comp	_	_
+,	_	4	p	_	_
+CC	_	4	cc	_	_
+NN	_	18	nsbj	_	_
+RB	sem=loc	13	adv	_	_
+VBZ	_	18	cop	_	_
+JJ	_	18	adv	_	_
+JJ	_	18	adv	_	_
+JJ	_	4	conj	_	_
+.	_	18	p	_	_
+
+VBG	_	0	root	_	_
+RB	_	1	adv	_	_
+RB	_	4	com	_	_
+RB	sem=tmp	1	adv	_	_
+IN	_	9	mark	_	_
+PRP$	_	7	poss	_	_
+NN	_	9	nsbj	_	_
+VBZ	_	9	cop	_	_
+RB	_	4	comp	_	_
+.	_	1	p	_	_
+
+ADD	_	0	root	_	_
+

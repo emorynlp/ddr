@@ -1,0 +1,27 @@
+VBZ	_	0	root	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+NNP	_	5	com	_	_
+NN	_	1	obj	_	_
+CC	_	5	cc	_	_
+NN	_	8	com	_	_
+NN	_	5	conj	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	sem=loc	1	ppmod	_	_
+,	_	1	p	_	_
+IN	_	16	case	_	_
+IN	_	16	case	_	_
+DT	_	16	det	_	_
+NN	_	1	ppmod	18:obj	_
+TO	_	18	aux	_	_
+VB	_	16	relcl	_	_
+IN	_	22	case	_	_
+DT	_	22	det	_	_
+NN	_	22	com	_	_
+NN	sem=clr	18	ppmod	_	_
+IN	_	25	case	_	_
+PRP$	_	25	poss	_	_
+NN	sem=loc	22	ppmod	_	_
+.	_	1	p	_	_
+

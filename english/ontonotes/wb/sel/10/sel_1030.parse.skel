@@ -1,0 +1,22 @@
+NNS	_	6	nsbj	8:nsbj	_
+VBD	_	6	raise	_	_
+TO	_	6	aux	_	_
+VB	_	6	cop	_	_
+RB	_	6	adv	_	_
+JJ	_	0	root	_	_
+TO	_	8	aux	_	_
+VB	sem=prp	6	advcl	_	_
+NN	_	8	obj	_	_
+IN	_	15	mark	_	_
+DT	_	12	det	_	_
+NNS	_	15	nsbj	_	_
+VBD	_	15	aux	_	_
+RB	_	15	neg	_	_
+VB	sem=prp	6	advcl	_	_
+DT	_	17	det	_	_
+NNS	_	15	obj	20:obj	_
+WDT	_	20	r-obj	_	_
+NN	_	20	nsbj	_	_
+VBD	_	17	relcl	_	_
+.	_	6	p	_	_
+

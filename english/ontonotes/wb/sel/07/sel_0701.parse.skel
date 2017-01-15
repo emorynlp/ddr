@@ -1,0 +1,20 @@
+PRP	_	4	nsbj	_	_
+VBP	_	4	aux	_	_
+RB	_	4	neg	_	_
+VB	_	0	root	_	_
+IN	_	6	case	_	_
+DT	sem=clr	4	ppmod	_	_
+IN	_	9	case	_	_
+PRP$	_	9	poss	_	_
+NNS	_	6	ppmod	_	_
+CC	_	4	cc	_	_
+DT	_	13	nsbj	_	_
+VBZ	_	13	cop	_	_
+JJ	_	18	comp	_	_
+IN	_	16	case	_	_
+JJS	_	16	attr	_	_
+NNS	_	13	ppmod	_	_
+PRP	_	18	nsbj	_	_
+VBP	_	4	conj	_	_
+.	_	18	p	_	_
+

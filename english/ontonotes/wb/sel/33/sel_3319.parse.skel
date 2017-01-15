@@ -1,0 +1,19 @@
+CC	_	3	cc	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	0	root	_	_
+DT	_	8	det	_	_
+VBN	_	8	attr	_	_
+RB	_	5	adv	_	_
+NN	_	8	com	_	_
+NN	_	3	obj	_	_
+CC	_	8	cc	_	_
+DT	_	15	det	_	_
+CD	_	12	num	_	_
+NN	_	15	attr	_	_
+JJ	_	15	attr	_	_
+NN	_	15	com	_	_
+NN	_	8	conj	_	_
+IN	_	17	case	_	_
+NN	_	15	ppmod	_	_
+.	_	3	p	_	_
+

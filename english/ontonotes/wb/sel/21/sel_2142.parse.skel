@@ -1,0 +1,25 @@
+PRP	_	4	nsbj	_	_
+VBZ	_	4	cop	_	_
+RB	_	4	neg	_	_
+JJ	_	18	comp	_	_
+,	_	4	p	_	_
+RB	_	7	neg	_	_
+JJ	_	4	dep	_	_
+,	_	18	p	_	_
+PRP	_	14	nsbj	_	_
+VBZ	_	14	cop	_	_
+DT	_	14	det	_	_
+RB	_	13	adv	_	_
+JJ	_	14	attr	_	_
+NN	_	18	comp	_	_
+MD	_	18	modal	_	_
+RB	_	18	neg	_	_
+PRP	_	18	nsbj	_	_
+VB	_	0	root	_	_
+RB	_	20	adv	_	_
+JJ	_	22	attr	_	_
+NNP	_	22	com	_	_
+NN	_	18	obj	_	_
+.	_	18	p	_	_
+''	_	18	p	_	_
+

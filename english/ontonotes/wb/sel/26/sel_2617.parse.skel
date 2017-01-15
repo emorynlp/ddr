@@ -1,0 +1,25 @@
+VBP	_	8	aux	_	_
+PDT	_	7	det	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+NN	_	6	com	_	_
+NN	_	7	com	_	_
+NNS	_	8	nsbj	_	_
+VB	_	0	root	_	_
+NN	_	8	obj	_	_
+IN	_	11	case	_	_
+NNS	sem=clr	8	ppmod	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	_	11	ppmod	_	_
+IN	_	17	case	_	_
+JJ	_	17	attr	_	_
+NNS	_	14	ppmod	_	_
+IN	_	19	case	_	_
+NNS	_	17	ppmod	_	_
+DT	_	21	det	_	_
+NN	sem=mnr	8	advnp	_	_
+NNP	_	23	nsbj	_	_
+VBZ	_	21	relcl	_	_
+.	_	8	p	_	_
+

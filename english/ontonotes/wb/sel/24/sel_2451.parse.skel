@@ -1,0 +1,11 @@
+DT	_	2	det	_	_
+NN	_	6	nsbj	_	_
+IN	_	5	case	_	_
+DT	_	5	det	_	_
+NNP	_	2	ppmod	_	_
+VBD	_	0	root	_	_
+NN	_	6	obj	_	_
+IN	_	9	case	_	_
+NN	sem=clr	6	ppmod	_	_
+.	_	6	p	_	_
+

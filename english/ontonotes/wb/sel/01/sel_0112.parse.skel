@@ -1,0 +1,21 @@
+PRP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+JJ	_	4	attr	_	_
+NNS	_	7	nsbj	9:nsbj;11:nsbj	_
+TO	_	7	aux	_	_
+VB	_	7	cop	_	_
+JJ	_	2	comp	_	_
+CC	_	7	cc	_	_
+VB	_	7	conj	_	_
+CC	_	9	cc	_	_
+VB	_	9	conj	_	_
+,	_	2	p	_	_
+CC	_	2	cc	_	_
+DT	_	15	det	_	_
+NN	_	18	nsbj	_	_
+VBD	_	18	raise	_	_
+TO	_	18	aux	_	_
+VB	_	2	conj	_	_
+RB	sem=mnr	18	adv	_	_
+.	_	18	p	_	_
+

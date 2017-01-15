@@ -1,0 +1,19 @@
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+CC	_	2	cc	_	_
+NN	_	5	com	_	_
+NN	_	2	conj	_	_
+.	_	5	p	_	_
+
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+CC	_	2	cc	_	_
+NNS	_	2	conj	_	_
+VBN	_	7	adv	_	_
+IN	_	7	case	_	_
+NN	_	2	ppmod	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NN	_	7	ppmod	_	_
+.	_	2	p	_	_
+

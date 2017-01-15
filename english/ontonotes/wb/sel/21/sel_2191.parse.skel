@@ -1,0 +1,18 @@
+NNS	_	7	nsbj	_	_
+CC	_	1	cc	_	_
+JJ	_	4	attr	_	_
+NNS	_	1	conj	_	_
+IN	_	6	case	_	_
+NNS	_	4	ppmod	_	_
+VBP	_	0	root	_	_
+NNS	_	7	obj	10:nsbj	_
+WDT	_	10	r-nsbj	_	_
+VBP	_	8	relcl	_	_
+IN	_	15	case	_	_
+JJ	_	13	attr	_	_
+NNS	_	15	poss	_	_
+POS	_	13	case	_	_
+NNS	sem=clr	10	ppmod	_	_
+.	_	7	p	_	_
+''	_	7	p	_	_
+

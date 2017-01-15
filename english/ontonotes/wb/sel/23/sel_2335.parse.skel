@@ -1,0 +1,16 @@
+UH	_	5	disc	_	_
+,	_	5	p	_	_
+PRP	_	5	nsbj	_	_
+VBP	_	5	aux	_	_
+VBG	_	0	root	_	_
+IN	_	7	mark	_	_
+NNS	sem=clr	5	comp	9:nsbj	_
+TO	_	9	aux	_	_
+VB	_	7	relcl	_	_
+IN	_	14	case	_	_
+JJ	_	14	attr	_	_
+JJ	_	14	attr	_	_
+VBN	_	14	attr	_	_
+NNS	sem=clr	9	ppmod	_	_
+.	_	5	p	_	_
+

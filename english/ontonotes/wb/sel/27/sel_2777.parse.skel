@@ -1,0 +1,14 @@
+RB	sem=tmp	2	adv	_	_
+VBP	_	0	root	_	_
+TO	_	4	aux	_	_
+VB	_	2	comp	_	_
+RP	_	4	prt	_	_
+DT	_	7	det	_	_
+NN	_	4	obj	_	_
+CC	_	9	cc	_	_
+CD	_	7	num	_	_
+RB	sem=tmp	2	adv	_	_
+CC	_	10	cc	_	_
+RB	_	10	conj	_	_
+.	_	2	p	_	_
+

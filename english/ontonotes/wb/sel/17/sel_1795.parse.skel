@@ -1,0 +1,16 @@
+NNPS	_	4	nsbj	_	_
+VBG	_	1	acl	_	_
+RB	sem=loc	2	adv	_	_
+VBP	_	0	root	_	_
+RB	sem=dir	4	adv	_	_
+IN	_	7	case	_	_
+JJS	_	10	adv	_	_
+$	_	10	meta	_	_
+CD	_	10	com	_	_
+CD	_	4	obj	_	_
+IN	_	12	case	_	_
+NNS	_	10	ppmod	_	_
+DT	_	14	det	_	_
+NN	sem=tmp	4	advnp	_	_
+.	_	4	p	_	_
+

@@ -1,0 +1,19 @@
+JJ	_	6	dep	_	_
+CC	_	1	cc	_	_
+JJ	_	1	conj	_	_
+IN	_	6	case	_	_
+JJ	_	6	attr	_	_
+NN	_	0	root	_	_
+CC	_	6	cc	_	_
+JJ	_	9	attr	_	_
+NNS	_	6	conj	_	_
+.	_	6	p	_	_
+
+NN	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBZ	_	0	root	_	_
+DT	_	5	det	_	_
+NN	_	3	obj	_	_
+RP	_	3	prt	_	_
+RB	_	3	adv	_	_
+

@@ -1,0 +1,16 @@
+DT	_	4	det	_	_
+JJ	_	4	attr	_	_
+JJ	_	4	attr	_	_
+NN	_	11	nsbj	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+JJ	_	8	attr	_	_
+NN	_	4	ppmod	_	_
+MD	_	11	modal	_	_
+RB	_	11	adv	_	_
+VB	_	0	root	_	_
+DT	_	14	det	_	_
+JJ	_	14	attr	_	_
+NN	_	11	obj	_	_
+.	_	11	p	_	_
+

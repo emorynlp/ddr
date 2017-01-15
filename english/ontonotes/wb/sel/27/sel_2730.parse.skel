@@ -1,0 +1,25 @@
+NNP	_	4	nsbj	_	_
+VBZ	_	4	raise	_	_
+TO	_	4	aux	_	_
+VB	_	0	root	_	_
+RP	_	4	prt	_	_
+DT	_	8	det	_	_
+JJ	_	8	attr	_	_
+NN	_	4	obj	_	_
+IN	_	11	mark	_	_
+PRP	_	11	nsbj	_	_
+VBD	sem=prp	4	advcl	_	_
+RP	_	11	prt	_	_
+IN	_	14	case	_	_
+PDT	_	18	num	_	_
+-LRB-	_	18	p	_	_
+CD	_	18	num	_	_
+IN	_	18	case	_	_
+CD	_	21	num	_	_
+-RRB-	_	18	p	_	_
+DT	_	21	det	_	_
+NNS	_	11	obj	23:obj	_
+PRP	_	23	nsbj	_	_
+VBD	_	21	relcl	_	_
+.	_	4	p	_	_
+

@@ -1,0 +1,23 @@
+DT	_	2	det	_	_
+NN	_	3	nsbj	7:nsbj;12:nsbj	_
+VBZ	_	20	comp	_	_
+DT	_	5	det	_	_
+NN	_	3	obj	_	_
+CC	_	3	cc	_	_
+VBZ	_	3	conj	_	_
+PRP	_	7	obj	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	sem=clr	7	ppmod	_	_
+VBG	_	7	advcl	_	_
+NNS	_	14	nsbj	_	_
+VB	_	12	comp	_	_
+IN	_	17	case	_	_
+DT	_	17	det	_	_
+NN	sem=loc	14	ppmod	_	_
+NFP	_	20	p	_	_
+PRP	_	20	nsbj	_	_
+VBZ	_	0	root	_	_
+RB	sem=dir	20	adv	_	_
+.	_	20	p	_	_
+

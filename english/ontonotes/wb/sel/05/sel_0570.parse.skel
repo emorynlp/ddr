@@ -1,0 +1,12 @@
+PRP	_	3	nsbj	_	_
+RB	sem=mnr	3	adv	_	_
+VBP	_	0	root	_	_
+PRP	_	6	nsbj	_	_
+NNP	_	6	com	_	_
+NNP	_	3	comp	_	_
+IN	_	8	case	_	_
+NN	_	6	ppmod	_	_
+IN	_	10	case	_	_
+NN	_	8	ppmod	_	_
+.	_	3	p	_	_
+

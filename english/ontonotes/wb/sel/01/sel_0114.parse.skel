@@ -1,0 +1,24 @@
+VBP	_	6	aux	_	_
+PRP	_	6	nsbj	_	_
+NNPS	_	2	appo	_	_
+VBN	_	6	cop	_	_
+RB	_	6	adv	_	_
+JJ	_	0	root	_	_
+IN	_	10	mark	_	_
+TO	_	10	aux	_	_
+RB	_	10	neg	_	_
+VB	_	6	comp	_	_
+TO	_	12	aux	_	_
+VB	_	10	comp	_	_
+IN	_	14	case	_	_
+PRP	sem=clr	12	ppmod	_	_
+DT	_	12	obj	_	_
+WDT	_	20	obj	_	_
+VBD	_	20	aux	_	_
+RB	_	19	com	_	_
+RB	sem=mnr	20	adv	_	_
+VBN	_	15	relcl	_	_
+IN	_	22	case	_	_
+PRP	sem=clr	20	ppmod	_	_
+.	_	6	p	_	_
+

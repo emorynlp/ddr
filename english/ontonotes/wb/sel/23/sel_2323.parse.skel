@@ -1,0 +1,9 @@
+WRB	sem=mnr	3	adv	_	_
+TO	_	3	aux	_	_
+VB	_	0	root	_	_
+NN	_	5	com	_	_
+NNS	_	3	obj	_	_
+WRB	sem=tmp	7	adv	_	_
+VBG	sem=tmp	3	advcl	_	_
+.	_	3	p	_	_
+

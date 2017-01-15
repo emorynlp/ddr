@@ -1,0 +1,14 @@
+DT	_	2	det	_	_
+NN	_	4	nsbj	_	_
+RB	_	4	adv	_	_
+VBZ	_	0	root	_	_
+WRB	sem=tmp	12	adv	_	_
+NNP	_	12	obj	_	_
+CC	_	6	cc	_	_
+PRP$	_	10	poss	_	_
+NN	_	10	com	_	_
+NN	_	6	conj	_	_
+VBP	_	12	aux	_	_
+VBN	sem=tmp	4	advcl	_	_
+.	_	4	p	_	_
+

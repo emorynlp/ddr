@@ -1,0 +1,12 @@
+VBG	_	7	advcl	_	_
+JJ	_	3	attr	_	_
+NNS	_	1	obj	_	_
+IN	_	5	case	_	_
+NNS	sem=clr	1	ppmod	_	_
+,	_	7	p	_	_
+VBP	_	0	root	_	_
+NN	_	7	obj	_	_
+IN	_	10	case	_	_
+NNP	sem=clr	7	ppmod	_	_
+.	_	7	p	_	_
+

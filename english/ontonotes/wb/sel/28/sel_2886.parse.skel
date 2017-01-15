@@ -1,0 +1,24 @@
+IN	_	3	case	_	_
+DT	_	3	det	_	_
+NN	_	12	ppmod	_	_
+IN	_	8	case	_	_
+JJ	_	8	attr	_	_
+JJ	_	7	attr	_	_
+NN	_	8	com	_	_
+NN	_	3	ppmod	_	_
+PRP	_	12	nsbj	_	_
+VBP	_	12	raise	_	_
+TO	_	12	aux	_	_
+VB	_	0	root	_	_
+DT	_	15	det	_	_
+JJ	_	15	attr	_	_
+NNS	_	12	obj	19:nsbj	_
+CC	_	15	cc	_	_
+NNS	_	15	conj	_	_
+WDT	_	19	r-nsbj	_	_
+VBP	_	15	relcl	_	_
+PRP$	_	21	poss	_	_
+NN	_	22	nsbj	_	_
+JJ	_	19	comp	_	_
+.	_	12	p	_	_
+

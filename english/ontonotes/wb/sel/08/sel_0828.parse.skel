@@ -1,0 +1,18 @@
+DT	_	2	det	_	_
+NN	_	5	nsbj	_	_
+MD	_	5	modal	_	_
+RB	_	5	neg	_	_
+VB	_	0	root	_	_
+RP	_	5	prt	_	_
+RB	_	5	adv	_	_
+RB	_	5	adv	_	_
+IN	_	11	case	_	_
+WRB	_	11	adv	_	_
+VBN	_	8	ppmod	_	_
+RP	_	11	prt	_	_
+PRP$	_	15	poss	_	_
+NN	_	15	com	_	_
+NNS	_	11	nsbj	_	_
+VBP	_	11	aux	_	_
+.	_	5	p	_	_
+

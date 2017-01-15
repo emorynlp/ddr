@@ -1,0 +1,21 @@
+CC	_	5	cc	_	_
+,	_	5	p	_	_
+WRB	sem=prp	5	adv	_	_
+RB	_	5	neg	_	_
+VB	_	0	root	_	_
+NNP	_	7	com	_	_
+NNP	_	5	dat	_	_
+DT	_	12	det	_	_
+JJR	_	12	attr	_	_
+NNP	_	11	com	_	_
+NNP	_	12	com	_	_
+NN	_	5	obj	15:nsbj	_
+WDT	_	15	r-nsbj	_	_
+MD	_	15	modal	_	_
+VB	_	12	relcl	_	_
+NN	_	17	com	_	_
+NN	sem=dir	15	advnp	_	_
+IN	_	19	case	_	_
+NN	sem=mnr	15	ppmod	_	_
+.	_	5	p	_	_
+

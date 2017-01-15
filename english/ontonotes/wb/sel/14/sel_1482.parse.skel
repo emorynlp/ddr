@@ -1,0 +1,13 @@
+RB	_	2	adv	_	_
+VB	_	10	advcl	_	_
+DT	_	4	det	_	_
+NNPS	_	2	obj	_	_
+NFP	_	10	disc	_	_
+UH	_	10	disc	_	_
+WRB	sem=loc	10	adv	_	_
+VBP	_	10	aux	_	_
+PRP	_	10	nsbj	_	_
+VBG	_	0	root	_	_
+NN	_	10	obj	_	_
+.	_	10	p	_	_
+

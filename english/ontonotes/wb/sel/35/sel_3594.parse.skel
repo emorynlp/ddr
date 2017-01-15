@@ -1,0 +1,9 @@
+NNP	_	3	nsbj	_	_
+DT	_	3	det	_	_
+NNS	_	0	root	_	_
+IN	_	7	case	_	_
+IN	_	6	case	_	_
+CD	_	7	num	_	_
+NNS	sem=tmp	3	ppmod	_	_
+.	_	3	p	_	_
+

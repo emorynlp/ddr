@@ -1,0 +1,23 @@
+UH	_	16	disc	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	16	comp	_	_
+DT	_	7	det	_	_
+CD	_	7	num	_	_
+NNP	_	7	com	_	_
+NNP	_	3	obj	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NN	_	16	ppmod	_	_
+MD	_	16	modal	_	_
+PRP	_	16	nsbj	_	_
+VB	_	16	aux	_	_
+JJ	_	16	modal	_	_
+TO	_	16	aux	_	_
+VB	_	0	root	_	_
+DT	_	18	det	_	_
+NNS	_	16	obj	_	_
+IN	_	21	case	_	_
+PRP$	_	21	poss	_	_
+NNP	_	18	ppmod	_	_
+.	_	16	p	_	_
+

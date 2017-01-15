@@ -1,0 +1,16 @@
+PRP	_	2	nsbj	9:nsbj	_
+VBP	_	0	root	_	_
+PRP	_	2	obj	_	_
+IN	_	6	case	_	_
+JJ	_	6	attr	_	_
+NN	sem=mnr	2	ppmod	_	_
+,	_	2	p	_	_
+CC	_	2	cc	_	_
+VBP	_	2	conj	_	_
+PRP	_	14	nsbj	_	_
+VBP	_	14	cop	_	_
+JJ	_	14	attr	_	_
+JJ	_	14	attr	_	_
+NNS	_	9	comp	_	_
+.	_	2	p	_	_
+

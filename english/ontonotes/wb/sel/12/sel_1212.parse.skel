@@ -1,0 +1,11 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+IN	_	4	case	_	_
+CD	_	6	num	_	_
+JJ	_	6	attr	_	_
+NNS	_	2	obj	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NN	_	6	ppmod	_	_
+.	_	2	p	_	_
+

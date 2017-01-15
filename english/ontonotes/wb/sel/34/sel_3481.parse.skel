@@ -1,0 +1,12 @@
+PRP$	_	5	poss	_	_
+NN	_	3	advnp	_	_
+VBN	_	5	attr	_	_
+JJ	_	5	attr	_	_
+NN	_	7	obj	9:nsbj	_
+VBD	_	7	aux	_	_
+VBN	_	0	root	_	_
+``	_	9	p	_	_
+JJ	sem=clr	7	comp	_	_
+.	_	7	p	_	_
+''	_	7	p	_	_
+

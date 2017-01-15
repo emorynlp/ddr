@@ -1,0 +1,20 @@
+-LRB-	_	8	p	_	_
+IN	_	4	case	_	_
+DT	_	4	det	_	_
+NNS	sem=tmp	8	ppmod	_	_
+NN	_	8	nsbj	_	_
+VBD	_	8	raise	_	_
+TO	_	8	aux	_	_
+VB	_	0	root	_	_
+JJ	_	10	attr	_	_
+NNS	_	8	obj	_	_
+RB	sem=loc	8	adv	_	_
+TO	_	13	aux	_	_
+VB	sem=prp	8	advcl	_	_
+NN	_	13	obj	_	_
+IN	_	17	case	_	_
+DT	_	17	det	_	_
+NNS	_	14	ppmod	_	_
+.	_	8	p	_	_
+-RRB-	_	8	p	_	_
+

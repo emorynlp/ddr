@@ -1,0 +1,24 @@
+RB	sem=tmp	11	adv	_	_
+IN	_	5	case	_	_
+``	_	5	p	_	_
+DT	_	5	det	_	_
+NN	_	1	ppmod	_	_
+''	_	5	p	_	_
+NN	_	11	nsbj	_	_
+VBD	_	11	cop	_	_
+DT	_	11	det	_	_
+JJ	_	11	attr	_	_
+NN	_	0	root	12:obj	_
+VBN	_	11	acl	_	_
+TO	_	14	aux	_	_
+VB	sem=clr	12	comp	_	_
+JJ	_	16	attr	_	_
+NNS	_	14	obj	_	_
+IN	_	18	case	_	_
+NN	sem=mnr	14	ppmod	_	_
+IN	_	22	case	_	_
+DT	_	22	det	_	_
+JJ	_	22	attr	_	_
+NN	sem=clr	14	ppmod	_	_
+.	_	11	p	_	_
+

@@ -1,0 +1,11 @@
+VB	_	0	root	_	_
+DT	_	3	det	_	_
+NN	_	1	obj	_	_
+DT	_	5	det	_	_
+NN	sem=tmp	1	advnp	_	_
+IN	_	7	case	_	_
+NNS	_	5	ppmod	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+.	_	1	p	_	_
+

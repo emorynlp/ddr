@@ -1,0 +1,26 @@
+JJ	_	3	attr	_	_
+NN	_	3	com	_	_
+NNS	_	12	nsbj	17:nsbj	_
+WDT	_	6	obj	_	_
+VBD	_	6	aux	_	_
+VBN	_	3	relcl	_	_
+IN	_	10	case	_	_
+NN	_	9	com	_	_
+NN	_	10	com	_	_
+NNS	sem=clr	6	ppmod	_	_
+RB	sem=tmp	12	adv	17:adv	_
+VBP	_	0	root	_	_
+DT	_	12	obj	15:nsbj	_
+NN	_	15	com	_	_
+NN	sem=clr	12	comp	_	_
+CC	_	12	cc	_	_
+VBP	_	12	conj	_	_
+NNS	_	17	obj	_	_
+IN	_	21	case	_	_
+VBN	_	21	attr	_	_
+NNS	_	18	ppmod	_	_
+IN	_	24	case	_	_
+NN	_	24	com	_	_
+NN	_	17	ppmod	_	_
+.	_	12	p	_	_
+

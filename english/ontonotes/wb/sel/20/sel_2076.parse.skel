@@ -1,0 +1,19 @@
+NNS	_	3	nsbj	5:nsbj	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+CC	_	3	cc	_	_
+VB	_	3	conj	_	_
+NNS	_	5	obj	_	_
+WDT	_	9	nsbj	_	_
+VBP	_	6	relcl	_	_
+JJ	_	8	comp	_	_
+IN	_	11	case	_	_
+NN	_	9	ppmod	_	_
+IN	_	15	case	_	_
+WP	_	15	obj	_	_
+VBZ	_	15	aux	_	_
+VBN	_	11	ppmod	_	_
+IN	_	17	case	_	_
+PRP	sem=clr	15	ppmod	_	_
+.	_	3	p	_	_
+

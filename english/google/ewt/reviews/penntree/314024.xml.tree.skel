@@ -1,0 +1,27 @@
+JJ	_	2	attr	_	_
+NN	_	3	com	_	_
+NN	_	0	root	_	_
+,	_	3	p	_	_
+JJS	_	6	attr	_	_
+NNS	_	3	appo	10:obj	_
+PRP	_	10	nsbj	_	_
+VBP	_	10	aux	_	_
+RB	sem=tmp	10	adv	_	_
+VBN	_	6	relcl	_	_
+.	_	3	p	_	_
+
+JJ	_	2	attr	_	_
+NNS	_	0	root	_	_
+WDT	_	6	obj	_	_
+VBP	_	6	aux	_	_
+RB	sem=tmp	6	adv	_	_
+VBN	_	2	relcl	_	_
+,	_	6	p	_	_
+JJ	_	6	conj	_	_
+TO	_	10	aux	_	_
+VB	_	8	comp	_	_
+RB	sem=dir	10	adv	_	_
+IN	_	13	case	_	_
+NN	_	10	ppmod	_	_
+.	_	2	p	_	_
+

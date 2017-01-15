@@ -1,0 +1,11 @@
+NN	sem=tmp	7	advnp	_	_
+,	_	7	p	_	_
+PRP	_	7	nsbj	_	_
+VBD	_	7	cop	_	_
+NNP	_	7	poss	_	_
+POS	_	5	case	_	_
+NN	_	0	root	9:adv	_
+TO	_	9	aux	_	_
+VB	_	7	relcl	_	_
+.	_	7	p	_	_
+

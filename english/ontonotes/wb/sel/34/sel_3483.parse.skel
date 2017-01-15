@@ -1,0 +1,12 @@
+LS	_	5	num	_	_
+.	_	1	p	_	_
+NNS	_	5	nsbj	_	_
+MD	_	5	modal	_	_
+VB	_	0	root	_	_
+NNS	_	5	obj	10:ppmod	_
+TO	_	8	aux	_	_
+WDT	sem=clr	10	r-ppmod	_	_
+PRP	_	10	nsbj	_	_
+VBP	_	6	relcl	_	_
+.	_	5	p	_	_
+

@@ -1,0 +1,13 @@
+PRP	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBZ	_	0	root	_	_
+RP	_	3	prt	_	_
+NNS	_	3	obj	_	_
+CC	_	5	cc	_	_
+NNS	_	5	conj	_	_
+,	_	3	p	_	_
+RB	_	11	adv	_	_
+IN	_	11	mark	_	_
+VBG	sem=tmp	3	advcl	_	_
+.	_	3	p	_	_
+

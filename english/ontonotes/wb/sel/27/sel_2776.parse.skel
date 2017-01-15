@@ -1,0 +1,18 @@
+PRP	_	3	nsbj	7:nsbj;9:nsbj	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+DT	_	5	det	_	_
+NN	_	3	obj	_	_
+,	_	3	p	_	_
+VB	_	3	conj	_	_
+CC	_	7	cc	_	_
+VB	_	3	conj	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NNS	_	9	obj	_	_
+IN	_	14	case	_	_
+NN	sem=clr	9	ppmod	_	_
+WRB	sem=loc	16	adv	_	_
+VBN	sem=loc	9	advcl	_	_
+.	_	3	p	_	_
+

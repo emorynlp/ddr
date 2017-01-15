@@ -1,0 +1,17 @@
+NNP	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+DT	_	4	det	_	_
+NNP	_	2	obj	6:nsbj	_
+TO	_	6	aux	_	_
+VB	_	2	comp	_	_
+RP	_	6	prt	_	_
+DT	_	9	det	_	_
+NN	_	15	poss	_	_
+POS	_	9	case	_	_
+VBN	_	15	attr	_	_
+,	_	15	p	_	_
+JJ	_	15	attr	_	_
+JJ	_	15	attr	_	_
+NN	_	6	obj	_	_
+.	_	2	p	_	_
+

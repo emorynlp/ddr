@@ -1,0 +1,27 @@
+WP	_	3	nsbj	_	_
+MD	_	3	modal	_	_
+VB	_	24	comp	_	_
+IN	_	6	mark	_	_
+PRP	_	6	nsbj	_	_
+VBP	_	3	advcl	_	_
+RP	_	6	prt	_	_
+DT	_	9	det	_	_
+CD	_	6	obj	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+CD	_	14	num	_	_
+JJ	_	14	attr	_	_
+NNS	_	9	ppmod	_	_
+IN	_	17	case	_	_
+NNP	_	17	com	_	_
+NNS	_	14	ppmod	_	_
+,	_	24	p	_	_
+MD	_	24	modal	_	_
+DT	_	21	det	_	_
+NNS	_	24	nsbj	_	_
+IN	_	23	case	_	_
+NN	sem=loc	21	ppmod	_	_
+VB	_	0	root	_	_
+PRP	_	24	obj	_	_
+.	_	24	p	_	_
+

@@ -1,0 +1,48 @@
+RB	_	3	neg	_	_
+RB	_	3	adv	_	_
+JJ	_	0	root	_	_
+
+RB	_	2	neg	_	_
+JJ	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	2	advnp	_	_
+.	_	2	p	_	_
+
+JJ	_	0	root	_	_
+CC	_	1	cc	_	_
+GW	_	4	com	_	_
+JJ	_	1	conj	_	_
+.	_	1	p	_	_
+
+PRP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+IN	_	7	mark	_	_
+IN	_	7	mark	_	_
+PRP	_	7	nsbj	_	_
+VBD	_	7	cop	_	_
+IN	sem=loc	2	comp	_	_
+DT	_	12	det	_	_
+GW	_	10	com	_	_
+JJ	_	12	attr	_	_
+NNP	_	12	com	_	_
+NNP	_	7	obj	_	_
+.	_	2	p	_	_
+
+PRP	_	3	nsbj	6:nsbj	_
+VBD	_	3	aux	_	_
+VBG	_	0	root	_	_
+TO	_	6	aux	_	_
+VB	_	6	aux	_	_
+VBN	_	3	comp	_	_
+DT	_	9	det	_	_
+JJ	_	9	attr	_	_
+NN	_	6	obj	11:adv	_
+TO	_	11	aux	_	_
+VB	_	9	relcl	_	_
+.	_	3	p	_	_
+
+CC	_	3	cc	_	_
+RB	_	3	com	_	_
+RB	_	0	root	_	_
+.	_	3	p	_	_
+

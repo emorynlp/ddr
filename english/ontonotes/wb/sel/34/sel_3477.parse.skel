@@ -1,0 +1,22 @@
+CC	_	8	cc	_	_
+IN	_	5	mark	_	_
+PRP	_	5	nsbj	_	_
+RB	sem=tmp	5	adv	_	_
+VBP	_	8	advcl	_	_
+,	_	8	p	_	_
+PRP	_	8	nsbj	_	_
+VBP	_	0	root	_	_
+NN	_	8	obj	_	_
+RP	_	8	prt	_	_
+RB	sem=tmp	8	adv	_	_
+VBP	_	8	dep	_	_
+DT	_	14	det	_	_
+NN	_	12	obj	20:ppmod	_
+TO	_	16	aux	_	_
+WDT	_	20	r-ppmod	_	_
+DT	_	19	det	_	_
+VBN	_	19	attr	_	_
+NN	_	20	nsbj	_	_
+VBD	_	14	relcl	_	_
+.	_	8	p	_	_
+

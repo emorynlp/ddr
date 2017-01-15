@@ -1,0 +1,20 @@
+JJ	_	4	attr	_	_
+JJR	_	4	attr	_	_
+NNPS	_	4	com	_	_
+NNPS	_	7	nsbj	_	_
+RB	_	7	adv	_	_
+VBP	_	7	cop	_	_
+JJ	_	0	root	_	_
+,	_	7	p	_	_
+CC	_	7	cc	_	_
+NNS	_	11	nsbj	_	_
+VBP	_	7	conj	_	_
+IN	_	13	case	_	_
+NN	sem=clr	11	ppmod	_	_
+DT	_	15	det	_	_
+NN	_	16	advnp	_	_
+RBR	sem=mnr	11	adv	_	_
+IN	_	18	case	_	_
+NNS	_	16	ppmod	_	_
+.	_	11	p	_	_
+

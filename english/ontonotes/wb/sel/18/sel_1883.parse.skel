@@ -1,0 +1,19 @@
+VB	_	7	advcl	_	_
+RP	_	1	prt	_	_
+,	_	1	p	_	_
+NNS	_	1	voc	_	_
+,	_	7	p	_	_
+PRP	_	7	nsbj	_	_
+VBP	_	0	root	_	_
+RB	_	9	com	_	_
+RB	sem=mnr	7	adv	_	_
+JJ	_	11	attr	_	_
+NNS	_	14	nsbj	16:nsbj	_
+MD	_	14	modal	_	_
+RB	_	14	neg	16:neg	_
+VB	_	7	comp	_	_
+CC	_	14	cc	_	_
+VB	_	14	conj	_	_
+NN	_	16	obj	14:obj	_
+.	_	7	p	_	_
+

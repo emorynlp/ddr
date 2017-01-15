@@ -1,0 +1,19 @@
+PRP	_	5	nsbj	_	_
+VBP	_	5	aux	_	_
+JJ	_	5	modal	_	_
+TO	_	5	aux	_	_
+VB	_	0	root	_	_
+JJ	_	7	attr	_	_
+NNS	_	5	obj	9:nsbj	_
+PRP$	_	9	poss	_	_
+NNS	sem=clr	5	comp	_	_
+RB	_	5	adv	_	_
+,	_	5	p	_	_
+IN	_	15	mark	_	_
+PRP	_	15	nsbj	17:nsbj	_
+VBP	_	15	cop	_	_
+NNPS	_	5	advcl	_	_
+CC	_	15	cc	_	_
+NNPS	_	15	conj	_	_
+.	_	5	p	_	_
+

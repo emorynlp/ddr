@@ -1,0 +1,22 @@
+PRP	_	3	nsbj	14:nsbj;18:nsbj	_
+RB	_	3	adv	_	_
+VBP	_	0	root	_	_
+VBG	_	6	raise	_	_
+TO	_	6	aux	_	_
+VB	_	3	comp	_	_
+IN	_	8	case	_	_
+NNP	sem=clr	6	ppmod	_	_
+WRB	sem=tmp	10	adv	_	_
+VBG	sem=tmp	6	advcl	_	_
+CC	_	6	cc	_	_
+VBG	_	14	raise	_	_
+TO	_	14	aux	_	_
+VB	_	6	conj	_	_
+PRP$	_	16	poss	_	_
+NN	_	14	obj	_	_
+TO	_	18	aux	_	_
+VB	sem=prp	14	advcl	_	_
+PRP$	_	20	poss	_	_
+NNS	_	18	obj	_	_
+.	_	3	p	_	_
+

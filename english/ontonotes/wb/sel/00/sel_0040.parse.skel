@@ -1,0 +1,27 @@
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	5:nsbj	_
+VBP	_	18	advcl	_	_
+CC	_	3	cc	_	_
+VBP	_	3	conj	_	_
+IN	_	11	mark	_	_
+PRP$	_	8	poss	_	_
+NN	_	11	nsbj	_	_
+MD	_	11	modal	_	_
+VB	_	11	cop	_	_
+IN	_	5	comp	_	_
+NN	_	11	obj	_	_
+IN	_	14	case	_	_
+VBG	sem=prp	11	ppmod	_	_
+NNS	_	14	obj	_	_
+,	_	18	p	_	_
+UH	_	18	disc	_	_
+VB	_	0	root	_	_
+DT	_	20	det	_	_
+JJ	_	21	num	_	_
+NNS	_	18	obj	_	_
+TO	_	23	aux	_	_
+VB	sem=prp	18	advcl	_	_
+PRP	_	23	obj	_	_
+RP	_	23	prt	_	_
+.	_	18	p	_	_
+

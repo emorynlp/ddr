@@ -1,0 +1,19 @@
+NNP	_	3	nsbj	_	_
+RB	sem=mnr	3	adv	_	_
+VBD	_	0	root	_	_
+IN	_	9	mark	_	_
+PRP	_	9	nsbj	_	_
+``	_	9	p	_	_
+MD	_	9	modal	_	_
+RB	_	9	neg	_	_
+VB	_	3	comp	_	_
+DT	_	11	det	_	_
+NN	_	13	poss	_	_
+POS	_	11	case	_	_
+NN	_	9	obj	_	_
+IN	_	16	case	_	_
+PRP$	_	16	poss	_	_
+NN	sem=clr	9	ppmod	_	_
+''	_	9	p	_	_
+.	_	3	p	_	_
+

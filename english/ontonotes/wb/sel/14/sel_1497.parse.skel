@@ -1,0 +1,17 @@
+IN	_	4	case	_	_
+DT	_	4	det	_	_
+NN	_	4	com	_	_
+NN	_	8	ppmod	_	_
+PRP	_	4	appo	_	_
+PRP	_	8	nsbj	_	_
+VBD	_	8	cop	_	_
+JJ	_	0	root	_	_
+WRB	sem=tmp	11	adv	_	_
+PRP	_	11	nsbj	_	_
+VBD	sem=tmp	8	advcl	_	_
+IN	_	15	case	_	_
+PRP$	_	14	poss	_	_
+NN	_	15	com	_	_
+NN	sem=clr	11	ppmod	_	_
+.	_	8	p	_	_
+

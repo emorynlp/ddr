@@ -1,0 +1,20 @@
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBP	sem=prp	13	advcl	_	_
+IN	_	6	mark	_	_
+NNP	_	6	nsbj	_	_
+VBZ	_	3	comp	_	_
+IN	_	8	case	_	_
+NNP	sem=loc	6	ppmod	_	_
+,	_	13	p	_	_
+MD	_	13	modal	_	_
+PRP	_	13	nsbj	_	_
+UH	_	13	disc	_	_
+VB	_	0	root	_	_
+VBZ	_	16	aux	_	_
+PRP	_	16	nsbj	_	_
+VB	_	13	comp	_	_
+IN	_	18	case	_	_
+NNP	sem=clr	16	ppmod	_	_
+.	_	13	p	_	_
+

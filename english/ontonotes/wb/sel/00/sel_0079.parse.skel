@@ -1,0 +1,15 @@
+VB	_	0	root	_	_
+NN	_	1	obj	_	_
+TO	_	4	aux	_	_
+VB	_	2	acl	_	_
+IN	_	7	case	_	_
+JJ	_	7	attr	_	_
+NN	sem=clr	4	ppmod	_	_
+CC	_	4	cc	_	_
+VB	_	4	conj	_	_
+VBN	_	11	attr	_	_
+NNS	_	9	obj	_	_
+CC	_	11	cc	_	_
+NNS	_	11	conj	_	_
+.	_	1	p	_	_
+

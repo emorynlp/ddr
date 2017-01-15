@@ -1,0 +1,16 @@
+NNP	_	3	voc	_	_
+PRP	_	3	nsbj	_	_
+VBD	_	0	root	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+NN	_	3	obj	_	_
+IN	_	9	case	_	_
+PRP$	_	9	poss	_	_
+NN	_	3	dat	_	_
+NNP	_	9	appo	_	_
+,	_	9	p	_	_
+DT	_	14	det	_	_
+NN	_	14	com	_	_
+NN	_	9	appo	_	_
+.	_	3	p	_	_
+

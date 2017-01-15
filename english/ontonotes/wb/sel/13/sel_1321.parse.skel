@@ -1,0 +1,17 @@
+MD	_	3	modal	_	_
+NN	_	3	nsbj	_	_
+VB	_	0	root	_	_
+PRP	_	3	obj	_	_
+IN	_	6	case	_	_
+NN	sem=clr	3	ppmod	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NN	_	6	ppmod	_	_
+,	_	9	p	_	_
+NN	_	9	conj	_	_
+,	_	11	p	_	_
+CC	_	11	cc	_	_
+NN	_	9	conj	_	_
+XX	_	14	attr	_	_
+.	_	3	p	_	_
+

@@ -1,0 +1,25 @@
+PRP	_	2	nsbj	18:nsbj	_
+VBP	_	0	root	_	_
+JJ	_	4	attr	_	_
+NN	_	2	obj	_	_
+,	_	4	p	_	_
+NN	_	4	conj	_	_
+CC	_	6	cc	_	_
+RB	_	9	adv	_	_
+JJ	_	10	attr	_	_
+NNS	_	4	conj	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NNP	_	14	com	_	_
+NNP	sem=loc	2	ppmod	_	_
+CC	_	2	cc	_	_
+RB	_	17	adv	_	_
+JJR	_	18	attr	_	_
+NN	_	2	conj	_	_
+IN	_	21	case	_	_
+JJ	_	21	attr	_	_
+NN	sem=loc	18	ppmod	_	_
+IN	_	23	case	_	_
+NNP	sem=loc	21	ppmod	_	_
+.	_	2	p	_	_
+

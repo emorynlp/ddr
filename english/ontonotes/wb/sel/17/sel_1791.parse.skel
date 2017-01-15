@@ -1,0 +1,14 @@
+VB	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	4	com	_	_
+NN	_	1	obj	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+IN	_	8	case	_	_
+NNP	_	6	dat	_	_
+IN	_	10	case	_	_
+NN	sem=prp	6	ppmod	_	_
+CC	_	10	cc	_	_
+NN	_	10	conj	_	_
+.	_	1	p	_	_
+

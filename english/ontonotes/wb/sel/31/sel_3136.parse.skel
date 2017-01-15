@@ -1,0 +1,25 @@
+IN	_	4	mark	_	_
+DT	_	3	det	_	_
+NN	_	4	nsbj	_	_
+VBZ	_	10	advcl	_	_
+DT	_	6	det	_	_
+NN	_	4	obj	_	_
+,	_	10	p	_	_
+VBZ	_	10	cop	_	_
+DT	_	10	nsbj	_	_
+JJ	_	17	comp	_	_
+CC	_	10	cc	_	_
+JJ	_	10	conj	_	_
+:	_	17	p	_	_
+JJS	_	16	attr	_	_
+NN	_	16	com	_	_
+NNS	_	17	nsbj	_	_
+VBP	_	0	root	_	_
+DT	_	17	obj	_	_
+IN	_	21	case	_	_
+DT	_	21	det	_	_
+NN	sem=clr	17	ppmod	_	_
+IN	_	23	case	_	_
+NNP	_	21	ppmod	_	_
+.	_	17	p	_	_
+

@@ -1,0 +1,16 @@
+PRP	_	3	nsbj	_	_
+VBP	_	3	aux	_	_
+VBN	_	0	root	_	_
+NNP	_	5	com	_	_
+NNS	_	3	obj	_	_
+,	_	3	p	_	_
+CC	_	3	cc	_	_
+DT	_	9	det	_	_
+NN	_	14	nsbj	11:obj	_
+PRP	_	11	nsbj	_	_
+VBP	_	9	relcl	_	_
+VBZ	_	14	cop	_	_
+RB	_	14	adv	_	_
+JJ	_	3	conj	_	_
+.	_	14	p	_	_
+

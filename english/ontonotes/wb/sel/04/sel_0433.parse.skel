@@ -1,0 +1,17 @@
+NNS	_	0	root	_	_
+IN	_	5	case	_	_
+NN	_	4	com	_	_
+NN	_	5	com	_	_
+NNS	_	1	ppmod	_	_
+VBG	_	5	acl	_	_
+NNS	_	6	obj	9:nsbj	_
+WDT	_	9	r-nsbj	_	_
+VBD	_	7	relcl	_	_
+RB	_	12	adv	_	_
+TO	_	10	adv	_	_
+WP	_	15	obj	_	_
+PRP$	_	14	poss	_	_
+NN	_	15	nsbj	_	_
+VBD	_	9	comp	_	_
+.	_	1	p	_	_
+

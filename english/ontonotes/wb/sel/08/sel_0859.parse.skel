@@ -1,0 +1,16 @@
+RB	_	3	nsbj	_	_
+VBZ	_	3	cop	_	_
+JJ	_	0	root	_	_
+RB	_	3	adv	_	_
+:	_	3	p	_	_
+DT	_	7	det	_	_
+NN	_	3	dep	_	_
+TO	_	9	aux	_	_
+VB	_	7	acl	_	_
+NN	_	9	obj	_	_
+CC	_	9	cc	_	_
+VB	_	9	conj	_	_
+RB	_	14	com	_	_
+RBR	sem=loc	12	adv	_	_
+.	_	3	p	_	_
+

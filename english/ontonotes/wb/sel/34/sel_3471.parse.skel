@@ -1,0 +1,19 @@
+DT	_	2	det	_	_
+NNP	_	3	nsbj	_	_
+VBD	_	0	root	_	_
+:	_	3	p	_	_
+VBG	_	15	advcl	_	_
+RP	_	5	prt	_	_
+IN	_	10	case	_	_
+NNP	_	10	com	_	_
+NNP	_	10	com	_	_
+NNP	sem=clr	5	ppmod	_	_
+,	_	15	p	_	_
+MD	_	15	modal	_	_
+PRP	_	15	nsbj	_	_
+UH	_	15	disc	_	_
+VB	_	3	comp	_	_
+PRP$	_	17	poss	_	_
+NNS	_	15	obj	_	_
+.	_	3	p	_	_
+

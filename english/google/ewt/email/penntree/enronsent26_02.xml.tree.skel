@@ -1,0 +1,277 @@
+NNP	_	2	com	_	_
+NNP	_	0	root	_	_
+
+CD	_	0	root	_	_
+CD	_	3	num	_	_
+NN	sem=tmp	1	advnp	_	_
+
+MD	_	4	modal	_	_
+PRP	_	4	nsbj	_	_
+VB	_	4	aux	_	_
+VBG	_	0	root	_	_
+DT	_	7	det	_	_
+NN	_	7	com	_	_
+NN	_	4	obj	_	_
+IN	_	9	case	_	_
+NNS	_	7	ppmod	10:obj	_
+VBN	_	9	acl	_	_
+,	_	9	p	_	_
+NNS	_	9	appo	13:obj	_
+VBN	_	12	acl	_	_
+RP	_	13	prt	_	_
+.	_	4	p	_	_
+
+UH	_	2	disc	_	_
+VB	_	0	root	_	_
+PRP	_	2	obj	_	_
+RB	_	2	adv	_	_
+IN	_	6	case	_	_
+ADD	_	2	dat	_	_
+,	_	2	p	_	_
+VB	_	2	dep	_	_
+IN	_	10	case	_	_
+PRP	_	8	dat	_	_
+.	_	2	p	_	_
+
+NN	_	0	root	_	_
+,	_	1	p	_	_
+
+NN	_	0	root	_	_
+,	_	1	p	_	_
+
+NNP	_	0	root	_	_
+
+``	_	2	p	_	_
+ADD	_	7	nsbj	_	_
+''	_	2	p	_	_
+VBD	_	7	lv	_	_
+DT	_	7	det	_	_
+VBG	_	7	attr	_	_
+NNS	_	0	root	_	_
+IN	_	9	case	_	_
+CD	sem=tmp	7	ppmod	_	_
+CD	sem=tmp	9	advnp	_	_
+
+PRP	_	3	nsbj	_	_
+VBP	_	3	aux	_	_
+VBN	_	0	root	_	_
+PRP$	_	6	poss	_	_
+NN	_	6	com	_	_
+NN	_	3	obj	_	_
+.	_	3	p	_	_
+
+PRP$	_	4	poss	_	_
+JJ	_	4	attr	_	_
+NN	_	4	com	_	_
+NN	_	6	nsbj	_	_
+VBZ	_	6	cop	_	_
+ADD	_	0	root	_	_
+.	_	6	p	_	_
+
+IN	_	3	case	_	_
+JJS	_	3	attr	_	_
+NNS	_	8	ppmod	_	_
+,	_	8	p	_	_
+PRP$	_	6	poss	_	_
+NN	_	8	obj	_	_
+VBZ	_	8	aux	_	_
+VBN	_	0	root	_	_
+IN	_	12	case	_	_
+JJ	_	12	attr	_	_
+JJ	_	12	attr	_	_
+NN	sem=clr	8	ppmod	_	_
+CC	_	12	cc	_	_
+JJ	_	15	attr	_	_
+NN	_	12	conj	_	_
+CC	_	12	cc	_	_
+NN	_	12	conj	_	_
+.	_	8	p	_	_
+
+RB	_	0	root	_	_
+VBP	_	1	cop	_	_
+CD	_	4	num	_	_
+NNS	_	1	nsbj	_	_
+:	_	1	p	_	_
+ADD	_	1	dep	_	_
+CC	_	6	cc	_	_
+ADD	_	6	conj	_	_
+.	_	1	p	_	_
+
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	8	advcl	_	_
+DT	_	5	det	_	_
+NNS	_	3	obj	_	_
+,	_	8	p	_	_
+UH	_	8	disc	_	_
+VB	_	0	root	_	_
+PRP	_	8	obj	_	_
+IN	_	11	case	_	_
+ADD	_	8	ppmod	_	_
+.	_	8	p	_	_
+
+NFP	_	0	root	_	_
+
+``	_	6	p	_	_
+DT	_	3	det	_	_
+NN	_	6	obj	4:obj	_
+VBN	_	3	acl	_	_
+VBZ	_	6	aux	_	_
+VBN	_	0	root	_	_
+RB	_	10	adv	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NN	sem=clr	6	ppmod	17:ppmod	_
+CC	_	10	cc	_	_
+NN	_	10	conj	_	_
+IN	_	14	case	_	_
+WDT	sem=clr	17	r-ppmod	_	_
+PRP	_	17	obj	_	_
+VBZ	_	17	aux	_	_
+VBN	_	10	relcl	_	_
+CC	_	6	cc	_	_
+MD	_	20	modal	_	_
+VB	_	6	conj	_	_
+JJ	_	26	attr	_	_
+CC	_	24	com	_	_
+,	_	24	com	_	_
+CC	_	21	cc	_	_
+JJ	_	21	conj	_	_
+NN	_	20	obj	_	_
+.	_	6	p	_	_
+
+DT	_	2	det	_	_
+NN	_	33	obj	_	_
+,	_	2	p	_	_
+NN	_	2	conj	_	_
+,	_	4	p	_	_
+NN	_	2	conj	_	_
+CC	_	6	cc	_	_
+JJ	_	9	attr	_	_
+NN	_	2	conj	_	_
+IN	_	2	case	_	_
+,	_	2	p	_	_
+CC	_	2	cc	_	_
+NN	_	2	conj	_	_
+IN	_	16	case	_	_
+DT	_	16	det	_	_
+NN	_	13	ppmod	_	_
+IN	_	18	case	_	_
+NN	_	13	ppmod	_	_
+IN	_	22	case	_	_
+,	_	13	p	_	_
+DT	_	22	det	_	_
+NN	_	18	ppmod	2:ppmod	_
+IN	_	24	case	_	_
+NNS	_	2	ppmod	_	_
+CC	_	24	cc	_	_
+NNS	_	24	conj	_	_
+JJ	_	24	attr	_	_
+IN	_	31	case	_	_
+DT	_	31	det	_	_
+VBN	_	31	attr	_	_
+NN	_	27	ppmod	_	_
+VBZ	_	33	aux	_	_
+VBN	_	0	root	_	_
+.	_	33	p	_	_
+
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBD	_	9	advcl	13:advcl	_
+DT	_	3	obj	_	_
+IN	_	6	case	_	_
+NN	sem=mnr	3	ppmod	_	_
+,	_	9	p	_	_
+UH	_	9	disc	_	_
+VB	_	0	root	_	_
+DT	_	11	det	_	_
+NN	_	9	obj	_	_
+CC	_	9	cc	_	_
+VB	_	9	conj	_	_
+DT	_	15	det	_	_
+NN	_	13	obj	_	_
+IN	_	18	case	_	_
+DT	_	18	det	_	_
+NNS	sem=clr	13	ppmod	_	_
+.	_	9	p	_	_
+''	_	9	p	_	_
+
+NFP	_	0	root	_	_
+
+VBN	_	3	advcl	_	_
+UH	_	3	disc	_	_
+VB	_	0	root	_	_
+DT	_	6	det	_	_
+NNP	_	6	com	_	_
+NN	_	3	obj	1:obj	_
+IN	_	9	case	_	_
+NNP	_	9	com	_	_
+NN	_	6	ppmod	_	_
+.	_	3	p	_	_
+
+RB	_	5	adv	_	_
+,	_	5	p	_	_
+PRP	_	5	nsbj	_	_
+VBP	_	5	aux	_	_
+VBN	_	0	root	_	_
+DT	_	10	det	_	_
+NN	_	10	com	_	_
+NN	_	10	com	_	_
+HYPH	_	10	p	_	_
+NN	_	5	obj	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+NN	_	10	ppmod	_	_
+IN	_	16	case	_	_
+DT	_	16	det	_	_
+NN	_	10	ppmod	_	_
+IN	_	18	case	_	_
+NN	_	16	ppmod	_	_
+IN	_	22	case	_	_
+DT	_	22	det	_	_
+NN	_	22	com	_	_
+NN	_	16	ppmod	_	_
+.	_	5	p	_	_
+
+.	_	0	root	_	_
+
+VB	_	3	aux	_	_
+RB	_	3	neg	_	_
+VB	_	0	root	_	_
+TO	_	5	aux	_	_
+VB	_	3	comp	_	_
+PRP	_	5	obj	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NNS	_	5	ppmod	_	_
+.	_	3	p	_	_
+
+.	_	0	root	_	_
+
+JJS	_	2	attr	_	_
+NNS	_	0	root	_	_
+.	_	2	p	_	_
+
+.	_	0	root	_	_
+
+NFP	_	0	root	_	_
+
+NNP	_	2	com	_	_
+NNP	_	13	dep	_	_
+JJ	_	4	attr	_	_
+NN	_	13	dep	_	_
+:	_	13	p	_	_
+CD	_	13	num	_	_
+JJ	_	8	attr	_	_
+NN	_	13	dep	_	_
+:	_	13	p	_	_
+CD	_	13	num	_	_
+NN	_	13	dep	_	_
+:	_	13	p	_	_
+ADD	_	0	root	_	_
+
+.	_	0	root	_	_
+
+NFP	_	2	p	_	_
+NN	_	0	root	_	_
+

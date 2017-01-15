@@ -1,0 +1,11 @@
+PRP	_	3	nsbj	_	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+IN	_	9	case	_	_
+NN	_	6	com	_	_
+NN	_	9	poss	_	_
+POS	_	6	case	_	_
+NN	_	9	com	_	_
+NN	sem=loc	3	ppmod	_	_
+.	_	3	p	_	_
+

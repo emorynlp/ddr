@@ -1,0 +1,26 @@
+:	_	2	p	_	_
+VB	_	0	root	_	_
+NN	_	5	com	_	_
+NNP	_	5	com	_	_
+NNP	_	2	obj	_	_
+VB	_	2	dep	_	_
+NN	_	6	obj	_	_
+IN	_	11	case	_	_
+JJ	_	11	attr	_	_
+NN	_	11	com	_	_
+NNS	_	7	ppmod	_	_
+TO	_	13	aux	_	_
+VB	sem=prp	6	advcl	_	_
+NNS	_	13	obj	_	_
+IN	_	16	case	_	_
+NN	_	14	ppmod	_	_
+IN	_	19	case	_	_
+NN	_	19	com	_	_
+NNS	_	16	ppmod	_	_
+CC	_	19	cc	_	_
+JJ	_	23	attr	_	_
+NN	_	23	com	_	_
+NN	_	24	com	_	_
+NN	_	19	conj	_	_
+.	_	2	p	_	_
+

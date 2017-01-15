@@ -1,0 +1,25 @@
+IN	_	5	mark	_	_
+PRP$	_	4	poss	_	_
+VBG	_	4	attr	_	_
+NN	_	5	nsbj	_	_
+VBZ	_	10	advcl	19:advcl	_
+NNP	_	5	obj	_	_
+PRP	_	10	nsbj	19:nsbj	_
+MD	_	10	modal	_	_
+``	_	10	p	_	_
+VB	_	0	root	_	_
+''	_	10	p	_	_
+IN	_	13	case	_	_
+JJS	_	14	adv	_	_
+DT	_	15	num	_	_
+NNS	_	10	obj	_	_
+CC	_	10	cc	_	_
+VB	_	19	lv	_	_
+DT	_	19	det	_	_
+NN	_	10	conj	_	_
+IN	_	21	case	_	_
+VBG	_	19	ppmod	_	_
+RP	_	21	prt	_	_
+PRP	_	21	obj	_	_
+.	_	10	p	_	_
+

@@ -1,0 +1,20 @@
+JJ	_	2	attr	_	_
+NN	_	3	nsbj	_	_
+VBZ	_	0	root	_	_
+VB	_	3	comp	_	_
+DT	_	6	det	_	_
+NN	_	4	obj	_	_
+IN	_	9	case	_	_
+NNP	_	9	com	_	_
+NNP	_	6	ppmod	_	_
+CC	_	4	cc	_	_
+VB	_	4	conj	_	_
+RP	_	11	prt	_	_
+DT	_	14	det	_	_
+NN	_	11	obj	_	_
+IN	_	16	case	_	_
+VBG	sem=tmp	11	ppmod	_	_
+TO	_	18	aux	_	_
+VB	_	16	comp	_	_
+.	_	3	p	_	_
+

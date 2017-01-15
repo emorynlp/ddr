@@ -1,0 +1,11 @@
+JJS	_	2	attr	_	_
+NN	_	0	root	6:obj	_
+WDT	_	6	r-obj	_	_
+PRP	_	6	nsbj	_	_
+VBD	_	6	aux	_	_
+VBN	_	2	relcl	_	_
+RB	_	8	com	_	_
+RB	sem=tmp	6	adv	_	_
+.	_	2	p	_	_
+NFP	_	2	p	_	_
+

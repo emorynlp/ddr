@@ -1,0 +1,26 @@
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+.	_	2	p	_	_
+
+JJ	_	2	attr	_	_
+NN	_	5	dep	_	_
+,	_	5	p	_	_
+JJ	_	5	attr	_	_
+NN	_	0	root	_	_
+.	_	5	p	_	_
+
+NN	_	0	root	_	_
+JJ	_	1	dep	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+NN	_	7	com	_	_
+NN	_	2	ppmod	_	_
+IN	_	13	case	_	_
+NN	_	13	attr	_	_
+,	_	13	p	_	_
+NNS	_	13	attr	_	_
+,	_	13	p	_	_
+NNS	_	7	ppmod	_	_
+.	_	1	p	_	_
+

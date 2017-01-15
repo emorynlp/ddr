@@ -1,0 +1,22 @@
+RB	_	15	adv	_	_
+,	_	15	p	_	_
+NNP	_	4	com	_	_
+NNP	_	15	nsbj	_	_
+-LRB-	_	7	p	_	_
+PRP	_	7	nsbj	_	_
+VBP	_	4	prn	_	_
+DT	_	9	nsbj	_	_
+VBZ	_	7	comp	_	_
+WRB	sem=mnr	12	adv	_	_
+PRP	_	12	nsbj	_	_
+VBP	_	9	comp	_	_
+PRP$	_	14	poss	_	_
+NN	_	12	obj	_	_
+VBZ	_	0	root	_	_
+DT	_	17	det	_	_
+NN	_	15	obj	_	_
+IN	_	20	case	_	_
+JJ	_	20	attr	_	_
+NNS	_	17	ppmod	_	_
+.	_	15	p	_	_
+

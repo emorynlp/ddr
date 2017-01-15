@@ -1,0 +1,26 @@
+NNP	_	2	com	_	_
+NNP	_	3	nsbj	8:nsbj	_
+VBD	_	15	comp	_	_
+PRP$	_	6	poss	_	_
+NN	_	6	com	_	_
+NN	_	3	obj	_	_
+TO	_	8	aux	_	_
+VB	sem=clr	3	comp	_	_
+NN	_	10	com	_	_
+NN	_	11	com	_	_
+NNS	_	8	obj	_	_
+:	_	15	p	_	_
+NNP	_	15	nsbj	23:nsbj	_
+MD	_	15	modal	_	_
+VB	_	0	root	_	_
+DT	_	18	det	_	_
+NN	_	18	com	_	_
+NN	_	15	obj	21:obj	_
+PRP	_	21	nsbj	_	_
+MD	_	21	modal	_	_
+VB	_	18	relcl	_	_
+TO	_	23	aux	_	_
+VB	sem=clr	15	comp	_	_
+PRP	_	23	obj	_	_
+.	_	15	p	_	_
+

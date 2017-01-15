@@ -1,0 +1,27 @@
+NNP	_	2	com	_	O
+NNP	_	17	obj	20:nsbj	U-PERSON
+,	_	2	p	_	O
+CD	_	6	num	_	B-DATE
+HYPH	_	6	p	_	I-DATE
+NN	_	8	advnp	_	I-DATE
+HYPH	_	8	p	_	I-DATE
+JJ	_	9	attr	_	L-DATE
+NN	_	2	appo	_	O
+IN	_	14	case	_	O
+NNP	_	14	com	_	B-ORG
+NNP	_	14	com	_	I-ORG
+NNP	_	14	com	_	I-ORG
+NNP	_	9	ppmod	_	L-ORG
+,	_	2	p	_	O
+VBD	_	17	aux	_	O
+VBN	_	0	root	_	O
+DT	_	20	det	_	O
+JJ	_	20	attr	_	O
+NN	sem=clr	17	comp	_	O
+IN	_	25	case	_	O
+DT	_	25	det	_	O
+JJ	_	25	attr	_	U-NORP
+NN	_	25	com	_	O
+NN	_	20	ppmod	_	O
+.	_	17	p	_	O
+

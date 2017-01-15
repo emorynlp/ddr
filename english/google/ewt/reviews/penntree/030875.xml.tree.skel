@@ -1,0 +1,37 @@
+NNP	_	2	com	_	_
+NNP	_	0	root	_	_
+IN	_	7	case	_	_
+JJ	_	7	attr	_	_
+NNP	_	7	poss	_	_
+POS	_	5	case	_	_
+NN	_	2	ppmod	_	_
+
+NNP	_	3	poss	_	_
+POS	_	1	case	_	_
+NNP	_	6	nsbj	_	_
+VBZ	_	6	cop	_	_
+RB	_	6	adv	_	_
+JJ	_	0	root	_	_
+.	_	6	p	_	_
+
+PRP$	_	2	poss	_	_
+NN	_	16	nsbj	_	_
+,	_	2	p	_	_
+DT	_	6	det	_	_
+NN	_	6	com	_	_
+NN	_	2	appo	_	_
+IN	_	12	case	_	_
+NNP	_	9	com	_	_
+NNP	_	12	attr	_	_
+CC	_	9	cc	_	_
+NNP	_	9	conj	_	_
+NNPS	_	6	ppmod	_	_
+,	_	16	p	_	_
+VBZ	_	16	cop	_	_
+RB	sem=tmp	16	adv	_	_
+NN	_	0	root	_	_
+IN	_	19	case	_	_
+NNP	_	19	com	_	_
+NNP	_	16	ppmod	_	_
+.	_	16	p	_	_
+

@@ -1,0 +1,23 @@
+UH	_	0	root	_	_
+NNP	_	1	voc	_	_
+,	_	1	p	_	_
+DT	_	5	det	_	_
+NN	_	8	nsbj	_	_
+IN	_	7	case	_	_
+NNP	_	5	ppmod	_	_
+VBZ	_	1	conj	_	_
+IN	_	11	mark	_	_
+PRP	_	11	nsbj	14:nsbj	_
+VBZ	_	8	comp	_	_
+IN	_	13	case	_	_
+NN	sem=mnr	11	ppmod	_	_
+VBG	_	11	advcl	_	_
+DT	_	21	det	_	_
+JJ	_	21	attr	_	_
+JJ	_	21	attr	_	_
+NN	_	21	attr	_	_
+NN	_	21	attr	_	_
+SYM	_	21	p	_	_
+NN	_	14	obj	_	_
+.	_	8	p	_	_
+

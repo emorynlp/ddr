@@ -1,0 +1,27 @@
+NNP	_	2	com	_	_
+NNP	_	0	root	_	_
+
+NN	_	0	root	_	_
+,	_	1	p	_	_
+NN	_	1	appo	_	_
+,	_	1	p	_	_
+NN	_	1	appo	_	_
+CC	_	5	cc	_	_
+NNS	_	5	conj	_	_
+,	_	1	p	_	_
+NN	_	10	com	_	_
+NN	_	1	appo	_	_
+,	_	1	p	_	_
+NN	_	13	com	_	_
+NN	_	1	appo	_	_
+,	_	1	p	_	_
+NN	_	1	appo	_	_
+,	_	1	p	_	_
+NN	_	18	com	_	_
+NN	_	1	appo	_	_
+,	_	1	p	_	_
+NN	_	21	com	_	_
+NN	_	22	com	_	_
+NN	_	1	appo	_	_
+.	_	1	p	_	_
+

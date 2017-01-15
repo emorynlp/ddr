@@ -1,0 +1,21 @@
+NNP	_	4	nsbj	7:nsbj	_
+VBZ	_	4	aux	_	_
+RB	sem=tmp	4	adv	_	_
+VBN	_	0	root	_	_
+PRP	_	4	obj	_	_
+TO	_	7	aux	_	_
+VB	sem=clr	4	comp	_	_
+JJ	_	9	attr	_	_
+NNS	_	7	obj	_	_
+CC	_	4	cc	_	_
+DT	_	12	det	_	_
+NN	_	19	nsbj	_	_
+VBZ	_	19	aux	_	_
+VBN	_	19	cop	_	_
+RB	_	16	adv	_	_
+JJ	_	19	attr	_	_
+,	_	19	p	_	_
+JJ	_	19	attr	_	_
+NN	_	4	conj	_	_
+.	_	19	p	_	_
+

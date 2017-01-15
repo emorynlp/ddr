@@ -1,0 +1,19 @@
+TO	_	2	aux	_	_
+VB	sem=prp	11	advcl	_	_
+JJ	_	4	attr	_	_
+NN	_	2	obj	_	_
+,	_	11	p	_	_
+NNS	_	11	nsbj	2:nsbj	_
+IN	_	10	case	_	_
+JJ	_	10	attr	_	_
+NN	_	10	com	_	_
+NNS	sem=loc	6	ppmod	_	_
+VBP	_	0	root	_	_
+JJ	_	13	attr	_	_
+NNS	_	11	obj	_	_
+TO	_	15	aux	_	_
+VB	sem=clr	11	comp	_	_
+NN	_	17	com	_	_
+NN	_	15	obj	_	_
+.	_	11	p	_	_
+

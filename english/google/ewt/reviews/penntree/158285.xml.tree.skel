@@ -1,0 +1,25 @@
+NN	_	5	obj	_	_
+IN	_	3	case	_	_
+NN	_	1	ppmod	_	_
+VBD	_	5	aux	_	_
+VBN	_	24	advcl	_	_
+,	_	24	p	_	_
+NN	_	9	nsbj	_	_
+VBD	_	9	cop	_	_
+JJ	_	24	comp	_	_
+,	_	24	p	_	_
+NN	_	15	nsbj	_	_
+VBD	_	15	cop	_	_
+RB	_	15	adv	_	_
+RB	_	15	adv	_	_
+JJ	_	24	comp	_	_
+IN	_	17	case	_	_
+NNP	_	15	ppmod	_	_
+IN	_	19	case	_	_
+NN	_	15	ppmod	_	_
+,	_	24	p	_	_
+JJ	_	22	attr	_	_
+NN	_	24	nsbj	_	_
+VBZ	_	24	raise	_	_
+JJ	_	0	root	_	_
+

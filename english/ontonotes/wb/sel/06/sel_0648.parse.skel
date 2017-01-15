@@ -1,0 +1,12 @@
+VBG	_	0	root	_	_
+IN	_	4	case	_	_
+PRP$	_	4	poss	_	_
+NNS	sem=loc	1	ppmod	_	_
+TO	_	6	aux	_	_
+VB	sem=prp	1	advcl	_	_
+CC	_	6	cc	_	_
+VB	_	6	conj	_	_
+JJ	_	10	attr	_	_
+NN	_	8	obj	6:obj	_
+.	_	1	p	_	_
+

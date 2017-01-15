@@ -1,0 +1,36 @@
+RB	_	2	neg	_	_
+JJ	_	0	root	_	_
+RB	_	2	adv	_	_
+
+PRP	_	5	nsbj	_	_
+VBZ	_	5	cop	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+NN	_	12	comp	_	_
+,	_	12	p	_	_
+PRP	_	12	nsbj	_	_
+VBP	_	12	cop	_	_
+RB	_	12	adv	_	_
+DT	_	11	det	_	_
+JJ	_	12	advnp	_	_
+JJ	_	0	root	_	_
+IN	_	16	case	_	_
+DT	_	16	det	_	_
+NNP	_	16	com	_	_
+NN	_	12	ppmod	_	_
+.	_	12	p	_	_
+
+NN	_	8	dep	_	_
+JJ	_	1	attr	_	_
+IN	_	4	case	_	_
+PRP	_	2	ppmod	_	_
+,	_	8	p	_	_
+RB	_	8	adv	_	_
+JJR	_	8	attr	_	_
+NNS	_	0	root	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+NN	_	12	com	_	_
+NN	_	8	ppmod	_	_
+.	_	8	p	_	_
+

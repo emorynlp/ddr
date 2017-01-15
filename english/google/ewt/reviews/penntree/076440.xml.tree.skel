@@ -1,0 +1,13 @@
+RB	_	2	adv	_	_
+JJ	_	7	dep	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+CC	_	4	cc	_	_
+JJ	_	4	conj	_	_
+NNS	_	0	root	8:obj	_
+VBN	_	7	acl	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	sem=loc	8	ppmod	_	_
+.	_	7	p	_	_
+

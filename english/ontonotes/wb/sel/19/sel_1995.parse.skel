@@ -1,0 +1,20 @@
+RB	_	6	adv	_	_
+PRP	_	6	nsbj	_	_
+VBZ	_	6	cop	_	_
+RB	_	6	adv	_	_
+JJ	_	6	attr	_	_
+NNS	_	0	root	_	_
+VBG	_	6	acl	_	_
+PRP	_	7	obj	_	_
+DT	_	8	appo	_	_
+RB	sem=tmp	7	adv	_	_
+,	_	6	p	_	_
+CC	_	6	cc	_	_
+PRP	_	14	nsbj	18:nsbj	_
+VBP	_	6	conj	_	_
+JJ	_	16	attr	_	_
+NNS	_	14	obj	18:obj	_
+TO	_	18	aux	_	_
+VB	_	16	relcl	_	_
+.	_	14	p	_	_
+

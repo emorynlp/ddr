@@ -1,0 +1,12 @@
+NN	_	0	root	_	_
+:	_	1	p	_	_
+WRB	_	4	adv	_	_
+JJ	_	8	obj	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NNS	_	4	ppmod	_	_
+VBP	_	1	acl	_	_
+CD	_	10	num	_	_
+NNS	_	8	obj	_	_
+.	_	1	p	_	_
+

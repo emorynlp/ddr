@@ -1,0 +1,23 @@
+RB	_	5	adv	_	_
+,	_	5	p	_	_
+PRP	_	5	obj	_	_
+VBD	_	5	aux	_	_
+VBN	_	0	root	_	_
+IN	_	11	mark	_	_
+DT	_	8	det	_	_
+NN	_	11	nsbj	_	_
+MD	_	11	modal	_	_
+RB	_	11	neg	_	_
+VB	_	5	csbj	_	_
+DT	_	13	det	_	_
+NNS	_	11	obj	_	_
+DT	_	15	det	_	_
+NN	sem=tmp	11	advnp	_	_
+,	_	11	p	_	_
+IN	_	20	case	_	_
+``	_	20	p	_	_
+JJ	_	20	attr	_	_
+NNS	sem=prp	11	ppmod	_	_
+.	_	5	p	_	_
+''	_	5	p	_	_
+

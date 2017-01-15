@@ -1,0 +1,23 @@
+WRB	sem=tmp	8	adv	_	_
+NNS	_	4	nsbj	_	_
+VBP	_	4	raise	_	_
+VBG	sem=tmp	17	advcl	_	_
+CC	_	4	cc	_	_
+NNS	_	8	nsbj	11:nsbj	_
+VBP	_	8	raise	_	_
+VBG	_	4	conj	_	_
+CC	_	8	cc	_	_
+VBP	_	11	raise	_	_
+VBG	_	8	conj	_	_
+NNS	_	11	obj	_	_
+RP	_	11	prt	_	_
+,	_	17	p	_	_
+DT	_	17	nsbj	_	_
+MD	_	17	modal	_	_
+VB	_	0	root	_	_
+DT	_	19	det	_	_
+NN	_	21	nsbj	_	_
+RB	_	21	adv	_	_
+JJR	_	17	comp	_	_
+.	_	17	p	_	_
+

@@ -1,0 +1,19 @@
+VBG	_	10	csbj	_	_
+DT	_	4	det	_	_
+JJ	_	4	attr	_	_
+NN	_	1	obj	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NN	_	4	ppmod	_	_
+MD	_	10	modal	_	_
+RB	_	10	neg	_	_
+VB	_	0	root	_	_
+NN	_	10	obj	13:nsbj	_
+TO	_	13	aux	_	_
+VB	_	10	comp	_	_
+PRP$	_	15	poss	_	_
+NN	_	13	obj	_	_
+RBR	_	17	com	_	_
+RB	sem=mnr	13	adv	_	_
+.	_	10	p	_	_
+

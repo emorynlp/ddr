@@ -1,0 +1,27 @@
+DT	_	2	det	_	_
+NNS	_	5	nsbj	8:nsbj	_
+VBP	_	5	aux	_	_
+RB	_	5	neg	_	_
+VB	_	0	root	_	_
+RB	_	8	adv	_	_
+HYPH	_	8	p	_	_
+JJ	_	5	comp	_	_
+IN	_	14	mark	_	_
+DT	_	11	det	_	_
+NNS	_	14	nsbj	_	_
+NN	_	14	advnp	_	_
+HYPH	_	14	p	_	_
+JJ	_	8	comp	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+JJ	_	19	attr	_	_
+NN	_	19	com	_	_
+NNS	_	21	nsbj	_	_
+RB	sem=mnr	21	adv	_	_
+VBP	_	5	conj	_	_
+RP	_	21	prt	_	_
+DT	_	25	det	_	_
+VBG	_	25	attr	_	_
+NNS	_	21	obj	_	_
+.	_	21	p	_	_
+

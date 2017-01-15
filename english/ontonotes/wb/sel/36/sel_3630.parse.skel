@@ -1,0 +1,19 @@
+RB	_	2	adv	_	_
+JJ	_	0	root	_	_
+TO	_	4	aux	_	_
+VB	_	2	comp	_	_
+CC	_	2	cc	_	_
+JJR	_	2	conj	_	_
+IN	_	6	ppmod	_	_
+RB	_	9	com	_	_
+RB	sem=tmp	7	adv	_	_
+,	_	2	p	_	_
+RB	_	12	adv	_	_
+JJ	_	13	num	_	_
+NNS	_	2	conj	_	_
+TO	_	15	aux	_	_
+VB	sem=prp	13	advcl	_	_
+DT	_	17	det	_	_
+NNP	_	15	obj	_	_
+.	_	13	p	_	_
+

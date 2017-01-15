@@ -1,0 +1,19 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+RP	_	2	prt	_	_
+DT	_	5	det	_	_
+NN	_	2	obj	_	_
+IN	_	7	case	_	_
+NN	_	5	ppmod	_	_
+IN	_	9	case	_	_
+NNS	sem=clr	2	ppmod	_	_
+VBG	_	9	acl	_	_
+TO	_	12	aux	_	_
+VB	_	10	comp	_	_
+DT	_	14	det	_	_
+NN	_	12	obj	_	_
+IN	_	17	case	_	_
+JJ	_	17	attr	_	_
+NN	_	14	ppmod	_	_
+.	_	2	p	_	_
+

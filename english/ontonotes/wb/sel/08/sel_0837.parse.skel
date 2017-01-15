@@ -1,0 +1,10 @@
+WRB	sem=prp	6	adv	_	_
+VBP	_	6	aux	_	_
+JJ	_	4	attr	_	_
+NNS	_	6	nsbj	_	_
+RB	sem=tmp	6	adv	_	_
+VB	_	0	root	_	_
+IN	_	8	case	_	_
+PRP	sem=clr	6	ppmod	_	_
+.	_	6	p	_	_
+

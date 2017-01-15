@@ -1,0 +1,20 @@
+VB	_	5	advcl	_	_
+VBN	_	3	attr	_	_
+NN	_	1	obj	_	_
+MD	_	5	modal	_	_
+VB	_	0	root	_	_
+CD	_	12	num	_	_
+CC	_	6	cc	_	_
+CD	_	6	conj	_	_
+CC	_	8	cc	_	_
+RB	_	11	adv	_	_
+CD	_	6	conj	_	_
+NNS	_	5	obj	_	_
+IN	_	15	case	_	_
+PRP$	_	15	poss	_	_
+NN	_	5	dat	_	_
+:	_	5	p	_	_
+VBG	_	5	advcl	_	_
+RB	sem=tmp	17	adv	_	_
+.	_	5	p	_	_
+

@@ -1,0 +1,27 @@
+PRP	_	3	nsbj	7:nsbj	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+NN	_	5	com	_	_
+NN	_	3	obj	_	_
+CC	_	3	cc	_	_
+VB	_	3	conj	_	_
+DT	_	12	det	_	_
+VBN	_	11	attr	_	_
+VBN	_	11	attr	_	_
+NN	_	12	com	_	_
+NNS	_	7	obj	_	_
+CC	_	3	cc	_	_
+PRP	_	15	nsbj	17:nsbj	_
+VBP	_	3	conj	_	_
+TO	_	17	aux	_	_
+VB	_	15	comp	_	_
+RB	sem=clr	17	adv	_	_
+DT	_	20	det	_	_
+NN	_	17	obj	_	_
+RB	sem=loc	17	adv	_	_
+IN	_	24	mark	_	_
+PRP	_	24	nsbj	_	_
+VBZ	sem=prp	17	advcl	_	_
+RP	_	24	prt	_	_
+.	_	15	p	_	_
+

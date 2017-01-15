@@ -1,0 +1,13 @@
+DT	_	3	det	_	_
+JJ	_	3	attr	_	_
+NN	_	4	nsbj	_	_
+VBD	_	0	root	_	_
+PRP	_	4	obj	_	_
+,	_	4	p	_	_
+IN	_	11	mark	_	_
+PRP	_	11	obj	_	_
+VBD	_	11	aux	_	_
+RB	sem=mnr	11	adv	_	_
+VBN	sem=tmp	4	advcl	_	_
+.	_	4	p	_	_
+

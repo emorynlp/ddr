@@ -1,0 +1,25 @@
+VB	_	2	cop	_	_
+RB	_	0	root	_	_
+
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+.	_	2	p	_	_
+
+RB	_	2	adv	_	_
+JJ	_	0	root	_	_
+.	_	2	p	_	_
+
+VBD	_	2	lv	_	_
+NNS	_	0	root	8:obj	_
+PRP	_	4	nsbj	_	_
+VBD	_	2	relcl	_	_
+PRP	_	4	obj	8:nsbj	_
+RB	_	8	neg	_	_
+TO	_	8	aux	_	_
+VB	_	4	comp	_	_
+CC	_	2	cc	_	_
+VBD	_	12	aux	_	_
+RB	sem=tmp	12	adv	_	_
+VBN	_	2	conj	_	_
+.	_	12	p	_	_
+

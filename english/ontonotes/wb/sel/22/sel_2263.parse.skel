@@ -1,0 +1,15 @@
+NNP	_	2	com	_	_
+NNP	_	3	nsbj	10:nsbj	_
+VBD	_	0	root	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NNPS	sem=clr	3	ppmod	_	_
+RB	_	8	com	_	_
+RB	_	3	cc	_	_
+IN	_	8	com	_	_
+VBZ	_	3	conj	_	_
+IN	_	13	case	_	_
+NNP	_	13	com	_	_
+NNP	sem=clr	10	ppmod	_	_
+.	_	3	p	_	_
+

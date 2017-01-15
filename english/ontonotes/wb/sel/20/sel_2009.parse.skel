@@ -1,0 +1,15 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+PRP	_	8	nsbj	_	_
+MD	_	8	modal	_	_
+RB	_	8	adv	_	_
+RB	sem=tmp	8	adv	_	_
+VB	_	8	raise	_	_
+VBG	_	2	comp	_	_
+NN	_	10	com	_	_
+NNS	_	8	obj	_	_
+CC	_	10	cc	_	_
+NN	_	13	com	_	_
+NNS	_	10	conj	_	_
+.	_	2	p	_	_
+

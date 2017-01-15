@@ -1,0 +1,22 @@
+VB	_	0	root	_	_
+IN	sem=clr	1	ppmod	_	_
+CC	_	2	cc	_	_
+IN	_	6	case	_	_
+NN	_	6	com	_	_
+NNS	_	2	conj	_	_
+TO	_	8	aux	_	_
+VB	sem=prp	1	advcl	_	_
+NN	_	10	com	_	_
+NNS	_	11	com	_	_
+NNS	_	8	obj	_	_
+,	_	11	p	_	_
+NN	_	14	com	_	_
+NNS	_	11	conj	_	_
+,	_	14	p	_	_
+CC	_	14	cc	_	_
+JJ	_	20	attr	_	_
+NN	_	19	com	_	_
+NN	_	20	com	_	_
+NNS	_	11	conj	_	_
+.	_	1	p	_	_
+

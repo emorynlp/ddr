@@ -1,0 +1,17 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+NN	_	4	nsbj	_	_
+VBZ	_	2	comp	_	_
+NNS	_	4	obj	15:obj	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	sem=loc	5	ppmod	_	_
+,	_	5	p	_	_
+WDT	_	15	r-obj	_	_
+DT	_	12	det	_	_
+NN	_	15	nsbj	_	_
+VBZ	_	15	aux	_	_
+RB	_	15	neg	_	_
+VB	_	5	relcl	_	_
+.	_	2	p	_	_
+

@@ -1,0 +1,15 @@
+DT	_	3	det	_	_
+JJ	_	3	attr	_	_
+NN	_	13	nsbj	_	_
+TO	_	5	aux	_	_
+VB	_	3	acl	_	_
+TO	_	7	aux	_	_
+VB	_	5	comp	_	_
+NNS	_	7	obj	_	_
+VBZ	_	13	cop	_	_
+RB	_	13	adv	_	_
+PDT	_	13	det	_	_
+DT	_	13	det	_	_
+NN	_	0	root	_	_
+.	_	13	p	_	_
+

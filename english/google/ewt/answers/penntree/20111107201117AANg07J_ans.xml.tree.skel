@@ -1,0 +1,56 @@
+WRB	sem=mnr	4	adv	_	_
+VBP	_	4	aux	_	_
+PRP	_	4	nsbj	_	_
+VB	_	0	root	_	_
+NN	_	4	obj	_	_
+CC	_	5	cc	_	_
+NN	_	5	conj	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	_	11	com	_	_
+NN	sem=clr	4	ppmod	_	_
+.	_	4	p	_	_
+
+VB	_	0	root	_	_
+CD	_	1	obj	_	_
+IN	_	6	case	_	_
+PRP$	_	6	poss	_	_
+VBN	_	6	attr	_	_
+NN	sem=mnr	1	ppmod	_	_
+.	_	1	p	_	_
+
+VB	_	0	root	_	_
+DT	_	3	det	_	_
+NN	_	1	obj	_	_
+.	_	1	p	_	_
+
+VB	_	0	root	_	_
+.	_	1	p	_	_
+
+VBG	_	3	adv	_	_
+IN	_	3	case	_	_
+NN	_	6	ppmod	_	_
+,	_	6	p	_	_
+RB	_	6	adv	_	_
+VB	_	0	root	_	_
+DT	_	8	det	_	_
+NN	_	6	obj	_	_
+CC	_	6	cc	_	_
+VB	_	6	conj	_	_
+DT	_	12	det	_	_
+NN	_	10	obj	_	_
+IN	_	14	case	_	_
+DT	sem=mnr	10	ppmod	_	_
+
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+DT	_	4	det	_	_
+NNS	_	2	obj	_	_
+IN	_	10	case	_	_
+JJS	_	10	attr	_	_
+NN	_	10	attr	_	_
+CC	_	7	cc	_	_
+NN	_	7	conj	_	_
+NNS	sem=loc	2	ppmod	_	_
+.	_	2	p	_	_
+

@@ -1,0 +1,12 @@
+NNP	_	5	voc	_	_
+:	_	5	p	_	_
+VB	_	5	aux	_	_
+RB	_	5	neg	_	_
+VB	_	0	root	_	_
+JJ	_	7	attr	_	_
+NNS	_	5	obj	_	_
+VBG	sem=clr	5	comp	_	_
+NN	_	10	com	_	_
+NN	_	8	obj	_	_
+.	_	5	p	_	_
+

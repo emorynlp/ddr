@@ -1,0 +1,19 @@
+RB	_	5	adv	_	_
+,	_	5	p	_	_
+PRP	_	5	nsbj	_	_
+RB	_	5	adv	_	_
+VBZ	_	0	root	_	_
+RB	_	5	adv	_	_
+RB	sem=mnr	5	adv	_	_
+,	_	5	p	_	_
+VBZ	_	5	dep	_	_
+PRP	_	9	obj	_	_
+RB	_	9	adv	_	_
+CC	_	5	cc	_	_
+PRP	_	15	nsbj	_	_
+RB	sem=tmp	15	neg	_	_
+VBP	_	5	conj	_	_
+PRP	_	15	obj	_	_
+RB	_	15	adv	_	_
+.	_	15	p	_	_
+

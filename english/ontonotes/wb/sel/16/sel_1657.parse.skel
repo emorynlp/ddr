@@ -1,0 +1,27 @@
+DT	_	5	det	_	_
+NNP	_	4	com	_	_
+NNP	_	4	com	_	_
+NNP	_	5	com	_	_
+NN	_	6	nsbj	_	_
+VBZ	_	0	root	_	_
+DT	_	8	det	_	_
+NN	_	6	obj	_	_
+IN	_	13	mark	_	_
+NNP	_	11	com	_	_
+NNP	_	13	nsbj	_	_
+TO	_	13	aux	_	_
+VB	_	6	comp	_	_
+IN	_	16	case	_	_
+JJ	_	16	attr	_	_
+NN	sem=clr	13	ppmod	_	_
+CC	_	20	cc	_	_
+IN	_	20	case	_	_
+DT	_	20	det	_	_
+NNP	_	16	ppmod	_	_
+CC	_	20	cc	_	_
+IN	_	25	case	_	_
+DT	_	25	det	_	_
+NNP	_	25	com	_	_
+NN	_	20	conj	_	_
+.	_	6	p	_	_
+

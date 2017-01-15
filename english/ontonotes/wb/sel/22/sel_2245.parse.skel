@@ -1,0 +1,16 @@
+IN	_	2	mark	_	_
+JJ	_	9	advcl	_	_
+,	_	9	p	_	_
+RB	_	9	adv	_	_
+NNP	_	7	com	_	_
+HYPH	_	7	p	_	_
+NNP	_	9	nsbj	_	_
+MD	_	9	modal	_	_
+VB	_	0	root	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+NN	sem=clr	9	ppmod	_	_
+IN	_	14	case	_	_
+NNP	_	12	ppmod	_	_
+.	_	9	p	_	_
+

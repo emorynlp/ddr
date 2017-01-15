@@ -1,0 +1,23 @@
+DT	_	3	det	_	_
+RBS	_	3	adv	_	_
+JJ	_	11	nsbj	14:nsbj;17:nsbj;21:nsbj	_
+TO	_	5	aux	_	_
+VB	_	3	comp	_	_
+IN	_	7	case	_	_
+NN	sem=clr	5	ppmod	_	_
+MD	_	11	modal	_	_
+VB	_	11	cop	_	_
+IN	_	11	case	_	_
+NNP	sem=loc	0	root	_	_
+,	_	11	p	_	_
+IN	_	14	case	_	_
+NNP	_	11	conj	_	_
+,	_	14	p	_	_
+IN	_	17	case	_	_
+NNP	_	11	conj	_	_
+,	_	17	p	_	_
+CC	_	17	cc	_	_
+IN	_	21	case	_	_
+NNP	_	11	conj	_	_
+.	_	11	p	_	_
+

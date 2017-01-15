@@ -1,0 +1,37 @@
+WRB	sem=loc	3	adv	_	_
+TO	_	3	aux	_	_
+VB	_	0	root	_	_
+NN	_	5	com	_	_
+NNS	_	3	obj	_	_
+IN	_	7	case	_	_
+NNP	sem=loc	3	ppmod	_	_
+.	_	3	p	_	_
+
+DT	_	3	det	_	_
+JJ	_	3	attr	_	_
+NN	sem=clr	0	root	6:ppmod	_
+WDT	_	6	r-ppmod	_	_
+PRP	_	6	nsbj	_	_
+VBP	_	3	relcl	_	_
+IN	_	4	case	_	_
+CC	_	3	cc	_	_
+PRP$	_	10	poss	_	_
+NN	_	3	conj	_	_
+.	_	10	p	_	_
+
+NNP	_	2	com	_	_
+NNP	_	0	root	_	_
+,	_	2	p	_	_
+NNP	_	5	com	_	_
+NNP	sem=loc	2	advnp	_	_
+.	_	2	p	_	_
+
+RB	_	2	adv	_	_
+VB	_	0	root	_	_
+NNP	_	5	com	_	_
+NNP	_	5	com	_	_
+NNP	_	2	obj	_	_
+IN	_	7	case	_	_
+NNP	sem=loc	2	ppmod	_	_
+.	_	2	p	_	_
+

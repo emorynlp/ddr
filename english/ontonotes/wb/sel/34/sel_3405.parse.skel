@@ -1,0 +1,26 @@
+IN	_	3	case	_	_
+PRP$	_	3	poss	_	_
+NN	_	19	ppmod	_	_
+:	_	19	p	_	_
+``	_	19	p	_	_
+IN	_	10	case	_	_
+CD	_	10	num	_	_
+NN	_	9	advnp	_	_
+VBN	_	10	attr	_	_
+NN	_	19	ppmod	_	_
+,	_	19	p	_	_
+DT	_	17	det	_	_
+NNP	_	14	com	_	_
+NNP	_	17	attr	_	_
+CD	_	14	num	_	_
+NNP	_	17	com	_	_
+NNP	_	19	nsbj	_	_
+MD	_	19	modal	_	_
+VB	_	0	root	_	_
+IN	_	22	case	_	_
+JJ	_	22	attr	_	_
+NNS	sem=clr	19	ppmod	_	_
+IN	_	24	case	_	_
+NN	_	22	ppmod	_	_
+.	_	19	p	_	_
+

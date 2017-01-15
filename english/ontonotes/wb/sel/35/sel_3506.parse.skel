@@ -1,0 +1,27 @@
+NNP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+RB	sem=mnr	2	adv	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NN	_	7	com	_	_
+NNS	sem=clr	2	ppmod	_	_
+CC	_	2	cc	_	_
+PRP	_	10	nsbj	_	_
+VBD	_	2	conj	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+JJ	_	14	attr	_	_
+NN	sem=clr	10	ppmod	_	_
+WRB	sem=tmp	24	adv	_	_
+NNP	_	17	nsbj	_	_
+VBD	sem=tmp	10	advcl	_	_
+NNP	_	17	obj	_	_
+IN	_	21	case	_	_
+DT	_	21	det	_	_
+NN	_	17	ppmod	_	_
+CC	_	17	cc	_	_
+NNP	_	24	nsbj	_	_
+VBD	_	17	conj	_	_
+PRP	_	24	obj	_	_
+.	_	10	p	_	_
+

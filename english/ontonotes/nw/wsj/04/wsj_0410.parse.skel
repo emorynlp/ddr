@@ -1,0 +1,34 @@
+NNP	_	2	com	_	B-ORG
+NNP	_	4	poss	_	I-ORG
+POS	_	2	case	_	L-ORG
+NNP	_	7	nsbj	_	B-ORG
+CC	_	4	cc	_	I-ORG
+NNP	_	4	conj	_	L-ORG
+VBZ	_	0	root	_	O
+NN	_	9	com	_	O
+NNS	_	11	nsbj	_	O
+TO	_	11	aux	_	O
+VB	_	7	comp	_	O
+IN	_	13	case	_	O
+CD	sem=dir	11	ppmod	_	B-PERCENT
+NN	_	13	meta	_	L-PERCENT
+IN	_	16	case	_	O
+CD	sem=tmp	11	ppmod	_	U-DATE
+IN	_	19	case	_	O
+DT	_	19	det	_	O
+NNP	sem=loc	11	ppmod	_	U-GPE
+
+NN	_	3	poss	_	U-DATE
+POS	_	1	case	_	O
+NN	_	6	nsbj	_	O
+VBD	_	6	aux	_	O
+RB	_	6	neg	_	O
+VB	_	0	root	_	O
+WRB	sem=loc	11	adv	_	O
+DT	_	9	det	_	O
+NN	_	11	nsbj	_	O
+MD	_	11	modal	_	O
+VB	_	6	comp	_	O
+NN	_	11	obj	_	O
+.	_	6	p	_	O
+

@@ -1,0 +1,16 @@
+PRP	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	5	nsbj	_	_
+VB	_	2	comp	_	_
+PRP	_	5	obj	_	_
+RP	_	5	prt	_	_
+RB	sem=mnr	5	adv	_	_
+,	_	5	p	_	_
+RB	_	12	adv	_	_
+IN	_	12	case	_	_
+VBG	_	5	ppmod	_	_
+IN	_	14	case	_	_
+PRP	sem=clr	12	ppmod	_	_
+.	_	2	p	_	_
+

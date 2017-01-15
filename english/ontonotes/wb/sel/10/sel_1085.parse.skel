@@ -1,0 +1,18 @@
+IN	_	2	case	_	_
+CD	sem=tmp	4	ppmod	7:ppmod	_
+NNS	_	4	nsbj	7:nsbj;9:nsbj	_
+VBP	_	0	root	_	_
+CD	_	4	obj	_	_
+CC	_	4	cc	_	_
+VBP	_	4	conj	_	_
+CD	_	7	obj	_	_
+VBG	_	7	advcl	4:advcl	_
+NNP	_	11	com	_	_
+NNP	_	9	obj	_	_
+IN	_	16	case	_	_
+NNP	_	16	attr	_	_
+CC	_	13	cc	_	_
+NNP	_	13	conj	_	_
+NNS	sem=loc	9	ppmod	_	_
+.	_	4	p	_	_
+

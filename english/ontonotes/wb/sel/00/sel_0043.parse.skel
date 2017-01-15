@@ -1,0 +1,23 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+PRP	_	5	nsbj	13:nsbj	_
+RB	_	5	adv	_	_
+VBP	_	2	comp	_	_
+DT	_	7	det	_	_
+NNS	_	5	obj	_	_
+RP	_	5	prt	_	_
+CC	_	5	cc	_	_
+VBP	_	13	lv	_	_
+RP	_	13	prt	_	_
+DT	_	13	det	_	_
+NN	_	5	conj	_	_
+IN	_	15	case	_	_
+VBG	sem=mnr	13	ppmod	_	_
+PRP	_	15	dat	_	_
+NN	_	21	attr	_	_
+NN	_	21	attr	_	_
+CC	_	18	cc	_	_
+NN	_	18	conj	_	_
+NNS	_	15	obj	_	_
+.	_	2	p	_	_
+

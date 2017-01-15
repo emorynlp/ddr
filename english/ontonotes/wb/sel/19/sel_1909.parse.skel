@@ -1,0 +1,25 @@
+VBG	_	7	csbj	_	_
+DT	_	4	det	_	_
+JJ	_	4	attr	_	_
+NN	_	1	obj	_	_
+VBZ	_	7	aux	_	_
+RB	_	7	neg	_	_
+VB	_	0	root	_	_
+PRP	_	9	nsbj	_	_
+VBG	_	7	comp	_	_
+PRP$	_	11	poss	_	_
+JJ	_	9	obj	_	_
+,	_	7	p	_	_
+IN	_	16	mark	_	_
+PRP	_	16	nsbj	_	_
+MD	_	16	modal	_	_
+VB	_	7	advcl	_	_
+NNS	_	16	obj	19:nsbj	_
+RB	_	19	adv	_	_
+JJ	sem=clr	16	comp	_	_
+IN	_	23	case	_	_
+DT	_	23	det	_	_
+JJ	_	23	attr	_	_
+NN	sem=loc	19	ppmod	_	_
+.	_	7	p	_	_
+

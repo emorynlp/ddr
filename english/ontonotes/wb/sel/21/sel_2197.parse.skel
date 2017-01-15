@@ -1,0 +1,10 @@
+DT	_	2	det	_	_
+NN	_	3	nsbj	6:nsbj	_
+VBP	_	0	root	_	_
+RB	sem=mnr	3	adv	_	_
+CC	_	3	cc	_	_
+VBP	_	3	conj	_	_
+IN	_	8	case	_	_
+NNS	sem=mnr	6	ppmod	_	_
+.	_	3	p	_	_
+

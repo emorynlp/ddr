@@ -1,0 +1,64 @@
+NN	_	3	dep	_	_
+:	_	3	p	_	_
+ADD	_	0	root	_	_
+
+NNP	_	2	com	_	_
+NN	_	0	root	_	_
+CD	sem=tmp	2	advnp	_	_
+
+PRP	_	2	nsbj	_	_
+VBD	_	21	comp	_	_
+DT	_	4	det	_	_
+NNS	_	2	obj	_	_
+IN	_	6	case	_	_
+NNP	_	2	ppmod	_	_
+,	_	21	p	_	_
+VB	_	21	advcl	_	_
+IN	_	10	case	_	_
+DT	sem=clr	8	ppmod	_	_
+IN	_	12	case	_	_
+PRP	_	10	ppmod	_	_
+IN	_	15	mark	_	_
+PRP	_	15	nsbj	_	_
+VBP	_	8	advcl	_	_
+NN	_	15	obj	_	_
+,	_	21	p	_	_
+PRP	_	21	nsbj	_	_
+VBP	_	21	cop	_	_
+RB	_	21	adv	_	_
+JJ	_	0	root	_	_
+,	_	21	p	_	_
+
+ADD	_	0	root	_	_
+
+ADD	_	0	root	_	_
+
+ADD	_	0	root	_	_
+
+ADD	_	0	root	_	_
+
+ADD	_	0	root	_	_
+
+ADD	_	0	root	_	_
+
+ADD	_	0	root	_	_
+
+ADD	_	0	root	_	_
+
+ADD	_	0	root	_	_
+
+ADD	_	0	root	_	_
+
+ADD	_	0	root	_	_
+
+UH	_	6	disc	_	_
+,	_	6	p	_	_
+PRP	_	6	nsbj	_	_
+VBP	_	6	cop	_	_
+RB	_	6	adv	_	_
+IN	_	0	root	_	_
+NNP	_	6	obj	_	_
+.	_	6	p	_	_
+
+VB	_	0	root	_	_
+

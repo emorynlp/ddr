@@ -1,0 +1,20 @@
+VB	_	0	root	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+NN	_	3	obj	1:obj	_
+,	_	1	p	_	_
+VB	_	1	dep	_	_
+JJ	_	10	attr	_	_
+CC	_	7	cc	_	_
+JJ	_	7	conj	_	_
+NN	_	12	com	_	_
+NN	_	12	com	_	_
+NN	_	6	obj	_	_
+CC	_	12	cc	_	_
+NN	_	15	com	_	_
+NN	_	12	conj	_	_
+TO	_	17	aux	_	_
+VB	_	15	acl	_	_
+NN	_	17	obj	_	_
+.	_	1	p	_	_
+

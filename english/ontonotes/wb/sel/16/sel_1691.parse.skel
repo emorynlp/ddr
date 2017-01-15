@@ -1,0 +1,25 @@
+PRP	_	2	nsbj	_	_
+VBD	_	14	comp	_	_
+WP	_	5	obj	8:nsbj	_
+PRP	_	5	nsbj	_	_
+VBD	_	2	comp	_	_
+DT	_	8	det	_	_
+NN	_	8	com	_	_
+NN	sem=clr	5	comp	_	_
+,	_	14	p	_	_
+RB	_	14	adv	_	_
+,	_	14	p	_	_
+PRP	_	14	nsbj	_	_
+RB	_	14	adv	_	_
+VBD	_	0	root	_	_
+DT	_	16	det	_	_
+NN	_	18	nsbj	21:nsbj	_
+VBD	_	18	cop	_	_
+JJ	_	14	comp	_	_
+CC	_	18	cc	_	_
+MD	_	21	modal	_	_
+VB	_	18	conj	_	_
+CD	_	23	num	_	_
+NN	sem=ext	21	advnp	_	_
+.	_	14	p	_	_
+

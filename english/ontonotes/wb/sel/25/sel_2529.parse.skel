@@ -1,0 +1,20 @@
+IN	_	3	case	_	_
+PRP$	_	3	poss	_	_
+NN	_	9	ppmod	_	_
+,	_	9	p	_	_
+DT	_	6	det	_	_
+NN	_	9	nsbj	12:nsbj;14:nsbj	_
+MD	_	9	modal	_	_
+VB	_	9	cop	_	_
+JJ	_	0	root	_	_
+CC	_	9	cc	_	_
+MD	_	12	modal	_	_
+VB	_	9	conj	_	_
+CC	_	12	cc	_	_
+VB	_	12	conj	_	_
+IN	_	18	case	_	_
+DT	_	18	det	_	_
+JJ	_	18	attr	_	_
+NN	sem=clr	14	ppmod	12:obj	_
+.	_	9	p	_	_
+

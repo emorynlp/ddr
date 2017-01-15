@@ -1,0 +1,17 @@
+DT	_	4	det	_	_
+JJ	_	4	attr	_	_
+JJ	_	4	attr	_	_
+NN	_	6	nsbj	_	_
+MD	_	6	modal	_	_
+VB	_	0	root	_	_
+IN	_	15	mark	_	_
+JJ	_	9	attr	_	_
+NN	_	15	nsbj	_	_
+VBZ	_	15	cop	_	_
+DT	_	15	det	_	_
+NN	_	14	advnp	_	_
+HYPH	_	14	p	_	_
+JJ	_	15	attr	_	_
+NN	_	6	comp	_	_
+.	_	6	p	_	_
+

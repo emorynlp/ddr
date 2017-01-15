@@ -1,0 +1,11 @@
+CC	_	6	cc	_	_
+VB	_	6	aux	_	_
+DT	_	4	det	_	_
+NNS	_	6	nsbj	_	_
+RB	sem=tmp	6	adv	_	_
+VB	_	0	root	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NNP	sem=clr	6	ppmod	_	_
+.	_	6	p	_	_
+

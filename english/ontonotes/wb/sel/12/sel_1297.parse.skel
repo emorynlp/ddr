@@ -1,0 +1,18 @@
+IN	_	5	mark	_	_
+EX	_	5	expl	_	_
+VBZ	_	5	cop	_	_
+DT	_	5	det	_	_
+NN	_	13	advcl	7:adv	_
+TO	_	7	aux	_	_
+VB	_	5	relcl	_	_
+,	_	13	p	_	_
+DT	_	10	det	_	_
+NN	_	13	nsbj	_	_
+VBZ	_	13	raise	_	_
+TO	_	13	aux	_	_
+VB	_	0	root	_	_
+DT	_	16	det	_	_
+JJ	_	16	attr	_	_
+NN	_	13	obj	_	_
+.	_	13	p	_	_
+

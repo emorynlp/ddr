@@ -1,0 +1,13 @@
+VB	_	0	root	_	_
+IN	_	3	case	_	_
+NN	sem=clr	1	ppmod	_	_
+IN	_	6	mark	_	_
+PRP	_	6	nsbj	_	_
+VBD	_	1	comp	_	_
+DT	_	8	det	_	_
+NN	_	6	obj	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NNS	_	8	ppmod	_	_
+.	_	1	p	_	_
+

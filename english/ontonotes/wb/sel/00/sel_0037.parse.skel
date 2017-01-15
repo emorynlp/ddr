@@ -1,0 +1,14 @@
+RB	sem=mnr	2	adv	_	_
+VBP	_	0	root	_	_
+IN	_	4	case	_	_
+NN	sem=clr	2	ppmod	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+CD	_	4	ppmod	_	_
+,	_	2	p	_	_
+IN	_	12	mark	_	_
+PRP	_	12	nsbj	_	_
+VBZ	_	12	cop	_	_
+JJ	_	2	advcl	_	_
+.	_	2	p	_	_
+

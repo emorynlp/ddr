@@ -1,0 +1,24 @@
+NNS	_	3	nsbj	5:nsbj;8:nsbj	_
+VBD	_	3	cop	_	_
+JJ	_	0	root	_	_
+,	_	3	p	_	_
+JJ	_	3	conj	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+JJ	_	3	conj	_	_
+.	_	3	p	_	_
+
+NN	_	3	nsbj	_	_
+VBD	_	3	cop	_	_
+JJ	_	0	root	_	_
+.	_	3	p	_	_
+
+VB	_	0	root	_	_
+RB	_	1	adv	_	_
+CD	_	4	num	_	_
+NN	_	1	advnp	_	_
+IN	_	7	case	_	_
+NNP	_	7	com	_	_
+NNP	sem=dir	1	ppmod	_	_
+.	_	1	p	_	_
+

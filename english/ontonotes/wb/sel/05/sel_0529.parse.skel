@@ -1,0 +1,13 @@
+NN	_	3	advnp	_	_
+HYPH	_	3	p	_	_
+VBN	_	4	attr	_	_
+NNS	_	5	nsbj	_	_
+VBP	_	0	root	_	_
+NN	_	7	com	_	_
+NN	_	5	obj	_	_
+IN	_	11	case	_	_
+NN	_	10	com	_	_
+NN	_	11	com	_	_
+NNS	_	7	ppmod	_	_
+.	_	5	p	_	_
+

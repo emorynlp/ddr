@@ -1,0 +1,16 @@
+RB	_	5	adv	_	_
+PRP	_	5	nsbj	10:nsbj	_
+VBP	_	5	aux	_	_
+RB	_	5	neg	_	_
+VBN	_	0	root	_	_
+IN	_	7	case	_	_
+NN	sem=clr	5	ppmod	_	_
+RB	sem=tmp	5	adv	_	_
+TO	_	10	aux	_	_
+VB	sem=prp	5	advcl	_	_
+DT	_	12	det	_	_
+NN	_	10	obj	14:obj	_
+NNP	_	14	nsbj	_	_
+VBD	_	12	relcl	_	_
+.	_	5	p	_	_
+

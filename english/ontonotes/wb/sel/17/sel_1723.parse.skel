@@ -1,0 +1,11 @@
+PRP	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBP	_	0	root	_	_
+DT	_	5	det	_	_
+NNS	_	8	obj	_	_
+RB	_	7	com	_	_
+RB	_	8	adv	_	_
+VBN	_	3	comp	_	_
+RB	sem=mnr	8	adv	_	_
+.	_	3	p	_	_
+

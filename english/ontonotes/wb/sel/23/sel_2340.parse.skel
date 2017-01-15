@@ -1,0 +1,17 @@
+WP	_	7	nsbj	_	_
+VBD	_	7	aux	_	_
+VBN	_	7	cop	_	_
+RB	_	5	adv	_	_
+VBG	_	7	attr	_	_
+NN	_	7	com	_	_
+NN	_	15	csbj	_	_
+RB	sem=tmp	15	adv	_	_
+VBZ	_	15	cop	_	_
+DT	_	15	det	_	_
+RB	_	12	adv	_	_
+JJ	_	15	attr	_	_
+RB	_	14	adv	_	_
+VBN	_	15	attr	_	_
+NN	_	0	root	_	_
+.	_	15	p	_	_
+

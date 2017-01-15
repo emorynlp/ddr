@@ -1,0 +1,8 @@
+VB	_	0	root	_	_
+NNS	_	1	obj	_	_
+RP	_	1	prt	_	_
+TO	_	5	aux	_	_
+VB	sem=prp	1	advcl	_	_
+RB	sem=mnr	5	adv	_	_
+.	_	1	p	_	_
+

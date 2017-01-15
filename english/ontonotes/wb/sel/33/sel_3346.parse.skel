@@ -1,0 +1,12 @@
+NNP	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+RP	_	2	prt	_	_
+NNP	_	2	obj	7:nsbj	_
+WP	_	7	r-nsbj	_	_
+RB	sem=tmp	7	adv	_	_
+VBZ	_	4	relcl	_	_
+DT	_	9	det	_	_
+NN	_	7	obj	10:nsbj	_
+JJ	sem=clr	7	comp	_	_
+.	_	2	p	_	_
+

@@ -1,0 +1,21 @@
+DT	_	2	det	_	_
+NNP	_	11	nsbj	_	_
+CC	_	2	cc	_	_
+SYM	_	2	p	_	_
+CC	_	2	cc	_	_
+JJ	_	8	attr	_	_
+JJ	_	8	attr	_	_
+NNS	_	2	conj	_	_
+VBP	_	11	lv	_	_
+JJ	_	11	attr	_	_
+NNS	_	0	root	13:nsbj	_
+TO	_	13	aux	_	_
+VB	_	11	relcl	_	_
+NN	_	16	attr	_	_
+JJ	_	16	attr	_	_
+NN	_	13	obj	_	_
+IN	_	19	case	_	_
+DT	_	19	det	_	_
+NNP	sem=loc	16	ppmod	_	_
+.	_	11	p	_	_
+

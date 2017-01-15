@@ -1,0 +1,24 @@
+JJS	_	2	attr	_	_
+NNS	_	9	dep	_	_
+NNP	_	2	voc	_	_
+IN	_	8	mark	_	_
+PRP	_	8	nsbj	_	_
+VBP	_	8	cop	_	_
+RB	_	8	adv	_	_
+JJ	_	9	advcl	_	_
+VB	_	0	root	_	_
+PRP	_	9	dat	_	_
+DT	_	12	det	_	_
+NN	_	9	obj	_	_
+CC	_	9	cc	_	_
+PRP	_	16	nsbj	_	_
+MD	_	16	modal	_	_
+VB	_	9	conj	_	_
+IN	_	20	mark	_	_
+PRP	_	20	nsbj	_	_
+MD	_	20	modal	_	_
+VB	_	16	comp	_	_
+PRP	_	20	obj	_	_
+RP	_	20	prt	_	_
+.	_	9	p	_	_
+

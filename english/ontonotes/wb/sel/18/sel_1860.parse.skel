@@ -1,0 +1,22 @@
+PRP$	_	2	poss	_	_
+NN	_	3	nsbj	_	_
+VBZ	_	0	root	_	_
+PRP	_	5	nsbj	10:nsbj;14:nsbj	_
+VBP	_	3	comp	_	_
+JJS	_	5	obj	_	_
+IN	_	9	case	_	_
+PRP$	_	9	poss	_	_
+NN	_	6	ppmod	_	_
+VBG	sem=clr	5	comp	_	_
+IN	_	12	case	_	_
+NNS	sem=clr	10	ppmod	_	_
+CC	_	10	cc	_	_
+VBG	_	10	conj	_	_
+``	_	14	p	_	_
+NNS	_	14	obj	_	_
+''	_	14	p	_	_
+RB	_	14	adv	_	_
+IN	_	20	case	_	_
+PRP	sem=loc	14	ppmod	_	_
+.	_	3	p	_	_
+

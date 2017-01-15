@@ -1,0 +1,16 @@
+PRP	_	2	nsbj	10:nsbj	_
+VBD	_	0	root	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NN	_	6	com	_	_
+NN	sem=clr	2	ppmod	_	_
+,	_	2	p	_	_
+CC	_	2	cc	_	_
+VBD	_	10	cop	_	_
+JJ	_	2	conj	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	_	14	com	_	_
+NN	_	10	ppmod	_	_
+.	_	2	p	_	_
+

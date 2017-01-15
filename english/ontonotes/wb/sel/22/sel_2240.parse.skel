@@ -1,0 +1,13 @@
+VB	_	0	root	_	_
+DT	_	4	det	_	_
+JJ	_	4	attr	_	_
+NN	_	1	obj	_	_
+,	_	1	p	_	_
+IN	_	11	mark	_	_
+PRP	_	11	nsbj	_	_
+MD	_	11	modal	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	_	1	advcl	_	_
+.	_	1	p	_	_
+

@@ -1,0 +1,14 @@
+RB	_	9	adv	_	_
+IN	_	4	case	_	_
+DT	_	4	det	_	_
+NNS	sem=mnr	9	ppmod	_	_
+,	_	9	p	_	_
+DT	_	8	det	_	_
+JJ	_	8	attr	_	_
+NN	_	9	nsbj	_	_
+VBD	_	0	root	_	_
+PRP$	_	11	poss	_	_
+NN	_	9	obj	_	_
+RB	_	9	adv	_	_
+.	_	9	p	_	_
+

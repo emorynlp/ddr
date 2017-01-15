@@ -1,0 +1,13 @@
+IN	_	3	case	_	_
+PRP$	_	3	poss	_	_
+NNS	sem=loc	8	ppmod	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NN	sem=loc	3	ppmod	_	_
+PRP	_	8	nsbj	_	_
+VBD	_	0	root	_	_
+RP	_	8	prt	_	_
+DT	_	11	det	_	_
+NNS	_	8	obj	_	_
+.	_	8	p	_	_
+

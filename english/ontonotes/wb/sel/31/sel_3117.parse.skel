@@ -1,0 +1,13 @@
+IN	_	3	mark	_	_
+NNP	_	3	nsbj	_	_
+VBZ	_	9	advcl	_	_
+IN	_	5	case	_	_
+NNP	sem=clr	3	ppmod	_	_
+,	_	9	p	_	_
+NNP	_	9	nsbj	_	_
+MD	_	9	modal	_	_
+VB	_	0	root	_	_
+IN	_	11	case	_	_
+NN	sem=loc	9	ppmod	_	_
+.	_	9	p	_	_
+

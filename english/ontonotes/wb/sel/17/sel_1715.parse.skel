@@ -1,0 +1,19 @@
+CC	_	10	cc	_	_
+DT	_	3	det	_	_
+NN	_	10	nsbj	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NN	_	3	ppmod	_	_
+``	_	6	p	_	_
+NNP	_	6	appo	_	_
+''	_	6	p	_	_
+VBZ	_	0	root	_	_
+JJ	_	15	nsbj	_	_
+IN	_	14	case	_	_
+PRP	_	14	attr	_	_
+NNPS	_	11	ppmod	_	_
+VB	_	10	comp	_	_
+PRP	_	15	obj	_	_
+RB	sem=mnr	15	adv	_	_
+.	_	10	p	_	_
+

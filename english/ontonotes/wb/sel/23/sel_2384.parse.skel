@@ -1,0 +1,20 @@
+DT	_	2	det	_	_
+NNS	_	7	nsbj	_	_
+IN	_	4	case	_	_
+NN	_	2	ppmod	_	_
+VBP	_	7	aux	_	_
+RB	_	7	adv	_	_
+VBN	_	0	root	_	_
+RP	_	7	prt	_	_
+,	_	7	p	_	_
+RB	_	13	adv	_	_
+IN	_	13	mark	_	_
+PRP	_	13	nsbj	_	_
+VBP	sem=prp	7	advcl	_	_
+DT	_	16	det	_	_
+JJR	_	16	attr	_	_
+NNS	_	13	obj	_	_
+IN	_	18	case	_	_
+NN	sem=clr	13	ppmod	_	_
+.	_	7	p	_	_
+

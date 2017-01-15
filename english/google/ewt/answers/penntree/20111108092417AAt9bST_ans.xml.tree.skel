@@ -1,0 +1,47 @@
+WP	_	0	root	_	_
+VBZ	_	1	cop	_	_
+DT	_	6	det	_	_
+JJS	_	6	attr	_	_
+NNP	_	6	com	_	_
+NNP	_	1	nsbj	_	_
+IN	_	8	case	_	_
+NNP	_	6	ppmod	_	_
+,	_	8	p	_	_
+NNP	sem=loc	8	advnp	_	_
+.	_	1	p	_	_
+
+DT	_	3	det	_	_
+NNP	_	3	com	_	_
+NNP	_	9	nsbj	_	_
+-LRB-	_	5	p	_	_
+NNP	sem=loc	3	advnp	_	_
+-RRB-	_	5	p	_	_
+VBZ	_	9	cop	_	_
+DT	_	9	det	_	_
+JJS	_	0	root	_	_
+.	_	9	p	_	_
+
+DT	_	4	det	_	_
+NNP	_	3	com	_	_
+NNP	_	4	com	_	_
+NNPS	_	7	nsbj	_	_
+VBP	_	7	cop	_	_
+RB	_	7	adv	_	_
+JJR	_	0	root	_	_
+.	_	7	p	_	_
+
+PRP	_	6	nsbj	11:nsbj	_
+VBP	_	6	cop	_	_
+RB	_	6	neg	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+NN	_	0	root	_	_
+,	_	6	p	_	_
+CC	_	6	cc	_	_
+VBP	_	11	cop	_	_
+RB	_	11	adv	_	_
+JJ	_	6	conj	_	_
+.	_	6	p	_	_
+
+ADD	_	0	root	_	_
+

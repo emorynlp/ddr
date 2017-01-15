@@ -1,0 +1,33 @@
+NNP	_	3	com	_	B-ORG
+NNP	_	3	com	_	I-ORG
+NNP	_	4	nsbj	_	L-ORG
+VBD	_	0	root	_	O
+DT	_	10	det	_	O
+$	_	8	meta	_	B-MONEY
+CD	_	8	com	_	I-MONEY
+CD	_	10	num	_	L-MONEY
+NNP	_	10	com	_	U-ORG
+NN	_	4	obj	_	O
+IN	_	15	case	_	O
+CD	_	15	num	_	U-QUANTITY
+NN	_	14	com	_	O
+NN	_	15	com	_	O
+NNS	_	10	ppmod	_	O
+.	_	4	p	_	O
+
+NNP	_	3	com	_	B-ORG
+NNPS	_	3	com	_	I-ORG
+NNP	_	4	nsbj	_	L-ORG
+VBD	_	0	root	_	O
+DT	_	10	det	_	O
+$	_	8	meta	_	B-MONEY
+CD	_	8	com	_	I-MONEY
+CD	_	10	num	_	L-MONEY
+NNP	_	10	com	_	U-ORG
+NN	_	4	obj	_	O
+IN	_	14	case	_	O
+NN	_	14	attr	_	O
+JJ	_	14	attr	_	O
+NNS	_	10	ppmod	_	O
+.	_	4	p	_	O
+

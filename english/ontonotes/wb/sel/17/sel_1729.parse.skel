@@ -1,0 +1,17 @@
+UH	_	2	disc	_	_
+VB	_	0	root	_	_
+DT	_	4	det	_	_
+NNS	_	2	obj	_	_
+RB	sem=loc	4	adv	_	_
+IN	_	7	case	_	_
+VBG	_	4	ppmod	_	_
+NNS	_	7	obj	_	_
+IN	_	10	case	_	_
+NNS	sem=clr	7	ppmod	_	_
+CC	_	7	cc	_	_
+VBG	_	7	conj	_	_
+DT	_	14	det	_	_
+NNS	_	12	obj	_	_
+RB	sem=clr	12	adv	_	_
+.	_	2	p	_	_
+

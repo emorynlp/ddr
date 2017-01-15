@@ -1,0 +1,16 @@
+NN	_	0	root	_	_
+:	_	1	p	_	_
+NNP	_	4	com	_	_
+NNP	_	5	nsbj	_	_
+VBZ	_	14	comp	_	_
+RP	_	5	prt	_	_
+DT	_	10	det	_	_
+NNP	_	9	com	_	_
+NNP	_	10	com	_	_
+NN	_	5	obj	_	_
+:	_	14	p	_	_
+NN	_	14	nsbj	_	_
+:	_	14	p	_	_
+JJ	_	1	acl	_	_
+.	_	1	p	_	_
+

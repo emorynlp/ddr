@@ -1,0 +1,24 @@
+PRP	_	6	nsbj	_	_
+VBP	_	6	aux	_	_
+RB	_	6	adv	_	_
+JJ	_	6	modal	_	_
+TO	_	6	aux	_	_
+VB	_	0	root	_	_
+DT	_	10	det	_	_
+JJ	_	10	attr	_	_
+NN	_	10	com	_	_
+NN	_	6	obj	19:nsbj	_
+WP	_	13	obj	_	_
+VBP	_	13	aux	_	_
+VBN	_	10	relcl	_	_
+IN	_	17	case	_	_
+JJ	_	16	attr	_	_
+NN	_	17	com	_	_
+NNS	_	13	nsbj	_	_
+TO	_	19	aux	_	_
+VB	_	13	comp	_	_
+WP	_	22	obj	_	_
+PRP	_	22	nsbj	_	_
+VBP	_	19	comp	_	_
+.	_	6	p	_	_
+

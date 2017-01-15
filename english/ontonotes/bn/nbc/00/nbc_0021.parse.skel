@@ -1,0 +1,35 @@
+DT	_	4	det	_	O
+JJ	_	4	attr	_	O
+JJ	_	4	attr	_	O
+NN	_	8	obj	_	O
+IN	_	6	case	_	O
+NNP	_	4	ppmod	_	U-GPE
+VBD	_	8	aux	_	O
+VBN	_	0	root	_	O
+IN	_	11	case	_	O
+DT	_	11	det	_	O
+NNP	sem=clr	8	ppmod	_	U-ORG
+IN	_	14	case	_	O
+VBG	_	14	aux	_	O
+VBN	sem=tmp	8	ppmod	_	O
+IN	_	17	case	_	O
+CD	_	17	num	_	B-DATE
+NNS	sem=tmp	14	ppmod	_	L-DATE
+IN	_	21	case	_	O
+IN	_	21	case	_	O
+DT	_	21	det	_	O
+NN	sem=tmp	14	ppmod	_	O
+IN	_	24	case	_	O
+NNP	_	24	com	_	B-PERSON
+NNP	_	21	ppmod	_	L-PERSON
+.	_	8	p	_	O
+
+PRP	_	4	nsbj	_	O
+VBZ	_	4	cop	_	O
+RB	sem=tmp	4	com	_	O
+RB	sem=loc	0	root	_	O
+IN	_	7	case	_	O
+DT	_	7	det	_	O
+NNP	_	4	ppmod	_	U-ORG
+.	_	4	p	_	O
+

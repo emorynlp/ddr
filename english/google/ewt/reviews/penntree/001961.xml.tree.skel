@@ -1,0 +1,31 @@
+NN	_	2	voc	_	_
+VB	_	0	root	_	_
+.	_	2	p	_	_
+
+VBN	_	5	attr	_	_
+RP	_	1	prt	_	_
+CC	_	1	cc	_	_
+JJ	_	1	conj	_	_
+NNS	_	6	obj	_	_
+VBN	_	0	root	_	_
+RB	sem=loc	6	adv	_	_
+.	_	6	p	_	_
+
+VB	_	0	root	_	_
+DT	_	4	det	_	_
+JJ	_	4	attr	_	_
+NN	_	5	nsbj	_	_
+VB	_	1	comp	_	_
+IN	_	8	mark	_	_
+PRP	_	8	nsbj	_	_
+VBP	sem=tmp	5	advcl	_	_
+.	_	1	p	_	_
+
+VB	_	0	root	_	_
+NN	_	1	obj	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+RB	_	6	com	_	_
+RB	_	4	adv	_	_
+.	_	1	p	_	_
+

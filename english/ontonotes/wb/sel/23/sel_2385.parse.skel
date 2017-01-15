@@ -1,0 +1,24 @@
+MD	_	18	modal	_	_
+DT	_	3	det	_	_
+NN	_	18	nsbj	_	_
+IN	_	6	case	_	_
+NN	_	6	com	_	_
+NNS	_	3	ppmod	_	_
+-LRB-	_	9	p	_	_
+PRP	_	9	nsbj	_	_
+VBP	_	3	prn	_	_
+RB	sem=clr	9	adv	_	_
+JJ	sem=clr	9	comp	_	_
+VBP	_	9	dep	_	_
+IN	_	16	case	_	_
+DT	_	16	det	_	_
+CD	_	16	num	_	_
+NN	sem=clr	12	ppmod	_	_
+-RRB-	_	9	p	_	_
+VB	_	0	root	_	_
+IN	_	20	case	_	_
+VBG	sem=clr	18	ppmod	_	_
+DT	_	22	det	_	_
+NNS	_	20	obj	_	_
+.	_	18	p	_	_
+

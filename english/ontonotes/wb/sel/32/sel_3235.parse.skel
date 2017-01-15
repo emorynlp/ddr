@@ -1,0 +1,21 @@
+RB	_	6	adv	_	_
+DT	_	3	det	_	_
+NN	_	6	nsbj	11:nsbj	_
+VBZ	_	6	cop	_	_
+DT	_	6	det	_	_
+NN	_	0	root	_	_
+IN	_	9	case	_	_
+NN	_	9	com	_	_
+NN	_	6	ppmod	_	_
+WDT	_	11	r-nsbj	_	_
+VBZ	_	3	relcl	_	_
+RP	_	11	prt	_	_
+WP	_	19	obj	_	_
+DT	_	15	det	_	_
+NN	_	17	obj	19:nsbj	_
+VBZ	_	17	aux	_	_
+VBN	_	11	comp	_	_
+TO	_	19	aux	_	_
+VB	_	17	comp	_	_
+.	_	6	p	_	_
+

@@ -1,0 +1,17 @@
+PRP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+NN	_	2	obj	_	_
+IN	_	8	mark	_	_
+IN	_	8	mark	_	_
+PRP	_	8	nsbj	_	_
+VBD	_	8	cop	_	_
+NN	_	2	advcl	_	_
+,	_	8	p	_	_
+CC	_	8	cc	_	_
+PRP	_	12	nsbj	_	_
+VBD	_	8	conj	_	_
+IN	_	14	case	_	_
+PRP	sem=clr	12	ppmod	_	_
+RB	sem=mnr	12	adv	_	_
+.	_	2	p	_	_
+

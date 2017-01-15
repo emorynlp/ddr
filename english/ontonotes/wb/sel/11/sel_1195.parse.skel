@@ -1,0 +1,18 @@
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	6:nsbj	_
+VBP	_	13	advcl	_	_
+TO	_	6	aux	_	_
+RB	sem=mnr	6	adv	_	_
+VB	_	3	comp	_	_
+PRP$	_	10	poss	_	_
+JJ	_	9	attr	_	_
+NN	_	10	com	_	_
+NNS	_	6	obj	_	_
+PRP	_	13	nsbj	_	_
+MD	_	13	modal	_	_
+VB	_	0	root	_	_
+NNS	_	13	obj	_	_
+IN	_	16	case	_	_
+NN	_	14	ppmod	_	_
+.	_	13	p	_	_
+

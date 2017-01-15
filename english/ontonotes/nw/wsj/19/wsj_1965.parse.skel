@@ -1,0 +1,29 @@
+NNP	_	2	com	_	B-ORG
+NNP	_	3	nsbj	_	L-ORG
+VBD	_	0	root	_	O
+$	_	6	meta	_	B-MONEY
+CD	_	6	com	_	I-MONEY
+CD	_	3	obj	_	L-MONEY
+IN	_	9	case	_	O
+JJ	_	9	attr	_	O
+NN	sem=loc	6	ppmod	_	O
+IN	_	13	case	_	O
+DT	_	13	det	_	B-DATE
+JJ	_	13	attr	_	I-DATE
+NN	sem=tmp	3	ppmod	_	L-DATE
+.	_	3	p	_	O
+
+IN	_	4	case	_	O
+NN	_	4	poss	_	U-DATE
+POS	_	2	case	_	O
+NN	sem=loc	12	ppmod	_	O
+,	_	12	p	_	O
+DT	_	7	det	_	O
+NN	_	12	obj	_	O
+IN	_	10	case	_	O
+JJ	_	10	attr	_	O
+NN	_	7	ppmod	_	O
+VBD	_	12	aux	_	O
+VBN	_	0	root	_	O
+.	_	12	p	_	O
+

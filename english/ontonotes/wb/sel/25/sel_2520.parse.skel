@@ -1,0 +1,12 @@
+PRP	_	3	nsbj	5:nsbj	_
+VBP	_	3	aux	_	_
+VBG	_	0	root	_	_
+TO	_	5	aux	_	_
+VB	_	3	comp	_	_
+DT	_	9	det	_	_
+JJ	_	8	attr	_	_
+NN	_	9	com	_	_
+NN	_	5	obj	_	_
+-LRB-	_	9	p	_	_
+ADD	_	9	appo	_	_
+

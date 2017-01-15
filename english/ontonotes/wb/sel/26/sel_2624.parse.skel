@@ -1,0 +1,13 @@
+DT	_	2	det	_	_
+NN	_	0	root	_	_
+WRB	sem=tmp	4	adv	_	_
+JJ	sem=tmp	2	advcl	_	_
+IN	_	7	mark	_	_
+PRP	_	7	nsbj	_	_
+VBP	_	2	advcl	_	_
+DT	_	9	det	_	_
+NN	_	7	obj	_	_
+JJ	_	11	attr	_	_
+NNS	sem=tmp	7	advnp	_	_
+.	_	2	p	_	_
+

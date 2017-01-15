@@ -1,0 +1,23 @@
+VBG	_	6	advcl	_	_
+IN	_	3	case	_	_
+NNS	_	1	ppmod	_	_
+:	_	6	p	_	_
+PRP	_	6	nsbj	1:nsbj	_
+VBP	_	0	root	_	_
+DT	_	9	det	_	_
+JJ	_	9	attr	_	_
+NN	_	6	obj	_	_
+RB	_	16	adv	_	_
+IN	_	16	mark	_	_
+EX	_	16	expl	_	_
+VBP	_	16	cop	_	_
+DT	_	16	det	_	_
+JJ	_	16	attr	_	_
+NNS	_	6	advcl	19:nsbj	_
+WDT	_	19	r-nsbj	_	_
+RB	sem=mnr	19	adv	_	_
+VBP	_	16	relcl	_	_
+PRP$	_	21	poss	_	_
+NN	_	19	obj	_	_
+.	_	6	p	_	_
+

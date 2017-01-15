@@ -1,0 +1,26 @@
+DT	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+IN	_	5	mark	_	_
+NN	_	5	nsbj	_	_
+VBZ	_	2	comp	_	_
+IN	_	7	mark	_	_
+VBN	_	5	advcl	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NNS	sem=loc	5	ppmod	_	_
+,	_	5	p	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	sem=mnr	5	ppmod	17:obj	_
+DT	_	16	det	_	_
+NN	_	17	nsbj	_	_
+VBZ	_	14	relcl	_	_
+WRB	sem=tmp	20	adv	_	_
+PRP	_	20	nsbj	_	_
+VBP	sem=tmp	17	advcl	_	_
+DT	_	22	det	_	_
+NN	_	24	nsbj	_	_
+PRP	_	22	appo	_	_
+JJ	_	20	comp	_	_
+.	_	2	p	_	_
+

@@ -1,0 +1,8 @@
+PRP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+NNP	_	2	obj	_	_
+IN	_	6	case	_	_
+NNP	_	6	com	_	_
+NNP	sem=loc	2	ppmod	_	_
+.	_	2	p	_	_
+

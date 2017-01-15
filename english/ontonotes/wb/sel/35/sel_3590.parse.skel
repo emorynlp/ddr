@@ -1,0 +1,27 @@
+RB	_	5	adv	_	_
+,	_	5	p	_	_
+PRP$	_	4	poss	_	_
+NN	_	5	nsbj	_	_
+VBZ	_	0	root	_	_
+RP	_	5	prt	_	_
+IN	_	8	case	_	_
+NNP	sem=clr	5	ppmod	_	_
+IN	_	11	case	_	_
+JJS	_	11	attr	_	_
+NN	_	5	ppmod	_	_
+,	_	5	p	_	_
+NNP	_	5	dep	_	_
+IN	_	22	case	_	_
+RB	_	21	neg	_	_
+HYPH	_	21	p	_	_
+RB	_	21	adv	_	_
+HYPH	_	21	p	_	_
+RB	_	21	adv	_	_
+HYPH	_	21	p	_	_
+JJ	_	22	attr	_	_
+NN	_	13	ppmod	_	_
+CC	_	22	cc	_	_
+JJR	_	25	attr	_	_
+NN	_	22	conj	_	_
+.	_	5	p	_	_
+

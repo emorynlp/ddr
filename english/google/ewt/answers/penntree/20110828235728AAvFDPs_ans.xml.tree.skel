@@ -1,0 +1,34 @@
+WRB	_	2	adv	_	_
+JJ	_	5	obj	_	_
+VBZ	_	5	aux	_	_
+PRP	_	5	nsbj	_	_
+VB	_	0	root	_	_
+TO	_	7	aux	_	_
+VB	sem=clr	5	comp	_	_
+DT	_	11	det	_	_
+NNP	_	10	com	_	_
+NNP	_	11	com	_	_
+NN	_	7	obj	_	_
+IN	_	14	case	_	_
+PRP$	_	14	poss	_	_
+NN	sem=loc	5	ppmod	_	_
+.	_	5	p	_	_
+
+RB	sem=loc	5	adv	_	_
+IN	_	3	case	_	_
+NNP	_	1	ppmod	_	_
+PRP	_	5	nsbj	_	_
+VBP	_	0	root	_	_
+PRP	_	10	nsbj	13:nsbj	_
+VBZ	_	10	cop	_	_
+UH	_	10	disc	_	_
+$	_	10	meta	_	_
+CD	_	5	comp	_	_
+CC	_	10	cc	_	_
+$	_	13	meta	_	_
+CD	_	10	conj	_	_
+IN	_	16	case	_	_
+DT	_	16	det	_	_
+NN	_	10	ppmod	_	_
+.	_	5	p	_	_
+

@@ -1,0 +1,9 @@
+VB	_	0	root	_	_
+IN	_	1	case	_	_
+,	_	1	p	_	_
+VB	_	1	conj	_	_
+CC	_	4	cc	_	_
+VB	_	1	conj	_	_
+NNS	sem=clr	6	obj	1:ppmod;4:obj	_
+.	_	1	p	_	_
+

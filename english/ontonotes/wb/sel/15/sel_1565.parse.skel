@@ -1,0 +1,22 @@
+RB	_	3	adv	_	_
+,	_	3	p	_	_
+VB	_	0	root	_	_
+IN	_	12	mark	_	_
+VBG	_	12	csbj	_	_
+CD	_	7	num	_	_
+NNS	_	5	obj	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+JJ	_	11	attr	_	_
+NN	sem=mnr	5	ppmod	_	_
+VBZ	_	3	comp	_	_
+DT	_	15	det	_	_
+NN	_	15	com	_	_
+NN	_	12	obj	_	_
+IN	_	20	case	_	_
+IN	_	18	case	_	_
+JJS	_	19	adv	_	_
+CD	_	20	num	_	_
+NNS	_	15	ppmod	_	_
+.	_	3	p	_	_
+

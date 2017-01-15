@@ -1,0 +1,12 @@
+PRP	_	3	nsbj	_	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+JJ	_	7	attr	_	_
+NN	_	3	obj	_	_
+IN	_	10	case	_	_
+JJ	_	10	attr	_	_
+NNS	sem=loc	7	ppmod	_	_
+.	_	3	p	_	_
+

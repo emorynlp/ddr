@@ -1,0 +1,15 @@
+VBZ	_	3	aux	_	_
+PRP	_	3	nsbj	_	_
+VB	_	0	root	_	_
+DT	_	6	det	_	_
+VBN	_	6	attr	_	_
+NNS	_	3	obj	_	_
+,	_	6	p	_	_
+RB	_	6	adv	_	_
+,	_	6	p	_	_
+CC	_	6	cc	_	_
+RB	_	13	adv	_	_
+DT	_	13	det	_	_
+NNS	_	6	conj	_	_
+.	_	3	p	_	_
+

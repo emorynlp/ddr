@@ -1,0 +1,16 @@
+NNP	_	3	nsbj	_	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+IN	_	6	case	_	_
+JJ	_	6	attr	_	_
+NN	sem=clr	3	ppmod	_	_
+IN	_	8	case	_	_
+CD	_	6	ppmod	_	_
+IN	_	11	case	_	_
+CD	_	11	num	_	_
+NNS	_	8	ppmod	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NNP	_	11	ppmod	_	_
+.	_	3	p	_	_
+

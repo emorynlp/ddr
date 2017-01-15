@@ -1,0 +1,11 @@
+MD	_	7	modal	_	_
+DT	_	4	det	_	_
+JJ	_	4	attr	_	_
+NNP	_	7	nsbj	_	_
+CC	_	4	cc	_	_
+NNP	_	4	conj	_	_
+VB	_	0	root	_	_
+JJ	_	9	attr	_	_
+NN	_	7	obj	_	_
+.	_	7	p	_	_
+

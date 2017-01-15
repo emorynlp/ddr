@@ -1,0 +1,15 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+NN	_	2	obj	11:nsbj	_
+IN	_	9	case	_	_
+NNP	_	9	poss	_	_
+POS	_	5	case	_	_
+NN	_	8	com	_	_
+NN	_	9	com	_	_
+NN	sem=loc	2	ppmod	_	_
+TO	_	11	aux	_	_
+VB	_	3	relcl	_	_
+DT	_	13	det	_	_
+NNS	_	11	obj	_	_
+.	_	2	p	_	_
+

@@ -1,0 +1,13 @@
+IN	_	3	case	_	_
+CD	_	3	num	_	_
+NNS	sem=tmp	6	ppmod	_	_
+PRP	_	6	nsbj	11:nsbj	_
+RB	sem=tmp	6	adv	_	_
+VBP	_	0	root	_	_
+IN	_	9	case	_	_
+$	_	9	meta	_	_
+CD	_	6	obj	11:obj	_
+TO	_	11	aux	_	_
+VB	_	9	relcl	_	_
+.	_	6	p	_	_
+

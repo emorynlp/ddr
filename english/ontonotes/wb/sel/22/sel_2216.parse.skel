@@ -1,0 +1,14 @@
+CC	_	10	cc	_	_
+WRB	sem=mnr	6	adv	_	_
+DT	_	5	det	_	_
+NN	_	5	com	_	_
+NNS	_	6	nsbj	_	_
+VBP	_	10	csbj	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NN	sem=clr	6	ppmod	_	_
+VBZ	_	0	root	_	_
+IN	_	12	case	_	_
+NN	sem=clr	10	ppmod	_	_
+.	_	10	p	_	_
+

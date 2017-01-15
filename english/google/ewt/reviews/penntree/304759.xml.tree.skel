@@ -1,0 +1,13 @@
+DT	_	4	det	_	_
+RB	_	3	adv	_	_
+JJ	_	4	attr	_	_
+NN	_	0	root	_	_
+.	_	4	p	_	_
+
+DT	_	2	det	_	_
+NN	_	5	nsbj	_	_
+VBZ	_	5	cop	_	_
+RB	_	5	adv	_	_
+JJ	_	0	root	_	_
+.	_	5	p	_	_
+

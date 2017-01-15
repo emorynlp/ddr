@@ -1,0 +1,16 @@
+PRP	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBD	_	0	root	_	_
+NNP	_	3	dat	_	_
+IN	_	7	case	_	_
+$	_	7	meta	_	_
+CD	_	3	obj	_	_
+TO	_	9	aux	_	_
+VB	sem=clr	3	comp	_	_
+RB	_	14	adv	_	_
+DT	_	12	det	_	_
+NN	_	14	obj	_	_
+VBZ	_	14	aux	_	_
+VBN	_	3	advcl	_	_
+.	_	3	p	_	_
+

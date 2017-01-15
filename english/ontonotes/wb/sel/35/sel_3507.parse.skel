@@ -1,0 +1,14 @@
+MD	_	3	modal	_	_
+PRP	_	3	nsbj	_	_
+VB	_	0	root	_	_
+IN	_	8	mark	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+NN	_	8	nsbj	11:nsbj	_
+VBD	_	3	comp	_	_
+CC	_	8	cc	_	_
+RB	sem=tmp	11	adv	8:adv	_
+VBD	_	8	conj	_	_
+PRP	_	11	obj	_	_
+.	_	3	p	_	_
+

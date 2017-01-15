@@ -1,0 +1,15 @@
+PRP	_	2	nsbj	5:nsbj;10:nsbj	_
+VBP	_	0	root	_	_
+CD	_	4	num	_	_
+NNS	_	2	obj	_	_
+VBG	sem=clr	2	comp	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	sem=clr	5	ppmod	_	_
+IN	_	10	case	_	_
+VBG	sem=tmp	2	ppmod	_	_
+PRP	_	10	obj	13:nsbj	_
+DT	_	13	det	_	_
+NN	sem=clr	10	comp	_	_
+.	_	2	p	_	_
+

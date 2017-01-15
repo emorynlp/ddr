@@ -1,0 +1,57 @@
+RB	_	2	adv	_	_
+JJ	_	3	attr	_	_
+NN	_	0	root	_	_
+.	_	3	p	_	_
+
+NNP	_	6	nsbj	_	_
+VBZ	_	6	cop	_	_
+DT	_	6	det	_	_
+JJS	_	6	attr	_	_
+NN	_	6	com	_	_
+NN	sem=clr	0	root	12:ppmod	_
+,	_	6	p	_	_
+NN	_	6	appo	_	_
+PRP	_	12	nsbj	_	_
+VBP	_	12	aux	_	_
+RB	sem=tmp	12	adv	_	_
+VBN	_	6	relcl	_	_
+IN	_	12	case	_	_
+IN	_	17	case	_	_
+PRP$	_	17	poss	_	_
+JJ	_	17	attr	_	_
+NN	sem=tmp	12	ppmod	_	_
+.	_	6	p	_	_
+
+PRP	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	5	nsbj	_	_
+VB	_	2	comp	_	_
+PRP	_	5	obj	_	_
+RB	sem=mnr	5	adv	_	_
+.	_	2	p	_	_
+
+PRP	_	5	nsbj	_	_
+VBZ	_	5	cop	_	_
+RB	sem=tmp	5	adv	_	_
+RB	_	5	adv	_	_
+JJ	_	0	root	_	_
+,	_	5	p	_	_
+RB	_	5	adv	_	_
+,	_	5	p	_	_
+WDT	_	13	nsbj	_	_
+VBZ	_	13	cop	_	_
+DT	_	13	det	_	_
+JJ	_	13	attr	_	_
+NN	_	5	advcl	_	_
+IN	_	16	case	_	_
+PRP$	_	16	poss	_	_
+NN	_	13	ppmod	_	_
+.	_	5	p	_	_
+
+PRP	_	4	nsbj	_	_
+VBZ	_	4	cop	_	_
+DT	_	4	det	_	_
+JJS	_	0	root	_	_
+.	_	4	p	_	_
+

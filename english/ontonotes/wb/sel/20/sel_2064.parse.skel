@@ -1,0 +1,18 @@
+WRB	sem=tmp	3	adv	_	_
+PRP	_	3	nsbj	_	_
+VBP	sem=tmp	13	advcl	_	_
+PRP$	_	7	poss	_	_
+JJ	_	6	adv	_	_
+JJ	_	7	attr	_	_
+NNS	_	3	obj	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NN	sem=clr	3	ppmod	_	_
+,	_	13	p	_	_
+PRP	_	13	nsbj	_	_
+VBP	_	0	root	_	_
+PRP	_	13	obj	_	_
+IN	_	16	case	_	_
+JJ	sem=clr	13	ppmod	_	_
+.	_	13	p	_	_
+

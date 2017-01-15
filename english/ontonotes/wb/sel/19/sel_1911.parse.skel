@@ -1,0 +1,18 @@
+PRP	_	15	nsbj	_	_
+VBP	_	9	aux	_	_
+VBG	_	9	raise	_	_
+TO	_	9	aux	_	_
+VB	_	9	raise	_	_
+TO	_	9	aux	_	_
+CC	_	9	cc	_	_
+VB	_	9	cop	_	_
+JJR	_	0	root	_	_
+IN	_	11	case	_	_
+VBG	_	9	ppmod	_	_
+PRP	_	11	obj	_	_
+CC	_	9	cc	_	_
+VB	_	15	raise	_	_
+VBG	_	9	conj	_	_
+PRP	_	15	obj	_	_
+.	_	9	p	_	_
+

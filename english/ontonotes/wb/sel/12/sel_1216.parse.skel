@@ -1,0 +1,25 @@
+IN	_	6	mark	_	_
+PRP	_	6	nsbj	_	_
+VBP	_	6	aux	_	_
+RB	_	6	adv	_	_
+RB	sem=tmp	6	adv	_	_
+VBN	_	16	advcl	_	_
+PRP	_	8	nsbj	_	_
+VBP	_	6	comp	_	_
+DT	_	13	det	_	_
+CD	_	13	num	_	_
+CD	_	12	num	_	_
+NN	_	13	com	_	_
+NN	_	8	obj	_	_
+,	_	16	p	_	_
+PRP	_	16	nsbj	_	_
+VBD	_	0	root	_	_
+DT	_	19	det	_	_
+JJ	_	19	attr	_	_
+NN	_	16	obj	21:nsbj	_
+WDT	_	21	r-nsbj	_	_
+VBD	_	19	relcl	_	_
+RB	_	23	com	_	_
+RB	sem=tmp	21	adv	_	_
+.	_	16	p	_	_
+

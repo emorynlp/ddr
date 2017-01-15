@@ -1,0 +1,21 @@
+RB	_	9	adv	_	_
+DT	_	9	nsbj	_	_
+VBZ	_	9	cop	_	_
+DT	_	9	det	_	_
+RB	_	9	adv	_	_
+DT	_	9	det	_	_
+NN	_	8	nsbj	_	_
+VBZ	_	9	attr	_	_
+NN	_	0	root	_	_
+IN	_	11	case	_	_
+DT	_	9	ppmod	13:nsbj	_
+WP	_	13	r-nsbj	_	_
+VBP	_	11	relcl	_	_
+DT	_	16	det	_	_
+JJ	_	16	attr	_	_
+NN	_	13	obj	_	_
+IN	_	19	case	_	_
+DT	_	19	det	_	_
+NNS	_	13	ppmod	_	_
+.	_	9	p	_	_
+

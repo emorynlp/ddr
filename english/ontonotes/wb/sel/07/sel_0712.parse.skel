@@ -1,0 +1,13 @@
+MD	_	3	modal	_	_
+PRP	_	3	nsbj	_	_
+VB	_	0	root	_	_
+NNP	_	7	nsbj	_	_
+TO	_	7	aux	_	_
+VB	_	7	cop	_	_
+JJ	_	3	comp	_	_
+WRB	sem=tmp	11	adv	_	_
+NNS	_	11	obj	_	_
+VBP	_	11	aux	_	_
+VBN	sem=tmp	7	advcl	_	_
+.	_	3	p	_	_
+

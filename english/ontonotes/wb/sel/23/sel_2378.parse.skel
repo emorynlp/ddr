@@ -1,0 +1,17 @@
+DT	_	6	det	_	_
+CD	_	6	num	_	_
+SYM	_	4	p	_	_
+CD	_	2	ppmod	_	_
+JJ	_	6	attr	_	_
+NN	_	7	nsbj	_	_
+VBZ	_	0	root	_	_
+NNS	_	7	obj	_	_
+TO	_	11	aux	_	_
+RB	sem=mnr	11	adv	_	_
+VB	sem=clr	7	comp	_	_
+DT	_	14	det	_	_
+NN	_	14	com	_	_
+NN	_	11	obj	_	_
+RB	sem=clr	11	adv	_	_
+.	_	7	p	_	_
+

@@ -1,0 +1,27 @@
+VB	_	0	root	_	_
+DT	_	3	det	_	_
+NN	_	1	obj	_	_
+IN	_	7	mark	_	_
+PRP	_	7	nsbj	_	_
+VBP	_	7	aux	_	_
+VBG	sem=tmp	1	advcl	_	_
+RP	_	7	adv	_	_
+DT	_	10	det	_	_
+NN	sem=ext	7	advnp	_	_
+,	_	7	p	_	_
+IN	_	13	case	_	_
+VBG	sem=mnr	7	ppmod	_	_
+DT	_	15	det	_	_
+NN	_	13	obj	_	_
+NN	sem=mnr	13	advnp	_	_
+IN	_	18	case	_	_
+NN	_	16	ppmod	_	_
+IN	_	22	mark	_	_
+PRP	_	22	nsbj	_	_
+VBP	_	22	aux	_	_
+VBG	sem=prp	7	advcl	_	_
+IN	_	25	case	_	_
+PRP$	_	25	poss	_	_
+NN	sem=clr	22	ppmod	_	_
+.	_	1	p	_	_
+

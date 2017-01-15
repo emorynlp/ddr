@@ -1,0 +1,49 @@
+JJ	_	2	attr	_	_
+NN	_	6	dep	4:adv	_
+TO	_	4	aux	_	_
+VB	_	2	relcl	_	_
+PRP	_	6	nsbj	_	_
+VBP	_	0	root	_	_
+NNS	_	6	obj	_	_
+NNP	_	10	com	_	_
+NNP	_	10	com	_	_
+NNP	_	13	attr	_	_
+CC	_	10	cc	_	_
+NNP	_	10	conj	_	_
+NNP	_	7	appo	_	_
+.	_	6	p	_	_
+
+PRP	_	3	nsbj	_	_
+VBP	_	3	aux	_	_
+VBN	_	0	root	_	_
+PRP	_	3	obj	_	_
+IN	_	6	case	_	_
+NN	sem=clr	3	ppmod	_	_
+CC	_	6	cc	_	_
+NN	_	10	com	_	_
+HYPH	_	10	p	_	_
+NN	_	6	conj	_	_
+CC	_	3	cc	_	_
+PRP	_	14	nsbj	16:nsbj	_
+VBP	_	14	cop	_	_
+JJ	_	3	conj	_	_
+CC	_	14	cc	_	_
+VBP	_	14	conj	_	_
+DT	_	18	det	_	_
+NN	_	16	comp	20:nsbj	_
+VBN	_	18	lv	_	_
+JJ	_	18	comp	_	_
+.	_	14	p	_	_
+
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+CD	_	4	num	_	_
+NNS	_	2	dep	_	_
+IN	_	6	case	_	_
+JJ	_	4	ppmod	_	_
+.	_	2	p	_	_
+
+NN	_	0	root	_	_
+IN	_	3	case	_	_
+NNP	_	1	ppmod	_	_
+

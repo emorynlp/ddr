@@ -1,0 +1,18 @@
+NNS	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBD	_	0	root	_	_
+NN	_	8	attr	_	_
+,	_	8	p	_	_
+NN	_	8	attr	_	_
+,	_	8	p	_	_
+NN	_	3	obj	_	_
+IN	_	16	case	_	_
+PRP$	_	16	poss	_	_
+JJ	_	16	attr	_	_
+JJ	_	14	attr	_	_
+HYPH	_	14	p	_	_
+NN	_	16	attr	_	_
+JJ	_	16	attr	_	_
+NNS	sem=mnr	3	ppmod	_	_
+.	_	3	p	_	_
+

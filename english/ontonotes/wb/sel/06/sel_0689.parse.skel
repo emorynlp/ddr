@@ -1,0 +1,17 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+PRP$	_	4	poss	_	_
+NNS	_	2	obj	_	_
+RB	_	7	adv	_	_
+IN	_	7	case	_	_
+CD	_	8	num	_	_
+NN	sem=ext	2	advnp	15:nsbj	_
+,	_	8	p	_	_
+WDT	_	15	r-nsbj	_	_
+VBZ	_	15	cop	_	_
+JJR	_	14	attr	_	_
+IN	_	12	com	_	_
+CD	_	15	num	_	_
+NNS	_	8	relcl	_	_
+.	_	2	p	_	_
+

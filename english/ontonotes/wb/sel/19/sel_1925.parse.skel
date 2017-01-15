@@ -1,0 +1,19 @@
+CC	_	5	cc	_	_
+WRB	sem=mnr	5	adv	_	_
+MD	_	5	modal	_	_
+PRP	_	5	nsbj	_	_
+VB	_	0	root	_	_
+PRP	_	5	obj	8:nsbj	_
+IN	_	8	case	_	_
+VBG	sem=clr	5	ppmod	_	_
+DT	_	10	det	_	_
+NN	_	8	obj	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+JJ	_	14	attr	_	_
+NN	sem=clr	8	ppmod	16:ppmod	_
+PRP	_	16	nsbj	_	_
+VBP	_	14	relcl	_	_
+IN	_	16	case	_	_
+.	_	5	p	_	_
+

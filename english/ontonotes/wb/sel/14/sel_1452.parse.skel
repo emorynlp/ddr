@@ -1,0 +1,17 @@
+PRP	_	3	nsbj	_	_
+RB	sem=tmp	3	adv	_	_
+VBD	_	0	root	_	_
+DT	_	5	det	_	_
+VBG	_	3	obj	15:obj	_
+IN	_	7	case	_	_
+PRP	_	5	ppmod	_	_
+WDT	_	15	r-obj	_	_
+PRP	_	15	nsbj	_	_
+VBP	_	15	aux	_	_
+RB	_	12	com	_	_
+RBR	sem=tmp	15	neg	_	_
+JJ	_	15	modal	_	_
+TO	_	15	aux	_	_
+VB	_	5	relcl	_	_
+.	_	3	p	_	_
+

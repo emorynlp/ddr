@@ -1,0 +1,11 @@
+PRP	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBP	_	0	root	_	_
+RP	_	3	prt	_	_
+DT	_	6	det	_	_
+NN	_	3	obj	_	_
+IN	_	9	case	_	_
+CD	_	9	num	_	_
+NNS	sem=tmp	3	ppmod	_	_
+.	_	3	p	_	_
+

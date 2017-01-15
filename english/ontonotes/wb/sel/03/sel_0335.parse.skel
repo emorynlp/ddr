@@ -1,0 +1,24 @@
+CC	_	10	cc	_	_
+IN	_	5	case	_	_
+DT	_	5	det	_	_
+RB	_	5	adv	_	_
+JJS	_	10	ppmod	_	_
+,	_	10	p	_	_
+DT	_	8	det	_	_
+NNS	_	10	nsbj	_	_
+MD	_	10	modal	_	_
+VB	_	0	root	_	_
+JJ	_	12	attr	_	_
+NNS	_	10	obj	_	_
+,	_	12	p	_	_
+JJ	_	18	adv	_	_
+IN	_	18	case	_	_
+``	_	18	p	_	_
+NN	_	18	com	_	_
+NN	_	12	ppmod	_	_
+''	_	18	p	_	_
+CC	_	18	cc	_	_
+DT	_	22	det	_	_
+JJ	_	18	conj	_	_
+.	_	10	p	_	_
+

@@ -1,0 +1,15 @@
+VBD	_	0	root	_	_
+:	_	1	p	_	_
+PRP	_	5	nsbj	_	_
+RB	sem=mnr	5	adv	_	_
+VBD	_	1	comp	_	_
+RP	_	5	prt	_	_
+DT	_	8	det	_	_
+NN	_	9	com	_	_
+NN	_	5	obj	_	_
+RB	_	11	adv	_	_
+DT	_	12	num	_	_
+NN	_	13	advnp	_	_
+RB	sem=tmp	5	adv	_	_
+.	_	1	p	_	_
+

@@ -1,0 +1,17 @@
+DT	_	2	det	_	_
+NN	_	3	nsbj	_	_
+VBZ	_	0	root	_	_
+IN	_	5	case	_	_
+NN	sem=clr	3	ppmod	8:nsbj	_
+WDT	_	8	r-nsbj	_	_
+MD	_	8	modal	_	_
+VB	_	5	relcl	_	_
+DT	_	10	det	_	_
+NN	_	8	obj	_	_
+IN	_	12	case	_	_
+NNS	_	10	ppmod	13:obj	_
+VBN	_	12	acl	_	_
+DT	_	15	det	_	_
+NN	sem=tmp	13	advnp	_	_
+.	_	3	p	_	_
+

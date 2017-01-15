@@ -1,0 +1,14 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+RB	sem=mnr	2	adv	_	_
+,	_	2	p	_	_
+RB	_	11	adv	_	_
+IN	_	11	mark	_	_
+DT	_	8	det	_	_
+NN	_	11	nsbj	_	_
+VBZ	_	11	cop	_	_
+RB	_	11	neg	_	_
+IN	_	2	advcl	_	_
+NN	_	11	obj	_	_
+.	_	2	p	_	_
+

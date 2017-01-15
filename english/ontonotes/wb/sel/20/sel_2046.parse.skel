@@ -1,0 +1,23 @@
+PRP	_	4	nsbj	_	_
+MD	_	4	modal	_	_
+RB	sem=tmp	4	neg	_	_
+VB	_	0	root	_	_
+RB	_	6	adv	_	_
+JJ	_	7	attr	_	_
+NN	_	4	obj	_	_
+PRP	_	9	nsbj	_	_
+VBP	_	4	prn	_	_
+CC	_	4	cc	_	_
+NN	_	15	nsbj	_	_
+IN	_	13	case	_	_
+CD	_	11	ppmod	_	_
+VBZ	_	15	cop	_	_
+IN	_	4	conj	_	_
+VBG	_	15	comp	_	_
+IN	_	18	case	_	_
+NN	sem=clr	16	ppmod	_	_
+IN	_	21	case	_	_
+DT	_	21	det	_	_
+NNP	_	18	ppmod	_	_
+.	_	15	p	_	_
+

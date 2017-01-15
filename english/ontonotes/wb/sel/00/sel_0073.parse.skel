@@ -1,0 +1,20 @@
+IN	_	2	case	_	_
+VBG	_	8	ppmod	_	_
+IN	_	4	case	_	_
+NN	sem=clr	2	ppmod	_	_
+,	_	8	p	_	_
+MD	_	8	modal	_	_
+RB	sem=mnr	8	adv	_	_
+VB	_	0	root	_	_
+DT	_	10	det	_	_
+NN	_	8	obj	_	_
+IN	_	15	case	_	_
+JJR	_	14	attr	_	_
+IN	_	12	com	_	_
+CD	_	15	num	_	_
+NN	sem=clr	8	ppmod	_	_
+CC	_	15	cc	_	_
+NN	_	18	com	_	_
+NN	_	15	conj	_	_
+.	_	8	p	_	_
+

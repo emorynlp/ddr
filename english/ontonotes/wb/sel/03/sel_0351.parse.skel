@@ -1,0 +1,21 @@
+RB	_	2	nsbj	_	_
+VBZ	_	10	comp	_	_
+WRB	sem=mnr	5	adv	_	_
+PRP	_	5	nsbj	_	_
+VBP	_	2	comp	_	_
+PRP$	_	7	poss	_	_
+NNS	_	5	obj	_	_
+:	_	10	p	_	_
+LS	_	10	meta	_	_
+VB	_	0	root	_	_
+NN	_	10	obj	_	_
+IN	_	13	case	_	_
+NN	_	11	ppmod	_	_
+CC	_	10	cc	_	_
+VB	_	10	conj	_	_
+JJ	_	17	attr	_	_
+NN	_	15	obj	_	_
+IN	_	19	case	_	_
+NN	_	17	ppmod	_	_
+.	_	10	p	_	_
+

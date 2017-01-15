@@ -1,0 +1,17 @@
+IN	_	2	case	_	_
+DT	_	4	ppmod	_	_
+PRP	_	4	nsbj	_	_
+VBP	_	0	root	_	_
+PRP	_	4	obj	_	_
+IN	_	9	case	_	_
+WP	_	13	nsbj	_	_
+PRP	_	9	nsbj	_	_
+VBP	sem=clr	4	ppmod	_	_
+VBP	_	13	cop	_	_
+PRP$	_	13	poss	_	_
+JJ	_	13	attr	_	_
+NNS	_	9	comp	_	_
+IN	_	15	case	_	_
+NN	_	13	ppmod	_	_
+.	_	4	p	_	_
+

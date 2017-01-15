@@ -1,0 +1,24 @@
+PRP	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBP	_	0	root	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+NN	_	3	obj	_	_
+TO	_	8	aux	_	_
+VB	sem=prp	3	advcl	_	_
+NNS	_	8	obj	_	_
+,	_	9	p	_	_
+``	_	16	p	_	_
+NN	_	16	attr	_	_
+CC	_	12	cc	_	_
+NN	_	12	conj	_	_
+''	_	16	p	_	_
+NNS	_	9	conj	_	_
+,	_	16	p	_	_
+CC	_	16	cc	_	_
+RB	_	20	adv	_	_
+DT	_	22	num	_	_
+JJ	_	22	attr	_	_
+NNS	_	9	conj	_	_
+.	_	3	p	_	_
+

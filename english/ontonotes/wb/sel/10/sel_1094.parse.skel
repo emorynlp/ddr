@@ -1,0 +1,18 @@
+DT	_	3	det	_	_
+NNP	_	3	com	_	_
+NNS	_	5	nsbj	_	_
+MD	_	5	modal	_	_
+VB	_	0	root	_	_
+NNS	_	5	obj	_	_
+IN	_	10	case	_	_
+JJ	_	10	attr	_	_
+NNP	_	10	com	_	_
+NNS	_	6	ppmod	_	_
+IN	_	13	case	_	_
+RB	_	13	neg	_	_
+VBG	sem=prp	5	ppmod	_	_
+DT	_	16	det	_	_
+JJ	_	16	attr	_	_
+NN	_	13	obj	_	_
+.	_	5	p	_	_
+

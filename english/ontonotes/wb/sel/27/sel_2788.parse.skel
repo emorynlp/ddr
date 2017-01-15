@@ -1,0 +1,26 @@
+DT	_	2	det	_	_
+NN	_	3	nsbj	_	_
+VBD	_	24	comp	_	_
+RP	_	3	prt	_	_
+$	_	7	meta	_	_
+CD	_	7	com	_	_
+CD	_	3	obj	_	_
+IN	_	10	case	_	_
+NN	_	10	com	_	_
+NN	_	7	ppmod	_	_
+,	_	3	p	_	_
+IN	_	15	mark	_	_
+DT	_	14	det	_	_
+NNP	_	15	nsbj	_	_
+VBD	_	3	advcl	_	_
+$	_	18	meta	_	_
+CD	_	18	com	_	_
+CD	_	15	obj	_	_
+,	_	24	p	_	_
+NNS	_	24	nsbj	_	_
+IN	_	23	case	_	_
+DT	_	23	det	_	_
+NNS	_	20	ppmod	_	_
+VBD	_	0	root	_	_
+.	_	24	p	_	_
+

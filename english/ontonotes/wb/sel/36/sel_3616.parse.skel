@@ -1,0 +1,14 @@
+VBD	_	5	aux	_	_
+RB	_	5	neg	_	_
+PRP	_	5	nsbj	_	_
+RB	_	5	adv	_	_
+VB	_	0	root	_	_
+RP	_	5	prt	_	_
+NNP	_	8	com	_	_
+NNP	_	12	attr	_	_
+CC	_	8	cc	_	_
+NNP	_	11	com	_	_
+NNP	_	8	conj	_	_
+NNS	_	5	obj	_	_
+.	_	5	p	_	_
+

@@ -1,0 +1,16 @@
+RB	_	2	com	_	_
+RB	_	7	adv	_	_
+,	_	7	p	_	_
+NN	_	7	nsbj	_	_
+MD	_	7	modal	_	_
+VB	_	7	cop	_	_
+JJR	_	0	root	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NN	_	12	com	_	_
+NNS	_	7	ppmod	14:obj	_
+PRP	_	14	nsbj	_	_
+VBP	_	12	relcl	_	_
+.	_	7	p	_	_
+

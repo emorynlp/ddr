@@ -1,0 +1,10 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+NNS	_	5	obj	_	_
+VBP	_	5	aux	_	_
+VBN	_	2	comp	_	_
+IN	_	7	case	_	_
+VBG	sem=clr	5	ppmod	_	_
+NNS	_	7	obj	_	_
+.	_	2	p	_	_
+

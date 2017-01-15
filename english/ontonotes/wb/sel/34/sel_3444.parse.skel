@@ -1,0 +1,11 @@
+CC	_	3	cc	_	_
+PRP	_	3	nsbj	_	_
+VBD	_	0	root	_	_
+JJ	_	5	attr	_	_
+NNS	_	3	obj	_	_
+IN	_	7	mark	_	_
+VBG	sem=tmp	3	advcl	_	_
+JJ	_	9	attr	_	_
+NNS	_	7	obj	_	_
+.	_	3	p	_	_
+

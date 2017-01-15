@@ -1,0 +1,25 @@
+IN	_	3	case	_	_
+HYPH	_	3	p	_	_
+NN	_	4	com	_	_
+NNS	_	7	nsbj	_	_
+VBD	_	7	cop	_	_
+DT	_	7	det	_	_
+NN	_	0	root	_	_
+WRB	sem=tmp	23	adv	10:adv;15:adv	_
+PRP	_	10	nsbj	15:nsbj;23:nsbj	_
+VBD	sem=tmp	7	advcl	_	_
+DT	_	13	det	_	_
+VBG	_	13	attr	_	_
+NN	_	10	obj	_	_
+CC	_	10	cc	_	_
+VBD	_	10	conj	_	_
+IN	_	19	case	_	_
+JJR	_	18	attr	_	_
+NN	_	19	com	_	_
+NNS	sem=clr	15	ppmod	_	_
+,	_	15	p	_	_
+JJ	_	22	attr	_	_
+NNS	_	23	advnp	_	_
+RB	sem=tmp	10	conj	_	_
+.	_	7	p	_	_
+

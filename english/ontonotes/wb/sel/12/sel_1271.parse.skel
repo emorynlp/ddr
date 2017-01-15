@@ -1,0 +1,12 @@
+CC	_	2	cc	_	_
+VB	_	0	root	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+NN	_	2	obj	_	_
+CC	_	2	cc	_	_
+VB	_	2	conj	_	_
+DT	_	10	det	_	_
+JJ	_	10	attr	_	_
+NN	_	7	obj	_	_
+.	_	2	p	_	_
+

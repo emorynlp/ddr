@@ -1,0 +1,17 @@
+PRP	_	3	nsbj	_	_
+VBZ	_	3	cop	_	_
+NN	_	0	root	_	_
+IN	_	5	case	_	_
+NN	_	3	ppmod	_	_
+,	_	3	p	_	_
+CC	_	3	cc	_	_
+NNP	_	10	nsbj	_	_
+VBD	_	10	aux	_	_
+VB	_	3	conj	_	_
+CD	_	12	num	_	_
+NNS	_	10	obj	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+NN	sem=clr	10	ppmod	_	_
+.	_	10	p	_	_
+

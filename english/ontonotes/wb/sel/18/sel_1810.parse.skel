@@ -1,0 +1,14 @@
+VB	_	0	root	_	_
+IN	_	4	case	_	_
+NN	_	4	com	_	_
+NN	sem=clr	1	ppmod	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+JJ	_	6	comp	_	_
+,	_	6	p	_	_
+VBN	_	6	advcl	_	_
+IN	_	12	case	_	_
+NN	_	12	com	_	_
+NN	sem=loc	9	ppmod	_	_
+.	_	1	p	_	_
+

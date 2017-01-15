@@ -1,0 +1,47 @@
+VB	_	3	aux	_	_
+RB	_	3	neg	_	_
+VB	_	0	root	_	_
+PRP$	_	5	poss	_	_
+NN	_	3	obj	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	sem=clr	3	ppmod	_	_
+
+DT	_	2	det	_	_
+NN	_	5	nsbj	_	_
+VBZ	_	5	cop	_	_
+DT	_	5	det	_	_
+NN	_	0	root	_	_
+CC	_	5	cc	_	_
+PRP	_	8	nsbj	_	_
+VBZ	_	5	conj	_	_
+DT	_	11	det	_	_
+JJ	_	11	attr	_	_
+NN	_	8	obj	18:adv	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	sem=loc	11	ppmod	_	_
+WRB	_	18	r-adv	_	_
+PRP	_	18	nsbj	_	_
+MD	_	18	modal	_	_
+VB	_	11	relcl	_	_
+NNS	_	18	obj	23:obj	_
+PRP	_	23	nsbj	_	_
+VBZ	_	23	aux	_	_
+RB	_	23	neg	_	_
+VB	_	19	relcl	_	_
+,	_	8	p	_	_
+CC	_	8	cc	_	_
+PRP	_	29	nsbj	_	_
+VBP	_	29	raise	_	_
+RP	_	29	prt	_	_
+VBG	_	5	conj	_	_
+IN	_	31	case	_	_
+PRP	sem=clr	29	ppmod	_	_
+.	_	29	p	_	_
+
+RB	_	2	neg	_	_
+JJ	_	3	attr	_	_
+NN	_	0	root	_	_
+.	_	3	p	_	_
+

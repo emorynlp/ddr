@@ -1,0 +1,21 @@
+CC	_	3	cc	_	_
+RB	sem=loc	3	adv	_	_
+VBZ	_	0	root	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+NNP	_	7	com	_	_
+NNP	_	3	nsbj	18:ppmod	_
+,	_	7	p	_	_
+IN	_	10	case	_	_
+WP	sem=clr	18	r-ppmod	_	_
+PRP	_	15	nsbj	_	_
+RB	_	13	com	_	_
+RB	sem=tmp	15	adv	_	_
+VBP	_	15	aux	_	_
+VBN	_	7	relcl	_	_
+PRP$	_	17	poss	_	_
+NN	_	18	nsbj	_	_
+VB	_	15	comp	_	_
+.	_	3	p	_	_
+''	_	3	p	_	_
+

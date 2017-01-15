@@ -1,0 +1,22 @@
+CD	_	2	num	_	_
+NN	_	10	nsbj	4:obj	_
+RB	sem=tmp	4	adv	_	_
+VBN	_	2	acl	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NNP	_	9	com	_	_
+NNP	_	9	com	_	_
+NNP	_	4	nsbj	_	_
+VBZ	_	0	root	_	_
+NN	_	10	obj	_	_
+IN	_	16	case	_	_
+JJ	_	14	attr	_	_
+NN	_	16	poss	_	_
+POS	_	14	case	_	_
+NN	sem=clr	10	ppmod	_	_
+TO	_	18	aux	_	_
+VB	_	16	acl	_	_
+NN	_	20	com	_	_
+NN	_	18	obj	_	_
+.	_	10	p	_	_
+

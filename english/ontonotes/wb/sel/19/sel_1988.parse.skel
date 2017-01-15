@@ -1,0 +1,12 @@
+PRP	_	4	expl	_	_
+VBZ	_	4	cop	_	_
+RB	_	4	adv	_	_
+JJ	_	0	root	_	_
+IN	_	7	mark	_	_
+PRP	_	7	nsbj	_	_
+VBP	_	4	csbj	_	_
+NNP	_	7	obj	_	_
+IN	_	10	case	_	_
+NN	sem=clr	7	ppmod	_	_
+.	_	4	p	_	_
+

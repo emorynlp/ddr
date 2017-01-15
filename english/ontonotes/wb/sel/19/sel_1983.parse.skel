@@ -1,0 +1,24 @@
+DT	_	2	det	_	_
+NNS	_	5	nsbj	7:nsbj	_
+VBP	_	5	aux	_	_
+RB	_	5	neg	_	_
+VB	_	0	root	_	_
+TO	_	7	aux	_	_
+VB	_	5	comp	_	_
+DT	_	9	det	_	_
+NNS	_	7	obj	10:obj	_
+VBN	_	9	acl	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+NN	sem=loc	10	ppmod	_	_
+,	_	7	p	_	_
+RB	_	7	adv	_	_
+TO	_	17	aux	_	_
+VB	_	7	dep	_	_
+PRP	_	17	obj	_	_
+IN	_	22	case	_	_
+DT	_	22	det	_	_
+JJ	_	22	attr	_	_
+NN	sem=mnr	17	ppmod	_	_
+.	_	5	p	_	_
+

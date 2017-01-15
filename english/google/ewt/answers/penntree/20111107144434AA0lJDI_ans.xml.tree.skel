@@ -1,0 +1,19 @@
+WP	_	0	root	_	_
+VBP	_	1	cop	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+NN	_	6	com	_	_
+NNS	_	1	nsbj	_	_
+IN	_	8	case	_	_
+NNP	sem=loc	6	ppmod	_	_
+.	_	1	p	_	_
+
+NNS	_	0	root	_	_
+,	_	1	p	_	_
+NNS	_	1	appo	_	_
+,	_	1	p	_	_
+NN	_	6	com	_	_
+NNS	_	1	appo	_	_
+,	_	1	p	_	_
+NNS	_	1	appo	_	_
+

@@ -1,0 +1,22 @@
+MD	_	9	modal	_	_
+DT	_	3	det	_	_
+NNP	_	9	nsbj	_	_
+CC	_	3	cc	_	_
+NNP	_	7	com	_	_
+NNP	_	7	com	_	_
+NNP	_	3	conj	_	_
+RB	_	9	adv	_	_
+VB	_	0	root	_	_
+NN	_	9	obj	15:nsbj	_
+RB	_	12	com	_	_
+RB	sem=dir	9	adv	_	_
+TO	_	15	aux	_	_
+RB	sem=tmp	15	adv	_	_
+VB	sem=prp	9	advcl	_	_
+DT	_	18	det	_	_
+JJ	_	18	attr	_	_
+NN	_	15	obj	_	_
+IN	_	20	case	_	_
+DT	_	18	ppmod	_	_
+.	_	9	p	_	_
+

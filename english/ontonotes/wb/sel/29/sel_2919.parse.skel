@@ -1,0 +1,21 @@
+RB	_	11	adv	_	_
+,	_	11	p	_	_
+DT	_	7	det	_	_
+JJ	_	6	attr	_	_
+HYPH	_	6	p	_	_
+NN	_	7	com	_	_
+NN	_	11	nsbj	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NN	_	7	ppmod	_	_
+VBZ	_	0	root	_	_
+IN	_	13	case	_	_
+VBG	sem=clr	11	ppmod	_	_
+DT	_	15	det	_	_
+NN	_	13	obj	17:nsbj	_
+WDT	_	17	r-nsbj	_	_
+VBZ	_	15	relcl	_	_
+RP	_	17	prt	_	_
+RB	sem=mnr	17	adv	_	_
+.	_	11	p	_	_
+

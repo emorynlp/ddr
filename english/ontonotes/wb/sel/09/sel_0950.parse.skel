@@ -1,0 +1,18 @@
+PRP$	_	2	poss	_	_
+NN	_	6	obj	_	_
+MD	_	6	modal	_	_
+RB	_	6	neg	_	_
+VB	_	6	aux	_	_
+VBN	_	0	root	_	_
+IN	_	8	case	_	_
+NNP	_	6	nsbj	_	_
+,	_	8	p	_	_
+CC	_	8	cc	_	_
+DT	_	14	det	_	_
+JJ	_	14	attr	_	_
+NN	_	14	com	_	_
+NN	_	8	conj	_	_
+,	_	6	p	_	_
+RB	sem=mnr	6	adv	_	_
+.	_	6	p	_	_
+

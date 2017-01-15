@@ -1,0 +1,15 @@
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	10	advcl	_	_
+NN	_	3	obj	_	_
+RB	_	7	adv	_	_
+IN	_	7	case	_	_
+NNP	sem=clr	3	ppmod	_	_
+MD	_	10	modal	_	_
+PRP	_	10	nsbj	_	_
+VB	_	0	root	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+NN	sem=clr	10	ppmod	_	_
+.	_	10	p	_	_
+

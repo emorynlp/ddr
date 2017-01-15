@@ -1,0 +1,20 @@
+PRP	_	5	obj	6:nsbj	_
+MD	_	5	modal	_	_
+RB	sem=tmp	5	neg	_	_
+VB	_	5	aux	_	_
+VBN	_	0	root	_	_
+NN	sem=clr	5	comp	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NN	sem=clr	5	ppmod	_	_
+IN	_	14	mark	_	_
+DT	_	12	det	_	_
+NN	_	14	nsbj	_	_
+TO	_	14	aux	_	_
+VB	_	9	acl	_	_
+RP	_	14	prt	_	_
+DT	_	18	det	_	_
+JJ	_	18	attr	_	_
+NNS	_	14	obj	_	_
+.	_	5	p	_	_
+

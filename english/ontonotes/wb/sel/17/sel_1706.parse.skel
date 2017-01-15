@@ -1,0 +1,25 @@
+PRP	_	3	nsbj	6:nsbj	_
+VBP	_	3	cop	_	_
+JJ	_	0	root	_	_
+IN	_	6	case	_	_
+VBG	_	6	cop	_	_
+IN	_	3	ppmod	_	_
+JJ	_	8	attr	_	_
+NN	_	6	obj	_	_
+,	_	3	p	_	_
+NNS	_	12	nsbj	_	_
+MD	_	12	modal	_	_
+VB	_	3	conj	_	_
+PRP	_	14	nsbj	_	_
+VBG	_	12	comp	_	_
+RB	sem=mnr	14	adv	_	_
+,	_	12	p	_	_
+CC	_	12	cc	_	_
+RB	_	19	com	_	_
+RB	_	22	adv	_	_
+PRP	_	22	nsbj	_	_
+MD	_	22	modal	_	_
+VB	_	3	conj	_	_
+RB	sem=mnr	22	adv	_	_
+.	_	22	p	_	_
+

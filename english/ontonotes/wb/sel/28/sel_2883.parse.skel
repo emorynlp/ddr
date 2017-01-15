@@ -1,0 +1,25 @@
+DT	_	3	det	_	_
+JJ	_	3	attr	_	_
+NNS	_	23	obj	10:nsbj	_
+WDT	_	10	r-nsbj	_	_
+,	_	10	p	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	sem=tmp	10	ppmod	_	_
+,	_	10	p	_	_
+VBD	_	3	relcl	_	_
+NNP	_	13	poss	_	_
+POS	_	11	case	_	_
+NN	_	17	nsbj	_	_
+IN	_	15	case	_	_
+NN	_	13	ppmod	_	_
+RBR	_	17	adv	_	_
+JJ	_	10	comp	_	_
+IN	_	19	mark	_	_
+JJ	_	17	comp	_	_
+VBP	_	23	aux	_	_
+VBN	_	23	aux	_	_
+RB	sem=mnr	23	adv	_	_
+VBN	_	0	root	_	_
+.	_	23	p	_	_
+

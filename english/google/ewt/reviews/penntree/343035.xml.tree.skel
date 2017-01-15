@@ -1,0 +1,31 @@
+JJ	_	3	attr	_	_
+NN	_	3	com	_	_
+NNS	_	0	root	_	_
+
+PRP	_	4	nsbj	_	_
+VBP	_	4	cop	_	_
+RB	_	4	adv	_	_
+JJ	_	0	root	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	_	8	com	_	_
+NNS	_	4	ppmod	12:obj	_
+NNP	_	11	com	_	_
+NNP	_	11	com	_	_
+NNP	_	12	nsbj	_	_
+VBD	_	8	relcl	_	_
+PRP	_	12	dat	_	_
+.	_	4	p	_	_
+
+RB	sem=tmp	6	adv	_	_
+PRP	_	6	nsbj	_	_
+VBP	_	6	aux	_	_
+JJ	_	6	modal	_	_
+TO	_	6	aux	_	_
+VB	_	0	root	_	_
+DT	_	8	det	_	_
+NN	_	6	obj	_	_
+RB	_	10	com	_	_
+RB	_	6	adv	_	_
+.	_	6	p	_	_
+

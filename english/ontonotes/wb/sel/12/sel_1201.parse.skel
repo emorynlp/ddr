@@ -1,0 +1,12 @@
+PRP	_	7	nsbj	_	_
+VBZ	_	7	cop	_	_
+DT	_	7	det	_	_
+RB	_	7	adv	_	_
+CD	_	6	num	_	_
+NN	_	7	com	_	_
+NN	_	0	root	10:obj	_
+PRP	_	10	nsbj	_	_
+RB	sem=tmp	10	adv	_	_
+VBP	_	7	relcl	_	_
+.	_	7	p	_	_
+

@@ -1,0 +1,22 @@
+PRP	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBD	_	0	root	_	_
+DT	_	5	det	_	_
+NNP	_	3	obj	_	_
+IN	_	14	mark	_	_
+PRP	_	14	nsbj	_	_
+VBZ	_	14	cop	_	_
+DT	_	14	det	_	_
+RBR	_	13	adv	_	_
+NN	_	13	advnp	_	_
+HYPH	_	13	p	_	_
+JJ	_	14	attr	_	_
+NN	sem=prp	3	advcl	16:obj	_
+TO	_	16	aux	_	_
+VB	_	14	relcl	_	_
+IN	_	20	case	_	_
+JJ	_	20	attr	_	_
+JJR	_	20	attr	_	_
+NNS	_	14	ppmod	_	_
+.	_	3	p	_	_
+

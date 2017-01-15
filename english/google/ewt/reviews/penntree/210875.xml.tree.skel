@@ -1,0 +1,55 @@
+NN	_	0	root	_	_
+VBG	_	3	adv	_	_
+NN	_	1	ppmod	_	_
+IN	_	5	case	_	_
+NNP	_	3	ppmod	_	_
+
+RB	_	2	adv	_	_
+VBD	_	0	root	_	_
+PRP	_	5	nsbj	_	_
+TO	_	5	aux	_	_
+VB	_	2	comp	_	_
+IN	_	8	mark	_	_
+NNP	_	8	nsbj	14:nsbj	_
+VBD	_	5	comp	_	_
+RB	_	8	adv	_	_
+IN	_	11	mark	_	_
+VBN	_	8	advcl	_	_
+NN	sem=tmp	8	advnp	_	_
+CC	_	8	cc	_	_
+VBD	_	8	conj	_	_
+PRP$	_	16	poss	_	_
+NN	_	14	obj	_	_
+IN	_	18	case	_	_
+NNS	_	14	ppmod	_	_
+.	_	2	p	_	_
+
+PRP	_	4	nsbj	_	_
+VBD	_	4	raise	_	_
+TO	_	4	aux	_	_
+VB	_	21	advcl	_	_
+WRB	_	6	adv	_	_
+JJ	_	4	comp	_	_
+PRP	_	6	expl	_	_
+VBD	_	6	cop	_	_
+IN	_	12	mark	_	_
+PRP	_	12	nsbj	_	_
+TO	_	12	aux	_	_
+VB	_	6	csbj	_	_
+JJ	_	12	comp	_	_
+DT	_	16	det	_	_
+JJ	_	16	attr	_	_
+NN	_	18	obj	_	_
+VBD	_	18	aux	_	_
+VBN	_	13	comp	_	_
+RB	_	21	adv	_	_
+PRP	_	21	nsbj	_	_
+VBD	_	0	root	_	_
+PRP$	_	23	poss	_	_
+NN	_	21	obj	_	_
+.	_	21	p	_	_
+
+VBP	_	0	root	_	_
+PRP	_	1	obj	_	_
+.	_	1	p	_	_
+

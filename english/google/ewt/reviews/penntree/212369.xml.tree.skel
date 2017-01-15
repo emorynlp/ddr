@@ -1,0 +1,19 @@
+NN	_	3	nsbj	_	_
+VBZ	_	3	cop	_	_
+JJ	_	0	root	_	_
+.	_	3	p	_	_
+
+PRP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+VBN	_	2	comp	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NN	_	7	com	_	_
+NN	sem=clr	3	ppmod	_	_
+.	_	2	p	_	_
+
+NN	_	3	nsbj	_	_
+VBD	_	3	cop	_	_
+JJ	_	0	root	_	_
+.	_	3	p	_	_
+

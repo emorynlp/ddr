@@ -1,0 +1,21 @@
+DT	_	3	det	_	_
+NN	_	3	com	_	_
+NN	_	5	obj	_	_
+VBD	_	5	aux	_	_
+VBN	_	0	root	_	_
+IN	_	8	case	_	_
+CD	_	8	num	_	_
+NNS	sem=tmp	5	ppmod	_	_
+IN	_	10	case	_	_
+NNS	_	5	nsbj	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+RB	sem=tmp	14	adv	_	_
+VBD	_	5	conj	_	_
+TO	_	17	aux	_	_
+VB	_	17	raise	_	_
+VBG	_	14	comp	_	_
+DT	_	19	det	_	_
+NN	_	17	obj	_	_
+.	_	5	p	_	_
+

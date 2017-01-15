@@ -1,0 +1,116 @@
+RB	_	3	adv	_	_
+HYPH	_	3	p	_	_
+VBN	_	4	attr	_	_
+NN	_	0	root	_	_
+
+-LRB-	_	5	p	_	_
+``	_	5	p	_	_
+NN	_	4	com	_	_
+NN	_	5	nsbj	16:nsbj	_
+VBZ	_	0	root	_	_
+NN	_	5	obj	_	_
+IN	_	9	case	_	_
+``	_	9	p	_	_
+NN	_	6	ppmod	_	_
+''	_	9	p	_	_
+IN	_	13	case	_	_
+``	_	13	p	_	_
+NN	sem=clr	5	ppmod	_	_
+,	_	5	p	_	_
+''	_	5	p	_	_
+VBG	_	5	advcl	_	_
+DT	_	20	nsbj	_	_
+VBZ	_	20	cop	_	_
+DT	_	20	det	_	_
+NN	_	16	comp	23:obj	_
+NNS	_	23	nsbj	_	_
+RB	sem=tmp	23	adv	_	_
+VBP	_	20	relcl	_	_
+.	_	5	p	_	_
+''	_	5	p	_	_
+
+:	_	4	p	_	_
+NNP	_	4	com	_	_
+NNP	_	4	com	_	_
+NNP	_	0	root	_	_
+-RRB-	_	4	p	_	_
+
+JJ	_	2	attr	_	_
+NN	_	4	nsbj	_	_
+VBZ	_	4	cop	_	_
+JJ	_	0	root	_	_
+,	_	4	p	_	_
+IN	_	10	case	_	_
+NN	_	8	com	_	_
+NNS	_	10	nsbj	_	_
+MD	_	10	modal	_	_
+VB	_	4	conj	_	_
+IN	_	10	case	_	_
+,	_	10	p	_	_
+CC	_	10	cc	_	_
+NNS	_	24	nsbj	16:nsbj	_
+WDT	_	16	r-nsbj	_	_
+VBP	_	14	relcl	_	_
+PRP	_	19	nsbj	_	_
+VBP	_	19	aux	_	_
+VBG	_	16	comp	_	_
+IN	sem=loc	19	case	_	_
+MD	_	24	modal	_	_
+RB	sem=tmp	24	adv	_	_
+VB	_	24	lv	_	_
+NNS	_	4	conj	26:nsbj	_
+TO	_	26	aux	_	_
+VB	_	24	relcl	_	_
+.	_	24	p	_	_
+
+:	_	4	p	_	B-PERSON
+NNP	_	4	com	_	I-PERSON
+NNP	_	4	com	_	I-PERSON
+NNP	_	0	root	_	I-PERSON
+.	_	4	p	_	L-PERSON
+
+VB	_	0	root	_	_
+RB	_	1	neg	_	_
+
+WRB	_	2	adv	_	_
+JJ	_	0	root	_	_
+PRP	_	2	expl	_	_
+VBZ	_	2	cop	_	_
+TO	_	6	aux	_	_
+VB	_	2	csbj	_	_
+NNS	_	9	poss	_	_
+POS	_	7	case	_	_
+NNS	_	6	obj	_	_
+IN	_	12	case	_	_
+RB	_	12	adv	_	_
+VBG	sem=mnr	6	ppmod	_	_
+DT	_	14	det	_	_
+NN	_	12	obj	_	_
+IN	_	17	case	_	_
+PRP$	_	17	poss	_	_
+NNS	sem=clr	12	ppmod	_	_
+.	_	2	p	_	_
+
+:	_	4	p	_	B-PERSON
+NNP	_	4	com	_	I-PERSON
+NNP	_	4	com	_	I-PERSON
+NNP	_	0	root	_	I-PERSON
+.	_	4	p	_	L-PERSON
+
+NN	_	0	root	_	_
+
+NN	_	3	com	_	_
+HYPH	_	3	p	_	_
+NN	_	4	com	_	_
+NN	_	0	root	_	_
+:	_	4	p	_	_
+NN	_	8	com	_	_
+HYPH	_	8	p	_	_
+NN	_	4	appo	_	_
+.	_	4	p	_	_
+
+:	_	3	p	_	B-PERSON
+NNP	_	3	com	_	I-PERSON
+NNP	_	0	root	_	I-PERSON
+.	_	3	p	_	L-PERSON
+

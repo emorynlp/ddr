@@ -1,0 +1,22 @@
+PRP	_	2	nsbj	_	_
+VBD	_	7	comp	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+NN	_	2	obj	_	_
+,	_	7	p	_	_
+VBD	_	15	comp	_	_
+RB	_	7	neg	_	_
+PRP	_	7	nsbj	_	_
+.	_	15	p	_	_
+VBZ	_	15	aux	_	_
+NNP	_	13	com	_	_
+NN	_	15	nsbj	_	_
+RB	_	15	neg	_	_
+VB	_	0	root	_	_
+DT	_	18	det	_	_
+JJ	_	18	attr	_	_
+NN	_	20	poss	_	_
+POS	_	18	case	_	_
+NNS	_	15	obj	_	_
+.	_	15	p	_	_
+

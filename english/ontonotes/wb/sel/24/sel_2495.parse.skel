@@ -1,0 +1,19 @@
+CC	_	3	cc	_	_
+PRP	_	3	nsbj	_	_
+VBZ	_	0	root	_	_
+IN	_	11	mark	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+NNS	_	11	nsbj	_	_
+VBP	_	11	aux	_	_
+IN	_	10	case	_	_
+NNS	sem=tmp	11	ppmod	_	_
+VB	_	3	comp	_	_
+PRP	_	11	obj	14:nsbj	_
+TO	_	14	aux	_	_
+VB	_	11	comp	_	_
+RP	_	14	prt	_	_
+IN	_	17	case	_	_
+NN	sem=mnr	14	ppmod	_	_
+.	_	3	p	_	_
+

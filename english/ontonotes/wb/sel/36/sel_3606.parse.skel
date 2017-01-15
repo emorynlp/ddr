@@ -1,0 +1,16 @@
+RB	_	0	root	_	_
+:	_	1	p	_	_
+WRB	sem=tmp	5	adv	_	_
+PRP	_	5	nsbj	_	_
+VBP	sem=tmp	1	advcl	_	_
+JJ	_	7	attr	_	_
+NNS	_	5	obj	_	_
+:	_	7	p	_	_
+VBG	_	10	adv	_	_
+NNS	_	7	ppmod	_	_
+,	_	10	p	_	_
+FW	_	10	conj	_	_
+-LRB-	_	14	p	_	_
+RB	_	1	adv	_	_
+.	_	1	p	_	_
+

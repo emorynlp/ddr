@@ -1,0 +1,26 @@
+PRP	_	3	nsbj	_	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+DT	_	7	det	_	_
+NN	_	6	advnp	_	_
+VBN	_	7	attr	_	_
+NN	_	16	nsbj	_	_
+WRB	sem=loc	9	adv	_	_
+VBN	sem=loc	16	advcl	_	_
+TO	_	16	aux	_	_
+VB	_	16	cop	_	_
+DT	_	16	det	_	_
+JJS	_	16	attr	_	_
+CC	_	13	cc	_	_
+JJS	_	13	conj	_	_
+NN	_	3	comp	_	_
+,	_	3	p	_	_
+CC	_	3	cc	_	_
+RB	_	24	adv	_	_
+DT	_	21	det	_	_
+NN	_	24	obj	_	_
+MD	_	24	modal	_	_
+VB	_	24	aux	_	_
+VBN	_	3	conj	_	_
+.	_	24	p	_	_
+

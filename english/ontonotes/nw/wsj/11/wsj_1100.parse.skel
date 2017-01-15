@@ -1,0 +1,43 @@
+NNP	_	3	com	_	B-ORG
+NNP	_	3	com	_	I-ORG
+NNP	_	4	nsbj	_	L-ORG
+VBD	_	0	root	_	O
+PRP	_	7	nsbj	_	O
+MD	_	7	modal	_	O
+VB	_	4	comp	_	O
+NNP	_	11	com	_	B-ORG
+HYPH	_	11	p	_	I-ORG
+NNP	_	11	com	_	I-ORG
+NNP	_	7	obj	_	L-ORG
+.	_	4	p	_	O
+
+NNS	_	4	obj	_	_
+VBD	_	4	aux	_	_
+RB	_	4	neg	_	_
+VBN	_	0	root	_	_
+.	_	4	p	_	_
+
+NNP	_	3	com	_	B-ORG
+HYPH	_	3	p	_	I-ORG
+NNP	_	11	nsbj	5:obj	L-ORG
+,	_	3	p	_	O
+VBN	_	3	acl	_	O
+IN	_	7	case	_	O
+NNP	sem=loc	5	ppmod	_	U-GPE
+,	_	7	p	_	O
+NNP	_	7	appo	_	U-GPE
+,	_	3	p	_	O
+VBZ	_	0	root	_	O
+NN	_	13	com	_	O
+NNS	_	11	obj	_	O
+CC	_	13	cc	_	O
+NNS	_	13	conj	_	O
+,	_	13	p	_	O
+CC	_	13	cc	_	O
+NN	_	13	conj	_	O
+CC	_	18	cc	_	O
+NN	_	21	com	_	O
+NNS	_	22	com	_	O
+NN	_	18	conj	_	O
+.	_	11	p	_	O
+

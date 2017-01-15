@@ -1,0 +1,26 @@
+RB	_	15	adv	_	_
+,	_	15	p	_	_
+WRB	sem=tmp	5	adv	_	_
+PRP	_	5	nsbj	_	_
+VBP	sem=tmp	15	advcl	_	_
+RP	_	5	prt	_	_
+IN	_	8	case	_	_
+NN	sem=mnr	5	ppmod	_	_
+,	_	15	p	_	_
+DT	_	11	det	_	_
+NN	_	15	obj	_	_
+IN	_	13	case	_	_
+NN	_	11	ppmod	_	_
+VBZ	_	15	aux	_	_
+VBN	_	0	root	_	_
+CC	_	15	cc	_	_
+PRP	_	20	nsbj	_	_
+VBP	_	20	cop	_	_
+RB	_	20	neg	_	_
+JJ	_	15	conj	_	_
+WP	_	20	comp	_	_
+RB	_	21	adv	_	_
+PRP	_	21	nsbj	_	_
+VBZ	_	21	cop	_	_
+.	_	20	p	_	_
+

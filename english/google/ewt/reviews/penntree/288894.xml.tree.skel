@@ -1,0 +1,24 @@
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+
+DT	_	2	det	_	_
+NN	_	6	nsbj	_	_
+VBZ	_	6	cop	_	_
+IN	_	6	case	_	_
+NNP	_	6	com	_	_
+NN	_	0	root	_	_
+RB	_	10	neg	_	_
+IN	_	10	case	_	_
+NNP	_	10	com	_	_
+NN	_	6	ppmod	_	_
+.	_	6	p	_	_
+
+UH	_	2	disc	_	_
+VB	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	2	obj	_	_
+IN	_	7	case	_	_
+PRP	_	7	attr	_	_
+NN	sem=loc	2	ppmod	_	_
+.	_	2	p	_	_
+

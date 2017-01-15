@@ -1,0 +1,10 @@
+PRP	_	2	nsbj	6:nsbj	_
+VBZ	_	0	root	_	_
+NN	_	2	obj	_	_
+CC	_	2	cc	_	_
+VBZ	_	6	cop	_	_
+IN	_	2	conj	_	_
+DT	_	8	det	_	_
+NN	_	6	obj	_	_
+.	_	2	p	_	_
+

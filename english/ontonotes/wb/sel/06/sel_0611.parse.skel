@@ -1,0 +1,24 @@
+DT	_	2	det	_	_
+NN	_	3	nsbj	5:nsbj;9:nsbj	_
+VBZ	_	0	root	_	_
+TO	_	5	aux	_	_
+VB	_	3	comp	_	_
+JJ	_	7	attr	_	_
+NNS	_	5	obj	_	_
+CC	_	5	cc	_	_
+VB	_	5	conj	_	_
+``	_	9	p	_	_
+JJ	_	12	attr	_	_
+NNS	_	9	obj	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+NNS	sem=clr	9	ppmod	_	_
+IN	_	18	case	_	_
+NN	_	18	com	_	_
+NNS	_	15	ppmod	_	_
+IN	_	21	case	_	_
+DT	_	21	det	_	_
+NN	sem=loc	18	ppmod	_	_
+.	_	3	p	_	_
+''	_	3	p	_	_
+

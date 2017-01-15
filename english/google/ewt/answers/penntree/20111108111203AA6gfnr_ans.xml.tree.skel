@@ -1,0 +1,66 @@
+NN	_	0	root	_	_
+IN	_	5	case	_	_
+DT	_	5	det	_	_
+NNP	_	5	com	_	_
+NN	_	1	ppmod	_	_
+.	_	1	p	_	_
+
+MD	_	3	modal	_	_
+NNS	_	3	nsbj	_	_
+VB	_	0	root	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NNP	_	7	com	_	_
+NN	sem=loc	3	ppmod	_	_
+IN	_	10	case	_	_
+PRP$	_	10	poss	_	_
+JJ	sem=mnr	3	ppmod	_	_
+IN	_	12	case	_	_
+NNP	sem=dir	3	ppmod	_	_
+CC	_	3	cc	_	_
+WRB	_	15	com	_	_
+RB	sem=loc	19	adv	_	_
+VBZ	_	19	aux	_	_
+DT	_	18	det	_	_
+NNP	_	19	obj	_	_
+VBN	_	3	conj	_	_
+
+DT	_	3	det	_	_
+JJ	_	3	attr	_	_
+NNS	_	0	root	_	_
+.	_	3	p	_	_
+
+NNS	_	8	obj	10:nsbj	_
+VBN	_	1	attr	_	_
+CD	_	2	num	_	_
+SYM	_	5	p	_	_
+CD	_	3	ppmod	_	_
+MD	_	8	modal	_	_
+VB	_	8	aux	_	_
+VBN	_	19	advcl	_	_
+TO	_	10	aux	_	_
+VB	_	8	comp	_	_
+RB	_	10	adv	_	_
+IN	_	15	case	_	_
+NNP	_	15	poss	_	_
+POS	_	13	case	_	_
+NN	_	10	ppmod	_	_
+,	_	19	p	_	_
+PRP	_	19	nsbj	_	_
+MD	_	19	modal	_	_
+VB	_	0	root	_	_
+PRP	_	19	obj	_	_
+IN	_	23	case	_	_
+DT	_	23	det	_	_
+NN	_	19	ppmod	_	_
+.	_	19	p	_	_
+
+NNP	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+IN	_	7	case	_	_
+NNP	_	7	com	_	_
+NNP	_	6	com	_	_
+NNP	_	7	com	_	_
+NN	sem=dir	2	ppmod	_	_
+.	_	2	p	_	_
+

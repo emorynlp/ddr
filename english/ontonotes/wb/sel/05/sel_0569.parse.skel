@@ -1,0 +1,23 @@
+VB	_	0	root	_	_
+DT	_	4	det	_	_
+JJ	_	4	attr	_	_
+NN	sem=dir	1	advnp	_	_
+,	_	1	p	_	_
+CC	_	1	cc	_	_
+PRP	_	12	nsbj	_	_
+RB	sem=mnr	12	adv	_	_
+MD	_	12	modal	_	_
+RB	_	11	com	_	_
+RB	_	12	adv	_	_
+VB	_	1	conj	_	_
+NN	_	14	com	_	_
+NN	_	12	obj	_	_
+RB	_	16	com	_	_
+RB	sem=loc	12	adv	_	_
+IN	_	19	case	_	_
+RB	_	19	adv	_	_
+VBG	sem=mnr	12	ppmod	_	_
+DT	_	21	det	_	_
+NNS	_	19	obj	_	_
+.	_	12	p	_	_
+

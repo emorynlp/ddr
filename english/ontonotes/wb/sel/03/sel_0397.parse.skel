@@ -1,0 +1,19 @@
+CC	_	17	cc	_	_
+TO	_	3	aux	_	_
+VB	_	17	csbj	_	_
+DT	_	6	det	_	_
+JJS	_	6	attr	_	_
+NN	_	3	obj	_	_
+,	_	3	p	_	_
+CC	_	3	cc	_	_
+RB	sem=tmp	11	adv	3:adv	_
+TO	_	11	aux	_	_
+VB	_	3	conj	_	_
+RB	sem=dir	11	adv	_	_
+DT	_	14	det	_	_
+NN	_	11	obj	_	_
+,	_	17	p	_	_
+VBZ	_	17	cop	_	_
+JJ	_	0	root	_	_
+.	_	17	p	_	_
+

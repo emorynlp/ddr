@@ -1,0 +1,9 @@
+NN	_	0	root	2:obj;7:obj	_
+VBN	_	1	acl	_	_
+IN	_	5	case	_	_
+DT	_	5	det	_	_
+NN	sem=loc	2	ppmod	_	_
+CC	_	2	cc	_	_
+VBN	_	2	conj	_	_
+.	_	1	p	_	_
+

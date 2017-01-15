@@ -1,0 +1,25 @@
+VB	_	4	aux	_	_
+RB	_	4	neg	_	_
+VB	_	4	cop	_	_
+IN	_	8	advcl	_	_
+NNP	_	6	com	_	_
+NNP	_	4	obj	_	_
+,	_	8	p	_	_
+VB	_	0	root	_	_
+DT	_	10	det	_	_
+NN	sem=clr	8	obj	13:ppmod	_
+PRP	_	13	nsbj	_	_
+MD	_	13	modal	_	_
+VB	_	10	relcl	_	_
+IN	_	13	case	_	_
+PRP	_	13	advnp	_	_
+CC	_	8	cc	_	_
+PRP	_	19	nsbj	_	_
+MD	_	19	modal	_	_
+VB	_	8	conj	_	_
+DT	_	21	det	_	_
+JJS	sem=ext	19	advnp	_	_
+IN	_	23	case	_	_
+PRP	sem=clr	19	ppmod	_	_
+.	_	8	p	_	_
+

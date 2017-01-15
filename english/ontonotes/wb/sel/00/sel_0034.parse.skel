@@ -1,0 +1,23 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+RB	sem=mnr	2	adv	_	_
+CC	_	2	cc	_	_
+NNP	_	6	com	_	_
+NNP	_	8	nsbj	_	_
+VBZ	_	8	cop	_	_
+CD	_	2	conj	13:nsbj	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NNS	_	8	ppmod	_	_
+WP	_	13	r-nsbj	_	_
+VBZ	_	8	relcl	_	_
+DT	_	16	det	_	_
+NN	_	16	com	_	_
+NN	_	13	obj	_	_
+RB	_	21	adv	_	_
+IN	_	21	case	_	_
+DT	_	21	det	_	_
+NN	_	21	com	_	_
+NN	sem=mnr	13	ppmod	_	_
+.	_	8	p	_	_
+

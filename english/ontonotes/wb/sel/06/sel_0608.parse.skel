@@ -1,0 +1,10 @@
+MD	_	2	modal	_	_
+VB	_	0	root	_	_
+JJ	_	4	attr	_	_
+NN	_	2	obj	6:nsbj	_
+TO	_	6	aux	_	_
+VB	sem=clr	2	comp	_	_
+NN	_	8	com	_	_
+NNS	_	6	obj	_	_
+.	_	2	p	_	_
+

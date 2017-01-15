@@ -1,0 +1,26 @@
+RB	sem=tmp	2	adv	_	_
+VB	_	0	root	_	_
+DT	_	8	det	_	_
+AFX	_	8	attr	_	_
+HYPH	_	8	p	_	_
+``	_	8	p	_	_
+NN	_	8	com	_	_
+NNS	_	10	nsbj	_	_
+''	_	8	p	_	_
+VBD	_	2	comp	_	_
+VBN	_	12	attr	_	_
+NNS	_	10	obj	_	_
+CC	_	10	cc	_	_
+PRP	_	17	nsbj	_	_
+VBD	_	17	aux	_	_
+RB	_	17	neg	_	_
+VB	_	10	conj	_	_
+DT	_	19	det	_	_
+NN	_	17	obj	_	_
+CC	_	19	cc	_	_
+DT	_	22	det	_	_
+NN	_	19	conj	_	_
+TO	_	24	aux	_	_
+VB	_	22	acl	_	_
+.	_	2	p	_	_
+

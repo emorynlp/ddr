@@ -1,0 +1,18 @@
+VB	_	0	root	_	_
+NN	_	3	com	_	_
+NNS	_	1	obj	_	_
+TO	_	5	aux	_	_
+VB	sem=prp	1	advcl	_	_
+NNS	_	5	obj	_	_
+CC	_	5	cc	_	_
+VB	_	5	conj	_	_
+JJS	_	10	attr	_	_
+NNS	_	8	obj	_	_
+TO	_	12	aux	_	_
+VB	sem=prp	8	advcl	_	_
+NN	_	15	com	_	_
+HYPH	_	15	p	_	_
+NN	_	16	com	_	_
+NN	_	12	obj	_	_
+.	_	1	p	_	_
+

@@ -1,0 +1,25 @@
+DT	_	3	det	_	_
+JJ	_	3	attr	_	_
+NNS	_	23	dep	_	_
+PRP	_	6	nsbj	10:nsbj	_
+VBP	_	6	aux	_	_
+VBG	_	23	comp	_	_
+NNP	_	8	com	_	_
+NN	_	6	obj	_	_
+TO	_	10	aux	_	_
+VB	sem=clr	6	comp	_	_
+DT	_	12	det	_	_
+NN	_	10	obj	_	_
+DT	_	16	det	_	_
+JJ	_	16	attr	_	_
+NN	_	16	com	_	_
+NNS	_	23	nsbj	_	_
+VBP	_	23	aux	_	_
+RB	_	23	neg	_	_
+VB	_	23	raise	_	_
+TO	_	23	aux	_	_
+VB	_	23	lv	_	_
+JJ	_	23	attr	_	_
+NN	_	0	root	_	_
+.	_	23	p	_	_
+

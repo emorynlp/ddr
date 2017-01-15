@@ -1,0 +1,22 @@
+PRP$	_	2	poss	_	_
+NN	_	17	nsbj	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+NN	_	2	ppmod	_	_
+CC	_	2	cc	_	_
+PRP$	_	9	poss	_	_
+NN	_	2	conj	_	_
+TO	_	11	aux	_	_
+VB	_	9	acl	_	_
+CC	_	11	cc	_	_
+VB	_	11	conj	_	_
+DT	_	15	det	_	_
+NN	_	13	obj	_	_
+VBZ	_	17	cop	_	_
+IN	_	0	root	_	_
+JJ	_	19	attr	_	_
+NN	_	20	com	_	_
+NN	_	17	obj	_	_
+.	_	17	p	_	_
+

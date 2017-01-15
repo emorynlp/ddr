@@ -1,0 +1,24 @@
+PRP$	_	2	poss	_	_
+NN	_	7	nsbj	_	_
+IN	_	4	case	_	_
+NN	_	2	ppmod	_	_
+CD	_	4	num	_	_
+VBZ	_	7	aux	_	_
+VBN	_	0	root	_	_
+TO	_	9	aux	_	_
+VB	_	7	comp	_	_
+RB	_	11	adv	_	_
+JJ	_	9	obj	_	_
+IN	_	15	mark	_	_
+PRP	_	15	nsbj	_	_
+MD	_	15	modal	_	_
+RB	sem=mnr	11	acl	_	_
+CC	_	9	cc	_	_
+RB	sem=tmp	18	adv	9:adv	_
+VB	_	9	conj	_	_
+DT	_	20	det	_	_
+NNS	_	18	obj	_	_
+IN	_	22	case	_	_
+PRP	sem=loc	20	ppmod	_	_
+.	_	7	p	_	_
+

@@ -1,0 +1,9 @@
+VBG	_	2	attr	_	_
+NN	_	5	dep	_	_
+:	_	5	p	_	_
+NNP	_	5	nsbj	_	_
+VBZ	_	0	root	_	_
+IN	_	7	case	_	_
+NN	sem=clr	5	ppmod	_	_
+.	_	5	p	_	_
+

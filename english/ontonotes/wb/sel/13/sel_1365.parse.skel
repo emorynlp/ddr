@@ -1,0 +1,14 @@
+NNP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+:	_	2	p	_	_
+DT	_	5	nsbj	_	_
+VBZ	_	2	comp	_	_
+WRB	sem=prp	9	adv	_	_
+PRP	_	9	nsbj	_	_
+RB	_	9	adv	_	_
+VBP	sem=prp	5	advcl	_	_
+NN	_	9	obj	_	_
+RB	_	12	com	_	_
+RB	sem=loc	9	adv	_	_
+.	_	2	p	_	_
+

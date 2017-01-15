@@ -1,0 +1,12 @@
+NNP	_	2	com	_	_
+NNP	_	3	nsbj	_	_
+VBD	_	0	root	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+NN	sem=mnr	3	ppmod	10:obj	_
+,	_	7	p	_	_
+RB	sem=mnr	10	adv	_	_
+VBN	_	7	acl	_	_
+.	_	3	p	_	_
+

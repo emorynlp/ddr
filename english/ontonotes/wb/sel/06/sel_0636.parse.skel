@@ -1,0 +1,23 @@
+NN	_	14	nsbj	18:nsbj	_
+,	_	1	p	_	_
+NN	_	1	conj	_	_
+,	_	3	p	_	_
+NN	_	1	conj	_	_
+,	_	5	p	_	_
+NNS	_	1	conj	_	_
+,	_	7	p	_	_
+NN	_	1	conj	_	_
+,	_	9	p	_	_
+NN	_	1	conj	_	_
+CC	_	11	cc	_	_
+NN	_	1	conj	_	_
+VBP	_	0	root	_	_
+RBR	_	16	com	_	_
+RB	sem=mnr	14	adv	_	_
+CC	_	14	cc	_	_
+VBP	_	14	conj	_	_
+NN	_	18	obj	_	_
+IN	_	21	case	_	_
+NNS	_	19	ppmod	_	_
+.	_	14	p	_	_
+

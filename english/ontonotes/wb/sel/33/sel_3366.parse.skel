@@ -1,0 +1,12 @@
+NNP	_	2	nsbj	7:nsbj	_
+VBD	_	0	root	_	_
+PRP	_	2	obj	_	_
+RP	_	2	prt	_	_
+CC	_	2	cc	_	_
+RB	sem=mnr	7	adv	2:adv	_
+VBD	_	2	conj	_	_
+NNP	_	7	obj	_	_
+RB	_	10	com	_	_
+RB	sem=tmp	7	adv	_	_
+.	_	2	p	_	_
+

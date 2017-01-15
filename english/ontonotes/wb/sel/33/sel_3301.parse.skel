@@ -1,0 +1,15 @@
+NN	_	3	nsbj	_	_
+VBZ	_	3	aux	_	_
+VBG	_	10	comp	_	_
+IN	_	5	case	_	_
+NNP	sem=clr	3	ppmod	_	_
+-LRB-	_	10	p	_	_
+UH	_	10	disc	_	_
+,	_	10	p	_	_
+PRP	_	10	nsbj	_	_
+VBZ	_	0	root	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+NN	sem=clr	10	ppmod	_	_
+.	_	10	p	_	_
+

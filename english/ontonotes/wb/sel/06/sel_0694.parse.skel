@@ -1,0 +1,24 @@
+NN	_	2	com	_	_
+NNS	_	8	nsbj	_	_
+VBG	_	2	acl	_	_
+IN	_	6	case	_	_
+JJ	_	6	attr	_	_
+NNS	sem=clr	3	ppmod	_	_
+MD	_	8	modal	_	_
+VB	_	0	root	_	_
+IN	_	11	case	_	_
+JJ	_	11	attr	_	_
+NNS	sem=tmp	8	ppmod	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	_	11	ppmod	_	_
+CC	_	8	cc	_	_
+DT	_	8	conj	_	_
+IN	_	19	case	_	_
+JJ	_	19	attr	_	_
+NNS	_	16	ppmod	_	_
+IN	_	22	case	_	_
+JJ	_	22	attr	_	_
+NNS	sem=tmp	16	ppmod	_	_
+.	_	16	p	_	_
+

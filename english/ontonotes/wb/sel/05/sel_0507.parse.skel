@@ -1,0 +1,20 @@
+TO	_	2	aux	_	_
+VB	sem=prp	7	advcl	_	_
+JJ	_	4	attr	_	_
+NN	_	2	obj	_	_
+PRP	_	7	nsbj	_	_
+MD	_	7	modal	_	_
+VB	_	0	root	_	_
+DT	_	10	det	_	_
+NN	_	10	com	_	_
+NN	_	7	obj	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	_	14	com	_	_
+NN	sem=loc	10	ppmod	_	_
+WRB	sem=tmp	16	adv	_	_
+VBG	sem=tmp	7	advcl	_	_
+NN	_	18	com	_	_
+NNS	_	16	obj	_	_
+.	_	7	p	_	_
+

@@ -1,0 +1,23 @@
+PRP$	_	3	poss	_	_
+JJ	_	3	attr	_	_
+NNPS	_	11	nsbj	16:nsbj	_
+,	_	11	p	_	_
+IN	_	6	mark	_	_
+VBP	_	11	advcl	16:advcl	_
+DT	_	6	nsbj	_	_
+IN	_	9	case	_	_
+PRP	_	7	ppmod	_	_
+,	_	11	p	_	_
+VBP	_	0	root	_	_
+JJ	_	13	attr	_	_
+NN	_	11	obj	_	_
+CC	_	11	cc	_	_
+RB	sem=mnr	16	adv	11:adv	_
+VBP	_	11	conj	_	_
+PRP	_	16	obj	_	_
+WRB	sem=tmp	21	adv	_	_
+PRP	_	21	nsbj	_	_
+VBZ	_	21	cop	_	_
+JJ	sem=tmp	16	advcl	_	_
+.	_	11	p	_	_
+

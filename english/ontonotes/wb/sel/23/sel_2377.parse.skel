@@ -1,0 +1,13 @@
+IN	_	5	mark	_	_
+VBG	_	5	lv	_	_
+DT	_	5	det	_	_
+NN	_	5	com	_	_
+NN	_	7	advcl	_	_
+,	_	7	p	_	_
+VB	_	0	root	_	_
+DT	_	10	det	_	_
+JJ	_	10	attr	_	_
+NN	_	7	obj	_	_
+RB	sem=clr	7	adv	_	_
+.	_	7	p	_	_
+

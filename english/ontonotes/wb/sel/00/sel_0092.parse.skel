@@ -1,0 +1,16 @@
+NN	_	14	nsbj	_	_
+TO	_	4	aux	_	_
+RB	sem=mnr	4	adv	6:adv	_
+VB	_	1	acl	_	_
+CC	_	4	cc	_	_
+VB	_	4	conj	_	_
+NN	_	8	com	_	_
+NN	_	9	com	_	_
+NNS	_	6	obj	4:obj	_
+VBZ	_	14	cop	_	_
+DT	_	14	det	_	_
+JJ	_	14	attr	_	_
+NN	_	14	com	_	_
+NN	_	0	root	_	_
+.	_	14	p	_	_
+

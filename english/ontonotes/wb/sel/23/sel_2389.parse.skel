@@ -1,0 +1,26 @@
+VBD	_	0	root	_	_
+:	_	1	p	_	_
+UH	_	12	disc	_	_
+,	_	12	p	_	_
+PRP	_	7	attr	_	_
+JJ	_	7	attr	_	_
+NNS	_	9	nsbj	_	_
+RB	sem=tmp	9	neg	_	_
+VBD	_	12	comp	_	_
+NN	_	9	obj	_	_
+,	_	12	p	_	_
+VBD	_	1	comp	_	_
+NNS	_	12	obj	_	_
+IN	_	20	case	_	_
+DT	_	20	det	_	_
+``	_	20	p	_	_
+JJ	_	20	attr	_	_
+RP	_	17	prt	_	_
+''	_	20	p	_	_
+NN	sem=clr	12	ppmod	_	_
+.	_	1	p	_	_
+:	_	1	p	_	_
+-RRB-	_	1	p	_	_
+-RRB-	_	1	p	_	_
+-RRB-	_	1	p	_	_
+

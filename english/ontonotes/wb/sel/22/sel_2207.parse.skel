@@ -1,0 +1,27 @@
+VB	_	0	root	_	_
+RB	sem=tmp	1	adv	_	_
+,	_	1	p	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+NN	_	1	obj	_	_
+IN	_	8	case	_	_
+NN	_	6	ppmod	_	_
+,	_	1	p	_	_
+CC	_	1	cc	_	_
+IN	_	13	mark	_	_
+NN	_	13	nsbj	_	_
+VBZ	_	16	advcl	_	_
+,	_	16	p	_	_
+RB	sem=mnr	16	adv	_	_
+VB	_	1	conj	_	_
+PRP	_	16	obj	_	_
+IN	_	20	case	_	_
+DT	_	20	det	_	_
+NN	sem=clr	16	ppmod	_	_
+TO	_	22	aux	_	_
+VB	_	20	acl	_	_
+PRP$	_	24	poss	_	_
+NN	_	22	obj	_	_
+.	_	16	p	_	_
+''	_	16	p	_	_
+

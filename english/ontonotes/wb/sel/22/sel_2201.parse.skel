@@ -1,0 +1,15 @@
+NNP	_	2	com	_	_
+NNP	_	3	nsbj	_	_
+VBD	_	0	root	_	_
+:	_	3	p	_	_
+NNP	_	8	nsbj	_	_
+VBP	_	8	aux	_	_
+RB	_	8	adv	_	_
+VB	_	3	comp	_	_
+DT	_	8	obj	_	_
+IN	_	11	case	_	_
+DT	_	9	ppmod	_	_
+IN	_	13	case	_	_
+NN	_	8	ppmod	_	_
+.	_	3	p	_	_
+

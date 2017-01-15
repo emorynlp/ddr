@@ -1,0 +1,22 @@
+NNP	_	2	com	_	_
+NNS	_	5	obj	_	_
+VBP	_	5	aux	_	_
+VBN	_	5	aux	_	_
+VBN	_	0	root	_	_
+IN	_	12	mark	_	_
+NN	_	8	com	_	_
+NN	_	9	com	_	_
+NNS	_	12	nsbj	18:nsbj	_
+MD	_	12	modal	_	_
+RB	sem=tmp	12	adv	_	_
+VB	sem=prp	5	advcl	_	_
+DT	_	16	det	_	_
+NNP	_	16	com	_	_
+NN	_	16	com	_	_
+NN	_	12	obj	_	_
+TO	_	18	aux	_	_
+VB	sem=prp	12	advcl	_	_
+NNP	_	20	com	_	_
+NN	_	18	obj	_	_
+.	_	5	p	_	_
+

@@ -1,0 +1,11 @@
+PRP	_	2	nsbj	5:nsbj	_
+VBD	_	0	root	_	_
+PRP	_	2	obj	_	_
+TO	_	5	aux	_	_
+VB	sem=prp	2	advcl	_	_
+NNS	_	5	obj	_	_
+IN	_	9	case	_	_
+JJ	_	9	attr	_	_
+NNS	_	6	ppmod	_	_
+.	_	2	p	_	_
+

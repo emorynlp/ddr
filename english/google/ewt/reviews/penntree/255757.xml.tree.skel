@@ -1,0 +1,11 @@
+PRP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+DT	_	4	det	_	_
+NNS	_	2	obj	6:obj	_
+NNP	_	6	nsbj	_	_
+VBD	_	4	relcl	_	_
+.	_	2	p	_	_
+
+JJ	_	2	attr	_	_
+NNS	_	0	root	_	_
+

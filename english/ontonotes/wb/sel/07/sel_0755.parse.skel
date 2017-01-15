@@ -1,0 +1,26 @@
+NNP	_	2	com	_	_
+NNP	_	4	com	_	_
+NNP	_	4	com	_	_
+NNP	_	24	dep	_	_
+``	_	24	p	_	_
+PRP	_	8	nsbj	_	_
+MD	_	8	modal	_	_
+VB	_	24	comp	_	_
+DT	_	11	det	_	_
+JJ	_	11	attr	_	_
+NN	_	8	obj	_	_
+IN	_	17	mark	_	_
+IN	_	17	mark	_	_
+PRP	_	17	nsbj	_	_
+RB	_	16	com	_	_
+RB	sem=tmp	17	adv	_	_
+VBP	sem=prp	8	advcl	_	_
+DT	_	20	det	_	_
+JJ	_	20	attr	_	_
+NNS	_	17	obj	_	_
+,	_	24	p	_	_
+''	_	24	p	_	_
+PRP	_	24	nsbj	_	_
+VBD	_	0	root	_	_
+.	_	24	p	_	_
+

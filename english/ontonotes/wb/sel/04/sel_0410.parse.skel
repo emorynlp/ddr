@@ -1,0 +1,18 @@
+DT	_	2	det	_	_
+NN	_	9	nsbj	_	_
+IN	_	5	case	_	_
+PRP$	_	5	poss	_	_
+NNS	_	2	ppmod	_	_
+NN	_	2	appo	_	_
+CC	_	6	cc	_	_
+NN	_	6	conj	_	_
+VBP	_	0	root	_	_
+CD	_	9	obj	_	_
+$	_	10	meta	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+CD	_	10	ppmod	_	_
+IN	_	16	case	_	_
+PRP	_	14	ppmod	_	_
+.	_	9	p	_	_
+

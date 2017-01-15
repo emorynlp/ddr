@@ -1,0 +1,16 @@
+RB	sem=tmp	5	adv	14:adv	_
+PRP	_	5	nsbj	_	_
+VBP	_	5	raise	_	_
+TO	_	5	aux	_	_
+VB	_	0	root	_	_
+IN	_	10	mark	_	_
+PRP	_	10	nsbj	_	_
+MD	_	10	modal	_	_
+VB	_	10	aux	_	_
+VBG	_	5	comp	_	_
+NN	_	10	obj	_	_
+CC	_	5	cc	_	_
+VBP	_	14	cop	_	_
+JJ	_	5	conj	_	_
+.	_	5	p	_	_
+

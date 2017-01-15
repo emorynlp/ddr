@@ -1,0 +1,22 @@
+PRP	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBZ	_	0	root	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NN	sem=clr	3	ppmod	_	_
+IN	_	8	case	_	_
+NNS	_	6	ppmod	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NNPS	_	6	ppmod	_	_
+TO	_	14	aux	_	_
+VB	sem=prp	6	advcl	_	_
+PRP$	_	16	poss	_	_
+NNS	_	14	obj	_	_
+CC	_	14	cc	_	_
+TO	_	19	aux	_	_
+VB	_	14	conj	_	_
+PRP	_	19	obj	_	_
+.	_	3	p	_	_
+

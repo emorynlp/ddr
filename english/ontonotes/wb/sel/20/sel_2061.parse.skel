@@ -1,0 +1,14 @@
+NNP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+:	_	2	p	_	_
+MD	_	6	modal	_	_
+NN	_	6	nsbj	_	_
+VB	_	2	comp	_	_
+PRP	_	6	obj	_	_
+WRB	sem=loc	10	adv	_	_
+TO	_	10	aux	_	_
+VB	_	6	comp	_	_
+NN	_	12	com	_	_
+NNS	_	10	obj	_	_
+.	_	2	p	_	_
+

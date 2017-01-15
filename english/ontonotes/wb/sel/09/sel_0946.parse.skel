@@ -1,0 +1,18 @@
+MD	_	5	modal	_	_
+NN	_	5	nsbj	_	_
+IN	_	4	case	_	_
+NN	sem=loc	2	ppmod	_	_
+VB	_	0	root	_	_
+PRP	_	5	obj	_	_
+WRB	sem=mnr	12	adv	9:adv	_
+TO	_	9	aux	_	_
+VB	_	5	comp	_	_
+PRP	_	9	obj	_	_
+CC	_	9	cc	_	_
+VB	_	9	conj	_	_
+NN	_	12	obj	_	_
+IN	_	16	case	_	_
+DT	_	16	det	_	_
+NN	_	13	ppmod	_	_
+.	_	5	p	_	_
+

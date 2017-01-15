@@ -1,0 +1,12 @@
+RB	sem=tmp	8	adv	_	_
+,	_	8	p	_	_
+WRB	sem=tmp	5	adv	_	_
+PRP	_	5	nsbj	_	_
+VBP	sem=tmp	8	advcl	_	_
+IN	_	7	case	_	_
+NN	sem=clr	5	ppmod	_	_
+VBP	_	0	root	_	_
+VBG	_	8	comp	_	_
+RB	_	9	adv	_	_
+.	_	8	p	_	_
+

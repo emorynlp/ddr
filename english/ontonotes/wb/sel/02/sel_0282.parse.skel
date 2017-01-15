@@ -1,0 +1,7 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+PRP	_	2	obj	5:nsbj	_
+NNP	_	5	com	_	_
+NN	sem=clr	2	comp	_	_
+.	_	2	p	_	_
+

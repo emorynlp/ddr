@@ -1,0 +1,18 @@
+PRP	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+RP	_	2	prt	_	_
+WRB	sem=mnr	14	adv	_	_
+NNPS	_	14	obj	_	_
+-LRB-	_	5	p	_	_
+CC	_	5	cc	_	_
+NNPS	_	5	conj	_	_
+CC	_	8	cc	_	_
+NNPS	_	5	conj	_	_
+-RRB-	_	10	p	_	_
+VBP	_	14	aux	_	_
+VBN	_	14	aux	_	_
+VBN	_	2	comp	_	_
+IN	_	16	case	_	_
+CD	_	14	nsbj	_	_
+.	_	2	p	_	_
+

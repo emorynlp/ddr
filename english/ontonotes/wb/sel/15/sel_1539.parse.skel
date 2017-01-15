@@ -1,0 +1,18 @@
+CC	_	14	cc	_	_
+IN	_	5	mark	_	_
+NN	_	5	obj	_	_
+VBZ	_	5	aux	_	_
+VBN	_	14	advcl	_	_
+IN	_	8	case	_	_
+CD	_	8	num	_	_
+NNS	sem=mnr	5	ppmod	_	_
+,	_	14	p	_	_
+RB	_	14	adv	_	_
+VBG	_	14	csbj	_	_
+CD	_	11	obj	_	_
+MD	_	14	modal	_	_
+VB	_	0	root	_	_
+PRP$	_	16	poss	_	_
+NN	_	14	obj	_	_
+.	_	14	p	_	_
+

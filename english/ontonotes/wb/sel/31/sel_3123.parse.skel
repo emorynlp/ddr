@@ -1,0 +1,26 @@
+CC	_	3	cc	_	_
+RB	_	3	adv	_	_
+VB	_	0	root	_	_
+DT	_	5	det	_	_
+NN	_	3	obj	_	_
+IN	_	9	case	_	_
+RB	_	8	com	_	_
+RB	sem=mnr	9	adv	_	_
+VBG	_	5	ppmod	_	_
+IN	_	11	case	_	_
+NN	sem=clr	9	ppmod	_	_
+CC	_	3	cc	_	_
+RB	sem=tmp	14	adv	3:adv	_
+VB	_	3	conj	_	_
+PRP	_	14	obj	_	_
+IN	_	17	case	_	_
+NN	sem=loc	14	ppmod	_	_
+WRB	sem=tmp	20	adv	_	_
+PRP	_	20	nsbj	_	_
+VBZ	sem=tmp	14	advcl	_	_
+RB	_	20	adv	_	_
+,	_	20	p	_	_
+IN	_	24	mark	_	_
+VBN	_	20	advcl	_	_
+.	_	3	p	_	_
+

@@ -1,0 +1,18 @@
+DT	_	2	det	_	_
+NN	_	8	nsbj	_	_
+IN	_	5	case	_	_
+JJ	_	5	attr	_	_
+NN	_	2	ppmod	_	_
+VBZ	_	8	raise	_	_
+TO	_	8	aux	_	_
+VB	_	0	root	_	_
+VB	_	11	aux	_	_
+RB	_	11	neg	_	_
+VB	_	8	comp	_	_
+NN	_	11	obj	14:obj	_
+PRP	_	14	nsbj	_	_
+VBP	_	12	relcl	_	_
+IN	_	16	case	_	_
+NNP	sem=loc	14	ppmod	_	_
+.	_	8	p	_	_
+

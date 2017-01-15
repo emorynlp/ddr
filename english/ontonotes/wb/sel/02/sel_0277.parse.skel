@@ -1,0 +1,19 @@
+PRP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+NNP	_	4	nsbj	_	_
+VB	_	2	comp	_	_
+RP	_	4	prt	_	_
+IN	_	7	case	_	_
+NN	_	4	ppmod	_	_
+IN	_	10	mark	_	_
+PRP	_	10	nsbj	_	_
+VBD	sem=tmp	4	advcl	_	_
+NN	_	10	obj	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+NN	sem=clr	10	ppmod	_	_
+IN	_	17	case	_	_
+DT	_	17	det	_	_
+NNS	_	14	ppmod	_	_
+.	_	2	p	_	_
+

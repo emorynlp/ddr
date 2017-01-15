@@ -1,0 +1,25 @@
+CC	_	6	cc	_	_
+CC	_	6	cc	_	_
+DT	_	4	det	_	_
+NN	_	6	nsbj	_	_
+MD	_	6	modal	_	_
+VB	_	0	root	_	_
+DT	_	8	det	_	_
+NNS	_	6	obj	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	sem=loc	8	ppmod	_	_
+VBG	_	14	adv	_	_
+DT	_	14	det	_	_
+NN	_	8	ppmod	_	_
+CC	_	6	cc	_	_
+NNS	_	17	nsbj	_	_
+VBP	_	6	conj	_	_
+NN	_	19	com	_	_
+NNS	_	17	obj	_	_
+IN	_	23	case	_	_
+DT	_	23	det	_	_
+JJ	_	23	attr	_	_
+NNS	_	19	ppmod	_	_
+.	_	17	p	_	_
+

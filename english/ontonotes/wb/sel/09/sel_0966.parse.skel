@@ -1,0 +1,23 @@
+DT	_	4	nsbj	_	_
+VBZ	_	4	cop	_	_
+DT	_	4	det	_	_
+NN	_	0	root	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+JJ	_	8	attr	_	_
+NNS	_	4	ppmod	10:nsbj;16:nsbj	_
+WP	_	10	r-nsbj	_	_
+VBP	_	8	relcl	_	_
+NN	_	10	obj	_	_
+RB	sem=mnr	10	adv	_	_
+CC	_	10	cc	_	_
+WP	_	16	r-nsbj	_	_
+RB	sem=tmp	16	neg	_	_
+VBP	_	10	conj	_	_
+DT	_	18	det	_	_
+JJ	_	16	obj	_	_
+IN	_	21	case	_	_
+PRP$	_	21	poss	_	_
+NNS	sem=clr	16	ppmod	_	_
+.	_	4	p	_	_
+

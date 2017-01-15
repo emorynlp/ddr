@@ -1,0 +1,16 @@
+PRP	_	5	nsbj	_	_
+MD	_	5	modal	_	_
+VB	_	5	raise	_	_
+TO	_	5	aux	_	_
+VB	_	0	root	_	_
+RP	_	5	prt	_	_
+DT	_	8	det	_	_
+NN	_	5	obj	_	_
+IN	_	13	mark	_	_
+DT	_	11	det	_	_
+NNS	_	13	nsbj	_	_
+RB	_	13	adv	_	_
+VBP	sem=tmp	5	advcl	_	_
+RP	_	13	prt	_	_
+.	_	5	p	_	_
+

@@ -1,0 +1,12 @@
+PRP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NN	_	6	com	_	_
+NN	sem=clr	2	ppmod	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+JJ	_	10	attr	_	_
+NN	sem=loc	2	ppmod	_	_
+.	_	2	p	_	_
+

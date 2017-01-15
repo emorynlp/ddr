@@ -1,0 +1,9 @@
+PRP	_	3	obj	5:nsbj	_
+VBP	_	3	aux	_	_
+VBN	_	0	root	_	_
+TO	_	5	aux	_	_
+VB	sem=clr	3	comp	_	_
+TO	_	7	aux	_	_
+VB	_	5	dep	_	_
+.	_	3	p	_	_
+

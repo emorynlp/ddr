@@ -1,0 +1,15 @@
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+``	_	5	p	_	_
+NN	_	5	com	_	_
+NN	_	7	nsbj	_	_
+MD	_	7	modal	_	_
+VB	_	0	root	_	_
+JJ	_	7	dep	_	_
+PRP$	_	10	poss	_	_
+NN	_	11	nsbj	_	_
+VBZ	_	8	comp	_	_
+DT	_	13	det	_	_
+NN	_	11	obj	_	_
+.	_	7	p	_	_
+

@@ -1,0 +1,19 @@
+VBD	_	10	advcl	_	_
+PDT	_	4	det	_	_
+DT	_	4	det	_	_
+NN	_	1	obj	_	_
+RB	_	4	adv	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	sem=dir	1	ppmod	_	_
+,	_	10	p	_	_
+VBD	_	0	root	_	_
+IN	_	12	case	_	_
+CD	sem=tmp	10	ppmod	_	_
+.	_	10	p	_	_
+
+WP	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+DT	_	2	obj	_	_
+.	_	2	p	_	_
+

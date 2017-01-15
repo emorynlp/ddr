@@ -1,0 +1,22 @@
+IN	_	4	case	_	_
+DT	_	4	det	_	_
+JJ	_	4	attr	_	_
+NNS	sem=tmp	7	ppmod	_	_
+,	_	7	p	_	_
+PRP	_	7	nsbj	_	_
+VBP	_	0	root	_	_
+NNS	_	11	nsbj	_	_
+IN	_	10	case	_	_
+NN	_	8	ppmod	_	_
+JJ	_	7	comp	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+JJ	_	15	attr	_	_
+NN	_	11	ppmod	_	_
+IN	_	20	case	_	_
+DT	_	18	det	_	_
+NN	_	20	poss	_	_
+POS	_	18	case	_	_
+NN	_	15	ppmod	_	_
+.	_	7	p	_	_
+

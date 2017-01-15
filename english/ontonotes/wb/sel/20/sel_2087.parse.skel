@@ -1,0 +1,14 @@
+PRP	_	4	nsbj	7:nsbj	_
+VBP	_	4	aux	_	_
+RB	_	4	neg	_	_
+VBG	_	0	root	_	_
+RB	_	7	adv	_	_
+TO	_	7	aux	_	_
+VB	sem=prp	4	advcl	_	_
+PRP	_	7	dat	_	_
+PRP$	_	11	poss	_	_
+JJ	_	11	attr	_	_
+NNS	_	7	obj	_	_
+RB	_	7	adv	_	_
+.	_	4	p	_	_
+

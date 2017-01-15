@@ -1,0 +1,13 @@
+DT	_	3	det	_	_
+JJ	_	3	attr	_	_
+NN	_	11	nsbj	4:obj	_
+VBN	_	3	acl	_	_
+TO	_	6	aux	_	_
+VB	sem=prp	4	advcl	_	_
+DT	_	9	det	_	_
+NN	_	9	com	_	_
+NNS	_	6	obj	_	_
+VBZ	_	11	cop	_	_
+JJ	_	0	root	_	_
+.	_	11	p	_	_
+

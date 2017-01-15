@@ -1,0 +1,9 @@
+CC	_	3	cc	_	_
+NNS	_	3	nsbj	_	_
+VBP	_	0	root	_	_
+IN	_	5	case	_	_
+PRP	sem=clr	3	ppmod	_	_
+DT	_	7	det	_	_
+NN	sem=tmp	3	advnp	_	_
+.	_	3	p	_	_
+

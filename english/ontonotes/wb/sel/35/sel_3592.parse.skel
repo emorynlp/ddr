@@ -1,0 +1,22 @@
+PRP	_	2	nsbj	5:nsbj	_
+VBP	_	0	root	_	_
+TO	_	5	aux	_	_
+RB	_	5	adv	_	_
+VB	_	2	comp	_	_
+NN	_	5	obj	_	_
+IN	_	8	case	_	_
+NN	sem=clr	5	ppmod	_	_
+IN	_	11	case	_	_
+NN	_	11	com	_	_
+NNS	sem=loc	5	ppmod	_	_
+VBG	_	11	acl	_	_
+IN	_	16	case	_	_
+JJ	_	16	attr	_	_
+JJ	_	16	attr	_	_
+NNS	sem=clr	12	ppmod	_	_
+CC	_	16	cc	_	_
+NN	_	19	com	_	_
+NN	_	16	conj	_	_
+NFP	_	2	p	_	_
+VBG	_	2	dep	_	_
+

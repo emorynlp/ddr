@@ -1,0 +1,22 @@
+PRP	_	2	nsbj	_	_
+VBP	_	12	comp	_	_
+,	_	12	p	_	_
+PRP	_	6	expl	_	_
+VBZ	_	6	cop	_	_
+JJ	_	12	comp	_	_
+TO	_	8	aux	_	_
+VB	_	6	csbj	_	_
+,	_	12	p	_	_
+PRP	_	12	nsbj	18:nsbj	_
+MD	_	12	modal	_	_
+VB	_	0	root	_	_
+DT	_	12	obj	_	_
+,	_	12	p	_	_
+RB	sem=tmp	12	adv	_	_
+VB	_	12	dep	_	_
+TO	_	18	aux	_	_
+VB	_	16	comp	_	_
+DT	_	20	det	_	_
+NN	_	18	obj	_	_
+.	_	12	p	_	_
+

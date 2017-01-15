@@ -1,0 +1,27 @@
+NNP	_	4	com	_	B-PERSON
+NNP	_	4	com	_	I-PERSON
+NNP	_	4	com	_	I-PERSON
+NNP	_	11	obj	13:nsbj	L-PERSON
+,	_	4	p	_	O
+CD	_	7	num	_	B-DATE
+NNS	_	8	advnp	_	I-DATE
+JJ	_	4	attr	_	L-DATE
+,	_	4	p	_	O
+VBD	_	11	aux	_	O
+VBN	_	0	root	_	O
+DT	_	13	det	_	O
+NN	sem=clr	11	comp	_	O
+IN	_	18	case	_	O
+DT	_	18	det	_	O
+VBN	_	18	attr	_	O
+NNS	_	18	com	_	O
+NN	_	13	ppmod	_	O
+,	_	11	p	_	O
+VBG	_	11	advcl	_	O
+DT	_	22	det	_	O
+NN	_	20	obj	_	O
+IN	_	25	case	_	O
+CD	_	25	num	_	U-CARDINAL
+NNS	sem=dir	20	ppmod	_	O
+.	_	11	p	_	O
+

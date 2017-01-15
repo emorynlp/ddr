@@ -1,0 +1,23 @@
+EX	_	3	expl	_	_
+VBP	_	3	cop	_	_
+NNS	_	0	root	6:nsbj	_
+WP	_	6	r-nsbj	_	_
+MD	_	6	modal	_	_
+VB	_	3	relcl	_	_
+RB	sem=mnr	6	adv	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+JJ	_	11	attr	_	_
+NN	sem=mnr	6	ppmod	_	_
+-LRB-	_	11	p	_	_
+CC	_	11	cc	_	_
+JJ	_	15	attr	_	_
+NNS	_	11	conj	_	_
+-RRB-	_	15	p	_	_
+CC	_	3	cc	_	_
+NNS	_	3	conj	20:nsbj	_
+WP	_	20	r-nsbj	_	_
+MD	_	18	relcl	_	_
+RB	_	20	neg	_	_
+.	_	3	p	_	_
+

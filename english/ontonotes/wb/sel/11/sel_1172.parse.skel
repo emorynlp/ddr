@@ -1,0 +1,17 @@
+NFP	_	4	p	_	_
+NNP	_	4	voc	_	_
+PRP	_	4	nsbj	_	_
+VBP	_	0	root	_	_
+IN	_	9	mark	_	_
+DT	_	8	det	_	_
+HYPH	_	8	p	_	_
+NN	_	9	nsbj	_	_
+VBD	_	4	comp	_	_
+VBG	_	9	comp	_	_
+DT	_	15	det	_	_
+``	_	15	p	_	_
+NNS	_	15	attr	_	_
+''	_	15	p	_	_
+NN	_	10	obj	_	_
+.	_	4	p	_	_
+

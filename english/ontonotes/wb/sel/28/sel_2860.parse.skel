@@ -1,0 +1,23 @@
+PRP	_	2	nsbj	_	_
+VBZ	_	0	root	_	_
+IN	_	7	mark	_	_
+IN	_	7	mark	_	_
+PRP	_	7	nsbj	_	_
+MD	_	7	modal	_	_
+VB	_	2	comp	_	_
+DT	_	9	det	_	_
+NN	_	7	obj	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+NN	sem=clr	7	ppmod	_	_
+IN	_	15	case	_	_
+NN	_	15	com	_	_
+NNS	_	12	ppmod	_	_
+IN	_	18	case	_	_
+JJ	_	18	attr	_	_
+NNS	_	12	ppmod	_	_
+IN	_	21	mark	_	_
+MD	_	21	modal	_	_
+VB	_	7	advcl	_	_
+.	_	2	p	_	_
+

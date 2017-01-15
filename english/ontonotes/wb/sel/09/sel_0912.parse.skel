@@ -1,0 +1,18 @@
+VBP	_	16	advcl	_	_
+WRB	_	3	adv	_	_
+JJ	_	7	obj	_	_
+NN	_	5	com	_	_
+NNS	_	7	nsbj	_	_
+VBP	_	7	aux	_	_
+VBN	_	1	comp	_	_
+IN	_	10	case	_	_
+NN	_	10	com	_	_
+NNS	_	7	ppmod	_	_
+VBP	_	16	aux	_	_
+RB	_	16	adv	_	_
+NN	_	14	com	_	_
+NNS	_	16	obj	_	_
+VB	_	16	aux	_	_
+VBN	_	0	root	_	_
+.	_	16	p	_	_
+

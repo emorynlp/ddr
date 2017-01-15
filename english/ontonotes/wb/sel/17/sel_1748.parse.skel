@@ -1,0 +1,12 @@
+DT	_	2	det	_	_
+NNS	_	8	nsbj	_	_
+PRP	_	4	nsbj	_	_
+VBP	_	2	relcl	_	_
+VBN	_	4	comp	_	_
+RB	_	8	adv	_	_
+RB	sem=tmp	8	adv	_	_
+VBP	_	0	root	_	_
+DT	_	10	det	_	_
+NN	_	8	obj	_	_
+.	_	8	p	_	_
+

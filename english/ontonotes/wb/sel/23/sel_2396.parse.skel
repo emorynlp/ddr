@@ -1,0 +1,21 @@
+VB	_	0	root	_	_
+RP	_	1	prt	_	_
+RB	_	4	com	_	_
+RB	sem=mnr	1	adv	_	_
+IN	_	6	case	_	_
+JJ	_	4	ppmod	_	_
+CC	_	1	cc	_	_
+VB	_	1	conj	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+JJ	_	13	attr	_	_
+NN	_	13	com	_	_
+NN	sem=loc	8	ppmod	_	_
+CC	_	13	cc	_	_
+NN	_	13	conj	_	_
+,	_	8	p	_	_
+NN	_	18	com	_	_
+NN	_	19	nsbj	_	_
+RB	_	1	advcl	_	_
+.	_	1	p	_	_
+

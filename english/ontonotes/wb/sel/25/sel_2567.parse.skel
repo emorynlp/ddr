@@ -1,0 +1,12 @@
+PRP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	2	obj	_	_
+VBG	_	4	acl	_	_
+TO	_	7	aux	_	_
+VB	_	5	comp	_	_
+PRP	_	7	obj	_	_
+RP	_	7	prt	_	_
+RB	sem=mnr	7	adv	_	_
+.	_	2	p	_	_
+

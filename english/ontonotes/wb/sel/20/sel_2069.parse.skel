@@ -1,0 +1,16 @@
+UH	_	2	disc	_	_
+RB	_	0	root	_	_
+NNP	_	2	voc	_	_
+:	_	2	p	_	_
+CC	_	2	cc	_	_
+UH	_	7	disc	_	_
+VB	_	2	conj	_	_
+NNP	_	7	obj	_	_
+IN	_	14	mark	_	_
+PRP	_	14	nsbj	_	_
+VBZ	_	14	cop	_	_
+DT	_	14	det	_	_
+JJ	_	14	attr	_	_
+NN	_	7	comp	_	_
+.	_	7	p	_	_
+

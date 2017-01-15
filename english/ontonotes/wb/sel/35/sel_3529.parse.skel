@@ -1,0 +1,15 @@
+IN	_	2	mark	_	_
+VBN	_	10	advcl	_	_
+,	_	10	p	_	_
+RB	sem=tmp	5	adv	_	_
+VBG	_	10	csbj	_	_
+DT	_	8	det	_	_
+NN	_	8	com	_	_
+NN	_	5	obj	_	_
+RB	sem=tmp	10	adv	_	_
+VBD	_	0	root	_	_
+DT	_	13	det	_	_
+NN	_	13	com	_	_
+NN	_	10	obj	_	_
+.	_	10	p	_	_
+

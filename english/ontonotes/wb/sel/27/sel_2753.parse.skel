@@ -1,0 +1,25 @@
+PRP	_	2	nsbj	3:nsbj;5:nsbj;6:nsbj;11:nsbj;12:nsbj;20:nsbj	_
+VBP	_	0	root	_	_
+JJ	_	2	comp	_	_
+,	_	2	p	_	_
+VBP	_	2	conj	_	_
+JJ	_	5	comp	_	_
+CC	_	5	cc	_	_
+MD	_	11	modal	_	_
+RB	_	10	com	_	_
+RB	_	11	adv	_	_
+VB	_	2	conj	_	_
+JJ	sem=clr	11	comp	_	_
+,	_	11	p	_	_
+IN	_	20	mark	_	_
+DT	_	17	det	_	_
+JJ	_	17	attr	_	_
+NN	_	20	nsbj	_	_
+VBP	_	20	raise	_	_
+TO	_	20	aux	_	_
+VB	sem=tmp	2	advcl	_	_
+RP	_	20	prt	_	_
+DT	_	23	det	_	_
+NNS	_	20	obj	_	_
+.	_	2	p	_	_
+

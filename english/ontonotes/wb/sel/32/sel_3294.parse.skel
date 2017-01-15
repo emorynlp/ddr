@@ -1,0 +1,16 @@
+IN	_	2	case	_	_
+JJ	_	5	ppmod	_	_
+,	_	5	p	_	_
+NNP	_	5	nsbj	_	_
+VBZ	_	0	root	_	_
+NNS	_	5	obj	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NN	_	10	com	_	_
+NNS	_	6	ppmod	_	_
+-LRB-	_	5	p	_	_
+WDT	_	13	nsbj	_	_
+VBZ	_	5	advcl	_	_
+.	_	5	p	_	_
+-RRB-	_	5	p	_	_
+

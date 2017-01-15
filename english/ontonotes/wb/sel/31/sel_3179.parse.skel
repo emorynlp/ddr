@@ -1,0 +1,18 @@
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBP	sem=tmp	12	advcl	_	_
+DT	_	5	det	_	_
+NNS	_	9	nsbj	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	_	5	ppmod	_	_
+RB	sem=clr	3	comp	_	_
+,	_	12	p	_	_
+RB	sem=mnr	12	adv	_	_
+VB	_	0	root	_	_
+DT	_	16	det	_	_
+NN	_	15	advnp	_	_
+VBN	_	16	attr	_	_
+NN	_	12	obj	_	_
+.	_	12	p	_	_
+

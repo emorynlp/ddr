@@ -1,0 +1,21 @@
+IN	_	4	mark	_	_
+PRP	_	4	nsbj	_	_
+MD	_	4	modal	_	_
+VB	_	10	advcl	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	_	8	com	_	_
+NN	sem=clr	4	ppmod	_	_
+,	_	10	p	_	_
+VB	_	0	root	_	_
+TO	_	12	aux	_	_
+VB	_	10	comp	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+NN	sem=clr	12	ppmod	_	_
+VBG	_	15	acl	_	_
+DT	_	19	det	_	_
+JJS	_	19	attr	_	_
+NN	_	16	obj	_	_
+.	_	10	p	_	_
+

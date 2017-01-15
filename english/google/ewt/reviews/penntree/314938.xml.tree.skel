@@ -1,0 +1,9 @@
+DT	_	3	det	_	_
+JJS	_	3	attr	_	_
+NN	_	0	root	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NNP	_	7	com	_	_
+NNP	sem=loc	3	ppmod	_	_
+.	_	3	p	_	_
+

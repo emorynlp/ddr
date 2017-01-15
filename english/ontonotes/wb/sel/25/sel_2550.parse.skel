@@ -1,0 +1,26 @@
+CC	_	3	cc	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	0	root	_	_
+PRP	_	6	nsbj	_	_
+RB	sem=tmp	6	adv	_	_
+VBP	_	3	comp	_	_
+DT	_	8	det	_	_
+NN	_	6	obj	_	_
+IN	_	11	case	_	_
+PRP$	_	11	poss	_	_
+NNS	_	8	ppmod	_	_
+IN	_	15	case	_	_
+WRB	sem=mnr	15	adv	_	_
+TO	_	15	aux	_	_
+VB	_	8	ppmod	_	_
+JJ	_	19	attr	_	_
+NN	_	19	com	_	_
+NNS	_	19	com	_	_
+NNS	_	15	obj	_	_
+IN	_	24	case	_	_
+DT	_	24	det	_	_
+JJ	_	24	attr	_	_
+NN	_	24	com	_	_
+NN	sem=clr	15	ppmod	_	_
+.	_	3	p	_	_
+

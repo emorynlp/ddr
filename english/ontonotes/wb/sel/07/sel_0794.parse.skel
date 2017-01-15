@@ -1,0 +1,13 @@
+``	_	11	p	_	_
+DT	_	3	det	_	_
+NNS	_	5	nsbj	4:obj	_
+VBN	_	3	acl	_	_
+VBP	_	11	comp	_	_
+JJ	_	7	attr	_	_
+NNS	_	5	obj	_	_
+,	_	11	p	_	_
+''	_	11	p	_	_
+PRP	_	11	nsbj	_	_
+VBD	_	0	root	_	_
+.	_	11	p	_	_
+

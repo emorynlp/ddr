@@ -1,0 +1,27 @@
+PRP	_	2	nsbj	_	_
+VBP	_	16	comp	_	_
+DT	_	9	det	_	_
+VBN	_	9	attr	_	_
+HYPH	_	4	p	_	_
+IN	_	8	case	_	_
+HYPH	_	8	p	_	_
+RB	sem=clr	4	ppmod	_	_
+NN	_	13	obj	_	_
+RB	_	11	com	_	_
+RB	sem=tmp	13	adv	_	_
+VBZ	_	13	aux	_	_
+VBN	_	2	comp	_	_
+:	_	16	p	_	_
+NN	_	16	nsbj	_	_
+VBZ	_	0	root	_	_
+,	_	16	p	_	_
+RB	sem=tmp	23	adv	_	_
+NNS	_	23	obj	_	_
+RB	_	23	adv	_	_
+VBP	_	23	aux	_	_
+VB	_	23	aux	_	_
+VBN	_	16	comp	_	_
+IN	_	25	case	_	_
+RB	sem=clr	23	ppmod	_	_
+.	_	16	p	_	_
+

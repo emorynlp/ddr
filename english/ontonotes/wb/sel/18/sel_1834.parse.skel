@@ -1,0 +1,22 @@
+IN	_	2	mark	_	_
+JJ	_	10	advcl	_	_
+NN	_	4	com	_	_
+NNS	_	10	nsbj	_	_
+RB	sem=tmp	10	adv	_	_
+VBP	_	10	lv	_	_
+PRP$	_	10	poss	_	_
+JJ	_	10	attr	_	_
+JJ	_	10	attr	_	_
+NNS	_	0	root	_	_
+,	_	10	p	_	_
+VBG	_	10	advcl	_	_
+DT	_	15	det	_	_
+JJ	_	15	attr	_	_
+NN	_	12	obj	17:nsbj	_
+TO	_	17	aux	_	_
+VB	_	15	relcl	_	_
+DT	_	20	det	_	_
+VBG	_	20	attr	_	_
+NNS	_	17	obj	_	_
+.	_	10	p	_	_
+

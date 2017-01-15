@@ -1,0 +1,21 @@
+PRP	_	5	nsbj	_	_
+RB	_	5	adv	_	_
+VBP	_	5	raise	_	_
+TO	_	5	aux	_	_
+VB	_	0	root	_	_
+PRP	_	5	obj	_	_
+IN	_	19	mark	_	_
+IN	_	19	mark	_	_
+DT	_	11	det	_	_
+JJ	_	11	attr	_	_
+NNS	_	19	obj	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+NN	_	15	com	_	_
+NN	_	11	ppmod	17:obj	_
+PRP	_	17	nsbj	_	_
+VBP	_	15	relcl	_	_
+VBP	_	19	aux	_	_
+VBN	sem=prp	5	advcl	_	_
+.	_	5	p	_	_
+

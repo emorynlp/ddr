@@ -1,0 +1,13 @@
+IN	_	5	case	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+JJ	_	5	attr	_	_
+NNS	_	8	ppmod	_	_
+PRP	_	8	nsbj	_	_
+MD	_	8	modal	_	_
+VB	_	0	root	_	_
+DT	_	11	det	_	_
+JJ	_	11	attr	_	_
+NNS	_	8	obj	_	_
+.	_	8	p	_	_
+

@@ -1,0 +1,119 @@
+VBG	_	0	root	_	O
+VBZ	_	1	aux	_	O
+DT	_	5	det	_	O
+JJ	_	5	attr	_	U-DATE
+NN	_	1	nsbj	_	O
+IN	_	10	case	_	O
+JJ	_	10	attr	_	O
+JJ	_	10	attr	_	O
+NN	_	10	com	_	O
+NNS	_	5	ppmod	_	O
+IN	_	16	case	_	O
+RB	_	13	adv	_	O
+VBN	_	16	attr	_	O
+NN	_	15	com	_	O
+NN	_	16	com	_	O
+NNS	_	10	ppmod	18:obj	O
+,	_	16	p	_	O
+VBN	_	16	acl	_	O
+IN	_	21	case	_	O
+DT	_	21	det	_	O
+NNS	_	18	nsbj	_	O
+IN	_	26	case	_	O
+IN	_	26	case	_	O
+NNP	_	26	poss	_	U-DATE
+POS	_	24	case	_	O
+NN	sem=tmp	18	ppmod	_	O
+.	_	1	p	_	O
+
+RB	_	2	adv	_	_
+VBN	_	0	root	_	_
+VBZ	_	2	aux	_	_
+DT	_	8	det	_	_
+JJ	_	8	attr	_	_
+JJ	_	8	attr	_	_
+NN	_	8	com	_	_
+NN	_	2	obj	_	_
+CC	_	8	cc	_	_
+DT	_	17	det	_	_
+NN	_	17	attr	_	_
+HYPH	_	11	p	_	_
+IN	_	15	case	_	_
+HYPH	_	15	p	_	_
+NN	_	11	ppmod	_	_
+VBN	_	17	attr	_	_
+NN	_	8	conj	_	_
+IN	_	22	case	_	_
+DT	_	20	det	_	_
+NN	_	22	poss	_	_
+POS	_	20	case	_	_
+NNS	_	8	ppmod	_	_
+,	_	8	p	_	_
+IN	_	26	case	_	_
+DT	_	26	det	_	_
+NN	_	8	ppmod	_	_
+IN	_	28	case	_	_
+NN	_	26	ppmod	_	_
+.	_	2	p	_	_
+
+JJ	_	2	attr	_	_
+NN	_	3	com	_	_
+NN	_	4	com	_	_
+NNS	_	0	root	_	_
+
+JJ	_	2	attr	_	_
+NN	_	3	com	_	_
+NNS	_	0	root	_	_
+
+JJ	_	2	attr	_	_
+NN	_	5	attr	_	_
+CC	_	2	cc	_	_
+JJ	_	2	conj	_	_
+NNS	_	0	root	_	_
+
+LS	_	3	meta	_	_
+:	_	3	p	_	_
+NN	_	0	root	_	_
+.	_	3	p	_	_
+
+LS	_	7	meta	_	O
+:	_	7	p	_	O
+IN	_	7	case	_	O
+IN	_	7	case	_	O
+NNP	_	7	poss	_	U-DATE
+POS	_	5	case	_	O
+NN	sem=tmp	0	root	_	O
+.	_	7	p	_	O
+
+LS	_	3	meta	_	_
+:	_	3	p	_	_
+VBN	_	0	root	_	_
+IN	_	8	case	_	_
+NNP	_	6	com	_	_
+NNP	_	8	com	_	_
+NN	_	8	com	_	_
+NN	sem=clr	3	ppmod	_	_
+.	_	3	p	_	_
+
+LS	_	5	meta	_	O
+:	_	5	p	_	O
+IN	_	5	case	_	O
+JJ	_	5	attr	_	U-NORP
+NNS	_	0	root	_	O
+.	_	5	p	_	O
+
+LS	_	7	meta	_	O
+:	_	7	p	_	O
+IN	_	7	case	_	O
+IN	_	7	case	_	O
+NNP	_	7	poss	_	U-DATE
+POS	_	5	case	_	O
+NN	sem=tmp	0	root	_	O
+.	_	7	p	_	O
+
+LS	_	4	meta	_	_
+:	_	4	p	_	_
+RB	_	4	neg	_	_
+JJ	_	0	root	_	_
+.	_	4	p	_	_
+

@@ -1,0 +1,26 @@
+PRP	_	3	nsbj	11:nsbj;18:nsbj	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+JJ	_	6	attr	_	_
+``	_	6	p	_	_
+NNS	_	3	obj	_	_
+''	_	6	p	_	_
+IN	_	9	case	_	_
+NNP	_	6	ppmod	_	_
+CC	_	3	cc	_	_
+VB	_	3	conj	_	_
+JJ	_	13	attr	_	_
+NNS	_	11	obj	_	_
+TO	_	18	aux	_	_
+VB	_	18	lv	_	_
+DT	_	18	det	_	_
+JJ	_	18	attr	_	_
+NN	sem=prp	11	advcl	3:advcl	_
+IN	_	20	case	_	_
+NNS	_	18	ppmod	_	_
+VBG	_	20	acl	_	_
+IN	_	24	case	_	_
+DT	_	24	det	_	_
+NN	sem=dir	21	ppmod	_	_
+.	_	3	p	_	_
+

@@ -1,0 +1,10 @@
+PRP	_	4	nsbj	_	_
+RB	_	3	com	_	_
+RB	sem=tmp	4	adv	_	_
+VBP	_	0	root	_	_
+NNS	_	4	obj	_	_
+IN	_	9	mark	_	_
+NN	_	8	com	_	_
+NNP	_	9	nsbj	_	_
+VBD	sem=tmp	4	advcl	_	_
+

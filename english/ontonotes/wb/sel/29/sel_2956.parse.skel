@@ -1,0 +1,20 @@
+RB	sem=tmp	2	neg	_	_
+VB	_	0	root	_	_
+JJR	_	5	attr	_	_
+IN	_	3	com	_	_
+CD	_	6	num	_	_
+NN	_	2	obj	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+JJ	_	10	attr	_	_
+NN	sem=loc	2	ppmod	_	_
+,	_	2	p	_	_
+RB	_	2	adv	_	_
+VB	_	2	dep	_	_
+DT	_	13	obj	_	_
+IN	_	18	case	_	_
+PRP$	_	18	poss	_	_
+JJ	_	18	attr	_	_
+NN	sem=loc	13	ppmod	_	_
+.	_	2	p	_	_
+

@@ -1,0 +1,62 @@
+VBZ	_	5	cop	_	_
+NNP	_	5	nsbj	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+NN	_	0	root	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	_	5	ppmod	_	_
+.	_	5	p	_	_
+
+PRP	_	3	nsbj	_	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+PRP	_	3	obj	5:nsbj	_
+NNP	sem=clr	3	comp	_	_
+IN	_	7	case	_	_
+JJ	_	3	ppmod	_	_
+
+PRP	_	2	nsbj	_	_
+VBP	_	16	comp	_	_
+DT	_	4	det	_	_
+NN	_	2	obj	5:obj;6:nsbj	_
+VBN	_	4	acl	_	_
+NNP	sem=clr	5	comp	_	_
+,	_	16	p	_	_
+RB	_	16	adv	_	_
+UH	_	16	disc	_	_
+,	_	16	p	_	_
+NNP	_	16	nsbj	_	_
+VBZ	_	16	cop	_	_
+RB	_	16	neg	_	_
+DT	_	16	det	_	_
+JJ	_	16	attr	_	_
+NN	_	0	root	_	_
+.	_	16	p	_	_
+
+PRP	_	4	nsbj	_	_
+VBZ	_	4	cop	_	_
+PRP$	_	4	poss	_	_
+NN	_	7	comp	_	_
+PRP	_	7	nsbj	_	_
+MD	_	7	modal	_	_
+VB	_	0	root	_	_
+DT	_	9	det	_	_
+NN	_	7	obj	11:obj	_
+PRP	_	11	nsbj	_	_
+VBP	_	9	relcl	_	_
+
+UH	_	0	root	_	_
+UH	_	1	disc	_	_
+.	_	1	p	_	_
+
+DT	_	5	nsbj	_	_
+VBZ	_	5	cop	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+NN	_	0	root	_	_
+.	_	5	p	_	_
+
+NN	_	0	root	_	_
+.	_	1	p	_	_
+

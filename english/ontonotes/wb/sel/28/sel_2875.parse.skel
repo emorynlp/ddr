@@ -1,0 +1,14 @@
+CC	_	5	cc	_	_
+MD	_	5	modal	_	_
+RB	_	5	neg	_	_
+PRP	_	5	nsbj	_	_
+VB	_	0	root	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	sem=clr	5	ppmod	_	_
+VBG	_	12	adv	_	_
+IN	_	12	case	_	_
+PRP$	_	12	poss	_	_
+NNS	_	5	ppmod	_	_
+.	_	5	p	_	_
+

@@ -1,0 +1,18 @@
+:	_	6	p	_	_
+NNP	_	3	com	_	_
+NNP	_	6	voc	_	_
+MD	_	6	modal	_	_
+PRP	_	6	nsbj	_	_
+VB	_	0	root	_	_
+RP	_	6	prt	_	_
+WRB	sem=loc	12	adv	_	_
+NNP	_	12	nsbj	13:nsbj	_
+CC	_	9	cc	_	_
+NNP	_	9	conj	_	_
+VBP	_	6	comp	_	_
+JJ	sem=clr	12	comp	_	_
+IN	_	16	case	_	_
+PRP$	_	16	poss	_	_
+NN	sem=loc	12	ppmod	_	_
+.	_	6	p	_	_
+

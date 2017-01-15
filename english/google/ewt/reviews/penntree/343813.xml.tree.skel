@@ -1,0 +1,44 @@
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+
+RB	_	5	adv	_	_
+MD	_	5	modal	_	_
+RB	_	5	neg	_	_
+VB	_	5	aux	_	_
+VBG	_	0	root	_	_
+.	_	5	p	_	_
+
+VBD	_	0	root	_	_
+CD	_	3	num	_	_
+NNS	_	1	obj	_	_
+IN	_	5	case	_	_
+VBG	sem=tmp	1	ppmod	_	_
+TO	_	7	aux	_	_
+VB	sem=prp	5	advcl	_	_
+IN	_	12	mark	_	_
+DT	_	10	det	_	_
+NN	_	12	nsbj	_	_
+VBD	_	12	cop	_	_
+IN	_	7	comp	_	_
+NN	_	12	obj	_	_
+.	_	1	p	_	_
+
+VBN	_	0	root	_	_
+IN	_	4	mark	_	_
+PRP	_	4	nsbj	_	_
+VBD	_	1	comp	_	_
+NN	_	4	obj	_	_
+.	_	1	p	_	_
+
+VBP	_	0	root	_	_
+RB	sem=loc	1	adv	_	_
+CC	_	1	cc	_	_
+EX	_	6	expl	_	_
+VBD	_	6	cop	_	_
+NN	_	1	conj	_	_
+.	_	6	p	_	_
+
+RB	_	2	neg	_	_
+JJ	_	0	root	_	_
+.	_	2	p	_	_
+

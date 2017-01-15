@@ -1,0 +1,40 @@
+JJS	_	3	attr	_	_
+NN	_	3	com	_	_
+NN	_	0	root	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NN	sem=loc	3	ppmod	_	_
+.	_	3	p	_	_
+
+NNP	_	4	obj	_	_
+VBZ	_	4	aux	_	_
+VBN	_	4	aux	_	_
+VBN	_	0	root	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NN	_	4	nsbj	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	_	11	com	_	_
+NN	_	7	ppmod	_	_
+RBS	_	13	com	_	_
+RB	_	4	adv	_	_
+.	_	4	p	_	_
+
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	_	_
+VBP	_	9	advcl	_	_
+DT	_	5	det	_	_
+NN	_	3	obj	_	_
+NNP	_	5	appo	_	_
+PRP	_	9	nsbj	_	_
+MD	_	9	modal	_	_
+VB	_	0	root	_	_
+NN	_	11	meta	_	_
+CD	_	9	obj	_	_
+RB	_	11	adv	_	_
+IN	_	14	case	_	_
+NN	sem=tmp	9	ppmod	_	_
+IN	_	16	case	_	_
+NN	_	14	ppmod	_	_
+

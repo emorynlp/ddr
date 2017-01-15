@@ -1,0 +1,13 @@
+RB	_	7	adv	_	_
+IN	_	4	case	_	_
+NNP	_	4	com	_	_
+NNP	sem=tmp	7	ppmod	_	_
+,	_	7	p	_	_
+NNP	_	7	nsbj	_	_
+VBZ	_	0	root	_	_
+DT	_	10	det	_	_
+``	_	10	p	_	_
+NNS	_	7	obj	_	_
+.	_	7	p	_	_
+''	_	7	p	_	_
+

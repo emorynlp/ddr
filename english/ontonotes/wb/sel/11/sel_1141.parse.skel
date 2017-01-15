@@ -1,0 +1,21 @@
+DT	_	2	det	_	_
+NN	_	4	poss	_	_
+POS	_	2	case	_	_
+NN	_	13	nsbj	11:nsbj	_
+WP$	_	6	poss	_	_
+NN	_	11	r-nsbj	_	_
+MD	_	11	modal	_	_
+RB	_	11	neg	_	_
+VB	_	11	lv	_	_
+DT	_	11	det	_	_
+NN	_	4	relcl	_	_
+MD	_	13	modal	_	_
+VB	_	0	root	_	_
+JJ	_	15	attr	_	_
+NNS	_	13	obj	_	_
+IN	_	19	case	_	_
+VBG	_	19	cop	_	_
+DT	_	19	det	_	_
+NN	_	13	ppmod	_	_
+.	_	13	p	_	_
+

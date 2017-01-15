@@ -1,0 +1,13 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	2	obj	_	_
+CD	_	4	num	_	_
+IN	_	8	case	_	_
+NN	_	8	com	_	_
+NN	_	4	ppmod	_	_
+CD	_	11	num	_	_
+NN	_	11	com	_	_
+NN	_	4	appo	_	_
+.	_	2	p	_	_
+

@@ -1,0 +1,14 @@
+JJ	_	6	attr	_	_
+,	_	6	p	_	_
+JJ	_	5	adv	_	_
+HYPH	_	5	p	_	_
+JJ	_	6	attr	_	_
+NNPS	_	9	nsbj	_	_
+VBP	_	9	aux	_	_
+RB	_	9	neg	_	_
+VB	_	0	root	_	_
+NNS	_	9	obj	_	_
+IN	_	12	case	_	_
+NNS	sem=dir	9	ppmod	_	_
+.	_	9	p	_	_
+

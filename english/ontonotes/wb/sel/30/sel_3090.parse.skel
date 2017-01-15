@@ -1,0 +1,13 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	2	obj	10:obj	_
+WDT	_	10	r-obj	_	_
+PRP	_	8	nsbj	10:nsbj	_
+MD	_	8	modal	_	_
+VB	_	4	relcl	_	_
+TO	_	10	aux	_	_
+VB	_	8	comp	_	_
+RP	_	10	prt	_	_
+.	_	2	p	_	_
+

@@ -1,0 +1,15 @@
+IN	_	3	mark	_	_
+PRP	_	3	nsbj	7:nsbj	_
+VBP	sem=tmp	10	advcl	_	_
+IN	_	6	case	_	_
+DT	_	6	det	_	_
+NN	sem=clr	3	ppmod	_	_
+VBG	_	3	advcl	_	_
+RB	sem=dir	7	adv	_	_
+PRP	_	10	nsbj	_	_
+VBP	_	0	root	_	_
+DT	_	13	det	_	_
+NN	_	13	com	_	_
+NN	_	10	obj	_	_
+.	_	10	p	_	_
+

@@ -1,0 +1,11 @@
+:	_	7	p	_	_
+NNP	_	3	com	_	_
+NNP	_	7	voc	_	_
+PRP	_	7	nsbj	_	_
+MD	_	7	modal	_	_
+RB	sem=tmp	7	neg	_	_
+VB	_	0	root	_	_
+DT	_	9	det	_	_
+NN	_	7	obj	_	_
+.	_	7	p	_	_
+

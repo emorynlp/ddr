@@ -1,0 +1,15 @@
+PRP	_	3	nsbj	_	_
+VBD	_	3	cop	_	_
+IN	_	0	root	_	_
+NN	_	3	obj	_	_
+TO	_	6	aux	_	_
+VB	_	4	acl	_	_
+DT	_	10	det	_	_
+JJ	_	10	attr	_	_
+JJ	_	10	attr	_	_
+NN	_	6	obj	_	_
+IN	_	13	mark	_	_
+NNP	_	13	nsbj	_	_
+VBD	sem=tmp	3	advcl	_	_
+.	_	3	p	_	_
+

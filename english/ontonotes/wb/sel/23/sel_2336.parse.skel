@@ -1,0 +1,25 @@
+VBG	_	4	adv	_	_
+IN	_	4	case	_	_
+DT	_	4	det	_	_
+NN	_	17	ppmod	_	_
+,	_	17	p	_	_
+DT	_	10	det	_	_
+NN	_	8	com	_	_
+NN	_	10	com	_	_
+NN	_	10	com	_	_
+NNS	_	17	nsbj	11:obj;19:nsbj	_
+VBN	_	10	acl	_	_
+IN	_	14	case	_	_
+NN	_	14	com	_	_
+NN	sem=clr	11	ppmod	_	_
+VBD	_	17	raise	_	_
+TO	_	17	aux	_	_
+VB	_	0	root	_	_
+CC	_	17	cc	_	_
+VB	_	17	conj	_	_
+IN	_	23	case	_	_
+RB	_	22	adv	_	_
+VBN	_	23	attr	_	_
+NNS	sem=clr	19	ppmod	_	_
+.	_	17	p	_	_
+

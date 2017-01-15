@@ -1,0 +1,36 @@
+IN	_	4	mark	_	O
+NNP	_	3	com	_	B-PERSON
+NNP	_	4	nsbj	_	L-PERSON
+VBD	sem=tmp	20	advcl	_	O
+DT	_	6	det	_	O
+NN	_	4	obj	_	O
+IN	_	11	case	_	O
+DT	_	11	det	_	O
+NNS	_	11	com	_	O
+NN	_	11	com	_	O
+NN	_	4	ppmod	_	O
+,	_	20	p	_	O
+DT	_	14	det	_	O
+NN	_	20	nsbj	_	O
+IN	_	19	case	_	O
+DT	_	19	det	_	O
+NNP	_	18	com	_	B-GPE
+NNP	_	19	com	_	L-GPE
+NN	_	14	ppmod	_	O
+VBD	_	0	root	_	O
+PRP	_	20	obj	_	O
+RB	sem=mnr	20	adv	_	O
+.	_	20	p	_	O
+
+NN	_	2	dep	_	O
+VBN	_	0	root	_	O
+IN	_	10	case	_	O
+NNP	_	6	com	_	B-ORG
+NNP	_	6	com	_	I-ORG
+NNP	_	7	com	_	L-ORG
+NN	_	10	attr	_	O
+,	_	10	p	_	O
+NNP	_	10	com	_	B-PERSON
+NNP	_	2	nsbj	_	L-PERSON
+.	_	2	p	_	O
+

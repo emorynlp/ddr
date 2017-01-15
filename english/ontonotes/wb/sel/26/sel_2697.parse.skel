@@ -1,0 +1,19 @@
+RB	sem=tmp	2	adv	_	_
+VB	_	0	root	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+NN	_	2	obj	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	sem=loc	2	ppmod	_	_
+CC	_	2	cc	_	_
+DT	_	11	det	_	_
+NN	_	17	nsbj	13:obj	_
+PRP	_	13	nsbj	_	_
+VBP	_	11	relcl	_	_
+VBZ	_	17	cop	_	_
+DT	_	17	det	_	_
+JJ	_	17	attr	_	_
+NN	_	2	conj	_	_
+.	_	17	p	_	_
+

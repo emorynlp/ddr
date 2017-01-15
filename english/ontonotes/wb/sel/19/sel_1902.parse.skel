@@ -1,0 +1,21 @@
+NNS	_	2	nsbj	8:nsbj;13:nsbj	_
+VBP	_	0	root	_	_
+RB	_	4	adv	_	_
+CD	_	5	num	_	_
+NNS	_	2	obj	_	_
+DT	_	7	det	_	_
+NN	_	5	advnp	_	_
+VBG	sem=clr	2	comp	_	_
+NNS	_	8	obj	_	_
+IN	_	11	case	_	_
+NNS	_	9	ppmod	_	_
+CC	_	8	cc	_	_
+VBG	_	8	conj	_	_
+IN	_	17	case	_	_
+RB	_	16	adv	_	_
+CD	_	17	num	_	_
+NNS	sem=clr	13	ppmod	_	_
+IN	_	19	case	_	_
+NN	_	17	ppmod	_	_
+.	_	2	p	_	_
+

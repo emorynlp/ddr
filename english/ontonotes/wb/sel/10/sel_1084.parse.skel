@@ -1,0 +1,20 @@
+VBD	_	0	root	_	_
+:	_	1	p	_	_
+``	_	1	p	_	_
+NN	_	10	nsbj	_	_
+,	_	4	p	_	_
+NN	_	7	com	_	_
+NN	_	4	conj	_	_
+CC	_	7	cc	_	_
+NNS	_	4	conj	_	_
+VBP	_	1	comp	_	_
+NNS	_	10	obj	_	_
+VBN	_	15	adv	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+NNS	_	10	ppmod	16:obj	_
+VBN	_	15	acl	_	_
+IN	_	18	case	_	_
+NN	_	16	nsbj	_	_
+''	_	1	p	_	_
+

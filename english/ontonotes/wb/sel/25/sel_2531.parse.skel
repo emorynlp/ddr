@@ -1,0 +1,25 @@
+RB	sem=tmp	5	adv	_	_
+,	_	5	p	_	_
+NNS	_	5	obj	7:nsbj	_
+VBD	_	5	aux	_	_
+VBN	_	0	root	_	_
+TO	_	7	aux	_	_
+VB	sem=clr	5	comp	_	_
+NN	_	9	com	_	_
+NNS	_	7	obj	_	_
+IN	_	17	case	_	_
+NN	_	13	advnp	_	_
+HYPH	_	13	p	_	_
+JJ	_	17	attr	_	_
+CC	_	13	cc	_	_
+HYPH	_	16	p	_	_
+JJ	_	13	conj	_	_
+NNS	sem=clr	7	ppmod	_	_
+,	_	17	p	_	_
+JJ	_	21	adv	_	_
+IN	_	21	case	_	_
+NN	_	17	ppmod	_	_
+CC	_	21	cc	_	_
+NN	_	21	conj	_	_
+.	_	5	p	_	_
+

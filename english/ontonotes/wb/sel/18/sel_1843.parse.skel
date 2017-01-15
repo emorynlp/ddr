@@ -1,0 +1,19 @@
+NNS	_	5	nsbj	_	_
+VBG	_	1	acl	_	_
+DT	_	4	det	_	_
+NN	_	2	obj	_	_
+VBP	_	0	root	_	_
+IN	_	8	case	_	_
+NN	_	8	com	_	_
+NNS	sem=clr	5	ppmod	_	_
+,	_	5	p	_	_
+``	_	5	p	_	_
+VBG	_	5	advcl	_	_
+DT	_	13	det	_	_
+NN	_	11	obj	_	_
+IN	_	16	case	_	_
+JJ	_	16	attr	_	_
+NN	sem=mnr	11	ppmod	_	_
+''	_	5	p	_	_
+.	_	5	p	_	_
+

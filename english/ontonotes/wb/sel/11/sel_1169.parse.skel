@@ -1,0 +1,19 @@
+CD	_	2	num	_	_
+NN	_	9	nsbj	4:obj	_
+PRP	_	4	nsbj	_	_
+VBP	_	2	relcl	_	_
+IN	_	7	case	_	_
+JJ	_	7	attr	_	_
+NNS	sem=clr	4	ppmod	_	_
+RB	sem=loc	4	adv	_	_
+VBZ	_	0	root	_	_
+IN	_	17	mark	_	_
+PRP	_	17	nsbj	_	_
+VBP	_	17	cop	_	_
+RB	_	17	adv	_	_
+JJ	_	17	attr	_	_
+JJ	_	16	adv	_	_
+JJ	_	17	attr	_	_
+NNS	_	9	comp	_	_
+.	_	9	p	_	_
+

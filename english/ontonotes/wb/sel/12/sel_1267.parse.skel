@@ -1,0 +1,15 @@
+UH	_	10	disc	_	_
+,	_	10	p	_	_
+DT	_	4	det	_	_
+NN	_	10	nsbj	_	_
+CC	_	4	cc	_	_
+PRP	_	4	conj	_	_
+VBD	_	10	raise	_	_
+TO	_	10	aux	_	_
+RB	sem=tmp	10	adv	_	_
+VB	_	0	root	_	_
+NN	_	10	obj	_	_
+RP	_	10	prt	_	_
+RB	sem=mnr	10	adv	_	_
+.	_	10	p	_	_
+

@@ -1,0 +1,15 @@
+NNS	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+PRP$	_	4	poss	_	_
+NNS	_	2	obj	_	_
+IN	_	8	mark	_	_
+PRP	_	9	obj	_	_
+VBP	_	8	cop	_	_
+JJ	sem=prp	2	advcl	_	_
+VBG	_	8	comp	_	_
+IN	_	13	case	_	_
+PRP$	_	13	poss	_	_
+JJ	_	13	attr	_	_
+NN	_	9	ppmod	_	_
+.	_	2	p	_	_
+

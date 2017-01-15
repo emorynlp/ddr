@@ -1,0 +1,27 @@
+NNP	_	5	voc	_	_
+IN	_	3	case	_	_
+NNP	_	1	ppmod	_	_
+PRP	_	5	nsbj	_	_
+VBP	_	0	root	_	_
+IN	_	20	mark	_	_
+DT	_	10	det	_	_
+NN	_	9	advnp	_	_
+VBN	_	10	attr	_	_
+NN	_	20	nsbj	11:obj	_
+VBN	_	10	acl	_	_
+IN	_	13	case	_	_
+NN	sem=loc	11	ppmod	_	_
+IN	_	18	case	_	_
+DT	_	18	det	_	_
+NN	_	17	com	_	_
+NN	_	18	com	_	_
+NN	_	13	ppmod	_	_
+MD	_	20	modal	_	_
+VB	_	5	comp	_	_
+DT	_	22	det	_	_
+NN	_	20	obj	_	_
+IN	_	25	case	_	_
+VBN	_	25	attr	_	_
+NN	_	22	ppmod	_	_
+.	_	5	p	_	_
+

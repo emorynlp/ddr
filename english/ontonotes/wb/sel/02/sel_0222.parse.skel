@@ -1,0 +1,11 @@
+PRP	_	3	nsbj	_	_
+RB	_	3	adv	_	_
+VBP	_	0	root	_	_
+WDT	_	6	nsbj	_	_
+VBZ	_	6	cop	_	_
+JJR	_	3	comp	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+NN	sem=loc	6	ppmod	_	_
+.	_	3	p	_	_
+

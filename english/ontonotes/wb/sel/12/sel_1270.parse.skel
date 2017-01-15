@@ -1,0 +1,15 @@
+DT	_	2	det	_	_
+NN	_	3	nsbj	_	_
+VBZ	_	0	root	_	_
+VBG	_	3	comp	_	_
+DT	_	6	det	_	_
+NN	sem=clr	4	obj	12:ppmod	_
+IN	_	10	case	_	_
+JJ	_	10	attr	_	_
+NN	_	10	com	_	_
+NNS	_	6	ppmod	_	_
+TO	_	12	aux	_	_
+VB	_	6	relcl	_	_
+IN	_	12	case	_	_
+.	_	3	p	_	_
+

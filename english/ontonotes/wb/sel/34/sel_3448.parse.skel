@@ -1,0 +1,14 @@
+CC	_	9	cc	_	_
+RB	sem=tmp	9	adv	_	_
+NNS	_	9	nsbj	5:obj;11:nsbj;12:nsbj	_
+RB	_	5	neg	_	_
+VBN	_	3	acl	_	_
+IN	_	5	adv	_	_
+DT	_	6	det	_	_
+VBP	_	9	raise	_	_
+VBG	_	0	root	_	_
+CC	_	9	cc	_	_
+VBG	_	9	conj	_	_
+JJ	sem=clr	11	comp	_	_
+.	_	9	p	_	_
+

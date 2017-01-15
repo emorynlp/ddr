@@ -1,0 +1,15 @@
+PRP	_	3	nsbj	_	_
+VBP	_	3	cop	_	_
+JJ	_	0	root	_	_
+PRP	_	5	nsbj	_	_
+VBD	_	3	comp	_	_
+JJ	_	7	attr	_	_
+NN	_	5	obj	_	_
+IN	_	10	case	_	_
+NN	_	10	com	_	_
+NNS	sem=tmp	5	ppmod	_	_
+TO	_	12	aux	_	_
+VB	_	7	acl	_	_
+RB	sem=loc	12	adv	_	_
+.	_	3	p	_	_
+

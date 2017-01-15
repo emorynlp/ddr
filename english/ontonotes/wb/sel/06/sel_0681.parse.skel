@@ -1,0 +1,17 @@
+PRP	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	2	obj	7:adv	_
+DT	_	6	det	_	_
+NNS	_	7	nsbj	_	_
+VBP	_	4	relcl	_	_
+RB	sem=clr	7	adv	_	_
+PRP$	_	10	poss	_	_
+NNS	_	7	obj	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+NNS	sem=clr	7	ppmod	_	_
+IN	_	15	case	_	_
+NNP	sem=loc	13	ppmod	_	_
+.	_	2	p	_	_
+

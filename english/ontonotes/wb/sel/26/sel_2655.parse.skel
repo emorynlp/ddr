@@ -1,0 +1,22 @@
+IN	_	4	mark	_	_
+EX	_	4	expl	_	_
+VBZ	_	4	cop	_	_
+NN	_	9	advcl	7:nsbj;17:advcl	_
+PRP	_	6	nsbj	_	_
+VBP	_	4	relcl	_	_
+JJ	_	6	comp	_	_
+,	_	9	p	_	_
+VB	_	0	root	_	_
+DT	_	11	det	_	_
+NN	_	9	obj	_	_
+IN	_	15	case	_	_
+DT	_	15	det	_	_
+NN	_	15	com	_	_
+NN	sem=clr	9	ppmod	_	_
+CC	_	9	cc	_	_
+VB	_	9	conj	_	_
+WP	_	19	nsbj	_	_
+VBZ	_	17	comp	_	_
+RP	_	19	prt	_	_
+.	_	9	p	_	_
+

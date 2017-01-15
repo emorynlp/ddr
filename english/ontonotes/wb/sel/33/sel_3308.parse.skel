@@ -1,0 +1,15 @@
+NNS	_	0	root	_	_
+IN	_	3	case	_	_
+DT	_	7	ppmod	_	_
+,	_	7	p	_	_
+RB	_	7	adv	_	_
+IN	_	7	case	_	_
+NNP	_	1	ppmod	10:nsbj	_
+WP	_	10	r-nsbj	_	_
+RB	sem=mnr	10	adv	_	_
+VBD	_	7	relcl	_	_
+RP	_	10	prt	_	_
+DT	_	13	det	_	_
+NNS	_	10	obj	_	_
+.	_	1	p	_	_
+

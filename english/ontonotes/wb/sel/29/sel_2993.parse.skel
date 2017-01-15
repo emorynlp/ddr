@@ -1,0 +1,25 @@
+LS	_	12	num	_	_
+-RRB-	_	1	p	_	_
+WRB	sem=tmp	5	adv	_	_
+NNP	_	5	nsbj	_	_
+VBZ	sem=tmp	12	advcl	_	_
+,	_	12	p	_	_
+DT	_	8	det	_	_
+NN	_	12	nsbj	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	_	8	ppmod	_	_
+VBZ	_	0	root	_	_
+TO	_	14	aux	_	_
+VB	_	12	comp	_	_
+PRP$	_	18	poss	_	_
+JJ	_	18	attr	_	_
+JJ	_	18	attr	_	_
+NN	_	14	obj	_	_
+IN	_	21	case	_	_
+PRP$	_	21	poss	_	_
+NN	sem=clr	14	ppmod	_	_
+IN	_	23	case	_	_
+NN	sem=tmp	14	ppmod	_	_
+.	_	12	p	_	_
+

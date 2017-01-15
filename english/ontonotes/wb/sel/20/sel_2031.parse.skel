@@ -1,0 +1,22 @@
+NNP	_	2	nsbj	_	_
+VBD	_	0	root	_	_
+:	_	2	p	_	_
+UH	_	6	disc	_	_
+PRP	_	6	nsbj	_	_
+VBP	_	2	comp	_	_
+DT	_	8	nsbj	_	_
+VBZ	_	6	comp	_	_
+WRB	sem=prp	14	adv	_	_
+PRP	_	14	nsbj	_	_
+VBD	_	14	lv	_	_
+DT	_	14	det	_	_
+JJ	_	14	attr	_	_
+NN	_	8	comp	_	_
+IN	_	17	case	_	_
+NNP	_	17	com	_	_
+NNP	_	14	ppmod	_	_
+CC	_	17	cc	_	_
+DT	_	20	det	_	_
+JJ	_	17	conj	_	_
+.	_	2	p	_	_
+

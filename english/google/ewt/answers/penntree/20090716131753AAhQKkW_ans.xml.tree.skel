@@ -1,0 +1,16 @@
+VBZ	_	3	aux	_	_
+NN	_	3	nsbj	_	_
+VB	_	0	root	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+NN	sem=clr	3	ppmod	_	_
+IN	_	9	case	_	_
+NNP	sem=loc	7	ppmod	_	_
+.	_	3	p	_	_
+
+RB	_	2	neg	_	_
+PRP	_	0	root	_	_
+UH	_	2	disc	_	_
+.	_	2	p	_	_
+

@@ -1,0 +1,23 @@
+CD	_	13	nsbj	_	_
+IN	_	4	case	_	_
+DT	_	4	det	_	_
+NNS	_	1	ppmod	7:adv	_
+JJ	_	6	attr	_	_
+NNS	_	7	nsbj	9:nsbj	_
+VBP	_	4	relcl	_	_
+TO	_	9	aux	_	_
+VB	_	7	comp	_	_
+NNP	_	11	com	_	_
+NNP	_	9	obj	_	_
+VBZ	_	13	cop	_	_
+IN	sem=mnr	0	root	_	_
+VBG	_	13	comp	_	_
+NNS	_	14	obj	_	_
+IN	_	17	case	_	_
+DT	_	14	dat	19:obj;21:obj	_
+PRP	_	19	nsbj	21:nsbj	_
+VBP	_	17	relcl	_	_
+CC	_	19	cc	_	_
+VBP	_	19	conj	_	_
+.	_	13	p	_	_
+

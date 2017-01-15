@@ -1,0 +1,19 @@
+CC	_	2	cc	_	_
+VB	_	0	root	_	_
+PRP	_	2	dat	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+NN	_	2	obj	10:adv	_
+WRB	sem=tmp	10	r-adv	_	_
+PRP	_	10	nsbj	_	_
+MD	_	10	modal	_	_
+VB	_	6	relcl	_	_
+NNP	_	10	obj	_	_
+IN	_	13	case	_	_
+NN	sem=mnr	10	ppmod	_	_
+IN	_	16	case	_	_
+``	_	16	p	_	_
+NNP	_	13	ppmod	_	_
+''	_	16	p	_	_
+.	_	2	p	_	_
+

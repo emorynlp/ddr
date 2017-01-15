@@ -1,0 +1,12 @@
+PRP	_	3	nsbj	_	_
+RB	sem=tmp	3	adv	_	_
+VBP	_	0	root	_	_
+IN	_	7	case	_	_
+WRB	sem=prp	7	adv	_	_
+NN	_	7	nsbj	9:nsbj	_
+VBZ	sem=clr	3	ppmod	_	_
+TO	_	9	aux	_	_
+VB	_	7	comp	_	_
+NNS	_	9	obj	_	_
+.	_	3	p	_	_
+

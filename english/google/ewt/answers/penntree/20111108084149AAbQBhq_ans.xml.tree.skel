@@ -1,0 +1,57 @@
+MD	_	3	modal	_	_
+NN	_	3	nsbj	_	_
+VB	_	0	root	_	_
+DT	_	6	det	_	_
+NN	_	6	com	_	_
+NN	_	3	obj	_	_
+RB	_	11	adv	_	_
+IN	_	11	mark	_	_
+PRP	_	11	obj	_	_
+VBZ	_	11	aux	_	_
+VBN	_	3	advcl	_	_
+RP	_	11	prt	_	_
+.	_	3	p	_	_
+
+MD	_	3	modal	_	_
+NN	_	3	nsbj	_	_
+VB	_	0	root	_	_
+DT	_	6	det	_	_
+NN	_	6	com	_	_
+NN	_	3	obj	_	_
+RB	_	11	adv	_	_
+IN	_	11	mark	_	_
+PRP	_	11	obj	_	_
+VBZ	_	11	aux	_	_
+VBN	_	3	advcl	_	_
+RP	_	11	prt	_	_
+.	_	3	p	_	_
+
+UH	_	5	disc	_	_
+PRP	_	5	nsbj	_	_
+VBP	_	5	raise	_	_
+TO	_	5	aux	_	_
+VB	_	12	advcl	_	_
+PRP	_	5	obj	_	_
+,	_	12	p	_	_
+DT	_	12	nsbj	_	_
+VBZ	_	12	cop	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NN	_	0	root	_	_
+
+UH	_	5	disc	_	_
+,	_	5	p	_	_
+PRP	_	5	nsbj	_	_
+DT	_	3	appo	_	_
+VBP	_	0	root	_	_
+JJ	_	8	attr	_	_
+NN	_	8	com	_	_
+NNS	_	5	obj	_	_
+,	_	8	p	_	_
+RB	_	12	adv	_	_
+IN	_	12	case	_	_
+NN	_	8	ppmod	_	_
+
+UH	_	0	root	_	_
+.	_	1	p	_	_
+

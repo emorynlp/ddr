@@ -1,0 +1,18 @@
+NNP	_	4	nsbj	_	_
+CC	_	1	cc	_	_
+NNP	_	1	conj	_	_
+VBP	_	0	root	_	_
+IN	_	8	mark	_	_
+CD	_	7	num	_	_
+NNS	_	8	nsbj	_	_
+VBD	_	4	comp	_	_
+``	_	12	p	_	_
+VBG	_	12	adv	_	_
+CD	_	12	num	_	_
+NNS	_	7	ppmod	_	_
+''	_	12	p	_	_
+:	_	12	p	_	_
+NN	_	16	com	_	_
+NNS	_	12	appo	_	_
+.	_	4	p	_	_
+

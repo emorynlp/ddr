@@ -1,0 +1,27 @@
+NNP	_	3	poss	_	_
+POS	_	1	case	_	_
+NNS	_	4	nsbj	_	_
+VBP	_	0	root	_	_
+NNS	_	4	obj	_	_
+IN	_	9	case	_	_
+IN	_	9	mark	_	_
+PRP	_	9	nsbj	_	_
+VBD	_	5	ppmod	_	_
+RB	_	9	adv	_	_
+IN	_	15	case	_	_
+PRP$	_	13	poss	_	_
+NN	_	15	poss	_	_
+POS	_	13	case	_	_
+NN	sem=clr	9	ppmod	_	_
+IN	_	18	case	_	_
+DT	_	18	det	_	_
+NN	sem=prp	9	ppmod	_	_
+TO	_	20	aux	_	_
+VB	_	18	acl	_	_
+RP	_	20	prt	_	_
+NN	_	20	obj	_	_
+CC	_	22	cc	_	_
+JJ	_	25	attr	_	_
+NNS	_	22	conj	_	_
+.	_	4	p	_	_
+

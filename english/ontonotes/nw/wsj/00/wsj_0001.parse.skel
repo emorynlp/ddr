@@ -1,0 +1,33 @@
+NNP	_	2	com	_	B-PERSON
+NNP	_	9	nsbj	_	L-PERSON
+,	_	2	p	_	O
+CD	_	5	num	_	B-DATE
+NNS	_	6	advnp	_	I-DATE
+JJ	_	2	attr	_	L-DATE
+,	_	2	p	_	O
+MD	_	9	modal	_	O
+VB	_	0	root	_	O
+DT	_	11	det	_	O
+NN	_	9	obj	_	O
+IN	_	15	case	_	O
+DT	_	15	det	_	O
+JJ	_	15	attr	_	O
+NN	sem=clr	9	ppmod	_	O
+NNP	sem=tmp	9	advnp	_	B-DATE
+CD	_	16	num	_	L-DATE
+.	_	9	p	_	O
+
+NNP	_	2	com	_	O
+NNP	_	4	nsbj	_	U-PERSON
+VBZ	_	4	cop	_	O
+NN	_	0	root	_	O
+IN	_	7	case	_	O
+NNP	_	7	com	_	B-ORG
+NNP	_	4	ppmod	_	L-ORG
+,	_	7	p	_	O
+DT	_	12	det	_	O
+NNP	_	12	attr	_	U-NORP
+VBG	_	12	attr	_	O
+NN	_	7	appo	_	O
+.	_	4	p	_	O
+

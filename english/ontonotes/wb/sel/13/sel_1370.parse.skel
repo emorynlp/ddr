@@ -1,0 +1,13 @@
+PRP	_	3	nsbj	9:nsbj	_
+RB	sem=mnr	3	adv	_	_
+VBP	_	0	root	_	_
+RB	sem=loc	3	adv	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NN	sem=prp	3	ppmod	_	_
+IN	_	9	case	_	_
+VBG	_	7	ppmod	_	_
+PRP$	_	11	poss	_	_
+NN	_	9	obj	_	_
+.	_	3	p	_	_
+

@@ -1,0 +1,21 @@
+UH	_	0	root	_	_
+DT	_	1	voc	_	_
+,	_	1	p	_	_
+PRP	_	5	nsbj	_	_
+VBP	_	1	conj	_	_
+DT	_	7	det	_	_
+NN	sem=clr	5	obj	16:ppmod	_
+IN	_	9	case	_	_
+VBG	_	7	ppmod	_	_
+NN	_	9	obj	_	_
+WDT	_	16	r-ppmod	_	_
+PRP	_	13	nsbj	_	_
+VBP	_	7	relcl	_	_
+NN	_	16	nsbj	_	_
+MD	_	16	modal	_	_
+VB	_	13	comp	_	_
+DT	_	18	det	_	_
+NN	_	16	obj	_	_
+IN	_	11	case	_	_
+.	_	5	p	_	_
+

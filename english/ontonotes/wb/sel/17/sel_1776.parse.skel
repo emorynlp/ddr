@@ -1,0 +1,9 @@
+UH	_	2	disc	_	_
+VB	_	0	root	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+NNS	_	2	obj	_	_
+IN	_	7	case	_	_
+NNP	_	2	dat	_	_
+ADD	sem=loc	7	advnp	_	_
+

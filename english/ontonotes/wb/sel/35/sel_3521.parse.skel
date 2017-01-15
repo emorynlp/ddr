@@ -1,0 +1,23 @@
+CD	_	2	num	_	_
+NNS	_	3	advnp	_	_
+RB	sem=tmp	7	adv	18:adv	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+NN	_	7	nsbj	18:nsbj	_
+VBD	_	0	root	_	_
+IN	_	10	case	_	_
+PRP$	_	10	poss	_	_
+NNS	sem=clr	7	ppmod	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+JJ	_	14	attr	_	_
+NN	sem=loc	7	ppmod	_	_
+CC	_	7	cc	_	_
+VBZ	_	18	aux	_	_
+VBN	_	18	aux	_	_
+VBG	_	7	conj	_	_
+RP	_	18	prt	_	_
+RB	_	21	com	_	_
+RB	sem=tmp	18	adv	_	_
+.	_	7	p	_	_
+

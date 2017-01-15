@@ -1,0 +1,25 @@
+VBN	_	12	advcl	15:advcl	_
+IN	_	3	case	_	_
+NNP	sem=loc	1	ppmod	_	_
+,	_	1	p	_	_
+DT	_	6	det	_	_
+NN	_	1	comp	_	_
+IN	_	9	case	_	_
+JJ	_	9	attr	_	_
+NNS	_	6	ppmod	_	_
+,	_	12	p	_	_
+NNP	_	12	nsbj	6:nsbj;15:nsbj	_
+VBD	_	0	root	_	_
+NNS	_	12	obj	_	_
+CC	_	12	cc	_	_
+VBD	_	12	conj	_	_
+NN	_	15	obj	_	_
+IN	_	20	case	_	_
+DT	_	20	det	_	_
+JJ	_	20	attr	_	_
+NN	sem=loc	15	ppmod	_	_
+IN	_	23	case	_	_
+DT	_	23	det	_	_
+NN	sem=clr	15	ppmod	_	_
+.	_	12	p	_	_
+

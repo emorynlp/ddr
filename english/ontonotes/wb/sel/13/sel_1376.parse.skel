@@ -1,0 +1,13 @@
+VBD	_	3	aux	_	_
+PRP	_	3	nsbj	_	_
+VB	_	0	root	_	_
+DT	_	5	det	_	_
+NNS	_	3	obj	8:adv	_
+PRP	_	8	nsbj	_	_
+RB	_	8	adv	_	_
+VBP	_	5	relcl	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	sem=loc	8	ppmod	_	_
+.	_	3	p	_	_
+

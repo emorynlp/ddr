@@ -1,0 +1,26 @@
+IN	_	4	mark	_	_
+DT	_	3	det	_	_
+NN	_	4	nsbj	_	_
+VBD	sem=tmp	15	advcl	17:advcl	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+NNS	sem=clr	4	ppmod	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NNS	_	7	ppmod	13:obj	_
+WDT	_	13	r-obj	_	_
+PRP	_	13	nsbj	_	_
+VBD	_	10	relcl	_	_
+PRP	_	15	nsbj	17:nsbj	_
+VBD	_	0	root	_	_
+CC	_	15	cc	_	_
+VBD	_	15	conj	_	_
+PDT	_	21	det	_	_
+DT	_	21	det	_	_
+JJ	_	21	attr	_	_
+NN	_	17	obj	15:obj	_
+IN	_	24	case	_	_
+DT	_	24	det	_	_
+NNS	_	21	ppmod	_	_
+.	_	15	p	_	_
+

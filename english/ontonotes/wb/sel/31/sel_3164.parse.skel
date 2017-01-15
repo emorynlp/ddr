@@ -1,0 +1,19 @@
+PRP	_	4	nsbj	6:nsbj	_
+VBP	_	4	aux	_	_
+RB	_	4	neg	_	_
+VB	_	0	root	_	_
+TO	_	6	aux	_	_
+VB	_	4	comp	_	_
+IN	_	9	case	_	_
+RB	_	9	com	_	_
+RB	sem=tmp	6	ppmod	_	_
+CC	_	4	cc	_	_
+CD	_	14	num	_	_
+TO	_	11	cc	_	_
+CD	_	11	conj	_	_
+NNS	_	17	nsbj	_	_
+VBZ	_	17	raise	_	_
+RB	_	17	adv	_	_
+JJ	_	4	conj	_	_
+.	_	17	p	_	_
+

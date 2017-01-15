@@ -1,0 +1,25 @@
+JJ	_	2	attr	_	_
+NN	_	3	nsbj	19:nsbj;21:nsbj	_
+VBZ	_	0	root	_	_
+RBR	sem=mnr	3	adv	_	_
+,	_	3	p	_	_
+VBZ	_	3	dep	_	_
+JJ	_	10	attr	_	_
+,	_	10	p	_	_
+JJ	_	10	attr	_	_
+NN	_	6	obj	_	_
+IN	_	14	case	_	_
+DT	_	14	det	_	_
+JJ	_	14	attr	_	_
+NNS	sem=loc	6	ppmod	_	_
+IN	_	17	case	_	_
+PRP$	_	17	poss	_	_
+NNS	_	14	ppmod	_	_
+,	_	6	p	_	_
+VBG	_	6	advcl	_	_
+CC	_	19	cc	_	_
+VBG	_	19	conj	_	_
+PRP	_	21	obj	19:obj	_
+DT	_	22	appo	_	_
+.	_	3	p	_	_
+

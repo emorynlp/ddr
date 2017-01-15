@@ -1,0 +1,13 @@
+PRP$	_	3	poss	_	_
+NNP	_	3	com	_	_
+NNS	_	6	obj	_	_
+MD	_	6	modal	_	_
+VB	_	6	aux	_	_
+VBN	_	0	root	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NN	_	10	com	_	_
+NNS	_	6	nsbj	_	_
+RB	sem=tmp	6	adv	_	_
+.	_	6	p	_	_
+

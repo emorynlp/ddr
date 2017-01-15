@@ -1,0 +1,27 @@
+NN	_	2	com	_	_
+NNS	_	5	nsbj	_	_
+VBP	_	5	cop	_	_
+RB	_	5	adv	_	_
+JJS	_	0	root	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	_	5	ppmod	_	_
+IN	_	13	mark	_	_
+PRP$	_	11	poss	_	_
+NN	_	13	nsbj	15:nsbj;17:nsbj	_
+MD	_	13	modal	_	_
+VB	sem=prp	5	advcl	_	_
+TO	_	15	aux	_	_
+VB	_	13	comp	_	_
+CC	_	15	cc	_	_
+VB	_	15	conj	_	_
+NN	_	17	obj	15:obj	_
+IN	_	22	case	_	_
+VBG	_	22	raise	_	_
+TO	_	22	aux	_	_
+VB	sem=mnr	17	ppmod	15:ppmod	_
+JJ	_	25	attr	_	_
+NN	_	25	com	_	_
+NNS	_	22	obj	_	_
+.	_	5	p	_	_
+

@@ -1,0 +1,63 @@
+NNP	_	2	com	_	_
+NNP	_	3	com	_	_
+NNP	_	5	com	_	_
+NN	_	5	com	_	_
+NNS	_	0	root	_	_
+
+NNP	_	8	nsbj	_	_
+IN	_	6	case	_	_
+NNP	_	6	com	_	_
+NNP	_	6	com	_	_
+NNPS	_	6	com	_	_
+NNP	_	1	ppmod	_	_
+,	_	8	p	_	_
+VBD	_	19	dep	_	_
+DT	_	12	det	_	_
+RB	_	11	adv	_	_
+JJ	_	12	attr	_	_
+NN	_	8	obj	_	_
+RB	_	14	com	_	_
+RB	_	8	adv	_	_
+,	_	8	p	_	_
+DT	_	17	det	_	_
+NN	_	8	dep	_	_
+,	_	19	p	_	_
+VBD	_	0	root	_	_
+DT	_	21	det	_	_
+NN	_	19	obj	_	_
+IN	_	23	case	_	_
+PRP	sem=clr	19	ppmod	_	_
+CC	_	19	cc	_	_
+PRP	_	26	nsbj	_	_
+VBD	_	19	conj	_	_
+PRP	_	26	obj	_	_
+RB	_	29	com	_	_
+RB	_	26	adv	_	_
+,	_	19	p	_	_
+JJ	_	32	attr	_	_
+NN	_	34	dep	_	_
+JJ	_	34	attr	_	_
+NN	_	19	dep	_	_
+.	_	19	p	_	_
+
+RB	_	2	adv	_	_
+VBN	_	0	root	_	_
+.	_	2	p	_	_
+
+NN	_	0	root	_	_
+NNP	_	1	voc	_	_
+.	_	1	p	_	_
+
+NNP	_	0	root	_	_
+,	_	1	p	_	_
+JJ	_	7	attr	_	_
+NNP	_	5	com	_	_
+NNP	_	6	com	_	_
+NNP	_	7	com	_	_
+NN	_	1	appo	_	_
+-LRB-	_	11	p	_	_
+IN	_	11	case	_	_
+JJ	_	11	attr	_	_
+NNS	_	7	ppmod	_	_
+-RRB-	_	11	p	_	_
+

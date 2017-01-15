@@ -1,0 +1,15 @@
+PRP	_	2	nsbj	5:nsbj;10:nsbj	_
+VBP	_	0	root	_	_
+NN	_	2	obj	_	_
+,	_	2	p	_	_
+VBP	_	2	conj	_	_
+NN	_	7	com	_	_
+NNS	_	5	obj	_	_
+,	_	5	p	_	_
+CC	_	5	cc	_	_
+VBP	_	2	conj	_	_
+JJ	_	13	attr	_	_
+NN	_	13	com	_	_
+NNS	_	10	obj	_	_
+.	_	2	p	_	_
+

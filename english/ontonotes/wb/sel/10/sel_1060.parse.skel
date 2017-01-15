@@ -1,0 +1,17 @@
+NNP	_	2	com	_	_
+NNP	_	3	nsbj	_	_
+VBD	_	0	root	_	_
+:	_	3	p	_	_
+PRP	_	8	nsbj	_	_
+VBP	_	8	aux	_	_
+RB	_	8	neg	_	_
+VB	_	3	comp	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NNP	_	12	com	_	_
+NNP	_	14	nsbj	_	_
+VBZ	_	14	aux	_	_
+VB	_	8	comp	_	_
+NNS	_	14	obj	_	_
+.	_	3	p	_	_
+

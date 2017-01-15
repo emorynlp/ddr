@@ -1,0 +1,14 @@
+IN	_	2	case	_	_
+NN	sem=tmp	10	ppmod	_	_
+DT	_	5	det	_	_
+JJ	_	5	attr	_	_
+NN	_	10	nsbj	_	_
+RB	sem=mnr	7	adv	_	_
+VBG	_	5	acl	_	_
+IN	_	9	case	_	_
+NN	sem=mnr	7	ppmod	_	_
+VBD	_	0	root	_	_
+PRP	_	12	nsbj	_	_
+VBP	_	10	comp	_	_
+.	_	10	p	_	_
+

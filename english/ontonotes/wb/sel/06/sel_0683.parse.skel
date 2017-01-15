@@ -1,0 +1,12 @@
+NNPS	_	2	nsbj	_	_
+VBP	_	0	root	_	_
+RB	sem=mnr	2	adv	_	_
+IN	_	7	case	_	_
+DT	_	7	det	_	_
+JJ	_	7	attr	_	_
+NN	sem=loc	2	ppmod	_	_
+IN	_	10	case	_	_
+DT	_	10	det	_	_
+NNS	sem=loc	2	ppmod	_	_
+.	_	2	p	_	_
+

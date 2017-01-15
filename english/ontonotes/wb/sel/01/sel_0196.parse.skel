@@ -1,0 +1,17 @@
+DT	_	3	det	_	_
+JJ	_	3	attr	_	_
+NN	_	11	nsbj	_	_
+IN	_	5	case	_	_
+NNS	_	3	ppmod	_	_
+IN	_	9	case	_	_
+DT	_	9	det	_	_
+JJ	_	9	attr	_	_
+NNS	sem=loc	3	ppmod	_	_
+MD	_	11	modal	_	_
+VB	_	0	root	_	_
+NNP	_	11	obj	_	_
+IN	_	15	case	_	_
+PRP$	_	15	poss	_	_
+NNS	sem=clr	11	ppmod	_	_
+.	_	11	p	_	_
+

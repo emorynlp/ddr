@@ -1,0 +1,25 @@
+IN	_	2	case	_	_
+PRP	_	7	ppmod	_	_
+,	_	7	p	_	_
+DT	_	5	det	_	_
+NNS	_	7	nsbj	_	_
+RB	_	7	adv	_	_
+VBP	_	19	comp	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NNP	_	11	com	_	_
+NN	sem=clr	7	ppmod	_	_
+,	_	19	p	_	_
+IN	_	14	case	_	_
+PRP	_	19	ppmod	_	_
+,	_	19	p	_	_
+PRP	_	19	nsbj	_	_
+VBP	_	19	cop	_	_
+JJ	_	19	attr	_	_
+NNS	_	0	root	_	_
+IN	_	23	case	_	_
+DT	_	23	det	_	_
+JJ	_	23	attr	_	_
+NN	_	19	ppmod	_	_
+.	_	19	p	_	_
+

@@ -1,0 +1,19 @@
+NNP	_	3	poss	_	_
+POS	_	1	case	_	_
+NN	_	4	nsbj	_	_
+VBD	_	0	root	_	_
+RB	sem=dir	4	adv	_	_
+IN	_	7	case	_	_
+CD	_	5	ppmod	_	_
+IN	_	14	case	_	_
+WP	_	14	nsbj	_	_
+VBZ	_	14	cop	_	_
+RB	_	14	adv	_	_
+PRP$	_	14	poss	_	_
+JJ	_	14	attr	_	_
+NN	_	4	ppmod	_	_
+IN	_	17	case	_	_
+DT	_	17	det	_	_
+NN	_	14	ppmod	_	_
+.	_	4	p	_	_
+

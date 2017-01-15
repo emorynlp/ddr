@@ -1,0 +1,18 @@
+IN	_	4	case	_	_
+DT	_	4	det	_	_
+VBG	_	4	attr	_	_
+NN	sem=loc	10	ppmod	_	_
+,	_	10	p	_	_
+JJ	_	7	attr	_	_
+NNS	_	10	nsbj	_	_
+MD	_	10	modal	_	_
+VB	_	10	cop	_	_
+JJ	_	0	root	_	_
+IN	_	14	mark	_	_
+PRP	_	14	nsbj	_	_
+VBP	_	14	aux	_	_
+VBG	sem=tmp	10	advcl	_	_
+PRP$	_	16	poss	_	_
+NN	_	14	obj	_	_
+.	_	10	p	_	_
+

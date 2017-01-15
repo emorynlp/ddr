@@ -1,0 +1,21 @@
+IN	_	5	mark	_	_
+PRP	_	5	nsbj	_	_
+MD	_	5	modal	_	_
+RB	_	5	neg	_	_
+VB	_	19	advcl	_	_
+DT	_	10	det	_	_
+NNP	_	8	com	_	_
+NNP	_	10	com	_	_
+NN	_	10	com	_	_
+NN	_	5	obj	_	_
+IN	_	12	case	_	_
+PRP	sem=clr	5	ppmod	_	_
+,	_	19	p	_	_
+PRP	_	19	nsbj	_	_
+VBZ	_	19	cop	_	_
+RB	_	19	neg	_	_
+DT	_	19	det	_	_
+NNP	_	19	com	_	_
+NNP	_	0	root	_	_
+.	_	19	p	_	_
+

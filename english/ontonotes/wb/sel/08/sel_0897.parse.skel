@@ -1,0 +1,24 @@
+JJ	_	2	attr	_	_
+NN	sem=tmp	5	advnp	_	_
+,	_	5	p	_	_
+PRP	_	5	expl	_	_
+VBD	_	0	root	_	_
+RBR	sem=tmp	5	adv	_	_
+TO	_	8	aux	_	_
+VB	_	5	csbj	_	_
+DT	_	10	det	_	_
+NN	_	8	obj	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+NN	_	10	ppmod	_	_
+RB	sem=loc	13	adv	_	_
+IN	_	16	case	_	_
+NNP	_	14	ppmod	_	_
+IN	_	19	mark	_	_
+TO	_	19	aux	_	_
+VB	_	6	comp	_	_
+RB	sem=dir	19	adv	_	_
+IN	_	22	case	_	_
+NNP	sem=dir	19	ppmod	_	_
+.	_	5	p	_	_
+

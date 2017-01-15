@@ -1,0 +1,15 @@
+CC	_	6	cc	_	_
+IN	_	4	case	_	_
+IN	_	4	case	_	_
+NNS	sem=loc	6	ppmod	_	_
+,	_	6	p	_	_
+VB	_	0	root	_	_
+RP	_	6	prt	_	_
+JJ	_	9	attr	_	_
+NNS	_	6	obj	_	_
+IN	_	13	case	_	_
+NN	_	12	com	_	_
+NN	_	13	com	_	_
+NNS	sem=mnr	6	ppmod	_	_
+.	_	6	p	_	_
+

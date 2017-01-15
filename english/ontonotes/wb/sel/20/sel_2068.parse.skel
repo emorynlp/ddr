@@ -1,0 +1,14 @@
+``	_	12	p	_	_
+NNS	_	4	nsbj	_	_
+MD	_	4	modal	_	_
+VB	_	8	comp	_	_
+,	_	8	p	_	_
+NNS	_	8	nsbj	_	_
+VBP	_	8	aux	_	_
+VB	_	12	comp	_	_
+,	_	12	p	_	_
+''	_	12	p	_	_
+PRP	_	12	nsbj	_	_
+VBD	_	0	root	_	_
+.	_	12	p	_	_
+

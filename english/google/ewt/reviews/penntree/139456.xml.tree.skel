@@ -1,0 +1,20 @@
+NN	sem=clr	0	root	3:ppmod	_
+TO	_	3	aux	_	_
+VB	_	1	relcl	_	_
+IN	_	3	case	_	_
+.	_	1	p	_	_
+
+DT	_	2	det	_	_
+NN	_	8	nsbj	_	_
+IN	_	5	case	_	_
+DT	_	5	det	_	_
+NN	_	2	ppmod	_	_
+VBZ	_	8	aux	_	_
+VBN	_	8	cop	_	_
+JJ	_	0	root	_	_
+.	_	8	p	_	_
+
+DT	_	2	det	_	_
+NNS	_	0	root	_	_
+.	_	2	p	_	_
+

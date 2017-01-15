@@ -1,0 +1,32 @@
+CC	_	8	cc	_	O
+DT	_	5	det	_	O
+NNP	_	5	com	_	U-ORG
+NNP	_	5	com	_	O
+NNP	_	8	nsbj	_	O
+IN	_	7	case	_	O
+NNPS	_	5	ppmod	_	O
+VBZ	_	0	root	_	O
+JJ	_	10	attr	_	O
+NNP	_	12	nsbj	_	U-GPE
+VBZ	_	12	cop	_	O
+IN	_	8	comp	_	O
+DT	_	14	det	_	O
+NN	_	12	obj	_	O
+IN	_	19	case	_	O
+DT	_	19	det	_	O
+JJ	_	19	attr	_	O
+JJ	_	19	attr	_	O
+NN	_	14	ppmod	_	O
+IN	_	23	case	_	O
+IN	_	23	case	_	O
+JJ	_	23	attr	_	O
+NN	sem=prp	12	ppmod	_	O
+.	_	8	p	_	O
+
+NNP	_	2	com	_	B-PERSON
+NNP	_	5	dep	_	L-PERSON
+,	_	5	p	_	O
+NNP	_	5	com	_	B-ORG
+NNP	_	0	root	_	L-ORG
+.	_	5	p	_	O
+

@@ -1,0 +1,13 @@
+CC	_	11	cc	_	_
+DT	_	3	det	_	_
+NNS	_	11	nsbj	5:nsbj	_
+WP	_	5	r-nsbj	_	_
+VBP	_	3	relcl	_	_
+PRP	_	5	obj	_	_
+RB	sem=tmp	11	adv	_	_
+VBP	_	11	cop	_	_
+PRP$	_	11	poss	_	_
+JJ	_	11	attr	_	_
+NNS	_	0	root	_	_
+.	_	11	p	_	_
+

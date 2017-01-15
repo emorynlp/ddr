@@ -1,0 +1,16 @@
+CC	_	5	cc	_	_
+PRP	_	5	nsbj	_	_
+VBP	_	5	aux	_	_
+RB	sem=mnr	5	adv	_	_
+VB	_	0	root	_	_
+PRP$	_	7	poss	_	_
+NNS	_	5	obj	_	_
+IN	_	10	case	_	_
+NN	_	10	com	_	_
+NN	sem=mnr	5	ppmod	_	_
+CC	_	10	cc	_	_
+NN	_	10	conj	_	_
+IN	_	14	case	_	_
+NN	_	10	ppmod	_	_
+.	_	5	p	_	_
+

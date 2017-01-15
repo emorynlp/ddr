@@ -1,0 +1,27 @@
+IN	_	2	case	_	_
+NN	_	6	ppmod	_	_
+,	_	6	p	_	_
+NNPS	_	6	nsbj	_	_
+VBP	_	6	aux	_	_
+VBN	_	0	root	_	_
+DT	_	9	det	_	_
+JJ	_	9	attr	_	_
+NN	_	10	obj	_	_
+VBN	_	6	comp	_	_
+IN	_	13	case	_	_
+PRP$	_	13	poss	_	_
+NNS	sem=clr	10	ppmod	_	_
+RB	_	15	com	_	_
+RB	sem=mnr	10	adv	_	_
+IN	_	17	case	_	_
+NNS	sem=tmp	10	ppmod	_	_
+:	_	10	p	_	_
+NN	_	21	nsbj	_	_
+VBZ	_	21	cop	_	_
+JJ	_	25	comp	_	_
+,	_	25	p	_	_
+NN	_	25	nsbj	_	_
+VBZ	_	25	cop	_	_
+JJ	_	9	acl	_	_
+.	_	6	p	_	_
+

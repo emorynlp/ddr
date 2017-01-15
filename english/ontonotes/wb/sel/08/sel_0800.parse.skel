@@ -1,0 +1,22 @@
+PRP	_	3	nsbj	6:nsbj;13:nsbj	_
+MD	_	3	modal	_	_
+VB	_	0	root	_	_
+NNP	_	3	obj	_	_
+CC	_	3	cc	_	_
+VB	_	3	conj	_	_
+PRP$	_	8	poss	_	_
+NN	_	6	obj	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+NN	sem=clr	6	ppmod	_	_
+CC	_	6	cc	_	_
+VB	_	3	conj	_	_
+NN	_	13	obj	_	_
+IN	_	20	case	_	_
+DT	_	20	det	_	_
+JJ	_	20	attr	_	_
+CC	_	17	cc	_	_
+JJ	_	17	conj	_	_
+NNP	_	13	dat	_	_
+.	_	3	p	_	_
+

@@ -1,0 +1,25 @@
+WP	_	5	obj	_	_
+PRP	_	3	nsbj	5:nsbj	_
+VBD	_	10	csbj	_	_
+TO	_	5	aux	_	_
+VB	_	3	comp	_	_
+,	_	10	p	_	_
+IN	_	8	case	_	_
+NN	_	10	ppmod	_	_
+,	_	10	p	_	_
+VBZ	_	0	root	_	_
+``	_	10	p	_	_
+VB	_	10	comp	_	_
+PRP	_	14	nsbj	_	_
+VB	_	12	comp	_	_
+IN	_	20	mark	_	_
+NNS	_	20	nsbj	_	_
+CC	_	16	cc	_	_
+NN	_	16	conj	_	_
+VBP	_	20	cop	_	_
+JJ	_	14	comp	_	_
+IN	_	22	case	_	_
+NNP	_	20	ppmod	_	_
+.	_	10	p	_	_
+''	_	10	p	_	_
+

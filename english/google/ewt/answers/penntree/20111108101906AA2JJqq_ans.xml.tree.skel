@@ -1,0 +1,47 @@
+NN	_	0	root	_	_
+IN	_	3	case	_	_
+NNP	sem=tmp	1	ppmod	_	_
+IN	_	5	case	_	_
+NNP	sem=loc	1	ppmod	_	_
+.	_	1	p	_	_
+
+RB	_	4	adv	_	_
+PRP	_	4	nsbj	_	_
+VBZ	_	4	cop	_	_
+JJ	_	0	root	_	_
+.	_	4	p	_	_
+
+EX	_	2	expl	_	_
+MD	_	0	root	_	_
+CC	_	2	cc	_	_
+MD	_	7	modal	_	_
+RB	_	7	neg	_	_
+VB	_	7	cop	_	_
+NN	_	2	conj	_	_
+,	_	7	p	_	_
+VBG	_	13	adv	_	_
+IN	_	13	case	_	_
+JJ	_	13	attr	_	_
+NN	_	13	com	_	_
+NNS	_	7	ppmod	_	_
+.	_	2	p	_	_
+
+IN	_	5	case	_	_
+DT	_	5	det	_	_
+NN	_	4	com	_	_
+NN	_	5	com	_	_
+NNS	sem=loc	14	ppmod	_	_
+,	_	14	p	_	_
+EX	_	14	expl	_	_
+MD	_	14	modal	_	_
+RB	_	14	adv	_	_
+VB	_	14	cop	_	_
+NN	_	13	advnp	_	_
+HYPH	_	13	p	_	_
+VBN	_	14	attr	_	_
+NN	_	0	root	_	_
+IN	_	17	case	_	_
+DT	_	17	det	_	_
+NNS	sem=loc	14	ppmod	_	_
+.	_	14	p	_	_
+

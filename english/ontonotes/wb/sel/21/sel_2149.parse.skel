@@ -1,0 +1,10 @@
+RB	_	2	adv	_	_
+VB	_	0	root	_	_
+DT	_	4	det	_	_
+NN	_	2	obj	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	_	8	com	_	_
+NN	sem=clr	2	ppmod	_	_
+.	_	2	p	_	_
+

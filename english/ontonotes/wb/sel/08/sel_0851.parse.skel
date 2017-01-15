@@ -1,0 +1,21 @@
+PRP	_	3	nsbj	_	_
+VBP	_	3	aux	_	_
+VBN	_	0	root	_	_
+IN	_	8	mark	_	_
+EX	_	8	expl	_	_
+VBZ	_	8	cop	_	_
+DT	_	8	det	_	_
+NN	_	3	comp	_	_
+PRP	_	11	nsbj	_	_
+MD	_	11	modal	_	_
+VB	_	8	acl	_	_
+PRP$	_	13	poss	_	_
+NN	_	11	obj	_	_
+IN	_	19	mark	_	_
+EX	_	19	expl	_	_
+VBD	_	19	cop	_	_
+DT	_	19	det	_	_
+JJ	_	19	attr	_	_
+NN	_	11	advcl	_	_
+.	_	3	p	_	_
+

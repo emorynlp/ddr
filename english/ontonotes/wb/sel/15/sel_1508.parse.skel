@@ -1,0 +1,12 @@
+IN	_	2	case	_	_
+NN	_	6	ppmod	_	_
+JJ	_	4	attr	_	_
+NNS	_	6	nsbj	_	_
+MD	_	6	modal	_	_
+VB	_	0	root	_	_
+IN	_	10	case	_	_
+RB	_	9	adv	_	_
+JJ	_	10	attr	_	_
+NNS	sem=clr	6	ppmod	_	_
+.	_	6	p	_	_
+

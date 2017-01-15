@@ -1,0 +1,16 @@
+RB	sem=tmp	5	adv	_	_
+PRP	_	5	nsbj	_	_
+RB	_	2	adv	_	_
+MD	_	5	modal	_	_
+VB	_	0	root	_	_
+NN	_	5	obj	_	_
+IN	_	14	case	_	_
+PRP$	_	14	poss	_	_
+RB	_	10	adv	_	_
+JJ	_	14	attr	_	_
+JJ	_	13	attr	_	_
+HYPH	_	13	p	_	_
+NN	_	14	com	_	_
+NN	sem=mnr	5	ppmod	_	_
+.	_	5	p	_	_
+

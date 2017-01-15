@@ -1,0 +1,15 @@
+PRP	_	3	nsbj	8:nsbj	_
+VBP	_	3	aux	_	_
+VBN	_	0	root	_	_
+IN	_	6	case	_	_
+NNP	_	6	com	_	_
+NNP	sem=clr	3	ppmod	_	_
+CC	_	3	cc	_	_
+VBP	_	3	conj	_	_
+PRP	_	13	nsbj	_	_
+VBZ	_	13	cop	_	_
+DT	_	13	det	_	_
+JJ	_	13	attr	_	_
+NN	_	8	comp	_	_
+.	_	3	p	_	_
+

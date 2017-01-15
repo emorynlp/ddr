@@ -1,0 +1,21 @@
+NNP	_	2	com	_	_
+NNP	_	3	nsbj	_	_
+VBD	_	0	root	_	_
+:	_	3	p	_	_
+IN	_	7	mark	_	_
+PRP	_	7	nsbj	_	_
+VBP	_	19	advcl	_	_
+DT	_	9	det	_	_
+NN	_	7	obj	_	_
+IN	_	13	case	_	_
+DT	_	13	det	_	_
+NN	_	13	com	_	_
+NN	sem=clr	7	ppmod	_	_
+,	_	19	p	_	_
+VBZ	_	19	aux	_	_
+PRP	_	19	nsbj	_	_
+VB	_	19	cop	_	_
+NN	_	19	com	_	_
+NN	_	3	comp	_	_
+.	_	3	p	_	_
+

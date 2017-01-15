@@ -1,0 +1,14 @@
+VBG	_	4	csbj	_	_
+NNS	_	1	obj	_	_
+MD	_	4	modal	_	_
+VB	_	0	root	_	_
+JJR	_	4	obj	_	_
+IN	_	7	case	_	_
+NN	_	5	ppmod	_	_
+PRP	_	7	appo	_	_
+IN	_	10	mark	_	_
+VBN	_	4	advcl	_	_
+IN	_	12	case	_	_
+NNP	sem=loc	10	ppmod	_	_
+.	_	4	p	_	_
+

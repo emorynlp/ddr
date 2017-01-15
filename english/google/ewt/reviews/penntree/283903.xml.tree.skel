@@ -1,0 +1,15 @@
+RB	_	2	adv	_	_
+JJ	_	3	attr	_	_
+NNS	_	0	root	_	_
+.	_	3	p	_	_
+
+JJ	_	0	root	_	_
+RB	_	1	adv	_	_
+CC	_	2	cc	_	_
+RB	_	2	conj	_	_
+.	_	1	p	_	_
+
+JJ	_	2	attr	_	_
+NN	_	0	root	_	_
+.	_	2	p	_	_
+

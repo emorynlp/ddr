@@ -1,0 +1,27 @@
+PRP$	_	2	poss	_	_
+NN	_	3	nsbj	_	_
+VBZ	_	14	comp	_	_
+IN	_	5	case	_	_
+NN	sem=clr	3	ppmod	10:nsbj	_
+WDT	_	10	r-nsbj	_	_
+VBZ	_	10	aux	_	_
+RB	sem=tmp	10	adv	_	_
+VBN	_	10	cop	_	_
+JJ	_	5	relcl	_	_
+:	_	14	p	_	_
+PRP$	_	13	poss	_	_
+NN	_	14	nsbj	_	_
+VBZ	_	0	root	_	_
+RB	sem=mnr	14	adv	_	_
+CC	_	15	cc	_	_
+RB	_	15	conj	_	_
+IN	_	20	case	_	_
+DT	_	20	det	_	_
+NN	sem=clr	14	ppmod	_	_
+IN	_	22	case	_	_
+NN	_	20	ppmod	_	_
+VBG	_	20	acl	_	_
+IN	_	25	case	_	_
+CD	sem=mnr	23	ppmod	_	_
+.	_	14	p	_	_
+

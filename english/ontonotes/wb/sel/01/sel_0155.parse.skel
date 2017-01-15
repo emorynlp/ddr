@@ -1,0 +1,20 @@
+IN	_	2	case	_	_
+NN	_	12	ppmod	_	_
+,	_	12	p	_	_
+DT	_	6	det	_	_
+JJ	_	6	attr	_	_
+NN	_	12	nsbj	_	_
+IN	_	8	case	_	_
+NNP	_	6	ppmod	_	_
+CC	_	8	cc	_	_
+NNP	_	8	conj	_	_
+MD	_	12	modal	_	_
+VB	_	0	root	_	_
+RP	_	12	prt	_	_
+JJ	_	16	attr	_	_
+JJ	_	16	attr	_	_
+NN	_	12	obj	_	_
+IN	_	18	case	_	_
+NNP	_	16	ppmod	_	_
+.	_	12	p	_	_
+

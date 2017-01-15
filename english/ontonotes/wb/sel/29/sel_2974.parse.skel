@@ -1,0 +1,16 @@
+RB	sem=tmp	3	adv	_	_
+,	_	3	p	_	_
+VB	_	0	root	_	_
+CD	_	5	num	_	_
+NN	_	3	obj	_	_
+IN	_	7	case	_	_
+DT	sem=loc	3	ppmod	_	_
+IN	_	11	case	_	_
+DT	_	11	det	_	_
+CD	_	11	num	_	_
+NNS	_	7	ppmod	_	_
+CC	_	3	cc	_	_
+VB	_	3	conj	_	_
+PRP	_	13	obj	_	_
+.	_	13	p	_	_
+

@@ -1,0 +1,27 @@
+NNP	_	2	com	_	_
+NNP	_	3	nsbj	_	_
+VBD	_	0	root	_	_
+:	_	3	p	_	_
+PRP	_	7	nsbj	_	_
+VBP	_	7	cop	_	_
+JJ	_	3	comp	_	_
+EX	_	10	expl	_	_
+VBP	_	10	cop	_	_
+NNS	_	7	comp	20:obj	_
+IN	_	12	case	_	_
+NNS	_	10	ppmod	_	_
+CC	_	12	cc	_	_
+DT	_	15	det	_	_
+NN	_	12	conj	_	_
+WDT	_	20	r-obj	_	_
+PRP$	_	19	poss	_	_
+JJ	_	19	attr	_	_
+NNS	_	20	nsbj	_	_
+VBP	_	10	relcl	_	_
+,	_	20	p	_	_
+RB	_	25	adv	_	_
+IN	_	25	mark	_	_
+PRP	_	25	nsbj	_	_
+VBP	_	20	advcl	_	_
+.	_	3	p	_	_
+

@@ -1,0 +1,76 @@
+DT	_	4	det	_	B-ORG
+NNP	_	4	com	_	I-ORG
+NNP	_	4	com	_	I-ORG
+NNP	_	6	nsbj	8:nsbj	L-ORG
+VBZ	_	6	aux	_	O
+VBN	_	0	root	_	O
+TO	_	8	aux	_	O
+VB	_	6	comp	_	O
+JJ	_	10	attr	_	O
+NNS	_	8	obj	_	O
+IN	_	14	case	_	O
+DT	_	14	det	_	O
+NNP	_	14	com	_	U-ORG
+NN	_	10	ppmod	_	O
+IN	_	16	case	_	O
+NNP	sem=loc	14	ppmod	_	U-GPE
+.	_	6	p	_	O
+
+DT	_	3	det	_	O
+JJ	_	3	attr	_	O
+NNS	_	11	obj	_	O
+,	_	3	p	_	O
+VBG	_	8	adv	_	O
+DT	_	8	det	_	O
+NNS	_	8	com	_	O
+NN	_	3	ppmod	_	O
+,	_	11	p	_	O
+VBD	_	11	aux	_	O
+VBN	_	0	root	_	O
+IN	_	14	case	_	O
+DT	_	14	det	_	O
+NNP	_	11	nsbj	_	U-GPE
+CC	_	14	cc	_	O
+NNP	_	14	conj	_	U-GPE
+.	_	11	p	_	O
+
+PRP	_	2	nsbj	_	O
+VBD	_	0	root	_	O
+DT	_	4	det	_	O
+NNP	_	2	obj	6:nsbj	U-ORG
+IN	_	6	case	_	O
+VBG	sem=clr	2	ppmod	_	O
+JJ	_	8	attr	_	O
+NN	_	6	obj	_	O
+.	_	2	p	_	O
+
+PRP	_	3	nsbj	_	O
+RB	_	3	adv	_	O
+VBP	_	0	root	_	O
+NNP	_	6	nsbj	_	U-GPE
+TO	_	6	aux	_	O
+VB	_	3	comp	_	O
+RP	_	6	prt	_	O
+DT	_	11	det	_	O
+NNP	_	10	advnp	_	U-NORP
+VBN	_	11	attr	_	O
+NN	_	6	obj	_	O
+,	_	11	p	_	O
+NNP	_	15	com	_	B-PERSON
+NNP	_	15	com	_	I-PERSON
+NNP	_	11	appo	_	L-PERSON
+.	_	3	p	_	O
+
+NNP	_	2	com	_	B-ORG
+NNP	_	0	root	_	L-ORG
+IN	_	5	case	_	O
+DT	_	5	det	_	B-WORK_OF_ART
+NNP	_	2	ppmod	_	L-WORK_OF_ART
+.	_	2	p	_	O
+
+PRP	_	4	nsbj	_	O
+VBP	_	4	cop	_	O
+NNP	_	4	com	_	B-PERSON
+NNP	_	0	root	_	L-PERSON
+.	_	4	p	_	O
+

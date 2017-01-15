@@ -1,0 +1,19 @@
+RB	_	2	adv	_	_
+JJ	_	4	attr	_	_
+NNP	_	4	com	_	_
+NNP	_	5	nsbj	_	_
+VBD	_	0	root	_	_
+:	_	5	p	_	_
+UH	_	14	disc	_	_
+,	_	14	p	_	_
+IN	_	12	case	_	_
+DT	_	12	det	_	_
+JJ	_	12	attr	_	_
+NN	sem=loc	14	ppmod	_	_
+PRP	_	14	nsbj	_	_
+VBP	_	5	comp	_	_
+DT	_	17	det	_	_
+NN	_	17	com	_	_
+NN	_	14	obj	_	_
+.	_	5	p	_	_
+

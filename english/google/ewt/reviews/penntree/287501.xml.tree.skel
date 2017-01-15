@@ -1,0 +1,19 @@
+NNP	_	0	root	_	_
+
+DT	_	2	det	_	_
+NN	_	0	root	4:nsbj	_
+WDT	_	4	r-nsbj	_	_
+VBP	_	2	relcl	_	_
+JJ	_	6	attr	_	_
+NN	_	7	com	_	_
+NNS	_	4	obj	_	_
+,	_	7	p	_	_
+NN	_	10	com	_	_
+NNS	_	7	conj	_	_
+,	_	10	p	_	_
+NN	_	13	advnp	_	_
+VBN	_	14	attr	_	_
+NN	_	7	conj	_	_
+,	_	14	p	_	_
+FW	_	7	conj	_	_
+

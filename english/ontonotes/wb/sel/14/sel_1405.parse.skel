@@ -1,0 +1,15 @@
+NNP	_	6	nsbj	_	_
+,	_	1	p	_	_
+CC	_	1	cc	_	_
+NNP	_	1	conj	_	_
+,	_	6	p	_	_
+VBP	_	0	root	_	_
+IN	_	8	case	_	_
+PRP	sem=clr	6	ppmod	_	_
+IN	_	13	case	_	_
+RB	_	11	adv	_	_
+DT	_	13	num	_	_
+JJ	_	13	attr	_	_
+NN	_	6	ppmod	_	_
+.	_	6	p	_	_
+

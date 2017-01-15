@@ -1,0 +1,15 @@
+PRP	_	2	nsbj	_	_
+VBP	_	10	comp	_	_
+IN	_	4	case	_	_
+NNP	sem=clr	2	ppmod	_	_
+:	_	10	p	_	_
+PRP$	_	7	poss	_	_
+NNS	_	10	nsbj	_	_
+VBD	_	10	cop	_	_
+RB	_	10	adv	_	_
+JJR	_	0	root	_	_
+IN	_	13	case	_	_
+PRP$	_	13	poss	_	_
+NN	_	10	ppmod	_	_
+.	_	10	p	_	_
+

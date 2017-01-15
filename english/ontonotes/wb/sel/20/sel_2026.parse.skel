@@ -1,0 +1,25 @@
+VB	_	0	root	_	_
+PRP	_	3	nsbj	_	_
+VB	_	1	comp	_	_
+DT	_	5	det	_	_
+NN	_	11	obj	_	_
+IN	_	8	case	_	_
+DT	_	8	det	_	_
+NN	_	5	ppmod	_	_
+VBZ	_	11	aux	_	_
+RB	sem=tmp	11	adv	_	_
+VBN	_	3	comp	_	_
+IN	_	14	case	_	_
+CD	_	14	num	_	_
+NNS	sem=loc	11	ppmod	15:obj;16:nsbj;18:nsbj;20:nsbj;23:nsbj	_
+VBN	_	14	acl	_	_
+NN	sem=clr	15	comp	_	_
+,	_	16	p	_	_
+NN	_	16	conj	_	_
+,	_	18	p	_	_
+NN	_	16	conj	_	_
+,	_	20	p	_	_
+CC	_	20	cc	_	_
+NN	_	16	conj	_	_
+.	_	1	p	_	_
+
