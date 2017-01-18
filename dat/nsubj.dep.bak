@@ -1,7 +1,0 @@
-1   John    john    NNP _   2   nsubj   _   O
-2   thinks   think   VBZ _   0   root    _   O
-3   so    so    RB  _ 2   adv  _   O
-
-1   Smart   smart   JJ _ 0   root   _   O
-2   is  be  VBZ _   1   cop    _   O
-3   John    john    NNP _   1   nsubj    _   O

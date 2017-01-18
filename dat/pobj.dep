@@ -1,6 +1,0 @@
-1   I   I   PRP _   2   nsubj   _   O
-2   named    name    VBD _   0   root    _   O
-3   John    john    NNP _   2   dobj    _   U-PERSON
-4   after   after   IN  _   2   oprd    _   O
-5   the the DT  _   6   det _   O
-6   baptist baptist NN  _ 4   pobj    _   O

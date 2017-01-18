@@ -10,10 +10,6 @@
 2   did    do    VBD  _   3   aux _   O
 3   study   study   VB  _   0   root    _   O
 
-1   I   I   PRP _   3   nsbj   _   O
-2   will    will    MD  _   3   aux _   O
-3   study   study   VB  _   0   root    _   O
-
 1   I   I   PRP _   3   dobj   _   O
 2   was be  VBD _   3   aux _   O
 3   chosen  choose  VBN _   0   root    _   O

@@ -27,7 +27,7 @@ FONT_EDGE_SIZE    = 10 #*2
 B_SMOOTH = 'false'
 B_POS    = False
 
-H_GAP  = 25
+H_GAP  = 30
 V_GAP  = 18
 E_GAP  = 6
 X_INIT = 10
