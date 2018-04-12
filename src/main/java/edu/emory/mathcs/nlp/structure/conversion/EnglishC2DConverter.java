@@ -15,6 +15,7 @@
  */
 package edu.emory.mathcs.nlp.structure.conversion;
 
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
@@ -31,27 +32,20 @@ import com.google.common.collect.Sets;
 
 import edu.emory.mathcs.nlp.common.constant.MetaConst;
 import edu.emory.mathcs.nlp.common.constant.PatternConst;
-import edu.emory.mathcs.nlp.common.util.DSUtils;
-import edu.emory.mathcs.nlp.common.util.ENUtils;
-import edu.emory.mathcs.nlp.common.util.IOUtils;
-import edu.emory.mathcs.nlp.common.util.Joiner;
-import edu.emory.mathcs.nlp.common.util.PatternUtils;
-import edu.emory.mathcs.nlp.common.util.StringUtils;
+import edu.emory.mathcs.nlp.common.util.*;
 import edu.emory.mathcs.nlp.component.morph.MorphAnalyzer;
 import edu.emory.mathcs.nlp.component.morph.english.EnglishMorphAnalyzer;
 import edu.emory.mathcs.nlp.component.tokenizer.dictionary.Emoticon;
 import edu.emory.mathcs.nlp.structure.constituency.CTArc;
 import edu.emory.mathcs.nlp.structure.constituency.CTNode;
+import edu.emory.mathcs.nlp.structure.constituency.CTTag;
 import edu.emory.mathcs.nlp.structure.constituency.CTTree;
 import edu.emory.mathcs.nlp.structure.conversion.headrule.HeadRule;
 import edu.emory.mathcs.nlp.structure.conversion.headrule.HeadRuleMap;
 import edu.emory.mathcs.nlp.structure.dependency.NLPArc;
 import edu.emory.mathcs.nlp.structure.dependency.NLPGraph;
 import edu.emory.mathcs.nlp.structure.dependency.NLPNode;
-import edu.emory.mathcs.nlp.structure.util.DDGTag;
-import edu.emory.mathcs.nlp.structure.util.FeatMap;
-import edu.emory.mathcs.nlp.structure.util.PTBLib;
-import edu.emory.mathcs.nlp.structure.util.PTBTag;
+import edu.emory.mathcs.nlp.structure.util.*;
 
 
 /**
@@ -143,13 +137,13 @@ public class EnglishC2DConverter extends C2DConverter
 //	============================= Abstract Methods =============================
 
 	@Override
-	public NLPGraph toDependencyGraph(CTTree tree)
+	public NLPGraph toDependencyGraph(CTTree tree, String name) throws FileNotFoundException
 	{
 		if (tree.containsOnlyEmptyCategories()) return null;
 		preprocess(tree);
 		setHead(tree.getRoot());
 		postprocess(tree);
-		finalizeDependencies(tree.getRoot());
+		finalizeDependencies(tree.getRoot(), tree, name);
 		NLPGraph graph = createDependencyGraph(tree);
 		relabel(tree, graph);
 		addFeats(tree, graph);
@@ -805,6 +799,9 @@ public class EnglishC2DConverter extends C2DConverter
 		
 		if (node.hasPrimaryLabel())
 			return node.getPrimaryLabel();
+
+		if (node.isFunctionTag(PBLib.ARG0_FUNCTION_TAG))
+			return PBTag.ARG0;
 		
 		if (node.hasParent(n -> n.isSyntacticTag(PTBTag.C_CONJP)) || d.isSyntacticTag(PTBTag.P_GW))
 			return DDGTag.COM;
@@ -1342,7 +1339,7 @@ public class EnglishC2DConverter extends C2DConverter
 				head -> PTBLib.isCommonOrProperNoun(head),
 				node -> node.isDependencyLabel(DDGTag.ATTR) || node.isDependencyLabel(DDGTag.DEP) || node.getSyntacticTag().startsWith(PTBTag.P_NNP));
 		
-		labelCompounds(graph, 
+		labelCompounds(graph,
 				head -> isNumber(head),
 				node -> node.isDependencyLabel(DDGTag.ATTR) || node.isDependencyLabel(DDGTag.DEP) || node.isDependencyLabel(DDGTag.NUM));
 		
@@ -1455,7 +1452,7 @@ public class EnglishC2DConverter extends C2DConverter
 	public void validate(CTTree tree, NLPGraph graph)
 	{
 		String message = null;
-		
+
 		if (graph.getRoot().getChildrenSize() != tree.getRoot().getChildrenSize())
 			message = "Root mistach";
 		
@@ -1463,13 +1460,13 @@ public class EnglishC2DConverter extends C2DConverter
 		{
 			if (!node.hasParent() || node.getDependencyLabel() == null)
 				message = "Primary head error: "+node.getTokenID();
-			
+
 			for (NLPArc<NLPNode> arc : node.getSecondaryHeads())
 			{
 				if (arc.getNode() == null || arc.getLabel() == null)
 					message = "Secondary head error: "+node.getTokenID();
 			}
-			
+
 			if (node.isAncestorOf(node.getParent()))
 				message = "Cyclic relation: "+node.getTokenID();
 			
@@ -1869,54 +1866,54 @@ public class EnglishC2DConverter extends C2DConverter
 //		return isFound;
 //	}
 //	
-//// ============================= Secondary Dependencies =============================
-//	
+// ============================= Secondary Dependencies =============================
+//
 //	/** Called by {@link #getDEPTree(CTTree)}. */
 //	private void addFeats(NLPNode[] dTree, CTTree cTree, CTNode cNode)
 //	{
 //		CTNode ante;
 //		String feat;
-//		
+//
 //		if (!cNode.isEmptyCategoryPhrase() && cNode.getGapIndex() != -1 && cNode.getParent().getGapIndex() == -1 && (ante = cTree.getAntecedent(cNode.getGapIndex())) != null)
 //		{
 //			NLPNode dNode = getNLPNode(dTree, cNode);
 //			dNode.addSecondaryHead(getNLPNode(dTree, ante), DDGTag.DEP2_GAP);
 //		}
-//		
+//
 //		if ((feat = getFunctionTags(cNode, SEM_TAGS)) != null)
 //			cNode.getC2DInfo().putFeat(NLPUtils.FEAT_SEM, feat);
-//		
+//
 //		if ((feat = getFunctionTags(cNode, SYN_TAGS)) != null)
 //			cNode.getC2DInfo().putFeat(NLPUtils.FEAT_SYN, feat);
 //
 //		for (CTNode child : cNode.getChildren())
 //			addFeats(dTree, cTree, child);
 //	}
-//	
+//
 //	/** Called by {@link #addFeats(DEPTree, CTTree, CTNode)}. */
 //	private String getFunctionTags(CTNode node, Set<String> sTags)
 //	{
 //		List<String> tags = new ArrayList<>();
-//		
+//
 //		for (String tag : node.getFunctionTags())
 //		{
 //			if (sTags.contains(tag))
 //				tags.add(tag);
 //		}
-//		
+//
 //		if (tags.isEmpty())	return null;
 //		Collections.sort(tags);
 //		return Joiner.join(tags, FeatMap.DELIM_VALUES);
 //	}
-//	
+//
 //	private NLPNode getNLPNode(NLPNode[] dTree, CTNode cNode)
 //	{
 //		if (cNode.isSyntacticTag(CTTag.TOP)) return null;
-//		CTNode cHead = cNode.isTerminal() ? cNode : cNode.getC2DInfo().getTerminalHead();
+//		CTNode cHead = cNode.isTerminal() ? cNode : cNode.getTerminalHead();
 //		return cHead.isEmptyCategory() ? null : dTree[cHead.getTokenID()+1];
 ////		return cNode.isTerminal() ? dTree.get(cNode.getTokenID()+1) : dTree.get(cNode.getC2DInfo().getTerminalHead().getTokenID()+1);
 //	}
-//	
+//
 //// ============================= Edited phrases =============================
 //	
 //	public NLPNode[] getDEPTreeWithoutEdited(CTTree cTree, NLPNode[] dTree)
@@ -1972,68 +1969,68 @@ public class EnglishC2DConverter extends C2DConverter
 //		
 //		heads.removeAll(remove);
 //	}	
-	
-	// ============================= Add PropBank arguments =============================
-	
+//
+//	// ============================= Add PropBank arguments =============================
+//
 //	private void addSemanticHeads(NLPNode[] dTree, CTTree cTree)
 //	{
 //		initPropBank(dTree, cTree.getRoot());
 //		arrangePropBank(dTree);
 //		relabelNumberedArguments(dTree);
 //	}
-//	
+//
 //	/** Called by {@link #addSemanticHeads(DEPTree, CTTree)}. */
 //	private void initPropBank(NLPNode[] dTree, CTNode cNode)
 //	{
 //		NLPNode dNode = getNLPNode(dTree, cNode);
-//		
+//
 //		if (dNode != null)
 //		{
 //			if (cNode.isPredicate())
 //				dNode.putFeat(NLPUtils.FEAT_PREDICATE, cNode.getFrameID());
-//			
+//
 //			NLPNode sHead, d;
 //			String  label;
 //			CTNode  c;
-//			
+//
 //			for (CTArc p : cNode.getSemanticHeads())
 //			{
 //				sHead = getNLPNode(dTree, p.getNode());
 //				label = PBLib.getShortLabel(p.getLabel());
-//				
+//
 //				if ((c = getReferentArgument(cNode)) != null)
 //				{
 //					if ((c = PTBLib.getRelativizer(c)) != null && (c = c.getAntecedent()) != null)
 //					{
 //						d = getNLPNode(dTree, c);
-//						
+//
 //						if (d != null && d.getSemanticHeadArc(sHead) == null)
 //							d.addSemanticHead(new DEPArc<>(sHead, label));
 //					}
-//					
+//
 //					label = PBLib.PREFIX_REFERENT + label;
 //				}
-//				
+//
 //				if (!dNode.isArgumentOf(sHead) && dNode != sHead)
 //					dNode.addSemanticHead(sHead, label);
-//			}	
+//			}
 //		}
-//		
+//
 //		for (CTNode child : cNode.getChildren())
 //			initPropBank(dTree, child);
 //	}
-//	
+//
 //	/** Called by {@link #initPropBank(DEPTree, CTNode)}. */
 //	private CTNode getReferentArgument(CTNode node)
 //	{
 //		CTNode ref;
-//		
+//
 //		if ((ref = PTBLib.getWhPhrase(node)) != null)
 //			return ref;
-//		
+//
 //		if (node.isSyntacticTag(PTBTag.C_PP))
 //		{
-//			for (CTNode child : node.getChildren()) 
+//			for (CTNode child : node.getChildren())
 //			{
 //				if ((ref = PTBLib.getWhPhrase(child)) != null)
 //					return ref;
@@ -2042,49 +2039,51 @@ public class EnglishC2DConverter extends C2DConverter
 //
 //		return null;
 //	}
-//	
+//
 //	/** Called by {@link #addSemanticHeads(DEPTree, CTTree)}. */
 //	private void arrangePropBank(NLPNode[] tree)
 //	{
-//		List<DEPArc<NLPNode>> remove;
+//		List<NLPArc<NLPNode>> remove;
 //		NLPNode head;
 //		String label;
-//		
+//
 //		for (NLPNode node : tree)
 //		{
 //			remove = new ArrayList<>();
-//			
-//			for (DEPArc<NLPNode> arc : node.getSemanticHeadList())
+//
+//			node
+//
+//			for (NLPArc<NLPNode> arc : node.getSemanticHeadList())
 //			{
 //				head  = arc.getNode();
 //				label = arc.getLabel();
-//				
+//
 //				if (ancestorHasSemanticHead(node, head, label))
 //					remove.add(arc);
 //			//	else if (rnrHasSHead(node, head, label))
 //			//		remove.add(arc);
 //			}
-//			
+//
 //			node.removeSemanticHeads(remove);
 //		}
 //	}
-//	
+//
 //	/** Called by {@link #arrangePropBank(DEPTree)}. */
 //	private boolean ancestorHasSemanticHead(NLPNode dNode, NLPNode sHead, String label)
 //	{
 //		NLPNode dHead = dNode.getParent();
-//		
+//
 //		while (dHead.getTokenID() != 0)
 //		{
 //			if (dHead.isArgumentOf(sHead, label))
 //				return true;
-//			
+//
 //			dHead = dHead.getParent();
 //		}
-//		
+//
 //		return false;
 //	}
-//	
+//
 ////	private boolean rnrHasSHead(NLPNode dNode, NLPNode sHead, String label)
 ////	{
 ////		for (DEPArc rnr : dNode.getSecondaryHeadList(DEPTagEn.DEP2_RNR))
@@ -2092,28 +2091,28 @@ public class EnglishC2DConverter extends C2DConverter
 ////			if (rnr.getNode().isArgumentOf(sHead, label))
 ////				return true;
 ////		}
-////		
+////
 ////		return false;
 ////	}
-//	
+//
 //	/** Called by {@link #addSemanticHeads(DEPTree, CTTree)}. */
 //	private void relabelNumberedArguments(NLPNode[] tree)
 //	{
 //		Map<String,NLPNode> map = new HashMap<>();
 //		String key;
-//		
+//
 //		for (NLPNode node : tree)
 //		{
-//			for (DEPArc<NLPNode> arc : node.getSemanticHeadList())
+//			for (NLPArc<NLPNode> arc : node.getSemanticHeadList())
 //			{
 //				if (PBLib.isReferentArgument(arc.getLabel()))
 //					continue;
-//								
+//
 //				if (PBLib.isModifier(arc.getLabel()))
 //					continue;
-//				
+//
 //				key = arc.toString();
-//				
+//
 //				if (map.containsKey(key))
 //					arc.setLabel(PBLib.PREFIX_CONCATENATION + arc.getLabel());
 //				else
@@ -2121,7 +2120,7 @@ public class EnglishC2DConverter extends C2DConverter
 //			}
 //		}
 //	}
-//		
+
 //	public void addNamedEntities(NLPNode[] dTree, CTTree cTree)
 //	{
 //		for (CTNode node : cTree.getTokens())

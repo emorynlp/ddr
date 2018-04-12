@@ -15,6 +15,7 @@
  */
 package edu.emory.mathcs.nlp.structure.conversion;
 
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -31,6 +32,7 @@ import edu.emory.mathcs.nlp.structure.conversion.headrule.HeadTagSet;
 import edu.emory.mathcs.nlp.structure.dependency.NLPGraph;
 import edu.emory.mathcs.nlp.structure.dependency.NLPNode;
 import edu.emory.mathcs.nlp.structure.util.DDGTag;
+import edu.emory.mathcs.nlp.structure.util.PBLib;
 
 /**
  * @author Jinho D. Choi ({@code jinho.choi@emory.edu})
@@ -61,7 +63,7 @@ abstract public class C2DConverter
 	 * @return the dependency graph converted from the constituency tree.
 	 * If the constituent tree contains only empty categories, returns {@code null}.
 	 */
-	public abstract NLPGraph toDependencyGraph(CTTree tree);
+	public abstract NLPGraph toDependencyGraph(CTTree tree, String name) throws FileNotFoundException;
 	
 	/**
 	 * Sets the head of the specific constituent node using the specific headrule.
@@ -197,14 +199,17 @@ abstract public class C2DConverter
 	
 //	============================= Get Dependency Graph =============================
 	
-	protected void finalizeDependencies(CTNode node)
+	protected void finalizeDependencies(CTNode node, CTTree tree, String name) throws FileNotFoundException
 	{
 		if (node.hasPrimaryHead())
 		{
 			CTArc  arc  = node.getPrimaryHead();
 			CTNode head = arc.getNode().getTerminalHead();
 			CTNode dep  = node.getTerminalHead();
-			dep.setPrimaryHead(head, arc.getLabel());	
+			dep.setPrimaryHead(head, arc.getLabel());
+
+			if (node.hasSemanticHead())
+				PBLib.insertSemanticHeads(tree, node, head, dep, arc, name, true);
 		}
 		
 		for (CTArc arc : node.getSecondaryHeads())
@@ -212,15 +217,21 @@ abstract public class C2DConverter
 			if (arc.getNode() == null) continue;
 			CTNode head = arc.getNode().getTerminalHead();
 			CTNode dep  = getTerminalHead(node);
-			
-			if (head != null && dep != null && dep != node)
+
+			if (head != null && dep != null && dep != node) {
 				dep.addSecondaryHead(head, arc.getLabel());
-			else
+				if (node.hasSemanticHead())
+					PBLib.insertSemanticHeads(tree, node, head, dep, arc, name, false);
+			} else
 				arc.setNode(head);
 		}
-		
+
+		// update no-matching prop label distributions
+		PBLib.collectLabelDistributionNull(node, tree, name);
+
 		for (CTNode child : node.getChildren())
-			finalizeDependencies(child);
+			finalizeDependencies(child, tree, name);
+
 	}
 	
 	private CTNode getTerminalHead(CTNode node)

@@ -29,6 +29,7 @@ import edu.emory.mathcs.nlp.structure.propbank.PBArgument;
 import edu.emory.mathcs.nlp.structure.propbank.PBInstance;
 import edu.emory.mathcs.nlp.structure.propbank.PBLocation;
 import edu.emory.mathcs.nlp.structure.util.PBLib;
+import edu.emory.mathcs.nlp.structure.util.PBTag;
 import edu.emory.mathcs.nlp.structure.util.PTBLib;
 import it.unimi.dsi.fastutil.ints.Int2IntMap;
 import it.unimi.dsi.fastutil.ints.Int2IntOpenHashMap;
@@ -47,6 +48,7 @@ public class CTTree
 	private CTNode root;
 	private List<CTNode> tokens;
 	private List<CTNode> terminals;
+	private List<PBInstance> pb_instances;
 	private Int2ObjectMap<List<CTNode>> empty_category_map;
 	
 //	======================== Constructors ========================
@@ -62,6 +64,7 @@ public class CTTree
 		empty_category_map = new Int2ObjectOpenHashMap<List<CTNode>>();
 		terminals = root.getTerminals();
 		tokens = new ArrayList<>();
+		pb_instances = new ArrayList<>();
 		
 		for (int terminal_id=0; terminal_id < terminals.size(); terminal_id++)
 		{
@@ -182,6 +185,11 @@ public class CTTree
 	public List<CTNode> getPredicates()
 	{
 		return tokens.stream().filter(n -> n.isPredicate()).collect(Collectors.toList());
+	}
+
+	public List<PBInstance> getPbInstances()
+	{
+		return pb_instances;
 	}
 	
 	public boolean containsOnlyEmptyCategories()
@@ -337,21 +345,56 @@ public class CTTree
 	public void set(PBInstance instance)
 	{
 		CTNode pred = getTerminal(instance.getPredicateID()), node;
+		String predType = instance.getPredicateType();
+
 		pred.setFrameID(instance.getFrameID());
 		instance.setTree(this);
-		
+
 		for (PBArgument arg : instance.getArguments())
 		{
-			String label = arg.getLabel();
+			String label = arg.getLabel(); // ARG0, things like that
 			if (PBLib.isLinkArgument(label))	continue;
 			if (PBLib.isUndefinedLabel(label))	continue;
-			
+			if (PBLib.isRel(label)) continue;
+
 			for (PBLocation loc : arg.getLocations())
 			{
 				node = getNode(loc);
-				if (node != pred) node.addSemanticHead(new CTArc(pred, label));
+				node.addSemanticHead(new CTArc(pred, label));
+				if (predType.equals("be"))
+					node.addFunctionTag("-COP");
+
+//				if (PBLib.isArg0(label)) {
+////					node.addFunctionTag(PBLib.ARG0_FUNCTION_TAG + instance.getPredicateID());
+//					node.addSemanticHead(new CTArc(pred, PBTag.ARG0));
+////					node.setPrimaryLabel();
+////					node.setPrimaryLabel(PBTag.ARG0);
+////					node.addSemanticHead(new CTArc(pred, PBTag.ARG0));
+//				} else if (PBLib.isArg1(label)){
+//					node.addSemanticHead(new CTArc(pred, PBTag.ARG1));
+//				} else if (PBLib.isArg2(label)){
+//					node.addSemanticHead(new CTArc(pred, PBTag.ARG2));
+//				} else if (PBLib.isArg3(label)){
+//					node.addSemanticHead(new CTArc(pred, PBTag.ARG3));
+//				} else if (PBLib.isArg4(label)){
+//					node.addSemanticHead(new CTArc(pred, PBTag.ARG4));
+//				} else if (PBLib.isArgA(label)){
+//					node.addSemanticHead(new CTArc(pred, PBTag.ARGA));
+////				} else if (PBLib.isLinkArgument(label)){
+////					node.addSemanticHead(new CTArc(pred, );
+//				} else if (PBLib.isModifier(label)){
+//					node.addSemanticHead(new CTArc(pred, PBTag.ARGM));
+//				} else{
+//					System.out.println(label);
+//					System.out.println("Unknown Case.");
+//				}
+//				if (node != pred) {
+//					System.out.println("Node != Pred Case:");
+//					node.addSemanticHead(new CTArc(pred, label));
+//				}
 			}
 		}
+		pb_instances.add(instance);
 	}
 
 //	======================== Strings ========================

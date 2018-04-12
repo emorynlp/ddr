@@ -109,4 +109,9 @@ public class FileUtils
 	{
 		return filename.endsWith(oldExt) ? filename.substring(0, filename.length()-oldExt.length()) + newExt : null; 
 	}
+
+	static public boolean exists(String filename)
+	{
+		return new File(filename).exists();
+	}
 }

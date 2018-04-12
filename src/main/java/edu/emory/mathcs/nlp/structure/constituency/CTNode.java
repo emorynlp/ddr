@@ -475,11 +475,23 @@ public class CTNode extends AbstractNode<CTNode> implements Comparable<CTNode>
 	{
 		return semantic_heads;
 	}
+
+	public boolean hasSemanticHead()
+	{
+		return semantic_heads.size() > 0;
+	}
 	
 	/** Adds a predicate of this node with a relation. */
 	public void addSemanticHead(CTArc arc)
 	{
 		semantic_heads.add(arc);
+	}
+
+	/** Removes a predicate of this node with a relation. */
+	public void removeSemanticHead(CTArc arc)
+	{
+		// what if it doens ahve it?
+		semantic_heads.remove(arc);
 	}
 	
 //	======================== Terminals ========================

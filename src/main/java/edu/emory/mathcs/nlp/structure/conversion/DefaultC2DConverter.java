@@ -23,6 +23,8 @@ import edu.emory.mathcs.nlp.structure.conversion.headrule.HeadRuleMap;
 import edu.emory.mathcs.nlp.structure.dependency.NLPGraph;
 import edu.emory.mathcs.nlp.structure.util.DDGTag;
 
+import java.io.FileNotFoundException;
+
 /**
  * @author Jinho D. Choi ({@code jinho.choi@emory.edu})
  */
@@ -34,10 +36,10 @@ public class DefaultC2DConverter extends C2DConverter
 	}
 	
 	@Override
-	public NLPGraph toDependencyGraph(CTTree tree)
+	public NLPGraph toDependencyGraph(CTTree tree, String name) throws FileNotFoundException
 	{
 		setHead(tree.getRoot());
-		finalizeDependencies(tree.getRoot());
+		finalizeDependencies(tree.getRoot(), tree, name);
 		return createDependencyGraph(tree);
 	}
 

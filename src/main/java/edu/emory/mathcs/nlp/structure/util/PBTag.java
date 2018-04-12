@@ -31,6 +31,8 @@ public interface PBTag
 	String ARG4 = "ARG4";
 	/** External causer. */
 	String ARGA = "ARGA";
+	/** Modifier */
+	String ARGM = "ARGM";
 
 	/** Adjectival. */
 	String ARGM_ADJ = "ARGM-ADJ";
@@ -73,4 +75,5 @@ public interface PBTag
 	String LINK_PRO	= "LINK-PRO";
 	/** Link caused by passive constructions. */
 	String LINK_PSV	= "LINK-PSV";
+
 }

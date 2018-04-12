@@ -15,9 +15,12 @@
  */
 package edu.emory.mathcs.nlp.bin;
 
-import java.io.PrintStream;
+import java.io.*;
 import java.util.List;
 
+import edu.emory.mathcs.nlp.structure.propbank.PBInstance;
+import edu.emory.mathcs.nlp.structure.propbank.PBReader;
+import edu.emory.mathcs.nlp.structure.util.PBLib;
 import org.kohsuke.args4j.Option;
 
 import edu.emory.mathcs.nlp.bin.util.BinUtils;
@@ -53,34 +56,52 @@ public class DDGConvert
 		
 		List<String> parseFiles = FileUtils.getFileList(input_path, parse_ext, recursive);
 		C2DConverter converter = NLPUtils.getC2DConverter(language);
-		
+
+		System.out.println("Begin converting..");
 		for (String parseFile : parseFiles)
 		{
-			int n = convert(converter, language, parseFile, parse_ext, output_ext, normalize);
+			int n = convert(converter, parseFile, output_ext, normalize);
 			System.out.printf("%s: %d trees\n", parseFile, n);
 		}
+		System.out.println("Printing null trees..");
+		PBLib.printNullTrees();
+		System.out.println("Done.");
+		System.out.println("Printing label Dist..");
+		PBLib.printLabelDistribution(true);
+		System.out.println("Done.");
 	}
 	
-	protected int convert(C2DConverter converter, Language language, String parseFile, String parseExt, String outputExt, boolean normalize) throws Exception
+	protected int convert(C2DConverter converter,  String parseFile,  String outputExt, boolean normalize) throws Exception
 	{
-		CTReader reader = new CTReader(IOUtils.createFileInputStream(parseFile), language);
+		String propFile = FileUtils.replaceExtension(parseFile, "prop");
+		if (!FileUtils.exists(propFile)){
+			// uncomment below to log non-existing prop files
+
+			// System.out.println("No Prop File Found: Skipping " + propFile);
+//			try (PrintStream out = new PrintStream(new FileOutputStream("../noProp.txt", true)))
+//				out.println(propFile);
+			return 0;
+		}
+		List<CTTree> trees = PBLib.getTreeList(IOUtils.createFileInputStream(parseFile),
+				IOUtils.createFileInputStream(propFile));
+
 		PrintStream fout = IOUtils.createBufferedPrintStream(parseFile+"."+outputExt);
 		CTTree   cTree;
 		NLPGraph dTree;
 		int n;
 		
-		for (n=0; (cTree = reader.next()) != null; n++)
+		for (n=0; n < trees.size(); n++)
 		{
+			cTree = trees.get(n);
 			if (normalize) cTree.normalizeIndices();
-			dTree = converter.toDependencyGraph(cTree);
-			
+			dTree = converter.toDependencyGraph(cTree, parseFile);
+
 			if (dTree != null)
 				fout.println(dTree.toString()+"\n");
 			else
 				System.err.println("No token in the tree "+(n+1)+"\n"+cTree.toStringLine());
 		}
-		
-		reader.close();
+
 		fout.close();
 		return n;
 	}
