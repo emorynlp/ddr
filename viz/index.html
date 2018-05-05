@@ -1,0 +1,76 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link href="css/ddr-viz.css" rel="stylesheet" media="screen"/>
+    <title>Dependency Visualization</title>
+</head>
+
+<body>
+<div align="center">
+    <h1>Dependency Visualization</h1>
+</div>
+
+<div id="css_canvas">
+    <canvas id="graph_canvas" height="2000"></canvas>
+</div>
+<br>
+
+<div align="center">
+    <button onclick="clickBackward();" style="width:55px;height:48px" type="button"><img src="img/backward.png" width="40" height="40"/></button>
+    <button onclick="clickPrevious();" style="width:55px;height:48px" type="button"><img src="img/previous.png" width="40" height="40"/></button>
+    <button onclick="clickNext();"     style="width:55px;height:48px" type="button"><img src="img/next.png"     width="40" height="40"/></button>
+    <button onclick="clickForward();"  style="width:55px;height:48px" type="button"><img src="img/forward.png"  width="40" height="40"/></button>
+</div>
+<br>
+
+<div id="css_input" align="center">
+<table><tr>
+<td>
+    <textarea id="input_text" style="width:700px;height:615px">
+1. Enter text or choose a file to insert text here.
+2. Click the process button on the left.
+3. Click the export button to convert the output as a png file.</textarea><br>
+</td>
+<td>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td style="vertical-align:top;">
+    <input  type="file"    onchange="readFile(this.files[0])"/><br><br>
+    <button type="submit"  onclick="initGraphs();"   style="width:110px;height:30px;font-family:Times;font-size:14px;">Process</button><br>
+    <button type="button"  onclick="exportCanvas();" style="width:110px;height:30px;font-family:Times;font-size:14px;">Export</button><br><br>
+    <select id="graph_ids" onchange="selectGraph();" style="width:110px;height:497px;" multiple="multiple"></select>
+</td>
+<td style="vertical-align:top;text-align:left;">
+    <h3>Control Panel</h3>
+    1 &#8672; Zoom &#8674; 4<br>
+    <input id="zoom_ratio" type="range" width="100" min="1" max="4" step="0.2" value="1" onchange="selectGraph()"><br><br>
+    <input type="radio" id="json_format" name="format" value="json" checked="checked"> JSON format<br>
+    <input type="radio" id="tsv_format" name="format" value="tsv"> TSV format<br><br>
+    <h3>Named Entities</h3>
+    &bull;&nbsp; <span style="color:#1E90FF;">Person</span><br>
+    &bull;&nbsp; <span style="color:#9ACD32;">Location</span><br>
+    &bull;&nbsp; <span style="color:#CD853F;">Organization</span><br>
+    &bull;&nbsp; <span style="color:#2E8B57;">Countries/Cities/States</span><br>
+    &bull;&nbsp; <span style="color:#FFA500;">National/Religious/Political Groups</span><br>
+    &bull;&nbsp; <span style="color:#B8860B;">Language</span><br>
+    &bull;&nbsp; <span style="color:#A52A2A;">Facility</span><br>
+    &bull;&nbsp; <span style="color:#FF7F50;">Product</span><br>
+    &bull;&nbsp; <span style="color:#6495ED;">Event</span><br>
+    &bull;&nbsp; <span style="color:#40E0D0;">Work of Art</span><br>
+    &bull;&nbsp; <span style="color:#B0C4DE;">Law</span><br>
+    &bull;&nbsp; <span style="color:#F08080;">Date</span><br>
+    &bull;&nbsp; <span style="color:#BDB76B;">Time</span><br>
+    &bull;&nbsp; <span style="color:#8FBC8F;">Percent</span><br>
+    &bull;&nbsp; <span style="color:#FF00FF;">Money</span><br>
+    &bull;&nbsp; <span style="color:#FF1493;">Quantity</span><br>
+    &bull;&nbsp; <span style="color:#8A2BE2;">Ordinal</span><br>
+    &bull;&nbsp; <span style="color:#9370DB;">Cardinal</span><br>
+</td>
+</tr></table>
+</div>
+
+<script type="text/javascript" src="js/jspdf.js"></script>
+<script type="text/javascript" src="js/ddr-viz.js"></script>
+<P class=copyright>&copy;2018 by <a href="https://elit.cloud" target="_" style="text-decoration: none;">ELIT</a>. All Rights Reserved.</P>
+</body>
+</html>

@@ -1,0 +1,23 @@
+#css_canvas {
+width: 98%;
+height: 500px;
+overflow: auto;
+margin-left: auto;
+margin-right: auto;
+border: solid 1px #BDBDBD;
+background-color: white;
+}
+
+#css_input {
+width: 98%;
+overflow: auto;
+margin-left: auto;
+margin-right: auto;
+border: solid 0 black;
+background-color: white;
+}
+
+.copyright {
+  font-size: smaller;
+  text-align: center
+}

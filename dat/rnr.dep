@@ -1,8 +1,0 @@
-1   I   I   PRP _   2   agent   _   O
-2   bought  buy VBD _   0   root    _   O
-3   tens    #crd#   NNS _   2   theme    _   U-CARDINAL
-4   of  of  IN  _   3   case    _   O
-5   or  or  CC  _   3   cc  _   O
-6   thousands   #crd#   NNS _   3   conj    _   U-CARDINAL
-7   of  of  IN  _   8   case    _   O
-8   books   book    NNS _   6   nmod    _   O
