@@ -88,5 +88,5 @@ const NAV = '\
 </nav>';
 
 
-const FOOTER = '<footer class="site-footer"><span class="site-footer-credits">&copy;'+new Date().getFullYear()+' by <a href="https://elit.cloud">ELIT</a>. All rights reserved.</span></footer>'
+const FOOTER = '<footer class="site-footer"><span class="site-footer-credits">&copy;2017-'+new Date().getFullYear()+' by <a href="http://nlp.mathcs.emory.edu/">Emory NLP</a>. All rights reserved.</span></footer>'
 
