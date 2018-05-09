@@ -4,14 +4,15 @@ This project provides resources for the Deep Dependency Representation (DDR) tha
 
 ## Resources
 
-* [DDG Conversion](https://github.com/elitcloud/elit-java/tree/master/elit-ddr).
+* [DDG Corpora](md/corpora.md).
 * [DDG Guidelines](https://emorynlp.github.io/ddr/doc).
+* [DDG Conversion](https://github.com/elitcloud/elit-java/tree/master/elit-ddr).
 * [DDG Visualization](https://emorynlp.github.io/ddr/viz).
 
 
 ## Citation
 
-* [Deep Dependency Graph Conversion in English](). Jinho D. Choi. In Proceedings of the 15th International Workshop on Treebanks and Linguistic Theories, TLT'17, 2017.
+* [Deep Dependency Graph Conversion in English](). Jinho D. Choi. In Proceedings of the 15th International Workshop on Treebanks and Linguistic Theories, TLT'17, 2017 ([slides](https://www.researchgate.net/publication/324950627_Deep_Dependency_Graph_Conversion_in_English)).
 
 ## References
 
@@ -22,4 +23,3 @@ This project provides resources for the Deep Dependency Representation (DDR) tha
 ## Acknowledgement
 
 We gratefully acknowledge the support from [Kyndi Inc](https://kyndi.com). Any contents in this material are those of the authors and do not necessarily reflect the views of Kyndi Inc.
-
