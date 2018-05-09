@@ -4,7 +4,6 @@ This project provides resources for the Deep Dependency Representation (DDR) tha
 
 ## Resources
 
-* [DDG Corpora](md/corpora.md).
 * [DDG Guidelines](https://emorynlp.github.io/ddr/doc).
 * [DDG Conversion](https://github.com/elitcloud/elit-java/tree/master/elit-ddr).
 * [DDG Visualization](https://emorynlp.github.io/ddr/viz).
@@ -17,8 +16,8 @@ This project provides resources for the Deep Dependency Representation (DDR) tha
 ## References
 
 * [Guidelines for the Clear Style Constituent to Dependency Conversion](http://nlp.mathcs.emory.edu/doc/cu-2012-choi.pdf). Jinho D. Choi and Martha Palmer. Technical Report 01-12, University of Colorado Boulder, 2012.
-* [Robust Constituent-to-Dependency Conversion for English](http://dspace.utlib.ee/dspace/bitstream/10062/15934/1/tlt9_submission_3.pdf). Jinho D. Choi and Martha Palmer. In Proceedings of the 9th International Workshop on Treebanks and Linguistic Theories, TLT'10, 2010.
-* [Retrieving Correct Semantic Boundaries in Dependency Structure](http://aclweb.org/anthology/W10-1811). Jinho D. Choi and Martha Palmer. In Proceedings of the 4th Linguistic Annotation Workshop, LAW'10, 2010.
+* [Robust Constituent-to-Dependency Conversion for English](http://dspace.utlib.ee/dspace/bitstream/10062/15934/1/tlt9_submission_3.pdf). Jinho D. Choi and Martha Palmer. In Proceedings of the 9th International Workshop on Treebanks and Linguistic Theories, TLT'10, 2010 ([slides](https://www.researchgate.net/publication/325035537_Robust_Constituent-to-Dependency_Conversion_for_English)).
+* [Retrieving Correct Semantic Boundaries in Dependency Structure](http://aclweb.org/anthology/W10-1811). Jinho D. Choi and Martha Palmer. In Proceedings of the 4th Linguistic Annotation Workshop, LAW'10, 2010 ([slides](https://www.researchgate.net/publication/228945511_Retrieving_Correct_Semantic_Boundaries_in_Dependency_Structure)).
 
 ## Acknowledgement
 
