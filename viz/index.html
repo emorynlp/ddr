@@ -27,10 +27,17 @@
 <table><tr>
 <td>
     <textarea id="input_text" style="width:700px;height:615px">
-1. Copy and paste deep dependency graphs in the TSV format:
-   e.g., https://github.com/elitcloud/elit-java/tree/master/elit-ddr/src/test/resources/conversion/english
-2. Click the process button on the right.
-3. Click the export button to convert the graph into a png file (works for Safari, Firefox).</textarea><br>
+1a. Copy and paste deep dependency graphs in the TSV format.  Sample files can be found here:
+https://github.com/elitcloud/elit-java/tree/master/elit-ddr/src/test/resources/conversion/english
+
+1b. Alternatively, you can select a TSV file by clicking the [File Selector] on the right.
+
+1c. The TSV format is described here:
+https://github.com/elitcloud/elit-java/tree/master/elit-ddr#format
+
+2. Click the [Process] button on the right.
+
+3. Click the [Export] button to convert the graph into a png file (works for Safari, Firefox).</textarea><br>
 </td>
 <td>
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -45,8 +52,8 @@
     <h3>Control Panel</h3>
     1 &#8672; Zoom &#8674; 4<br>
     <input id="zoom_ratio" type="range" width="100" min="1" max="4" step="0.2" value="1" onchange="selectGraph()"><br><br>
-    <input type="radio" id="json_format" name="format" value="json" checked="checked"> JSON format<br>
-    <input type="radio" id="tsv_format" name="format" value="tsv"> TSV format<br><br>
+    <input type="radio" id="tsv_format" name="format" value="tsv" checked="checked"> TSV format<br>
+    <input type="radio" id="json_format" name="format" value="json"> JSON format<br><br>
     <h3>Named Entities</h3>
     &bull;&nbsp; <span style="color:#1E90FF;">Person</span><br>
     &bull;&nbsp; <span style="color:#9ACD32;">Location</span><br>
